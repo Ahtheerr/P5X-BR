@@ -45,9 +45,41 @@ SP=PE
 Ailment=Aflição
 Nuke=Atômico
 All-Out Attack=Ataque Total
+Persona=Persona
+Personas=Personas
+*screech*=*grito*
+Moon Crystal=Cristal Lunar
+Konpaku Gem=Gema Konpaku
+Whiff of Iris=Aroma de íris
+Blue Crystal=Cristal Azul
+Skill Incense S=Incenso de Habilidade S
+Event Ends in: =Evento termina em: 
+{{A}} 5: The Phantom X={{A}} 5: The Phantom X
+Gold Ticket=Bilhete Dourado
+Platinum Milicoin=Milicoin de Platina
+4★ Weapon Case=Caixa de Armas 4★
+Navy Shoulder Bag=Bolsa de Ombro da Marinha
+Appealing Articles=Artigos Atraentes
+Edge of Encounter=Limite do Encontro
+Intersecting Fates=Destinos Cruzados
+Athleisure Outfit=Roupa de Atleta
+Platinum Tickets=Bilhetes de Platina
+Newcomer Contracts=Contratos de Novato
+Contracts=Contratos
+Meta Jewels=Meta Joias
+Soy=Soy
+Bicorn=Bicórnio
+Phantom Idol=Ídolo-Fantasma
+Cognition Crystals=Cristais Cognitivos
+Thieves' Alliance=Aliança dos Ladrões
+Levels=Níveis
+Level-Nível
+Converging Destinies=Destinos Convergentes
+
 
 SPRITES
 
+<sprite\=8 tint\=1>=<sprite\=8 tint\=1>
 <sprite\=60 tint\=1>=<sprite\=60 tint\=1>
 <sprite\=22 tint\=1>=<sprite\=22 tint\=1>
 <sprite\=76 tint\=1>=<sprite\=76 tint\=1>

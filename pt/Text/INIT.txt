@@ -65,3 +65,21 @@ Activate a <color\=#FF423F>1 More</color>.=Ative <color\=#FF423F>Mais 1 </color>
 When all foes are knocked down,\nyou can unleash an <color\=#FF423F>All-Out Attack</color>\nto deal heavy damage to all targets.=Quando todos os inimigos são derrubados,\nvocê pode liberar um <color\=#FF423F>Ataque Total</color> e causar\ndanos pesados ​​a todos os alvos.
 Return to Shibuya=Retorne a Shibuya
 Station Square=Praça da Estação
+Wingbeat Coin=Moeda Asa Avoada
+Obtainable from Daily Hoot-n-Loot. Can be exchanged for rewards in the shop.=Obtido do Hoot-N-Leot Diário.\nPode ser trocado por recompensas na loja.
+Currency=Moeda
+Konpaku Gem=Gema Konpaku
+Whiff of Iris=Aroma de íris
+Blue Crystal=Cristal Azul
+Skill Incense S=Incenso de Habilidade S
+All-Out {{A}}s=Ataques Totais
+Take the train to Zoshigaya=Pegue o trem para Zoshigaya
+Station=Estação
+Exchange=Trocar
+Notifications=Notificações
+Shopping=Compras
+In this gacha, the 4★ {{A}} Kotone Montagne is guaranteed.=Neste gacha, a Ladra-Fantasma 4★ Kotone Montagne é garantida.
+Left: 50/50=Restam: 50/50
+Newcomer {{A}}={{A}} de Novatos
+Bicorn=Bicórnio
+Soy=Soy
