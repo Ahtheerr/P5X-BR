@@ -1,0 +1,135 @@
+﻿Lv=Nv
+Logging in=Entrando
+Velvet Room=Sala de Veludo
+*chuckle*=*risada*
+*sigh*=*suspiro*
+Homeroom=Aula
+Change the point of view with the mouse.=Mova a câmera com o mouse.
+Drag the left mouse button to change the point of view.=Arraste o botão esquerdo do mouse para mover a câmera.
+Kokatsu Academy=Instituto Kokatsu
+Item/Talk Actions=Ações de Item/Conversa
+Go to 1F=Vá ao 1º Andar
+1F Hallway=Corredor do 1ºA
+2F Hallway=Corredor do 2ºA
+G<color\=#ff0000ff>o</color> to 1F=I<color\=#ff0000ff>r</color> ao 1ºA
+G<color\=#ff0000ff>o</color> to 2F=I<color\=#ff0000ff>r</color> ao 2ºA
+Hm?=Hm?
+Metaverse=Metaverso
+Huh!?=Hã?!
+Jump Down=Descer
+Jump Down=Subir
+Shadow=Sombra
+Shadows=Sombras
+*gasp*=*ofego*
+I am thou=Eu sou tu
+And thou art I=E tu és eu
+Phantom Thief=Ladrão-Fantasma
+Phantom Thieves=Ladrões-Fantasma
+Highlight=Destaque
+Thief Compendium Volume=Volume de Compêndio de Ladrão
+Anecdote Cube=Cubo de Anedota
+Mementos=Mementos
+Press <color\=#FF423F>Dash</color> to move faster.=Pressione <color\=#FF423F>Avanço</color> para se mover mais rápido.
+Deal Gun damage to 1 foe. Can fire until out of ammo.=Causa dano de Arma a um inimigo.\nPode disparar até acabar a munição.
+You can take another action after knocking down a foe.\nThis is known as a <color\=#FF423F>1 More</color>.=Você pode tomar outra ação depois de derrubar um inimigo.\nIsso é conhecido como um <color\=#FF423F>Mais 1</color>.
+1 More=Mais 1
+1 MORE=MAIS 1
+Silver Parts=Peças de Prata
+Grants 500 EXP to a weapon.=Concede 500 de EXP a uma arma.
+EXP =EXP 
+Status=Status
+Attack=Ataque
+Defense=Defesa
+HP=PV
+SP=PE
+Ailment=Aflição
+
+SPRITES
+
+<sprite\=60 tint\=1>=<sprite\=60 tint\=1>
+<sprite\=22 tint\=1>=<sprite\=22 tint\=1>
+<sprite\=76 tint\=1>=<sprite\=76 tint\=1>
+<sprite\=56 tint\=1>=<sprite\=56 tint\=1>
+<sprite\=55 tint\=1>=<sprite\=55 tint\=1>
+<sprite\=10 tint\=1>=<sprite\=10 tint\=1>
+<sprite\=0 tint\=1>=<sprite\=0 tint\=1>
+<sprite\=25 tint\=1>=<sprite\=25 tint\=1>
+<sprite\=0 tint\=1><sprite\=0 tint\=1>=<sprite\=0 tint\=1><sprite\=0 tint\=1>
+<sprite\=0 tint\=1><sprite\=1 tint\=1><sprite\=2 tint\=1><sprite\=3 tint\=1><sprite\=4 tint\=1>=<sprite\=0 tint\=1><sprite\=1 tint\=1><sprite\=2 tint\=1><sprite\=3 tint\=1><sprite\=4 tint\=1>
+<sprite\=1 tint\=1><sprite\=0 tint\=1><sprite\=0 tint\=1>=<sprite\=1 tint\=1><sprite\=0 tint\=1><sprite\=0 tint\=1>
+<sprite\=3 tint\=1><sprite\=9 tint\=1><sprite\=8 tint\=1><sprite\=2 tint\=1>=<sprite\=3 tint\=1><sprite\=9 tint\=1><sprite\=8 tint\=1><sprite\=2 tint\=1>
+<sprite\=2 tint\=1><sprite\=2 tint\=1>=<sprite\=2 tint\=1><sprite\=2 tint\=1>
+<sprite\=51 tint\=1><sprite\=54 tint\=1>=<sprite\=51 tint\=1><sprite\=54 tint\=1>
+<sprite\=4 tint\=1>=<sprite\=4 tint\=1>
+<sprite\=7 tint\=1>=<sprite\=7 tint\=1>
+<sprite\=2 tint\=1>=<sprite\=2 tint\=1>
+<sprite\=3 tint\=1>=<sprite\=3 tint\=1>
+<sprite\=6 tint\=1>=<sprite\=6 tint\=1>
+<sprite\=1 tint\=1>=<sprite\=1 tint\=1>
+<sprite\=4 tint\=1>=<sprite\=4 tint\=1>
+<sprite\=7 tint\=1>=<sprite\=7 tint\=1>
+<sprite\=2 tint\=1>=<sprite\=2 tint\=1>
+<sprite\=3 tint\=1>=<sprite\=3 tint\=1>
+<sprite\=6 tint\=1>=<sprite\=6 tint\=1>
+<sprite\=1 tint\=1>=<sprite\=1 tint\=1>
+{{A}}<sprite\=2 tint\=1>={{A}}<sprite\=2 tint\=1>
+<sprite\=2 tint\=1><sprite\=2 tint\=1>=<sprite\=2 tint\=1><sprite\=2 tint\=1>
+<sprite\=51 tint\=1><sprite\=54 tint\=1>=<sprite\=51 tint\=1><sprite\=54 tint\=1>
+<sprite\=1 tint\=1>{{A}}{{A}}=<sprite\=1 tint\=1>{{A}}{{A}}
+{{A}}<sprite\=1 tint\=1>={{A}}<sprite\=1 tint\=1>
+<sprite\=1 tint\=1><sprite\=9 tint\=1>=<sprite\=1 tint\=1><sprite\=9 tint\=1>
+<sprite\=2 tint\=1><sprite\=2 tint\=1>=<sprite\=2 tint\=1><sprite\=2 tint\=1>
+<sprite\=8 tint\=1>=<sprite\=8 tint\=1>
+<sprite\=9 tint\=1>=<sprite\=9 tint\=1>
+<sprite\=5 tint\=1>=<sprite\=5 tint\=1>
+<sprite\=29 tint\=1>=<sprite\=29 tint\=1>
+<sprite\=29 tint\=1>=<sprite\=29 tint\=1>
+<sprite\=25 tint\=1>=<sprite\=25 tint\=1>
+<sprite\=18 tint\=1>=<sprite\=18 tint\=1>
+<sprite\=63 tint\=1>=<sprite\=63 tint\=1>
+ tint\=1>= tint\=1>
+ {{A}}<sprite\=12{{C}}{{B}}={{A}}<sprite\=12{{C}}{{B}}
+ <sprite \= =<sprite \= 
+ TINT \= 1>= TINT \= 1>
+<sprite\=63 tint\=1>=<sprite\=63 tint\=1>
+Navigation=Navegação
+EXP+=EXP+
+CHOOSE=ESCOLHER
+ALL=TODOS
+BATTLE=BATALHA
+
+Select your <color\=#FF423F>target</color> for this skill.=Selecione seu <color\=#FF423F>alvo</color> para essa habilidade.
+
+
+
+SKILLS
+
+Highlight=Destaque
+Curse dmg to all foes. Gain 1 Will of Rebellion.=Dano de Maldição em todos os alvos. Ganha 1 Vontade da Rebelião.
+
+GACHA SHIT
+
+Cost: =Custo: 
+You have reached today's limit for Wandering Shadow rewards.=Você atingiu o limite de hoje para as recompensas de Sombras Errantes.
+
+NOMES
+
+Wonder=Wonder
+Jánošík=Jánošík
+Joker=Joker
+Strange Owl=Coruja Estranha
+Lufel=Lufel
+Woman Wearing Glasses=Mulher de Óculos
+Igor=Igor
+Long-Nosed Old Man=Velho de Nariz Longo
+Merope=Merope
+Ms. Katayama=Srta. Katayama
+Girl Called Arai=Garota Chamada Arai
+Girl in Front Row=Garota na Primeira Fileira
+Divine Justice=Justiça Divina
+Thin Female Student=Aluna Magra
+Keen-Eared Female Student=Aluna de Atenta
+Loud Female Student=Aluna Barulhenta
+Long-Haired Female Student=Aluna de Cabelos Compridos
+O<color\=#ff0000ff>u</color>tdoor Shoe Students=A<color\=#ff0000ff>l</color>uno de Sapatos de Rua
+C<color\=#ff0000ff>h</color>ange your shoes=T<color\=#ff0000ff>r</color>ocar seus sapatos
