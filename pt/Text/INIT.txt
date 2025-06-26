@@ -63,3 +63,5 @@ Tatra Shot=Disparo Tatra
 Owl Fire=Fogo da Coruja
 Activate a <color\=#FF423F>1 More</color>.=Ative <color\=#FF423F>Mais 1 </color>.
 When all foes are knocked down,\nyou can unleash an <color\=#FF423F>All-Out Attack</color>\nto deal heavy damage to all targets.=Quando todos os inimigos são derrubados,\nvocê pode liberar um <color\=#FF423F>Ataque Total</color> e causar\ndanos pesados ​​a todos os alvos.
+Return to Shibuya=Retorne a Shibuya
+Station Square=Praça da Estação
