@@ -46,3 +46,20 @@ Jump Up=Pular
 Jump Down=Descer
 Thief Compendium Volume=Volume de Compêndio de Ladrão
 Anecdote Cube=Cubo de Anedota
+Dark Whisper=Sussurro Sombrio
+<color\=#FF423F>Change</color> your battle commands.=<color\=#FF423F>Mude</color> seus comandos de batalha.
+Select <color\=#FF423F>Item</color>.=Selecione <color\=#FF423F>Item</color>.
+First-Aid Medicine=Primeiros Socorros
+Left: 10/10=Restam: 10/10
+Restores 150 {{A}} to 1 ally.=Restaura 150 {{A}} de 1 aliado.
+Charge=Carga
+<color\=#FF423F>Guard</color> to greatly decrease damage taken.=<color\=#FF423F>Guarda</color> diminui bastante o dano recebido.
+Select this <color\=#FF423F>skill</color>.=Selecione esta <color\=#FF423F>habilidade</color>.
+Bullet Time=Hora da Bala
+Seize the Day=Aproveite o Dia
+Gun dmg to 1 foe. Inflict Marked on foe.=Dano de Arma em 1 inimigo.\nCausa Marca no inimigo.
+Single-Target=Alvo Único
+Tatra Shot=Disparo Tatra
+Owl Fire=Fogo da Coruja
+Activate a <color\=#FF423F>1 More</color>.=Ative <color\=#FF423F>Mais 1 </color>.
+When all foes are knocked down,\nyou can unleash an <color\=#FF423F>All-Out Attack</color>\nto deal heavy damage to all targets.=Quando todos os inimigos são derrubados,\nvocê pode liberar um <color\=#FF423F>Ataque Total</color> e causar\ndanos pesados ​​a todos os alvos.

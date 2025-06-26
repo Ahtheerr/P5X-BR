@@ -156,5 +156,26 @@ Attack the selected enemy with your <color\=#FF423F>melee weapon</color>.=Ataque
 What are you fighting for? Channel that desire into power... and unleash it!=Por que você está lutando? Canalize esse\ndesejo no poder... e desencadeie ele!
 Each Phantom Thief has their own <color\=#FF423F>Highlight</color> skill,\nwhich can be used when the <color\=#FF423F>Highlight Gauge</color> is full.=Cada Ladrão-Fantasma tem o seu próprio <color\=#FF423F>Destaque</color> que\npode ser usado quando o <color\=#FF423F>Medidor de Destaque</color> está cheio.
 Finish this battle with a <color\=#FF423F>Highlight</color>.=Finalize essa batalha com um <color\=#FF423F>Destaque</color>.
-Persona...\n{{B}}... {{A}}s...?=Persona... {{B}} ... {{A}}s...?
-My head is still spinning...\nbut I should follow {{A}}\nfor now...=Minha cabeça ainda está girando...\nmas eu deveria seguir o {{A}} por enquanto ...
+Persona...\n{{B}}... {{A}}s...?=Persona... {{B}}... {{A}}s...?
+My head is still spinning...\nbut I should follow {{A}}\nfor now...=Minha cabeça ainda está girando...\nmas eu deveria seguir o {{A}} por enquanto...
+We're near the entrance.=Estamos perto da entrada.
+I know you're there... If you're trying to hide,\nyou're not doing a very good job of it.=Eu sei que você está aí... se está tentando se esconder, saiba que você é péssimo nisso.
+No... it's not him. He's not the one I\nwas sensing.=Não... não é ele.\nEle não é o que eu estava sentindo.
+But this area does seem to be linked to the source that stole your desire.=Mas essa área parece estar ligada ao que roubou seu desejo.
+Here?=Essa?
+What are you talking about?=Do que você tá falando?
+The {{A}} and the real world exist in parallel with each other. They're structurally linked, which means...=O {{A}} e o mundo real existem em paralelo entre si. Eles estão estruturalmente ligados, o que significa...
+...there's someone in the real world whose desires are being exploited, and their will to live stolen from them.=...Que tem alguém no mundo real cujos desejos estão sendo explorados e sua vontade de viver roubada.
+We can't let this stand.=Não podemos ficar parados.
+We'll take their desires back!=Vamos tomar seus desejos de volta!
+Hm...? Looks like that struck a chord with you, huh?=HM ...?\nParece que isso tocou com você, hein?
+This feeling... It appears we won't be able to take down this enemy easily.=Esse sentimento... parece que esse inimigo não vai ser tão fácil.
+Time to take on the mantle...=Hora de lidar com isso...
+Come forth, <color\=#FF423F>Robroy</color>!=Venha, <color\=#FF423F>Robroy</color>!
+It's only fair to warn you.\nYou're up against two beings who've lost everything.=Vou te avisar logo.\nVocê está enfrentando dois seres que perderam tudo.
+If you try to get in our way,\nwe will take everything from you...=Se você tentar atrapalhar, vamos tomar tudo de você...
+...and color your defeat in crimson red!=...e colorir sua derrota em vermelho carmesim!
+You took a hit! <color\=#FF423F>Heal</color> yourself!=Você foi atingido! Se <color\=#FF423F>cure</color>!
+It looks like they're packing a powerful\nwallop next! <color\=#FF423F>Defend</color> yourself!=Parece que ele tá preparando algo dos grandes! Se <color\=#FF423F>defenda</color>!
+Here's the pummeling I promised.=Aqui está a porradaria que eu prometi.
+Heed your desires!=Atenda os seus desejos!

@@ -44,6 +44,7 @@ HP=PV
 SP=PE
 Ailment=Aflição
 Nuke=Atômico
+All-Out Attack=Ataque Total
 
 SPRITES
 
@@ -93,6 +94,7 @@ SPRITES
  <sprite \= =<sprite \= 
  TINT \= 1>= TINT \= 1>
 <sprite\=63 tint\=1>=<sprite\=63 tint\=1>
+<sprite\==<sprite\=
 Navigation=Navegação
 EXP+=EXP+
 CHOOSE=ESCOLHER
