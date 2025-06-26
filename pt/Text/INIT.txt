@@ -74,6 +74,7 @@ Blue Crystal=Cristal Azul
 Skill Incense S=Incenso de Habilidade S
 All-Out {{A}}s=Ataques Totais
 Take the train to Zoshigaya=Pegue o trem para Zoshigaya
+Take the train to Zoshigaya=Pegue o trem para Zoshigaya
 Station=Estação
 Exchange=Trocar
 Notifications=Notificações
@@ -82,4 +83,7 @@ In this gacha, the 4★ {{A}} Kotone Montagne is guaranteed.=Neste gacha, a Ladr
 Left: 50/50=Restam: 50/50
 Newcomer {{A}}={{A}} de Novatos
 Bicorn=Bicórnio
-Soy=Soy
+G<color\=#ff0000ff>o</color> to your bedroom=I<color\=#ff0000ff>r</color> para o seu quarto
+Bedroom=Quarto
+S<color\=#ff0000ff>l</color>eep=D<color\=#ff0000ff>o</color>rmir
+Traces of Dreams=Traços de Sonhos

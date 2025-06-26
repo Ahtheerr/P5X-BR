@@ -77,9 +77,12 @@ Level-Nível
 Converging Destinies=Destinos Convergentes
 The Velvet Trials=As Provas de Veludo
 Trials from the Sea of Souls=Provas do Mar de Almas
+G<color\=#ff0000ff>o</color>=I<color\=#ff0000ff>r</color>
 
 SPRITES
 
+<sprite\==<sprite\=
+ tint\=1>= tint\=1>
 <sprite\=8 tint\=1>=<sprite\=8 tint\=1>
 <sprite\=60 tint\=1>=<sprite\=60 tint\=1>
 <sprite\=22 tint\=1>=<sprite\=22 tint\=1>
@@ -122,12 +125,11 @@ SPRITES
 <sprite\=25 tint\=1>=<sprite\=25 tint\=1>
 <sprite\=18 tint\=1>=<sprite\=18 tint\=1>
 <sprite\=63 tint\=1>=<sprite\=63 tint\=1>
- tint\=1>= tint\=1>
  {{A}}<sprite\=12{{C}}{{B}}={{A}}<sprite\=12{{C}}{{B}}
- <sprite \= =<sprite \= 
- TINT \= 1>= TINT \= 1>
 <sprite\=63 tint\=1>=<sprite\=63 tint\=1>
 <sprite\==<sprite\=
+
+
 Navigation=Navegação
 EXP+=EXP+
 CHOOSE=ESCOLHER
