@@ -179,3 +179,7 @@ You took a hit! <color\=#FF423F>Heal</color> yourself!=Você foi atingido! Se <c
 It looks like they're packing a powerful\nwallop next! <color\=#FF423F>Defend</color> yourself!=Parece que ele tá preparando algo dos grandes! Se <color\=#FF423F>defenda</color>!
 Here's the pummeling I promised.=Aqui está a porradaria que eu prometi.
 Heed your desires!=Atenda os seus desejos!
+Nicely done.=Ótimo trabalho.
+That was quite the coup de grace. Your skill in battle's left me flabbergasted.=Esse foi um belo golpe final.\nSua habilidade em batalha me deixou estupefato.
+Flabber...what?=Estupe... O quê?
+What did you say?=É o quê?
