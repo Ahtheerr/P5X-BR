@@ -1,2 +1,2 @@
 # P5X-BR
-Soft Translation of P5X
+Siga o tutorial no .TXT ou na aba Releases.
