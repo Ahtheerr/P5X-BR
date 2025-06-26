@@ -75,7 +75,8 @@ Thieves' Alliance=Aliança dos Ladrões
 Levels=Níveis
 Level-Nível
 Converging Destinies=Destinos Convergentes
-
+The Velvet Trials=As Provas de Veludo
+Trials from the Sea of Souls=Provas do Mar de Almas
 
 SPRITES
 
