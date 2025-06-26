@@ -88,3 +88,8 @@ Bedroom=Quarto
 S<color\=#ff0000ff>l</color>eep=D<color\=#ff0000ff>o</color>rmir
 Traces of Dreams=Traços de Sonhos
 Switched to Gamepad Mode.=Mudou para o modo Gamepad.
+Thief Compendium Tome=Tomo de Compêndio do Ladrão
+Learn to craft more infiltration items.=Aprenda a criar mais itens de infiltração.
+<size\=56><sprite\=105 tint\=1></size> View <color\=#FF423F>rewards</color>.=<size\=56><sprite\=105 tint\=1></size> Visualizar <color\=#FF423F>recompensas</color>.
+CV:=VA:
+Living Room=Sala de Estar

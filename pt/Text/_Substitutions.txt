@@ -78,11 +78,16 @@ Converging Destinies=Destinos Convergentes
 The Velvet Trials=As Provas de Veludo
 Trials from the Sea of Souls=Provas do Mar de Almas
 G<color\=#ff0000ff>o</color>=I<color\=#ff0000ff>r</color>
+Synergy Ability=Habilidade de Sinergia
+Party=Grupo
+Leon=Leon
+Leo Kamiyama=Leo Kamiyama
 
 SPRITES
 
 <sprite\==<sprite\=
  tint\=1>= tint\=1>
+<sprite\=8 tint\=1>=<sprite\=8 tint\=1>
 
 
 Navigation=Navegação
