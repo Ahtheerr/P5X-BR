@@ -43,6 +43,7 @@ Defense=Defesa
 HP=PV
 SP=PE
 Ailment=Aflição
+Nuke=Atômico
 
 SPRITES
 
