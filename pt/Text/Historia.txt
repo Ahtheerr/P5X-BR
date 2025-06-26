@@ -265,3 +265,20 @@ With that... {{A}}, please offer our guest\nyour support. You understand your\na
 I will act as your <color\=#FF423F>concierge</color>. Please call\nme Merope.=Irei agir como sua <color\=#FF423F>secretária</color>. Por favor, me chame de Merope.
 That is all for this evening.=Isso é tudo para esta noite.
 We look forward to seeing you again.\n{{A}}=Estamos ansiosos para vê-lo novamente.\n{{A}}
+I feel something on\nmy forehead...=Eu sinto algo na minha testa...
+Good morning.=Bom dia.
+Good morning...=Bom dia...
+What are you doing here?=O que você tá fazendo aqui?
+Hoohm, greetings. You're quite congenial for\nthe morning. Sorry to pester you first thing,\nbut I have something to report.=Hoohm, Saudações. Você é bem agradável pela manhã. Desculpe incomodá-lo tão cedo, mas tenho algo a relatar.
+Now, I will answer all of your questions as\npromised. Then I would like to speak in more\ndetail about the job I have for you.=Agora, responderei a todas as suas perguntas, conforme prometido. Então eu gostaria de falar com mais detalhes sobre o trabalho que tenho para você.
+That alarm indicates that the time for your\nattendance at school is drawing closer, yes?=Esse alarme indica que o tempo para sua participação na escola está se aproximando, sim?
+Given your responsibilities as a student, I\nwould be remiss to inhibit your desire\nto learn...=Dadas suas responsabilidades como estudante, eu seria negligente para inibir seu desejo de aprender...
+In that case... Hoomm... I will drop by the\nschool during your midday comestible period.=Nesse caso... Hoomm... vou passar pela escola durante o seu período comestível do meio-dia.
+My what?=Meu o quê?
+What's a crumb festival?=O que é um cone estivo?
+Wha—!? You don't understand?=O quê-?!\nVocê não entende?
+Comestibles are food. I am referring to your\nafternoon meal break. Do humans no longer\nuse that word...?=Comestíveis são comida. Estou me referindo ao seu intervalo de refeição da tarde. Os humanos não usam mais essa palavra ...?
+Spending time with {{A}},\nI feel hope rising within me...=Passando tempo com o {{A}}, sinto a esperança crescer dentro de mim...
+It's a Deal=Trato Feito
+{{A}}'s "Business" Plan will update occasionally=O plano de "Negócios" de {{A}} será atualizado ocasionalmente
+That being said, the state of your room\nleaves much to be desired.=Dito isso, o estado do seu quarto deixa muito a desejar.

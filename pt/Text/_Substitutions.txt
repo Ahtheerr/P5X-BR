@@ -83,51 +83,6 @@ SPRITES
 
 <sprite\==<sprite\=
  tint\=1>= tint\=1>
-<sprite\=8 tint\=1>=<sprite\=8 tint\=1>
-<sprite\=60 tint\=1>=<sprite\=60 tint\=1>
-<sprite\=22 tint\=1>=<sprite\=22 tint\=1>
-<sprite\=76 tint\=1>=<sprite\=76 tint\=1>
-<sprite\=56 tint\=1>=<sprite\=56 tint\=1>
-<sprite\=55 tint\=1>=<sprite\=55 tint\=1>
-<sprite\=10 tint\=1>=<sprite\=10 tint\=1>
-<sprite\=0 tint\=1>=<sprite\=0 tint\=1>
-<sprite\=25 tint\=1>=<sprite\=25 tint\=1>
-<sprite\=0 tint\=1><sprite\=0 tint\=1>=<sprite\=0 tint\=1><sprite\=0 tint\=1>
-<sprite\=0 tint\=1><sprite\=1 tint\=1><sprite\=2 tint\=1><sprite\=3 tint\=1><sprite\=4 tint\=1>=<sprite\=0 tint\=1><sprite\=1 tint\=1><sprite\=2 tint\=1><sprite\=3 tint\=1><sprite\=4 tint\=1>
-<sprite\=1 tint\=1><sprite\=0 tint\=1><sprite\=0 tint\=1>=<sprite\=1 tint\=1><sprite\=0 tint\=1><sprite\=0 tint\=1>
-<sprite\=3 tint\=1><sprite\=9 tint\=1><sprite\=8 tint\=1><sprite\=2 tint\=1>=<sprite\=3 tint\=1><sprite\=9 tint\=1><sprite\=8 tint\=1><sprite\=2 tint\=1>
-<sprite\=2 tint\=1><sprite\=2 tint\=1>=<sprite\=2 tint\=1><sprite\=2 tint\=1>
-<sprite\=51 tint\=1><sprite\=54 tint\=1>=<sprite\=51 tint\=1><sprite\=54 tint\=1>
-<sprite\=4 tint\=1>=<sprite\=4 tint\=1>
-<sprite\=7 tint\=1>=<sprite\=7 tint\=1>
-<sprite\=2 tint\=1>=<sprite\=2 tint\=1>
-<sprite\=3 tint\=1>=<sprite\=3 tint\=1>
-<sprite\=6 tint\=1>=<sprite\=6 tint\=1>
-<sprite\=1 tint\=1>=<sprite\=1 tint\=1>
-<sprite\=4 tint\=1>=<sprite\=4 tint\=1>
-<sprite\=7 tint\=1>=<sprite\=7 tint\=1>
-<sprite\=2 tint\=1>=<sprite\=2 tint\=1>
-<sprite\=3 tint\=1>=<sprite\=3 tint\=1>
-<sprite\=6 tint\=1>=<sprite\=6 tint\=1>
-<sprite\=1 tint\=1>=<sprite\=1 tint\=1>
-{{A}}<sprite\=2 tint\=1>={{A}}<sprite\=2 tint\=1>
-<sprite\=2 tint\=1><sprite\=2 tint\=1>=<sprite\=2 tint\=1><sprite\=2 tint\=1>
-<sprite\=51 tint\=1><sprite\=54 tint\=1>=<sprite\=51 tint\=1><sprite\=54 tint\=1>
-<sprite\=1 tint\=1>{{A}}{{A}}=<sprite\=1 tint\=1>{{A}}{{A}}
-{{A}}<sprite\=1 tint\=1>={{A}}<sprite\=1 tint\=1>
-<sprite\=1 tint\=1><sprite\=9 tint\=1>=<sprite\=1 tint\=1><sprite\=9 tint\=1>
-<sprite\=2 tint\=1><sprite\=2 tint\=1>=<sprite\=2 tint\=1><sprite\=2 tint\=1>
-<sprite\=8 tint\=1>=<sprite\=8 tint\=1>
-<sprite\=9 tint\=1>=<sprite\=9 tint\=1>
-<sprite\=5 tint\=1>=<sprite\=5 tint\=1>
-<sprite\=29 tint\=1>=<sprite\=29 tint\=1>
-<sprite\=29 tint\=1>=<sprite\=29 tint\=1>
-<sprite\=25 tint\=1>=<sprite\=25 tint\=1>
-<sprite\=18 tint\=1>=<sprite\=18 tint\=1>
-<sprite\=63 tint\=1>=<sprite\=63 tint\=1>
- {{A}}<sprite\=12{{C}}{{B}}={{A}}<sprite\=12{{C}}{{B}}
-<sprite\=63 tint\=1>=<sprite\=63 tint\=1>
-<sprite\==<sprite\=
 
 
 Navigation=Navegação

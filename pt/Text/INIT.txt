@@ -87,3 +87,4 @@ G<color\=#ff0000ff>o</color> to your bedroom=I<color\=#ff0000ff>r</color> para o
 Bedroom=Quarto
 S<color\=#ff0000ff>l</color>eep=D<color\=#ff0000ff>o</color>rmir
 Traces of Dreams=Traços de Sonhos
+Switched to Gamepad Mode.=Mudou para o modo Gamepad.
