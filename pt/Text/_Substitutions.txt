@@ -1,4 +1,4 @@
-﻿Lv=Nv
+Lv=Nv
 Logging in=Entrando
 Velvet Room=Sala de Veludo
 *chuckle*=*risada*
@@ -36,7 +36,7 @@ You can take another action after knocking down a foe.\nThis is known as a <colo
 1 MORE=MAIS 1
 Silver Parts=Peças de Prata
 Grants 500 EXP to a weapon.=Concede 500 de EXP a uma arma.
-EXP =EXP 
+EXP=EXP
 Status=Status
 Attack=Ataque
 Defense=Defesa
@@ -53,7 +53,7 @@ Konpaku Gem=Gema Konpaku
 Whiff of Iris=Aroma de íris
 Blue Crystal=Cristal Azul
 Skill Incense S=Incenso de Habilidade S
-Event Ends in: =Evento termina em: 
+Event Ends in:=Evento termina em:
 {{A}} 5: The Phantom X={{A}} 5: The Phantom X
 Gold Ticket=Bilhete Dourado
 Platinum Milicoin=Milicoin de Platina
@@ -73,7 +73,7 @@ Phantom Idol=Ídolo-Fantasma
 Cognition Crystals=Cristais Cognitivos
 Thieves' Alliance=Aliança dos Ladrões
 Levels=Níveis
-Level-Nível
+Level-Nível=
 Converging Destinies=Destinos Convergentes
 The Velvet Trials=As Provas de Veludo
 Trials from the Sea of Souls=Provas do Mar de Almas
@@ -82,36 +82,23 @@ Synergy Ability=Habilidade de Sinergia
 Party=Grupo
 Leon=Leon
 Leo Kamiyama=Leo Kamiyama
-
-SPRITES
-
+SPRITES=
 <sprite\==<sprite\=
- tint\=1>= tint\=1>
+tint\=1>=tint\=1>
 <sprite\=8 tint\=1>=<sprite\=8 tint\=1>
-
-
 Navigation=Navegação
 EXP+=EXP+
 CHOOSE=ESCOLHER
 ALL=TODOS
 BATTLE=BATALHA
-
 Select your <color\=#FF423F>target</color> for this skill.=Selecione seu <color\=#FF423F>alvo</color> para essa habilidade.
-
-
-
-SKILLS
-
+SKILLS=
 Highlight=Destaque
 Curse dmg to all foes. Gain 1 Will of Rebellion.=Dano de Maldição em todos os alvos. Ganha 1 Vontade da Rebelião.
-
-GACHA SHIT
-
-Cost: =Custo: 
+GACHA SHIT=
+Cost:=Custo:
 You have reached today's limit for Wandering Shadow rewards.=Você atingiu o limite de hoje para as recompensas de Sombras Errantes.
-
-NOMES
-
+NOMES=
 Wonder=Wonder
 Jánošík=Jánošík
 Joker=Joker
@@ -131,3 +118,4 @@ Loud Female Student=Aluna Barulhenta
 Long-Haired Female Student=Aluna de Cabelos Compridos
 O<color\=#ff0000ff>u</color>tdoor Shoe Students=A<color\=#ff0000ff>l</color>uno de Sapatos de Rua
 C<color\=#ff0000ff>h</color>ange your shoes=T<color\=#ff0000ff>r</color>ocar seus sapatos
+Kokatsu Academy=Instituto Kokatsu
