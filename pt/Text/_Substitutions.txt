@@ -95,6 +95,10 @@ Leon=Leon
 Leo Kamiyama=Leo Kamiyama
 party=grupo
 Left: =Restam: 
+Ice Princess=Princesa de Gelo
+Menace=Ameaça
+Duo=Duo
+Palace=Palácio
 
 SPRITES
 

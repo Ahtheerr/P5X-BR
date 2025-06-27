@@ -97,3 +97,6 @@ Owl Green=Coruja Verde
 Healing Satellite=Satélite de Cura
 You can sign contracts to recruit more {{A}}s=Você pode assinar contratos para recrutar mais {{A}}s
 The Road to Stardom=O Caminho Para o Estrelato
+Ice Princess=Princesa de Gelo
+Main Stadium Entrance=Entrada Principal do Estádio
+Go to the main gate of the Baseball Stadium=Vá ao portão principal do Estádio de Beisebol
