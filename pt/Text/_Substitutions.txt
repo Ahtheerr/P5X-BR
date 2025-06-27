@@ -1,4 +1,7 @@
 ﻿Lv=Nv
+Meta Jewels=Meta Joias
+Attack Boost=Impulso de Ataque
+Life Aid=Socorro de Vida
 Proficiency=Proficiência
 code name=codinome
 Code name=Codinome
@@ -78,7 +81,6 @@ Athleisure Outfit=Roupa de Atleta
 Platinum Tickets=Bilhetes de Platina
 Newcomer Contracts=Contratos de Novato
 Contracts=Contratos
-Meta Jewels=Meta Joias
 Soy=Soy
 Bicorn=Bicórnio
 Phantom Idol=Ídolo-Fantasma
@@ -118,6 +120,7 @@ SPRITES
 
 Phantom Pass=Passe-Fantasma
 EXP+=EXP+
+Psy dmg=Dano Psicocinético
 CHOOSE=ESCOLHER
 ALL=TODOS
 BATTLE=BATALHA

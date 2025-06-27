@@ -119,6 +119,7 @@ Camel Spin=Giro de Camelo
 Let's Hold Hands=Vamos Dar as Mãos
 Legend Cube=Cubo da Lenda
 Gold Parts=Peças de Ouro
+Coffee Aid=Café de Socorro
 Clear Cognigem=Cognigema Limpa
 Grappling Hook=Gancho de Agarre
 Go to bed=Vá para cama
@@ -132,3 +133,40 @@ Please follow the instructions.=Por favor, siga as instruções
 Phantom Pass=Passe-Fantasma
 Complete the {{A}} to earn various rewards.=Complete o {{A}} para ganhar diversas recompensas.
 Tap screen to close.=Toque na tela para fechar.
+Select Goals to view\nthe <color\=#FF423F>Phantom Pass</color> screen.=Selecione Objetivos para ver\na tela do <color\=#FF423F>Passe-Fantasma</color>.\n
+Loading...=Carregando...\n
+This game is intended for mature audiences.=Este jogo é para audiências maduras.\n
+Tap screen to return.=Toque na tela para voltar.\n
+A new {{A}} has been unlocked.=Um novo {{A}} foi liberado.\n
+Unlock <color\=#FFE500>premium rewards</color>\nand instantly get <color\=#FFE500>650</color> {{A}}!=Desbloqueie <color\=#FFE500>recompensas premium</color>\ne receba instantâneamente <color\=#FFE500>650</color> {{A}}!
+Money=Dinheiro
+MaraThon Energy=Energia de Montão
+Use your Grappling Hook=Use seu Gancho!\n
+Use your <color\=#FF423F>Grappling Hook</color>.=Use seu\n<color\=#FF423F>Gancho de Agarre</color>.
+Using the Grappling Hook=Usando o Gancho de Agarre\n
+Enter the {{A}} interior=Entre no {{A}}.\n
+Proceed=Prosseguir\n
+The root cause?=A raiz de tudo?\n
+An item?=Um item?\n
+Protagonist's Level=Nível do Protagonista\n
+Stadium of Glory=Estádio da Glória\n
+Progress further=Avance\n
+Pass Experience Credit=Crédito de Experiência de Passe
+Exhibition Hall 1F=Hall de Exposições 1º Andar\n
+Open Door=Abrir Porta\n
+Try to catch {{A}}s off guard and get\nthe first strike!=Pegue as {{A}}s de surpresa e acerte o primeiro golpe!\n
+HIGHLIGHT=DESTAQUE\n
+Start by targeting their weak points!=Primeiro, mire nos pontos fracos deles!\n
+Daeira=Daeira\n
+Surprise Squad=Esquadrão Surpresa\n
+Ready for Adventure=Pronta Para a Aventura!\n
+Courageous Campaign=Campanha Corajosa
+{{B}} to 1 foe. Grant Affection to {{A}} (1 turn).={{B}} em 1 inimigo. Aumenta o Afeto com {{A}} (1 turno).\n
+All <color\=#FF423F>attacks</color> have a damage attribute.=Todos <color\=#FF423F>Ataques</color> tem um atributo de dano.\n
+When you see <color\=#FF423F>WEAK</color>, you can hit the enemy's weakness.=Quando você vir <color\=#FF423F>FRACO</color>, você achou a fraqueza do inimigo.\n
+Treasure Chest=Baú do Tesouro\n
+Thief Compendium Scrap=Rascunho do Compêndio de Ladrões\n
+Metal Parts=Partes Metálicas\n
+Memory Cube=Cubo de Memórias\n
+A<color\=#000000>f</color>fection=A<color\=#000000>f</color>eto\n
+S<color\=#ff0000ff>a</color>fe Room=S<color\=#ff0000ff>a</color>la Segura\n
