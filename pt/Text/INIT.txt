@@ -93,3 +93,7 @@ Learn to craft more infiltration items.=Aprenda a criar mais itens de infiltraç
 <size\=56><sprite\=105 tint\=1></size> View <color\=#FF423F>rewards</color>.=<size\=56><sprite\=105 tint\=1></size> Visualizar <color\=#FF423F>recompensas</color>.
 CV:=VA:
 Living Room=Sala de Estar
+Owl Green=Coruja Verde
+Healing Satellite=Satélite de Cura
+You can sign contracts to recruit more {{A}}s=Você pode assinar contratos para recrutar mais {{A}}s
+The Road to Stardom=O Caminho Para o Estrelato

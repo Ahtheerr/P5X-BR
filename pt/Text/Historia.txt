@@ -282,15 +282,4 @@ Spending time with {{A}},\nI feel hope rising within me...=Passando tempo com o 
 It's a Deal=Trato Feito
 {{A}}'s "Business" Plan will update occasionally=O plano de "Negócios" de {{A}} será atualizado ocasionalmente
 That being said, the state of your room\nleaves much to be desired.=Dito isso, o estado do seu quarto deixa muito a desejar.
-...Is that you, Cleber-chan?=...É você, Cleber-chan?
-Uh, yeah...=Hã, é...
-Sorry, ma'am, who are you?=Desculpa, senhora, quem é você?
-Listen to you, sounding all grown up\nand everything.=Olha pra você. parecendo todo crescido e tudo.
-And look how handsome you've become!=E veja como você ficou bonito!
-You don't remember me? <color\=#FF423F>Kayo Tomiyama</color>?\nOur families would get together and have\ndinner every now and then.=Você não se lembra de mim? <color\=#FF423F>Kayo Tomiyama</color>?\nNossas famílias se reuniam e jantavam de vez em quando.
-I'm your neighbor. Wow, you've really grown\nup since the last time I saw you. I've seen\nyour mom a few times here and there.=Eu sou sua vizinha. Uau, você realmente cresceu desde a última vez que te vi. Eu já vi sua mãe algumas vezes aqui e ali.
-Oh sorry, are you on your way to school\nright now? That's the uniform for <color\=#FF423F>Kokatsu\nAcademy</color>, isn't it?=Ah, desculpe, você está no seu caminho para a escola agora? Esse é o uniforme do <color\=#FF423F>Instituto Kokatsu</color>, não é?
-Oh dear, I've got to get my hubby's\nbreakfast started. See you later, hon!=Minha nossa, eu tenho que fazer o café da manhã do meu marido. Vejo você mais tarde, querido!
-The train will be arriving shortly. Please wait behind the yellow line.=O trem chegará em breve.\nPor favor, espere atrás da linha amarela.
-There is a gap between the train and the platform. Please watch your step.=Há uma lacuna entre o trem e a plataforma.\nPor favor, observe seus passos.
-That guy over there...=Aquele cara ali...
+Follow my lead!=Sigam-me os bons!
