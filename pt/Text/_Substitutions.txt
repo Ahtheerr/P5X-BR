@@ -116,12 +116,28 @@ SPRITES
 <sprite\=8 tint\=1>=<sprite\=8 tint\=1>
 
 
-Navigation=Navegação
+Phantom Pass=Passe-Fantasma
 EXP+=EXP+
 CHOOSE=ESCOLHER
 ALL=TODOS
 BATTLE=BATALHA
-Royal Saber=Sabe Real
+Increase Attack by=Aumenta Ataque em
+Royal Saber=Sabre Real
+Ann Only=Apenas Ann
+Kotone Only=Apenas Kotone
+Motoha Only=Apenas Motoha
+Phantom Idol EXP Credit=Crédito de EXP de Ídolo-Fantasma
+Stamina=Vigor
+Action Points=Pontos de Ação
+Schema Points=Pontos de Esquema
+Wild Coin S=Moeda Selvagem S
+Swinging Hammer=Martelo Oscilante
+Basic Tonfa=Tonfa Básica
+Brave Lance=Lança da Bravura
+Rapier=Rapieira
+Cavalry Saber=Sabre de Cavalaria
+Damascus Knife=Faca de Damasco
+Lufel Only=Apenas Lufel
 Spike Whip=Chicote Espinhoso
 Forest Sage=Sábio da Floresta
 
