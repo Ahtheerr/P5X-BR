@@ -1,4 +1,5 @@
 ﻿Lv=Nv
+Proficiency=Proficiência
 code name=codinome
 Code name=Codinome
 Metaverse Navigator=Navegador do Metaverso
@@ -98,7 +99,15 @@ Left: =Restam:
 Ice Princess=Princesa de Gelo
 Menace=Ameaça
 Duo=Duo
+
 Palace=Palácio
+
+I feel my bond with=Sinto meu vínculo com
+growing deeper...=se aprofundando...
+Riddle=Riddle
+Closer=Closer
+Fleuret=Fleuret
+Craft a=Crie
 
 SPRITES
 
