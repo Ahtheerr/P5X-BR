@@ -185,3 +185,17 @@ Fatal Knife=Faca Fatal
 Weapons=Armas
 Enhance and modify your weapons to unleash even greater power.=Aprimore e modifique suas armas para liberar um poder ainda maior.
 Open the <color\=#FF423F>phone menu</color>.=Abra o <color\=#FF423F>Menu do Celular</color>.
+A<color\=#000000>t</color>tack Up=A<color\=#000000>t</color>aque +
+R<color\=#000000>e</color>tro Dance Number=N<color\=#000000>ú</color>mero de Dança Retrô
+R<color\=#000000>e</color>ady for Adventure=P<color\=#000000>r</color>onto Para Aventura
+M<color\=#000000>y</color>stery=M<color\=#000000>i</color>stério
+M<color\=#000000>a</color>rk=M<color\=#000000>a</color>rca
+Activated La Vie en Rose!=LA Vie en Rose ativado!
+L<color\=#000000>a</color> Vie en Rose=L<color\=#000000>a</color> Vie en rose
+Crimson Rose=Rosa Carmesim
+Trifire=Trifogo
+Falling Sun=Sol em Queda
+C<color\=#000000>r</color>imson Rose=R<color\=#000000>o</color>sa Carmesim
+I<color\=#000000>c</color>e Crystal=C<color\=#000000>r</color>istal de Gelo
+C<color\=#000000>o</color>urageous Campaign=C<color\=#000000>a</color>mpanha Corajosa
+B<color\=#000000>l</color>essing=B<color\=#000000>ê</color>nção
