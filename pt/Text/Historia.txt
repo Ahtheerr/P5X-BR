@@ -2225,7 +2225,6 @@ For access to the guide, please consult\nthe administrative staff.=Para acessar 
 It seems like we got the order wrong.=Parece que erramos a ordem.
 F0r acCeSs to thththe guide, please cons-slt\nthe admini#%^ staff...=PaRa acesSsar ooo guia, por favo-or, consu-lte\na equipe admi#%^...
 Hoom? This looks promising!=Hum? Isso parece promissor!
-Hoom? This looks promising!=Hum? Isso parece promissor!
 We have the order wrong. Hm, wasn't that\nShadow over there an administrator?=Erramos a ordem. Hm, aquela\nSombra ali não era um administrador?
 Hm, maybe we got the order wrong?=Hm, talvez a gente tenha errado a ordem?
 What did the Shadow say again...?\n<color\=#FF423F>3, 1, 3, 2, 0</color>?=O que a Sombra disse mesmo...?\n<color\=#FF423F>3, 1, 3, 2, 0</color>?
@@ -2233,9 +2232,9 @@ Configuration complete. Access to the guide\nis now restricted.=Configuração c
 Hey, where are you going?=Ei, onde você está indo?
 You know we can't go through the front\nentrance. We need a different way in.=Você sabe que não podemos entrar pela entrada\nprincipal. Precisamos de um caminho diferente.
 Uh, what's this?=Uh, o que é isso?
-This is... a <color\=#FF423F>Palace map</color>.=Isto é... um <color\=#FF423F>mapa do Palácio</color>.
+This is... a <color\=#FF423F>{{A}} map</color>.=Isto é... um <color\=#FF423F>mapa do {{A}}</color>.
 So we can just find out where the treasure\nis by looking at this?=Então podemos descobrir onde o tesouro\nestá só olhando para isso?
-It's not that simple, I'm afraid. This map\nshows only one section of the Palace.=Não é tão simples, receio. Este mapa\nmostra apenas uma seção do Palácio.
+It's not that simple, I'm afraid. This map\nshows only one section of the {{A}}.=Não é tão simples, receio. Este mapa\nmostra apenas uma seção do {{A}}.
 Should've known it wouldn't be that easy...\nBut, we can use this to tell where we\nhaven't been yet, right?=Deveria saber que não seria tão fácil...\nMas, podemos usar isso para saber onde ainda\nnão estivemos, certo?
 Hoom, indeed. However... there are some areas\nthat we cannot reach. For now, let us keep\nmoving forward.=Hum, de fato. No entanto... há algumas áreas\nque não podemos alcançar. Por enquanto, vamos\ncontinuar avançando.
 Oh, what is this?=Oh, o que é isso?
@@ -2243,7 +2242,7 @@ Whoa, it's a card with Kiuchi on it!=Uau, é um cartão com o Kiuchi!
 I guess it's a kind of <color\=#FF423F>fan card</color>, like for\na pro baseball player's fan club?=Acho que é um tipo de <color\=#FF423F>cartão de fã</color>, tipo para\no fã-clube de um jogador de beisebol profissional?
 Then I take it that the big <color\=#FF423F>C</color> on it means\nit's for <color\=#FF423F>C-tier</color> fans?=Então eu entendo que o grande <color\=#FF423F>C</color> nele significa\nque é para fãs da <color\=#FF423F>categoria C</color>?
 We might be able to use this to get into\nareas we couldn't access before!=Talvez possamos usar isso para entrar em\náreas que antes não conseguíamos acessar!
-While exploring every nook and cranny\nof the Palace is important, stealing the\nTreasure is still our first priority.=Enquanto explorar cada canto e recanto\ndo Palácio é importante, roubar o\nTesouro ainda é nossa primeira prioridade.
+While exploring every nook and cranny\nof the {{A}} is important, stealing the\nTreasure is still our first priority.=Enquanto explorar cada canto e recanto\ndo {{A}} é importante, roubar o\nTesouro ainda é nossa primeira prioridade.
 It would seem that the <color\=#FF423F>elevator</color> we passed\nearlier will bring us closer to the Treasure.=Parece que o <color\=#FF423F>elevador</color> que passamos\nanteriormente nos levará para mais perto do Tesouro.
 But the elevator wasn't working...=Mas o elevador não estava funcionando...
 No matter. If my suspicions are correct,\nwe just need to take this mechanism here...=Não importa. Se minhas suspeitas estiverem corretas,\nsó precisamos pegar este mecanismo aqui...
@@ -2255,10 +2254,10 @@ The training area is currently closed.=A área de treinamento está atualmente f
 Please use the <color\=#FF423F>southern gym</color> instead.=Por favor, use a <color\=#FF423F>academia sul</color>.
 You're the intruders? Well you're not getting\npast this base. Not with me to guard it!=Vocês são os intrusos? Bem, vocês não vão passar\npor esta base. Não comigo para guardá-la!
 The elevator is now operating.=O elevador está operando agora.
-We should be able to activate the elevator\nfrom the room ahead, but that Shadow looks\nrather formidable...=Deveríamos conseguir ativar o elevador\na partir da sala à frente, mas aquela Sombra parece\nbastante formidável...
+We should be able to activate the elevator\nfrom the room ahead, but that {{A}} looks\nrather formidable...=Deveríamos conseguir ativar o elevador\na partir da sala à frente, mas aquela {{A}} parece\nbastante formidável...
 Looks pretty tough! Better get ready first.=Parece bem forte! Melhor se preparar primeiro.
 Indeed. Better to form an attack plan before\napproaching it.=De fato. Melhor formar um plano de ataque antes de\nse aproximar.
-At Kiuchi-sama's recommendation, today's\nexercise will focus on core strength.=Por recomendação de Kiuchi-sama, o exercício de hoje\nfocará na força do core.
+At Kiuchi-sama's recommendation, today's\nexercise will focus on core strength.=Por recomendação de Kiuchi-sama, o exercício de hoje focará na força do core.
 Please push the equipment box onto\nthe plate marked with the emblem.=Por favor, empurre a caixa de equipamento sobre\na placa marcada com o emblema.
 Okay, that's that then!=Ok, resolvido!
 Huh? I didn't say "do chores," I said to do\ncore training exercises!=Hã? Não disse "faça as tarefas", disse para fazer\nexercícios de fortalecimento do core!
@@ -2266,7 +2265,7 @@ Hey, wasn't that Kiuchi's voice just now?=Ei, essa não era a voz do Kiuchi agor
 There, you got some core training in, right?\nSo now you can help me with my routine!=Pronto, você fez algum treinamento de core, certo?\nEntão agora pode me ajudar com minha rotina!
 ...What? You've got your own training to do?=...O quê? Você tem seu próprio treino pra fazer?
 Sorry, but mine's higher priority! Yours\ndoesn't have the same "prospects," okay?=Desculpa, mas o meu é mais prioritário! O seu\nnão tem as mesmas "perspectivas", tá?
-That TV anchor lady's here to interview me.\nIf I don't impress her, it'll ruin my image!=Aquela apresentadora de TV está aqui para me entrevistar.\nSe eu não a impressionar, vai arruinar minha imagem!
+That TV anchor lady's here to interview me.\nIf I don't impress her, it'll ruin my image!=Aquela apresentadora de TV está aqui para me entrevistar. Se eu não a impressionar, vai arruinar minha imagem!
 You get it now? Then hurry up and\ngive me a hand!=Entendeu agora? Então se apresse e\nme dê uma mão!
 The base runner has been tagged out!\nPlease restart and try again.=O corredor foi eliminado!\nPor favor, reinicie e tente novamente.
 Pushing the box around won't do anything.\nLet's look around the room some more.=Empurrar a caixa por aí não vai adiantar nada.\nVamos procurar mais pela sala.
@@ -2277,7 +2276,7 @@ Perhaps we should try a different room.=Talvez devêssemos tentar uma sala difer
 Isn't this ball the same kind they had on\ndisplay in that case?=Esta bola não é do mesmo tipo que tinham em\nexibição naquele estojo?
 Hoom... Shall we go back and check?=Hum... Deveríamos voltar e verificar?
 I was right, it's the same ball! Let's put it\nin that suspiciously empty slot!=Eu estava certa, é a mesma bola! Vamos colocá-la\nnaquele espaço suspeitosamente vazio!
-Team members who have finished their core\nexercises, proceed to the next exercise.=Membros da equipe que terminaram seus exercícios de core,\nprocedam para o próximo exercício.
+Team members who have finished their core\nexercises, proceed to the next exercise.=Membros da equipe que terminaram seus exercícios de core, procedam para o próximo exercício.
 Good, it seems we can proceed now!=Bom, parece que podemos prosseguir agora!
 Hey, this looks just like that <color\=#FF423F>fan card</color>\nwe picked up earlier.=Ei, isso se parece com aquele <color\=#FF423F>cartão de fã</color>\nque pegamos antes.
 They do indeed look similar! This one appears\nto be... <color\=#FF423F>B-Tier</color>?=Eles de fato se parecem! Este parece\nser... <color\=#FF423F>Categoria-B</color>?
@@ -2287,7 +2286,7 @@ Wonder, let's keep an eye out for places to\nuse this card as we proceed.=Wonder
 Judging from the map, there's a lot of\nexercise equipment in this area.=A julgar pelo mapa, há muito\nequipamento de exercício nesta área.
 Well, stadiums have spaces for the athletes\nto train in, so this must be one of those\nareas, right?=Bem, estádios têm espaços para os atletas\ntreinarem, então esta deve ser uma dessas\náreas, certo?
 We saw a lot of stuff like this earlier, too.=Nós vimos muitas coisas assim antes, também.
-Hoom, you're right. As with that training\nexercise earlier, who knows what awaits us?\nWe must proceed with caution.=Hum, você está certa. Assim como naquele\nexercício de treinamento anterior, quem sabe o que nos espera?\nDevemos prosseguir com cautela.
+Hoom, you're right. As with that training\nexercise earlier, who knows what awaits us?\nWe must proceed with caution.=Hum, você está certa. Assim como naquele\nexercício de treinamento anterior, quem sabe o que nos espera? Devemos prosseguir com cautela.
 Whoa, what are pitching machines doing here!?=Uau, o que máquinas de arremesso estão fazendo aqui!?
 A former pitcher, attacking people with\nbaseballs... How twisted.=Um ex-arremessador, atacando pessoas com\nbolas de beisebol... Que distorcido.
 No kidding... Those things fire balls at a\ncrazy speed. Getting hit by one would\nseriously hurt!=Sem brincadeira... Essas coisas disparam bolas a uma\nvelocidade louca. Ser atingido por uma\ndoeria muito!
@@ -2658,7 +2657,7 @@ Here, you may see what I have prepared.=Aqui, vocês podem ver o que eu preparei
 Ah, it's time.=Ah, está na hora.
 Looks like you've found a real prize!=Parece que você encontrou um verdadeiro prêmio!
 Success!=Sucesso!
-This Shadow can't support the Palace ruler\nanymore...=Esta Sombra não pode mais apoiar o governante do Palácio...
+This Shadow can't support the {{A}} ruler\nanymore...=Esta Sombra não pode mais apoiar o governante do {{A}}...
 Let's have it assist us now!=Vamos fazer com que ela nos ajude agora!
 It seems we've been sent somewhere\noutside Mementos...=Parece que fomos enviados para algum lugar\nfora de Mementos...
 I sense a large number of Shadows here.\nLet's proceed with caution.=Sinto um grande número de Sombras aqui.\nVamos prosseguir com cautela.
