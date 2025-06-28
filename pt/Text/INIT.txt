@@ -170,3 +170,18 @@ Metal Parts=Partes Metálicas\n
 Memory Cube=Cubo de Memórias\n
 A<color\=#000000>f</color>fection=A<color\=#000000>f</color>eto\n
 S<color\=#ff0000ff>a</color>fe Room=S<color\=#ff0000ff>a</color>la Segura\n
+Press the mission to show your <color\=#FF423F>current objective on the map</color>.=Pressione na missão para mostrar seu <color\=#FF423F>objetivo atual no mapa</color>.
+Crit Rate=Taxa Crítica
+Underground Mall=Shopping Subterrânio
+Accessway=Acesso
+Central Street=Rua Central
+M<color\=#ff0000ff>o</color>toha Arai=M<color\=#ff0000ff>o</color>toha Arai
+Tutorial Coin=Moeda Tutorial
+In this gacha, the 4★ weapon Crime and Punishment is guaranteed.=Nesta gacha, a arma Crime e Punição de 4 ★ é garantida.
+Crime and Punishment=Crime e Punição
+Shop=Comprar
+Press <color\=#FF423F>Draw 1</color>.=Pressione <color\=#FF423F>Puxar 1</color>.
+Fatal Knife=Faca Fatal
+Weapons=Armas
+Enhance and modify your weapons to unleash even greater power.=Aprimore e modifique suas armas para liberar um poder ainda maior.
+Open the <color\=#FF423F>phone menu</color>.=Abra o <color\=#FF423F>Menu do Celular</color>.

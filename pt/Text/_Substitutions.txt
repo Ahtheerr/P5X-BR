@@ -108,6 +108,7 @@ I feel my bond with=Sinto meu vínculo com
 growing deeper...=se aprofundando...
 Riddle=Riddle
 Closer=Closer
+Skull=Skull
 Fleuret=Fleuret
 Craft a=Crie
 
@@ -178,6 +179,9 @@ Jánošík=Jánošík
 Cattle=Cattle
 Joker=Joker
 Arsène=Arsène
+Mona=Mona
+Panther=Panther
+Fox=Fox
 Strange Owl=Coruja Estranha
 Lufel=Lufel
 Woman Wearing Glasses=Mulher de Óculos
