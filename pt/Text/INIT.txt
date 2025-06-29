@@ -190,6 +190,7 @@ R<color\=#000000>e</color>tro Dance Number=N<color\=#000000>ú</color>mero de Da
 R<color\=#000000>e</color>ady for Adventure=P<color\=#000000>r</color>onto Para Aventura
 M<color\=#000000>y</color>stery=M<color\=#000000>i</color>stério
 M<color\=#000000>a</color>rk=M<color\=#000000>a</color>rca
+S<color\=#000000>e</color>al of Power=S<color\=#000000>e</color>lo do Poder
 Activated La Vie en Rose!=LA Vie en Rose ativado!
 L<color\=#000000>a</color> Vie en Rose=L<color\=#000000>a</color> Vie en rose
 Crimson Rose=Rosa Carmesim
@@ -248,7 +249,7 @@ Agility Master II=Mestre da Agilidade II
 Agility Master III=Mestre da Agilidade III
 Agility Master IV=Mestre da Agilidade IV
 Agneyastra=Agneyastra
-Ailment Boost=Aumento de Moléstia
+Ailment Boost=Aumento de Aflição
 Airplane Ears Mode=Modo Orelhas de Avião
 Alert Capsule=Cápsula de Alerta
 Ali Dance I=Dança de Ali I
