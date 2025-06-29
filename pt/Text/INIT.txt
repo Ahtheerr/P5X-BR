@@ -199,3 +199,6 @@ C<color\=#000000>r</color>imson Rose=R<color\=#000000>o</color>sa Carmesim
 I<color\=#000000>c</color>e Crystal=C<color\=#000000>r</color>istal de Gelo
 C<color\=#000000>o</color>urageous Campaign=C<color\=#000000>a</color>mpanha Corajosa
 B<color\=#000000>l</color>essing=B<color\=#000000>ê</color>nção
+C<color\=#000000>h</color>ildish Heart=C<color\=#000000>o</color>ração Infantil
+S<color\=#000000>h</color>ock=C<color\=#000000>h</color>oque
+O<color\=#000000>a</color>th=J<color\=#000000>u</color>ramento
