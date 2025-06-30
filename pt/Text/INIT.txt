@@ -191,6 +191,7 @@ R<color\=#000000>e</color>ady for Adventure=P<color\=#000000>r</color>onto Para 
 M<color\=#000000>y</color>stery=M<color\=#000000>i</color>stério
 M<color\=#000000>a</color>rk=M<color\=#000000>a</color>rca
 S<color\=#000000>e</color>al of Power=S<color\=#000000>e</color>lo do Poder
+F<color\=#000000>i</color>nish with a Smile=F<color\=#000000>i</color>nalize com um Sorriso
 Activated La Vie en Rose!=LA Vie en Rose ativado!
 L<color\=#000000>a</color> Vie en Rose=L<color\=#000000>a</color> Vie en rose
 Crimson Rose=Rosa Carmesim
