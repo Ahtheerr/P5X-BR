@@ -2712,3 +2712,3542 @@ Zouchouten's Trait 0=Característica de Zouchouten 0
 Zouchouten's Trait 3=Característica de Zouchouten 3
 Zouchouten's Trait 6=Característica de Zouchouten 6
 Hua Po=Hua Po
+Stamina=Vigor
+Action Points=Pontos de Ação
+Wild Coin S=Moeda Selvagem S
+Full Recovery=Recuperação Completa
+Batting Points=Pontos de Rebatida
+Wild Coin L=Moeda Coringa G
+NB[it][018]=NB[it][018]
+Seal of Fire=Selo de Fogo
+Wingbeat Coin=Moeda Bate-Asas
+Pass Experience Credit=Crédito de Experiência de Passe
+Money=Dinheiro
+Repression Medal II=Medalha de Repressão II
+Repression Medal III=Medalha de Repressão III
+NB[it][025]=NB[it][025]
+Repression Medal IV=Medalha de Repressão IV
+NB[it][027]=NB[it][027]
+NB[it][028]=NB[it][028]
+Fishing Points=Pontos de Pesca
+Qimranut Ticket=Bilhete de Qimranut
+Rebel Coin=Moeda Rebelde
+Aiyatsbus Ticket=Bilhete de Aiyatsbus
+Chemdah Ticket=Bilhete de Chemdah
+Kaitul Ticket=Bilhete de Kaitul
+Akzeriyyuth Ticket=Bilhete de Akzeriyyuth
+Adyeshach Ticket=Bilhete de Adyeshach
+Sheriruth Ticket=Bilhete de Sheriruth
+Iweleth Ticket=Bilhete de Iweleth
+Assist Rewards=Recompensas de Assistência
+Stadium Memory Shard=Fragmento de Memória do Estádio
+Castle Memory Shard=Fragmento de Memória do Castelo
+Dam Memory Shard=Fragmento de Memória da Represa
+Star Crystal=Cristal Estelar
+Destiny Badge=Insígnia do Destino
+Peculiar Coin=Moeda Peculiar
+Joy Medal=Medalha da Alegria
+Companio Coin=Moeda de Companhia
+Music Club Badge=Insígnia do Clube de Música
+EXP Pass=Passe de EXP
+Soccer Club Badge=Insígnia do Clube de Futebol
+TV Show Point=Ponto de Programa de TV
+Driver's Point=Ponto de Motorista
+Route Ticket=Bilhete de Rota
+Purrfect Premium Cat Food=Ração de Gato Premium Perfeita
+NB[it][062]=NB[it][062]
+Tycoon Point=Ponto de Magnata
+Spiritual Endurance=Vigor Espiritual
+Repression Medal I=Medalha de Repressão I
+P Medal=Medalha P
+Prize Box=Caixa de Prêmios
+Compensatory Destiny Badge=Insígnia do Destino Compensatória
+Compensatory Route Ticket=Bilhete de Rota Compensatório
+Glass Orb=Orbe de Vidro
+Puzzle Piece=Peça de Quebra-Cabeça
+Plum Blossom Knot=Nó de Flor de Ameixa
+Rare Shell=Concha Rara
+Rainbow Umbrella=Guarda-Chuva Arco-Íris
+Plum Blossom Arm Band=Bracelete de Flor de Ameixa
+Trial Ticket=Bilhete de Teste
+Plum Blossom Dango=Dango de Flor de Ameixa
+Oracle Ink=Tinta de Oráculo
+Tomb Destiny Badge=Insígnia do Destino da Tumba
+Space Destiny Badge=Insígnia do Destino do Espaço
+Request Refresh Ticket=Bilhete de Atualização de Pedido
+Thieves Den EXP Credit=Crédito de EXP do Covil dos Ladrões
+Coffee Aid=Ajuda de Café
+Coffee Candy=Bala de Café
+Experience Pass=Passe de Experiência
+MaraThon Energy=Energia de Maratona
+Konpaku Gem x1,000=Gema Konpaku x1.000
+Joy Medal x100=Medalha da Alegria x100
+Unknown Blue Revelation=Revelação Azul Desconhecida
+Unknown Purple Revelation=Revelação Roxa Desconhecida
+Unknown Orange Revelation=Revelação Laranja Desconhecida
+Treat Yourself S=Mime-se P
+Meta Jewel x100=Meta Joia x100
+Fortune Revelation=Revelação da Fortuna
+Fortune Revelation: Space=Revelação da Fortuna: Espaço
+Info Sharing Reward=Recompensa por Compartilhar Informações
+Treat Yourself M=Mime-se M
+Treat Yourself L=Mime-se G
+Surprise Capsule S=Cápsula Surpresa P
+Surprise Capsule L=Cápsula Surpresa G
+Standard Pass Plus=Passe Padrão Plus
+Premium Pass Plus=Passe Premium Plus
+Unknown Revelation S: Orange=Revelação Desconhecida S: Laranja
+Words of Life Set=Conjunto Palavras de Vida
+Words of Nature Set=Conjunto Palavras da Natureza
+Gift Set=Conjunto de Presente
+Thank-you Gift=Presente de Agradecimento
+Training Boost Set 1=Conjunto de Impulso de Treino 1
+Training Boost Set 2=Conjunto de Impulso de Treino 2
+Training Boost Set 3=Conjunto de Impulso de Treino 3
+Training Boost Set 4=Conjunto de Impulso de Treino 4
+Training Boost Set 5=Conjunto de Impulso de Treino 5
+Training Boost Set 6=Conjunto de Impulso de Treino 6
+EXP Box=Caixa de EXP
+Training Box=Caixa de Treino
+5★ Phantom Idol Contract 1=Contrato de Ídolo Fantasma 5★ 1
+5★ Phantom Idol Contract 2=Contrato de Ídolo Fantasma 5★ 2
+5★ Phantom Idol Contract 3=Contrato de Ídolo Fantasma 5★ 3
+5★ Phantom Idol Contract 4=Contrato de Ídolo Fantasma 5★ 4
+Minami's Gift=Presente da Minami
+Minami's Special Gift=Presente Especial da Minami
+Haruna's Treasure=Tesouro da Haruna
+Haruna's Special Treasure=Tesouro Especial da Haruna
+Tabby's Treasure=Tesouro do Gato Rajado
+Singer's Novelty=Novidade do Cantor
+Trial Key=Chave de Teste
+Railway Coin=Moeda Ferroviária
+Flight Plan EXP Credit=Crédito de EXP do Plano de Voo
+Remodel Ticket=Bilhete de Remodelação
+Prayer Magatama=Magatama de Oração
+Marthym's Rewards Card=Cartão de Recompensas de Marthym
+Premium Pass=Passe Premium
+Premium+ Pass=Passe Premium+
+Support Gift I=Presente de Suporte I
+5★ Weapon Case=Maleta de Armas 5★
+5★ Phantom Idol Select Ticket=Bilhete de Seleção de Ídolo Fantasma 5★
+4★ Weapon Case=Maleta de Armas 4★
+4★Phantom Idol Select Ticket=Bilhete de Seleção de Ídolo Fantasma 4★
+Double Queen's Necklace=Colar da Rainha Dupla
+Bamboo Growth/Trust Gift=Presente de Bambu - Crescimento/Confiança
+Support Gift II=Presente de Suporte II
+Pine Growth/Harmony Gift=Presente de Pinheiro - Crescimento/Harmonia
+Power Gift: Bamboo=Presente de Poder: Bambu
+Power Gift: Pine=Presente de Poder: Pinheiro
+Skill Support Gift=Presente de Suporte de Habilidade
+Interference Gift: Pine=Presente de Interferência: Pinheiro
+Departure Gift: Pine=Presente de Partida: Pinheiro
+Cheap Aroma Box=Caixa de Aroma Barata
+Luxury Aroma Box=Caixa de Aroma Luxuosa
+Cheap Crafting Box=Caixa de Criação Barata
+Luxury Crafting Box=Caixa de Criação Luxuosa
+3★ Weapon Case=Maleta de Armas 3★
+Mystery Weapon Kit "MA"=Kit de Arma Misteriosa "MA"
+Limited 4★ Weapon Case=Maleta de Armas 4★ Limitada
+Lucky Persona Box=Caixa de Persona da Sorte
+Joyous Persona Box=Caixa de Persona da Alegria
+Novice 5★ Thief of Your Choice=Ladrão 5★ Novato de Sua Escolha
+Novice 5★ Weapon of Your Choice=Arma 5★ Novata de Sua Escolha
+Mystery Weapon Kit "BU"=Kit de Arma Misteriosa "BU"
+Mystery Weapon Kit "FO"=Kit de Arma Misteriosa "FO"
+Mystery Weapon Kit "QU"=Kit de Arma Misteriosa "QU"
+5★ Cognitite Case=Estojo de Cognitita 5★
+Support Gift III=Presente de Suporte III
+Support Gift IV=Presente de Suporte IV
+Mystery Weapon Kit "CO"=Kit de Arma Misteriosa "CO"
+Mystery Weapon Kit "CS"=Kit de Arma Misteriosa "CS"
+Weapon Gift Box=Caixa de Presente de Arma
+Mystery Weapon Kit "WI"=Kit de Arma Misteriosa "WI"
+Cognitite Box 2=Caixa de Cognitita 2
+Mystery Weapon Kit "ME"=Kit de Arma Misteriosa "ME"
+Mystery Weapon Kit "CH"=Kit de Arma Misteriosa "CH"
+Mystery Weapon Kit "NO"=Kit de Arma Misteriosa "NO"
+5★ Cognitite Chance 1=Chance de Cognitita 5★ 1
+Cognitite Box 3=Caixa de Cognitita 3
+5★ Phantom Idol Ticket 3=Bilhete de Ídolo Fantasma 5★ 3
+Mystery Weapon Kit "MO"=Kit de Arma Misteriosa "MO"
+Mystery Weapon Kit "HO"=Kit de Arma Misteriosa "HO"
+5★ Cognitite Chance 2=Chance de Cognitita 5★ 2
+5★ Welcome Idol Chance=Chance de Ídolo de Boas-vindas 5★
+4★ Welcome Arms Case=Maleta de Armas de Boas-vindas 4★
+Damascus Knife=Faca de Damasco
+Fatal Knife=Faca Fatal
+Midnight Sun=Sol da Meia-Noite
+Sennight Inferno=Inferno de Sete Noites
+All In=All In
+Arc Knife=Faca de Arco
+Ex Machina=Ex Machina
+Glimmer=Vislumbre
+Eye of Obsequies=Olho das Exéquias
+Starry Compass=Bússola Estrelada
+Abyss Fang=Presa do Abismo
+Normal Rod=Vara Normal
+Gang Star=Estrela de Gangue
+Grand Presser=Grande Prensador
+Revenge Axe=Machado da Vingança
+Bandit Sword=Espada Bandida
+God Saber=Sabre Divino
+Shamshir=Shamshir
+Golden Legacy=Legado Dourado
+Headhunter Ladle=Concha de Caça-Cabeças
+Swinging Hammer=Martelo Oscilante
+Lightning Hammer=Martelo Relâmpago
+Crime and Punishment=Crime e Castigo
+Quasar=Quasar
+Water Ball=Bola de Água
+Floral Water Ball=Bola de Água Floral
+Puff Puff Star=Estrela Fofinha
+Colorful Coast=Costa Colorida
+Basic Tonfa=Tonfa Básica
+Break Tonfa=Tonfa de Ruptura
+Lava Flame=Chama de Lava
+Fallen Angel Wing=Asa de Anjo Caído
+Snake Eye Umbrella=Guarda-Chuva Olho de Cobra
+Peculiar Parasol=Sombrinha Peculiar
+Moonlight Needle=Agulha do Luar
+Kunoichi: Sky's Edge=Kunoichi: Limite do Céu
+Red Plum Blossom=Flor de Ameixa Vermelha
+Tomahawk=Tomahawk
+Steel Tomahawk=Tomahawk de Aço
+Demon's Bite=Mordida do Demônio
+Permafrost=Permafrost
+Brave Lance=Lança Valente
+Punish Lance=Lança da Punição
+Justice Lance=Lança da Justiça
+Final Buster=Golpe Final
+Flip Phone=Celular Flip
+Sweety SG=Doçura SG
+Emerald Charmer=Encantador de Esmeralda
+Retro Disco Style=Estilo Disco Retrô
+Staff=Cajado
+Willowstaff=Cajado de Salgueiro
+Sunstaff=Cajado do Sol
+Infinite Moment=Momento Infinito
+Twin Daggers=Adagas Gêmeas
+Sharp Twinblades=Lâminas Gêmeas Afiadas
+Shadow Crowns=Coroas da Sombra
+Dream and Nightmare=Sonho e Pesadelo
+Firework Sticks=Varetas de Fogos de Artifício
+Starry Sparklers=Fagulhas Estreladas
+Whisper of the Tides=Sussurro das Marés
+Bubble Baby=Bebê Bolha
+Twin Chakrams=Chakrams Gêmeos
+Electric Chakrams=Chakrams Elétricos
+Meta Directors=Diretores Meta
+Cyber Jammers=Inibidores Cibernéticos
+Faustmesser=Faustmesser
+Holy Nail=Prego Sagrado
+Death Stinger=Ferrão da Morte
+Baptism by Fire=Batismo de Fogo
+Iron Flail=Mangual de Ferro
+Slashing Flail=Mangual Cortante
+Heavy Metal Pain=Dor do Heavy Metal
+Karmic Cycle=Ciclo Cármico
+Rapier=Rapieira
+Elegant Rapier=Rapieira Elegante
+Knight's Reward=Recompensa do Cavaleiro
+Venus Sunrise=Alvorada de Vênus
+Lumina Saber=Sabre Lumina
+Sacred Saber=Sabre Sagrado
+Blue Saber=Sabre Azul
+Heavenly Heart of Fire=Coração Celestial de Fogo
+Katana=Katana
+Seishiki Sword=Espada Seishiki
+Jagato=Jagato
+Shadowkiller=Matador de Sombras
+Laptop=Laptop
+Intrusion Detection Rig=Equipamento de Detecção de Intrusão
+Ghost Machine C=Máquina Fantasma C
+Cyberdeck::HACK()=Cyberdeck::HACK()
+Blade Rod=Bastão Laminado
+Noble Rod=Bastão Nobre
+Scarlet Scepter=Cetro Escarlate
+Babel's Verdict=Veredito de Babel
+Leather Whip=Chicote de Couro
+Spike Whip=Chicote de Espinhos
+Masquerade Ribbon=Fita da Máscara
+Rosethorn=Espinho de Rosa
+Brass Knuckles=Soco-inglês
+Flash Punch=Soco Relâmpago
+Omega Knuckle=Soco-inglês Ômega
+Nuclear Finisher=Finalizador Nuclear
+Cavalry Saber=Sabre de Cavalaria
+Royal Saber=Sabre Real
+Edelweiss=Edelweiss
+Queen of Winter=Rainha do Inverno
+DC[It][112]=DC[It][112]
+DC[It][113]=DC[It][113]
+DC[It][114]=DC[It][114]
+Medkit=Kit Médico
+Portable Trauma Unit=Unidade de Trauma Portátil
+Hymn of Life=Hino da Vida
+Angel Heart=Coração de Anjo
+Axe=Machado
+Bardiche=Bardiche
+Gilgamesh Axe=Machado de Gilgamesh
+Battle Hymn=Hino de Batalha
+Rebel Knife=Faca Rebelde
+Athame=Athame
+Machete=Machete
+Phoenix Dagger=Adaga da Fênix
+Jet Sonar=Sonar a Jato
+C.A Explorer=Explorador C.A
+Submarine Sonar=Sonar de Submarino
+Ephemerality=Efemeridade
+Climbing Pickaxe=Picareta de Escalada
+Shrill Pickaxe=Picareta Estridente
+Chirpy Pickaxe=Picareta Animada
+Sweet Pickaxe=Picareta Doce
+Twinblade=Lâmina Gêmea
+Triangular Bayonet=Baioneta Triangular
+Cobalt Alloy Bayonet=Baioneta de Liga de Cobalto
+Gravitational Force=Força Gravitacional
+Jolting Pulse=Pulso Eletrizante
+Dancing Cane=Bengala Dançante
+Peafowl Cane=Bengala de Pavão
+Starrynight Soothsayer=Vidente da Noite Estrelada
+Moonlit Feather=Pena do Luar
+Guitar Axe=Guitarra-Machado
+Amped-Up Guitar Axe=Guitarra-Machado Amplificada
+Rock 'n' Roller=Rock 'n' Roller
+Superstar=Superstar
+Futility: Sun=Futilidade: Sol
+Futility: Moon=Futilidade: Lua
+Futility: Star=Futilidade: Estrela
+Futility: Sky=Futilidade: Céu
+Love: Sun=Amor: Sol
+Love: Moon=Amor: Lua
+Love: Star=Amor: Estrela
+Love: Sky=Amor: Céu
+Oppression: Sun=Opressão: Sol
+Oppression: Moon=Opressão: Lua
+Oppression: Star=Opressão: Estrela
+Oppression: Sky=Opressão: Céu
+Valor: Sun=Valor: Sol
+Valor: Moon=Valor: Lua
+Valor: Star=Valor: Estrela
+Valor: Sky=Valor: Céu
+Works: Sun=Obras: Sol
+Works: Moon=Obras: Lua
+Works: Star=Obras: Estrela
+Works: Sky=Obras: Céu
+Dominion: Sun=Domínio: Sol
+Dominion: Moon=Domínio: Lua
+Dominion: Star=Domínio: Estrela
+Dominion: Sky=Domínio: Céu
+Sorrow: Sun=Tristeza: Sol
+Sorrow: Moon=Tristeza: Lua
+Sorrow: Star=Tristeza: Estrela
+Sorrow: Sky=Tristeza: Céu
+Strife: Sun=Conflito: Sol
+Strife: Moon=Conflito: Lua
+Strife: Star=Conflito: Estrela
+Strife: Sky=Conflito: Céu
+Completion: Sun=Conclusão: Sol
+Completion: Moon=Conclusão: Lua
+Completion: Star=Conclusão: Estrela
+Completion: Sky=Conclusão: Céu
+Virtue: Sun=Virtude: Sol
+Virtue: Moon=Virtude: Lua
+Virtue: Star=Virtude: Estrela
+Virtue: Sky=Virtude: Céu
+Reconciliation: Sun=Reconciliação: Sol
+Reconciliation: Moon=Reconciliação: Lua
+Reconciliation: Star=Reconciliação: Estrela
+Reconciliation: Sky=Reconciliação: Céu
+Peace: Sun=Paz: Sol
+Peace: Moon=Paz: Lua
+Peace: Star=Paz: Estrela
+Peace: Sky=Paz: Céu
+Disappointment: Sun=Decepção: Sol
+Disappointment: Moon=Decepção: Lua
+Disappointment: Star=Decepção: Estrela
+Disappointment: Sky=Decepção: Céu
+Luxury: Sun=Luxo: Sol
+Luxury: Moon=Luxo: Lua
+Luxury: Star=Luxo: Estrela
+Luxury: Sky=Luxo: Céu
+Abundance: Sun=Abundância: Sol
+Abundance: Moon=Abundância: Lua
+Abundance: Star=Abundância: Estrela
+Abundance: Sky=Abundância: Céu
+Power: Sun=Poder: Sol
+Power: Moon=Poder: Lua
+Power: Star=Poder: Estrela
+Power: Sky=Poder: Céu
+Transformation: Sun=Transformação: Sol
+Transformation: Moon=Transformação: Lua
+Transformation: Star=Transformação: Estrela
+Transformation: Sky=Transformação: Céu
+Worry: Sun=Preocupação: Sol
+Worry: Moon=Preocupação: Lua
+Worry: Star=Preocupação: Estrela
+Worry: Sky=Preocupação: Céu
+Victory: Sun=Vitória: Sol
+Victory: Moon=Vitória: Lua
+Victory: Star=Vitória: Estrela
+Victory: Sky=Vitória: Céu
+Science: Sun=Ciência: Sol
+Science: Moon=Ciência: Lua
+Science: Star=Ciência: Estrela
+Science: Sky=Ciência: Céu
+Defeat: Sun=Derrota: Sol
+Defeat: Moon=Derrota: Lua
+Defeat: Star=Derrota: Estrela
+Defeat: Sky=Derrota: Céu
+Pleasure: Sun=Prazer: Sol
+Pleasure: Moon=Prazer: Lua
+Pleasure: Star=Prazer: Estrela
+Pleasure: Sky=Prazer: Céu
+Success: Sun=Sucesso: Sol
+Success: Moon=Sucesso: Lua
+Success: Star=Sucesso: Estrela
+Success: Sky=Sucesso: Céu
+Interference: Sun=Interferência: Sol
+Interference: Moon=Interferência: Lua
+Interference: Star=Interferência: Estrela
+Interference: Sky=Interferência: Céu
+Creation=Criação
+Awareness=Consciência
+Departure=Partida
+Growth=Crescimento
+Wisdom=Sabedoria
+Meditation=Meditação
+Faith=Fé
+Trust=Confiança
+Hope=Esperança
+Harmony=Harmonia
+Resolve=Resolução
+Perseverance=Perseverança
+Acceptance=Aceitação
+Freedom=Liberdade
+Integrity=Integridade
+The Self=O Eu
+Purple Departure and Hope=Partida e Esperança Roxas
+Orange Departure and Hope=Partida e Esperança Laranjas
+Purple Hymn of Power=Hino de Poder Roxo
+Orange Hymn of Power=Hino de Poder Laranja
+Orange Hymn of Interference=Hino de Interferência Laranja
+Orange Hymn of Departure=Hino de Partida Laranja
+Unknown Orange Revelation A=Revelação Laranja Desconhecida A
+Unknown Purple Revelation A=Revelação Roxa Desconhecida A
+Unknown Blue Revelation A=Revelação Azul Desconhecida A
+Unknown Orange Revelation B=Revelação Laranja Desconhecida B
+Unknown Purple Revelation B=Revelação Roxa Desconhecida B
+Unknown Blue Revelation B=Revelação Azul Desconhecida B
+Unknown Revelation S: White=Revelação Desconhecida S: Branca
+Unknown Revelation S: Blue=Revelação Desconhecida S: Azul
+Unknown Revelation S: Purple=Revelação Desconhecida S: Roxa
+Divergent Fate: C1=Destino Divergente: C1
+Divergent Fate: C2=Destino Divergente: C2
+Divergent Fate: C3=Destino Divergente: C3
+Divergent Fate: C4=Destino Divergente: C4
+Divergent Fate: C5=Destino Divergente: C5
+Futility Revelation - Orange=Revelação da Futilidade - Laranja
+Love Revelation - Orange=Revelação do Amor - Laranja
+Oppression Revelation - Orange=Revelação da Opressão - Laranja
+Valor Revelation - Orange=Revelação do Valor - Laranja
+Works Revelation - Orange=Revelação das Obras - Laranja
+Dominion Revelation - Orange=Revelação do Domínio - Laranja
+Sorrow Revelation - Orange=Revelação da Tristeza - Laranja
+Strife Revelation - Orange=Revelação do Conflito - Laranja
+Completion Revelation - Orange=Revelação da Conclusão - Laranja
+Virtue Revelation - Orange=Revelação da Virtude - Laranja
+Reconciliation Revelation - Orange=Revelação da Reconciliação - Laranja
+Peace Revelation - Orange=Revelação da Paz - Laranja
+Disappointment Revelation - Orange=Revelação da Decepção - Laranja
+Luxury Revelation - Orange=Revelação do Luxo - Laranja
+Abundance Revelation - Orange=Revelação da Abundância - Laranja
+Power Revelation - Orange=Revelação do Poder - Laranja
+Transformation Revelation - Orange=Revelação da Transformação - Laranja
+Worry Revelation - Orange=Revelação da Preocupação - Laranja
+Victory Revelation - Orange=Revelação da Vitória - Laranja
+Science Revelation - Orange=Revelação da Ciência - Laranja
+Defeat Revelation - Orange=Revelação da Derrota - Laranja
+Pleasure Revelation - Orange=Revelação do Prazer - Laranja
+Success Revelation - Orange=Revelação do Sucesso - Laranja
+Interference Revelation - Orange=Revelação da Interferência - Laranja
+Creation Revelation - Orange=Revelação da Criação - Laranja
+Awareness Revelation - Orange=Revelação da Consciência - Laranja
+Departure Revelation - Orange=Revelação da Partida - Laranja
+Growth Revelation - Orange=Revelação do Crescimento - Laranja
+Wisdom Revelation - Orange=Revelação da Sabedoria - Laranja
+Meditation Revelation - Orange=Revelação da Meditação - Laranja
+Faith Revelation - Orange=Revelação da Fé - Laranja
+Trust Revelation - Orange=Revelação da Confiança - Laranja
+Hope Revelation - Orange=Revelação da Esperança - Laranja
+Harmony Revelation - Orange=Revelação da Harmonia - Laranja
+Resolve Revelation - Orange=Revelação da Resolução - Laranja
+Perseverance Revelation - Orange=Revelação da Perseverança - Laranja
+Acceptance Revelation - Orange=Revelação da Aceitação - Laranja
+Freedom Revelation - Orange=Revelação da Liberdade - Laranja
+Integrity Revelation - Orange=Revelação da Integridade - Laranja
+The Self Revelation - Orange=Revelação d'O Eu - Laranja
+Futility Revelation - Purple=Revelação da Futilidade - Roxa
+Love Revelation - Purple=Revelação do Amor - Roxa
+Oppression Revelation - Purple=Revelação da Opressão - Roxa
+Valor Revelation - Purple=Revelação do Valor - Roxa
+Works Revelation - Purple=Revelação das Obras - Roxa
+Dominion Revelation - Purple=Revelação do Domínio - Roxa
+Sorrow Revelation - Purple=Revelação da Tristeza - Roxa
+Strife Revelation - Purple=Revelação do Conflito - Roxa
+Completion Revelation - Purple=Revelação da Conclusão - Roxa
+Virtue Revelation - Purple=Revelação da Virtude - Roxa
+Reconciliation Revelation - Purple=Revelação da Reconciliação - Roxa
+Peace Revelation - Purple=Revelação da Paz - Roxa
+Disappointment Revelation - Purple=Revelação da Decepção - Roxa
+Luxury Revelation - Purple=Revelação do Luxo - Roxa
+Abundance Revelation - Purple=Revelação da Abundância - Roxa
+Power Revelation - Purple=Revelação do Poder - Roxa
+Transformation Revelation - Purple=Revelação da Transformação - Roxa
+Worry Revelation - Purple=Revelação da Preocupação - Roxa
+Victory Revelation - Purple=Revelação da Vitória - Roxa
+Science Revelation - Purple=Revelação da Ciência - Roxa
+Defeat Revelation - Purple=Revelação da Derrota - Roxa
+Pleasure Revelation - Purple=Revelação do Prazer - Roxa
+Success Revelation - Purple=Revelação do Sucesso - Roxa
+Interference Revelation - Purple=Revelação da Interferência - Roxa
+Creation Revelation - Purple=Revelação da Criação - Roxa
+Awareness Revelation - Purple=Revelação da Consciência - Roxa
+Departure Revelation - Purple=Revelação da Partida - Roxa
+Growth Revelation - Purple=Revelação do Crescimento - Roxa
+Wisdom Revelation - Purple=Revelação da Sabedoria - Roxa
+Meditation Revelation - Purple=Revelação da Meditação - Roxa
+Faith Revelation - Purple=Revelação da Fé - Roxa
+Trust Revelation - Purple=Revelação da Confiança - Roxa
+Hope Revelation - Purple=Revelação da Esperança - Roxa
+Harmony Revelation - Purple=Revelação da Harmonia - Roxa
+Resolve Revelation - Purple=Revelação da Resolução - Roxa
+Perseverance Revelation - Purple=Revelação da Perseverança - Roxa
+Acceptance Revelation - Purple=Revelação da Aceitação - Roxa
+Freedom Revelation - Purple=Revelação da Liberdade - Roxa
+Integrity Revelation - Purple=Revelação da Integridade - Roxa
+The Self Revelation - Purple=Revelação d'O Eu - Roxa
+Futility Revelation - Blue=Revelação da Futilidade - Azul
+Love Revelation - Blue=Revelação do Amor - Azul
+Oppression Revelation - Blue=Revelação da Opressão - Azul
+Valor Revelation - Blue=Revelação do Valor - Azul
+Works Revelation - Blue=Revelação das Obras - Azul
+Dominion Revelation - Blue=Revelação do Domínio - Azul
+Sorrow Revelation - Blue=Revelação da Tristeza - Azul
+Strife Revelation - Blue=Revelação do Conflito - Azul
+Completion Revelation - Blue=Revelação da Conclusão - Azul
+Virtue Revelation - Blue=Revelação da Virtude - Azul
+Reconciliation Revelation - Blue=Revelação da Reconciliação - Azul
+Peace Revelation - Blue=Revelação da Paz - Azul
+Disappointment Revelation - Blue=Revelação da Decepção - Azul
+Luxury Revelation - Blue=Revelação do Luxo - Azul
+Abundance Revelation - Blue=Revelação da Abundância - Azul
+Power Revelation - Blue=Revelação do Poder - Azul
+Transformation Revelation - Blue=Revelação da Transformação - Azul
+Worry Revelation - Blue=Revelação da Preocupação - Azul
+Victory Revelation - Blue=Revelação da Vitória - Azul
+Science Revelation - Blue=Revelação da Ciência - Azul
+Defeat Revelation - Blue=Revelação da Derrota - Azul
+Pleasure Revelation - Blue=Revelação do Prazer - Azul
+Success Revelation - Blue=Revelação do Sucesso - Azul
+Interference Revelation - Blue=Revelação da Interferência - Azul
+Creation Revelation - Blue=Revelação da Criação - Azul
+Awareness Revelation - Blue=Revelação da Consciência - Azul
+Departure Revelation - Blue=Revelação da Partida - Azul
+Growth Revelation - Blue=Revelação do Crescimento - Azul
+Wisdom Revelation - Blue=Revelação da Sabedoria - Azul
+Meditation Revelation - Blue=Revelação da Meditação - Azul
+Faith Revelation - Blue=Revelação da Fé - Azul
+Trust Revelation - Blue=Revelação da Confiança - Azul
+Hope Revelation - Blue=Revelação da Esperança - Azul
+Harmony Revelation - Blue=Revelação da Harmonia - Azul
+Resolve Revelation - Blue=Revelação da Resolução - Azul
+Perseverance Revelation - Blue=Revelação da Perseverança - Azul
+Acceptance Revelation - Blue=Revelação da Aceitação - Azul
+Freedom Revelation - Blue=Revelação da Liberdade - Azul
+Integrity Revelation - Blue=Revelação da Integridade - Azul
+The Self Revelation - Blue=Revelação d'O Eu - Azul
+Perseverence=Perseverança
+Gold Ticket=Bilhete de Ouro
+Platinum Ticket=Bilhete de Platina
+Blue Milicoin=Milimoeda Azul
+Platinum Milicoin=Milimoeda de Platina
+Kagura Bell=Sino Kagura
+Tutorial Contract=Contrato do Tutorial
+Tutorial Coin=Moeda do Tutorial
+Ryuji's Cognitite=Cognitita do Ryuji
+Morgana's Cognitite=Cognitita do Morgana
+Motoha's Cognitite=Cognitita da Motoha
+Motoha's Summer Cognitite=Cognitita de Verão da Motoha
+Lufel's Cognitite=Cognitita do Lufel
+Riko's Cognitite=Cognitita da Riko
+Shun's Cognitite=Cognitita do Shun
+Leo's Cognitite=Cognitita do Leo
+Tomiyama's Cognitite=Cognitita do Tomiyama
+Yaoling's Cognitite=Cognitita da Yaoling
+Tomoko's Cognitite=Cognitita da Tomoko
+Tomoko's Summer Cognitite=Cognitita de Verão da Tomoko
+Yui's Cognitite=Cognitita da Yui
+Kiyoshi's Cognitite=Cognitita do Kiyoshi
+Yukimi's Cognitite=Cognitita da Yukimi
+Seiji's Cognitite=Cognitita do Seiji
+Akechi's Cognitite=Cognitita do Akechi
+Yusuke's Cognitite=Cognitita do Yusuke
+Futaba's Cognitite=Cognitita da Futaba
+Toshiya's Cognitite=Cognitita do Toshiya
+Ann's Cognitite=Cognitita da Ann
+Makoto's Cognitite=Cognitita da Makoto
+Kotone's Cognitite=Cognitita da Kotone
+Minami's Cognitite=Cognitita da Minami
+Haru's Cognitite=Cognitita da Haru
+Ren's Cognitite=Cognitita do Ren
+Miyu's Cognitite=Cognitita da Miyu
+Haruna's Cognitite=Cognitita da Haruna
+Kira's Cognitite=Cognitita da Kira
+Chizuko's Cognitite=Cognitita da Chizuko
+Yumi's Cognitite=Cognitita da Yumi
+Ayaka's Cognitite=Cognitita da Ayaka
+Masaki's Cognitite=Cognitita do Masaki
+Runa's Cognitite=Cognitita da Runa
+Kasumi's Cognitite=Cognitita da Kasumi
+Mayumi's Cognitite=Cognitita da Mayumi
+Stardust Shard=Fragmento de Poeira Estelar
+Stardust Bottle=Garrafa de Poeira Estelar
+Venus Bottle=Garrafa de Vênus
+Stardust Gem=Gema de Poeira Estelar
+Venus Gem=Gema de Vênus
+Stardust Bell=Sino de Poeira Estelar
+Stardust Roulette=Roleta de Poeira Estelar
+Thief Compendium Scrap=Fragmento do Compêndio de Ladrões
+Thief Compendium Volume=Volume do Compêndio de Ladrões
+Thief Compendium Tome=Tomo do Compêndio de Ladrões
+Whiff of Iris=Sopro de Íris
+Fragrance of Iris=Fragrância de Íris
+Essence of Iris=Essência de Íris
+Fragrance of Orchid=Fragrância de Orquídea
+Essence of Orchid=Essência de Orquídea
+Fragrance of Lily=Fragrância de Lírio
+Essence of Lily=Essência de Lírio
+Fragrance of Bluebell=Fragrância de Campânula
+Essence of Bluebell=Essência de Campânula
+Fragrance of Tulip=Fragrância de Tulipa
+Essence of Tulip=Essência de Tulipa
+Fragrance of Laurel=Fragrância de Louro
+Essence of Laurel=Essência de Louro
+Moon Crystal=Cristal Lunar
+Sun Crystal=Cristal Solar
+Retrograde Card: Purple=Carta Retrógrada: Roxa
+Retrograde Card=Carta Retrógrada
+Vicissitude Ink=Tinta da Vicissitude
+Skill Incense S=Incenso de Habilidade P
+Skill Incense M=Incenso de Habilidade M
+Skill Incense L=Incenso de Habilidade G
+Avatamsa Incense=Incenso Avatamsa
+Hermit's Incense=Incenso do Eremita
+Joyful Incense=Incenso da Alegria
+Everlasting Incense=Incenso Eterno
+Silver Core=Núcleo de Prata
+Gold Core=Núcleo de Ouro
+Metal Parts=Peças de Metal
+Silver Parts=Peças de Prata
+Gold Parts=Peças de Ouro
+Blue Crystal=Cristal Azul
+Purple Crystal=Cristal Roxo
+Yellow Crystal=Cristal Amarelo
+Craftsman's Notes=Anotações do Artesão
+Artisan's Secrets=Segredos do Artífice
+Bronze Ingot=Lingote de Bronze
+Gold Ingot=Lingote de Ouro
+Medium Mold=Molde Médio
+Magnificent Mold=Molde Magnífico
+Weapon Device=Dispositivo de Arma
+Weapon Device G=Dispositivo de Arma G
+Coating Agent=Agente de Revestimento
+Strong Coating Agent=Agente de Revestimento Forte
+Memory Cube=Cubo de Memória
+Anecdote Cube=Cubo de Anedota
+Legend Cube=Cubo de Lenda
+Regent=Regente
+Queen's Necklace=Colar da Rainha
+Stone of Scone=Pedra de Scone
+Koh-i-Noor=Koh-i-Noor
+Orlov=Orlov
+Emperor's Amulet=Amuleto do Imperador
+Jánošík's Axe Pistol=Pistola-machado de Jánošík
+Training Bat=Bastão de Treino
+Well-Worn Baseball Cap=Boné de Beisebol Desgastado
+Training Gloves=Luvas de Treino
+Samurai's Pauldrons=Poldres de Samurai
+Samurai's Gauntlets=Manoplas de Samurai
+Samurai's Helmet=Elmo de Samurai
+Salamander Coin=Moeda da Salamandra
+Subliminal Vestiges=Vestígios Subliminares
+Ashen Mask=Máscara Cinzenta
+Gecko Coin=Moeda de Lagartixa
+Clear Cognigem=Cognigema Transparente
+Sennight Inferno Shard=Fragmento de Inferno de Sete Noites
+All In Shard=Fragmento de All In
+Schema Points +=Pontos de Esquema +
+Craftsman's Mod Order=Ordem de Modificação do Artesão
+Artisan's Mod Order=Ordem de Modificação do Artífice
+Violet Cognigem=Cognigema Violeta
+Headhunter Ladle Shard=Fragmento de Concha de Caça-Cabeças
+Arc Knife Shard=Fragmento de Faca de Arco
+Schema Points +O=Pontos de Esquema +O
+Red Plum Blossom Shard=Fragmento de Flor de Ameixa Vermelha
+Ex Machina Shard=Fragmento de Ex Machina
+Glimmer Shard=Fragmento de Vislumbre
+Eye of Obsequies Shard=Fragmento de Olho das Exéquias
+Starry Compass Shard=Fragmento de Bússola Estrelada
+Prism Cognigem=Cognigema Prismática
+Abyss Fang Shard=Fragmento de Presa do Abismo
+Random Gift Set=Conjunto de Presente Aleatório
+The Definitive Guide to Tourist Spots=O Guia Definitivo de Pontos Turísticos
+How to Become Your Ideal Self=Como se Tornar Seu Eu Ideal
+Gardening for Black Thumbs=Jardinagem para Quem Não Tem Jeito
+Club Soda=Água com Gás
+Mineral Water=Água Mineral
+Yogurt Soda=Refrigerante de Iogurte
+Strawberry Flan=Pudim de Morango
+Crêpe=Crêpe
+Ice Cream Parfait=Parfait de Sorvete
+Beef Bowl Bento=Marmita com Tigela de Carne
+Teriyaki Chicken Bento=Marmita com Frango Teriyaki
+Grilled Cod Bento=Marmita com Bacalhau Grelhado
+Boom Bang Burger=Hambúrguer Boom Bang
+Matcha Burger=Hambúrguer de Matcha
+Chicken Burger=Hambúrguer de Frango
+Cat Food=Comida de Gato
+Paint Color=Tinta de Pintura
+Shin Guards=Caneleiras
+Tuna Rice Ball=Onigiri de Atum
+Salmon Rice Ball=Onigiri de Salmão
+Oden=Oden
+Gift Box=Caixa de Presente
+Gift for Yukimi=Presente para Yukimi
+Shibuya Tourism Guidebook=Guia Turístico de Shibuya
+Dr. Salt NEO=Dr. Sal NEO
+Muscle Tea=Chá para Músculos
+Nastea=Nastea
+Sandwich=Sanduíche
+Yakisoba Pan=Pão com Yakisoba
+Jam Bread=Pão com Geleia
+Melon Pan=Pão de Melão
+Spring Rolls=Rolinhos Primavera
+Seafood Fried Rice=Arroz Frito com Frutos do Mar
+Pan-Fried Gyoza=Gyoza Frito na Frigideira
+Yakisoba=Yakisoba
+Beef Bowl=Tigela de Carne
+Medicine S=Remédio P
+Medicine L=Remédio G
+Meat Cutlet=Bife à Milanesa
+Orange Juice=Suco de Laranja
+Grape Juice=Suco de Uva
+SweeTea=SweeTea
+Beef Bun=Pão com Carne
+Tomato Beef Bun=Pão com Carne e Tomate
+Peppery Beef Bun=Pão com Carne Apimentada
+Salty Canned Meat=Carne Enlatada Salgada
+Cereal=Cereal
+Popcorn=Pipoca
+Alloy Baseball Bat=Taco de Beisebol de Liga Metálica
+Yearly Sports Pass=Passe Esportivo Anual
+Protective Sports Gear=Equipamento Esportivo de Proteção
+Bluebird Drink=Bebida Pássaro Azul
+Baseball Monthly=Revista Mensal de Beisebol
+Sports Cap=Boné Esportivo
+Sports Towel=Toalha Esportiva
+Baseball Team Mascot Bear=Urso Mascote do Time de Beisebol
+Long-sleeved Jersey=Camisa de Manga Longa
+Baseball Gloves=Luvas de Beisebol
+GOAT Uniform=Uniforme GOAT
+Premiere CD=CD de Estreia
+Meet 'n Greet Ticket=Bilhete de Meet and Greet
+Idol Photo Set=Conjunto de Fotos de Ídolo
+Idol Election Ticket=Bilhete de Eleição de Ídolo
+Idol Coaster=Porta-copos de Ídolo
+Maid Café Preferential Ticket=Ingresso Preferencial do Maid Café
+Pen Light=Bastão de Luz
+Idol Keychain=Chaveiro de Ídolo
+Maid Figurine=Estatueta de Empregada
+Simple Makeup Pouch=Nécessaire de Maquiagem Simples
+Pearl Earrings=Brincos de Pérola
+Idol Trading Card=Card Colecionável de Ídolo
+Small Boilie=Boilie Pequeno
+Medium Boilie=Boilie Médio
+Large Boilie=Boilie Grande
+Top-class Boilie=Boilie de Primeira Classe
+Suspicious Boilie=Boilie Suspeito
+Casual Rod=Vara Casual
+Powerful Rod=Vara Poderosa
+Miracle Rod=Vara Milagrosa
+Hi-Tech Rod=Vara de Alta Tecnologia
+Trailblazer Ticket=Bilhete Desbravador
+Paranormal VHS=VHS Paranormal
+Black-Framed Glasses=Óculos de Armação Preta
+Part-time Job Magazine=Revista de Emprego de Meio Período
+Hi-tech Headphones=Fones de Ouvido de Alta Tecnologia
+Gossip Weekly=Semanário da Fofoca
+Fluffy Cushion=Almofada Fofa
+Silver Bangle=Bracelete de Prata
+Magnetic Necklace=Colar Magnético
+48-Sided 3D Puzzle=Quebra-cabeça 3D de 48 Lados
+Shichi-kun Doll=Boneco Shichi-kun
+ChocoStick Value Pack=Pacote Econômico de ChocoStick
+Handmade Book Cover=Capa de Livro Feita à Mão
+Cat Hairpin=Presilha de Cabelo de Gato
+Heart Ring=Anel de Coração
+Ume Fan=Leque Ume
+Strawberry Bento Box=Marmita de Morango
+Mixed Nuts=Mix de Nozes
+Leather Pen Case=Estojo de Couro para Caneta
+Black Mug=Caneca Preta
+Puzzle Rings=Anéis de Quebra-cabeça
+Mini Cactus=Minicacto
+Planter Cover=Capa para Vaso
+Robot Vacuum=Aspirador de Pó Robô
+Glass Vase=Vaso de Vidro
+Flower Basket=Cesta de Flores
+Vitamin Drink Set=Conjunto de Bebida Vitamínica
+Uji Matcha Flan Set=Conjunto de Pudim de Matcha de Uji
+Truffles=Trufas
+Designer Perfume=Perfume de Grife
+Exclusive Fountain Pen=Caneta-tinteiro Exclusiva
+Classical Literature CD Set=Conjunto de CDs de Literatura Clássica
+Designer Shades=Óculos de Sol de Grife
+Men's Sun Hat=Chapéu de Sol Masculino
+Watercolor Postcard=Cartão Postal de Aquarela
+Super Loud Alarm Clock=Despertador Super Barulhento
+Japanese Book Cover=Capa de Livro Japonesa
+Sumo Wrestler Stickers=Adesivos de Lutador de Sumô
+Burger Cushion=Almofada de Hambúrguer
+Flowery Comb=Pente Florido
+Collector's Book of Famous Fairy Tales=Livro de Colecionador de Contos de Fadas Famosos
+Digital Camera=Câmera Digital
+Gourmet Food Tour Guide=Guia de Roteiro Gastronômico
+Crimson Lipstick=Batom Carmesim
+Japanese Sweets Sets=Conjuntos de Doces Japoneses
+Kendama=Kendama
+Face Beautifier=Embelezador Facial
+Rose Bath Set=Conjunto de Banho de Rosas
+Fashion Magazine=Revista de Moda
+Dress-up Doll=Boneca de Vestir
+Shonen Manga Weekly=Mangá Shonen Semanal
+Kitchen Goods Set=Conjunto de Utensílios de Cozinha
+Electric Toothbrush=Escova de Dentes Elétrica
+Wrist Weights=Pesos de Pulso
+Worldly Cup Noodle Set=Conjunto Mundial de Macarrão Instantâneo
+Character Apron=Avental de Personagem
+Omni-Vitamins=Omni-Vitaminas
+Motorbike Figure=Figura de Motocicleta
+Luxury Aroma Set=Conjunto de Aroma de Luxo
+Famous Rakugo Performances DVD=DVD de Apresentações Famosas de Rakugo
+Heart-Shaped Hand Mirror=Espelho de Mão em Forma de Coração
+Colored Carp Charm=Amuleto de Carpa Colorida
+Retro Ramune Set=Conjunto de Ramune Retrô
+Antique Tray=Bandeja Antiga
+Fuwamokko-kun Doll=Boneco Fuwamokko-kun
+Moonlight Brooch=Broche do Luar
+Vanilla Perfume=Perfume de Baunilha
+Blues Harp=Gaita de Blues
+Music Box=Caixa de Música
+Guitar Care Set=Conjunto de Cuidados para Guitarra
+Weathered Teru Teru Bozu=Teru Teru Bozu Desgastado
+Choker=Gargantilha
+Classic Psychology Series=Série Clássica de Psicologia
+Kids' Anime Body Pillow=Travesseiro de Corpo de Anime Infantil
+Luxury Dollhouse=Casa de Bonecas de Luxo
+New UFO Drone=Novo Drone UFO
+Mini Speaker=Minialto-falante
+Sharpshooter's Secrets=Segredos do Atirador de Elite
+High-Capacity Thermos=Garrafa Térmica de Alta Capacidade
+Soldier Figure=Figura de Soldado
+Eyestrain Eyedrops=Colírio para Vista Cansada
+Gag Glasses=Óculos de Brinquedo
+Limited-Edition Keychain=Chaveiro de Edição Limitada
+Candy Set=Conjunto de Doces
+Essential Oils=Óleos Essenciais
+Mont Blanc=Mont Blanc
+Snow Globe=Globo de Neve
+Aroma Diffuser=Difusor de Aroma
+Anime Character Pin=Broche de Personagem de Anime
+Stylish Plant Guide=Guia de Plantas Elegantes
+Smart Planter=Vaso Inteligente
+3D Cactus Puzzle=Quebra-cabeça 3D de Cacto
+Popular Board Game=Jogo de Tabuleiro Popular
+Snowflake Keychain=Chaveiro de Floco de Neve
+Classic Record=Disco Clássico
+High-Quality Yoga Mat=Tapete de Ioga de Alta Qualidade
+Sports Earphones=Fones de Ouvido Esportivos
+Luxury Sports Watch=Relógio Esportivo de Luxo
+Common Freshwater Prawn=Camarão de Água Doce Comum
+Good Freshwater Prawn=Camarão de Água Doce Bom
+Great Freshwater Prawn=Camarão de Água Doce Ótimo
+Prime Freshwater Prawn=Camarão de Água Doce Primoroso
+Best Freshwater Prawn=Camarão de Água Doce Superior
+Common Salmon=Salmão Comum
+Good Salmon=Salmão Bom
+Great Salmon=Salmão Ótimo
+Prime Salmon=Salmão Primoroso
+Best Salmon=Salmão Superior
+Common Star Snapper=Pargo-estrela Comum
+Good Star Snapper=Pargo-estrela Bom
+Great Star Snapper=Pargo-estrela Ótimo
+Prime Star Snapper=Pargo-estrela Primoroso
+Best Star Snapper=Pargo-estrela Superior
+Common Crucian Carp=Carpa-cruciana Comum
+Good Crucian Carp=Carpa-cruciana Boa
+Great Crucian Carp=Carpa-cruciana Ótima
+Prime Crucian Carp=Carpa-cruciana Primorosa
+Best Crucian Carp=Carpa-cruciana Superior
+Common Koi=Koi Comum
+Good Koi=Koi Bom
+Great Koi=Koi Ótimo
+Prime Koi=Koi Primoroso
+Best Koi=Koi Superior
+Common Barbel Steed=Barbo Comum
+Good Barbel Steed=Barbo Bom
+Great Barbel Steed=Barbo Ótimo
+Prime Barbel Steed=Barbo Primoroso
+Best Barbel Steed=Barbo Superior
+Common White Crucian Carp=Carpa-cruciana Branca Comum
+Good White Crucian Carp=Carpa-cruciana Branca Boa
+Great White Crucian Carp=Carpa-cruciana Branca Ótima
+Prime White Crucian Carp=Carpa-cruciana Branca Primorosa
+Best White Crucian Carp=Carpa-cruciana Branca Superior
+Common Mackerel=Cavala Comum
+Good Mackerel=Cavala Boa
+Great Mackerel=Cavala Ótima
+Prime Mackerel=Cavala Primorosa
+Best Mackerel=Cavala Superior
+Common Eel=Enguia Comum
+Good Eel=Enguia Boa
+Great Eel=Enguia Ótima
+Prime Eel=Enguia Primorosa
+Best Eel=Enguia Superior
+Common Greasy Grouper=Garoupa-gordurosa Comum
+Good Greasy Grouper=Garoupa-gordurosa Boa
+Great Greasy Grouper=Garoupa-gordurosa Ótima
+Prime Greasy Grouper=Garoupa-gordurosa Primorosa
+Best Greasy Grouper=Garoupa-gordurosa Superior
+Common Red Snapper=Pargo-vermelho Comum
+Good Red Snapper=Pargo-vermelho Bom
+Great Red Snapper=Pargo-vermelho Ótimo
+Prime Red Snapper=Pargo-vermelho Primoroso
+Best Red Snapper=Pargo-vermelho Superior
+Common Dace=Leucisco Comum
+Good Dace=Leucisco Bom
+Great Dace=Leucisco Ótimo
+Prime Dace=Leucisco Primoroso
+Best Dace=Leucisco Superior
+Common Barracuda=Barracuda Comum
+Good Barracuda=Barracuda Boa
+Great Barracuda=Barracuda Ótima
+Best Barracuda=Barracuda Primorosa
+Common Minnow=Lambarizinho Comum
+Good Minnow=Lambarizinho Bom
+Great Minnow=Lambarizinho Ótimo
+Prime Minnow=Lambarizinho Primoroso
+Best Minnow=Lambarizinho Superior
+Common Herring=Arenque Comum
+Good Herring=Arenque Bom
+Great Herring=Arenque Ótimo
+Prime Herring=Arenque Primoroso
+Best Herring=Arenque Superior
+Common Masu Salmon=Salmão Masu Comum
+Good Masu Salmon=Salmão Masu Bom
+Great Masu Salmon=Salmão Masu Ótimo
+Prime Masu Salmon=Salmão Masu Primoroso
+Best Masu Salmon=Salmão Masu Superior
+Common Rockfish=Peixe-pedra Comum
+Good Rockfish=Peixe-pedra Bom
+Great Rockfish=Peixe-pedra Ótimo
+Prime Rockfish=Peixe-pedra Primoroso
+Best Rockfish=Peixe-pedra Superior
+Common Sturgeon=Esturjão Comum
+Good Sturgeon=Esturjão Bom
+Great Sturgeon=Esturjão Ótimo
+Prime Sturgeon=Esturjão Primoroso
+Best Sturgeon=Esturjão Superior
+Common Bonito=Bonito Comum
+Good Bonito=Bonito Bom
+Great Bonito=Bonito Ótimo
+Prime Bonito=Bonito Primoroso
+Best Bonito=Bonito Superior
+Common Jack Mackerel=Carapau Comum
+Good Jack Mackerel=Carapau Bom
+Great Jack Mackerel=Carapau Ótimo
+Prime Jack Mackerel=Carapau Primoroso
+Best Jack Mackerel=Carapau Superior
+Common Sea Bass=Robalo Comum
+Good Sea Bass=Robalo Bom
+Great Sea Bass=Robalo Ótimo
+Prime Sea Bass=Robalo Primoroso
+Best Sea Bass=Robalo Superior
+Common Sole=Linguado Comum
+Good Sole=Linguado Bom
+Great Sole=Linguado Ótimo
+Prime Sole=Linguado Primoroso
+Best Sole=Linguado Superior
+Common Turbot=Pregado Comum
+Good Turbot=Pregado Bom
+Great Turbot=Pregado Ótimo
+Prime Turbot=Pregado Primoroso
+Best Turbot=Pregado Superior
+Common Pearl-Spot Chromis=Donzela-pintada Comum
+Good Pearl-Spot Chromis=Donzela-pintada Boa
+Great Pearl-Spot Chromis=Donzela-pintada Ótima
+Prime Pearl-Spot Chromis=Donzela-pintada Primorosa
+Best Pearl-Spot Chromis=Donzela-pintada Superior
+Common Malabar Grouper=Garoupa-malabar Comum
+Good Malabar Grouper=Garoupa-malabar Boa
+Great Malabar Grouper=Garoupa-malabar Ótima
+Prime Malabar Grouper=Garoupa-malabar Primorosa
+Best Malabar Grouper=Garoupa-malabar Superior
+Common Catfish=Bagre Comum
+Good Catfish=Bagre Bom
+Great Catfish=Bagre Ótimo
+Prime Catfish=Bagre Primoroso
+Best Catfish=Bagre Superior
+Common Flathead Mullet=Tainha Comum
+Good Mullet=Tainha Boa
+Great Mullet=Tainha Ótima
+Prime Mullet=Tainha Primorosa
+Best Flathead Mullet=Tainha Superior
+Red Sanke Koi=Koi Sanke Vermelho
+Moonfish=Peixe-lua
+Chinook Salmon=Salmão-chinook
+Black Sanke Koi=Koi Sanke Preto
+White Butterfly Koi=Koi Borboleta Branco
+Rice=Arroz
+Flour=Farinha
+Eggs=Ovos
+Milk=Leite
+Sugar=Açúcar
+Soy Sauce=Molho de Soja
+Vinegar=Vinagre
+Miso=Missô
+Wasabi=Wasabi
+Matcha=Matcha
+Tofu=Tofu
+Glutinous Rice=Arroz Glutinoso
+Azuki Beans=Feijão Azuki
+Curry Roux=Roux de Caril
+Mung Beans=Feijão Mungo
+Lychee=Lichia
+Almonds=Amêndoas
+Luxury Chinese Tea=Chá Chinês de Luxo
+Shaoxing Wine=Vinho Shaoxing
+Leek=Alho-poró
+Garlic=Alho
+Pork=Carne de Porco
+Shiitake Mushrooms=Cogumelos Shiitake
+Chicken=Frango
+Beef=Carne
+Sea Bass=Robalo
+Rockfish=Peixe-pedra
+Shrimp=Camarão
+Crucian Carp=Carpa-cruciana
+Salmon=Salmão
+Tuna=Atum
+Eel=Enguia
+Sea Cucumber=Pepino-do-mar
+Caviar=Caviar
+Tonic Water=Água Tônica
+Cream=Creme
+Soda Water=Água com Gás
+Spice Bundle=Pacote de Especiarias
+Assam Tea=Chá de Assam
+Tonkatsu=Tonkatsu
+Miso Ramen=Ramen de Missô
+Salmon Sashimi=Sashimi de Salmão
+Manju=Manju
+Curry with Rice=Caril com Arroz
+Sukiyaki=Sukiyaki
+Matcha Ice Cream=Sorvete de Matcha
+Croquette=Croquete
+Eel Rice Bowl=Tigela de Arroz com Enguia
+Tricolored Dango=Dango Tricolor
+Tempura=Tempura
+Almond Jelly=Gelatina de Amêndoas
+Caramel Flan=Pudim de Caramelo
+Omelette Rice=Omurice
+Seafood Salad=Salada de Frutos do Mar
+Winter Melon Tea=Chá de Melão de Inverno
+Mouthwatering Chicken=Frango de Dar Água na Boca
+Chinese Stir-Fry=Refogado Chinês
+Sweet Kinako Mochi=Mochi Doce de Kinako
+Sweet and Sour Fish=Peixe Agridoce
+Spicy Boiled Fish=Peixe Cozido Picante
+Milk Pudding=Pudim de Leite
+Gyoza=Gyoza
+Lychee Shrimp Balls=Bolinhos de Camarão com Lichia
+Sticky Rice Balls=Bolinhos de Arroz Glutinoso
+Cantonese Char Siu=Char Siu Cantonês
+Beef Stew=Ensopado de Carne
+Youlinji=Youlinji
+Mapo Tofu=Mapo Tofu
+Shiruko=Shiruko
+Chinese Medicinal Soup=Sopa Medicinal Chinesa
+Shrimp Stir-Fry=Refogado de Camarão
+Mung Bean Milk=Leite de Feijão Mungo
+Vinegar Tofu=Tofu com Vinagre
+Grilled Rockfish=Peixe-pedra Grelhado
+Stewed Chicken=Frango Ensopado
+Seared Beef=Carne Selada
+Meat Pie=Torta de Carne
+Refreshing Tonic=Tônico Refrescante
+Mellow Float=Float Suave
+Matcha Soda=Refrigerante de Matcha
+Cream Soda=Refrigerante com Creme
+Milk Tea=Chá com Leite
+Superb Tonkatsu=Tonkatsu Soberbo
+Superb Miso Ramen=Ramen de Missô Soberbo
+Superb Salmon Sashimi=Sashimi de Salmão Soberbo
+Superb Manju=Manju Soberbo
+Superb Curry with Rice=Caril com Arroz Soberbo
+Superb Sukiyaki=Sukiyaki Soberbo
+Superb Matcha Ice Cream=Sorvete de Matcha Soberbo
+Superb Croquette=Croquete Soberbo
+Superb Eel Rice Bowl=Tigela de Arroz com Enguia Soberba
+Superb Tricolored Dango=Dango Tricolor Soberbo
+Superb Tempura=Tempura Soberba
+Superb Almond Jelly=Gelatina de Amêndoas Soberba
+Superb Flan=Pudim Soberbo
+Superb Omelette Rice=Omurice Soberbo
+Superb Seafood Salad=Salada de Frutos do Mar Soberba
+Superb Winter Melon Tea=Chá de Melão de Inverno Soberbo
+Superb Mouthwatering Chicken=Frango de Dar Água na Boca Soberbo
+Superb Chinese Stir-Fry=Refogado Chinês Soberbo
+Superb Sweet Kinako Mochi=Mochi Doce de Kinako Soberbo
+Superb Sweet and Sour Fish=Peixe Agridoce Soberbo
+Superb Spicy Boiled Fish=Peixe Cozido Picante Soberbo
+Superb Milk Pudding=Pudim de Leite Soberbo
+Superb Gyoza=Gyoza Soberbo
+Superb Shrimp Balls=Bolinhos de Camarão Soberbos
+Superb Sticky Rice Balls=Bolinhos de Arroz Glutinoso Soberbos
+Superb Char Siu=Char Siu Soberbo
+Superb Beef Stew=Ensopado de Carne Soberbo
+Superb Spring Rolls=Rolinhos Primavera Soberbos
+Superb Youlinji=Youlinji Soberbo
+Superb Mapo Tofu=Mapo Tofu Soberbo
+Superb Shiruko=Shiruko Soberbo
+Superb Chinese Medicinal Soup=Sopa Medicinal Chinesa Soberba
+Superb Shrimp Stir-Fry=Refogado de Camarão Soberbo
+Superb Mung Bean Milk=Leite de Feijão Mungo Soberbo
+Superb Vinegar Tofu=Tofu com Vinagre Soberbo
+Superb Grilled Rockfish=Peixe-pedra Grelhado Soberbo
+Superb Stewed Chicken=Frango Ensopado Soberbo
+Superb Seared Beef=Carne Selada Soberba
+Superb Meat Pie=Torta de Carne Soberba
+Special Refreshing Tonic=Tônico Refrescante Especial
+Special Mellow Float=Float Suave Especial
+Special Matcha Soda=Refrigerante de Matcha Especial
+Special Cream Soda=Refrigerante com Creme Especial
+Special Milk Tea=Chá com Leite Especial
+Tonkatsu Recipe=Receita de Tonkatsu
+Miso Ramen Recipe=Receita de Ramen de Missô
+Sashimi Recipe=Receita de Sashimi
+Manju Recipe=Receita de Manju
+Curry with Rice Recipe=Receita de Caril com Arroz
+Sukiyaki Recipe=Receita de Sukiyaki
+Matcha Ice Cream Recipe=Receita de Sorvete de Matcha
+Croquette Recipe=Receita de Croquete
+Eel Rice Bowl Recipe=Receita de Tigela de Arroz com Enguia
+Tricolored Dango Recipe=Receita de Dango Tricolor
+Tempura Recipe=Receita de Tempura
+Almond Jelly Recipe=Receita de Gelatina de Amêndoas
+Flan Recipe=Receita de Pudim
+Omelette Rice Recipe=Receita de Omurice
+Seafood Salad Recipe=Receita de Salada de Frutos do Mar
+Winter Melon Tea Recipe=Receita de Chá de Melão de Inverno
+Mouthwatering Chicken Recipe=Receita de Frango de Dar Água na Boca
+Chinese Stir-Fry Recipe=Receita de Refogado Chinês
+Sweet Kinako Mochi Recipe=Receita de Mochi Doce de Kinako
+Sweet and Sour Fish Recipe=Receita de Peixe Agridoce
+Spicy Boiled Fish Recipe=Receita de Peixe Cozido Picante
+Milk Pudding Recipe=Receita de Pudim de Leite
+Gyoza Recipe=Receita de Gyoza
+Shrimp Ball Recipe=Receita de Bolinho de Camarão
+Sticky Rice Ball Recipe=Receita de Bolinho de Arroz Glutinoso
+Char Siu Recipe=Receita de Char Siu
+Beef Stew Recipe=Receita de Ensopado de Carne
+Spring Roll Recipe=Receita de Rolinho Primavera
+Youlinji Recipe=Receita de Youlinji
+Mapo Tofu Recipe=Receita de Mapo Tofu
+Shiruko Recipe=Receita de Shiruko
+Chinese Medicinal Soup Recipe=Receita de Sopa Medicinal Chinesa
+Shrimp Stir-Fry Recipe=Receita de Refogado de Camarão
+Mung Bean Milk Recipe=Receita de Leite de Feijão Mungo
+Black Vinegar Stir-Fry Recipe=Receita de Refogado ao Vinagre Negro
+Grilled Fish Recipe=Receita de Peixe Grelhado
+Stewed Chicken Recipe=Receita de Frango Ensopado
+Seared Beef Recipe=Receita de Carne Selada
+Meat Pie Recipe=Receita de Torta de Carne
+Refreshing Tonic Recipe=Receita de Tônico Refrescante
+Mellow Float Recipe=Receita de Float Suave
+Matcha Soda Recipe=Receita de Refrigerante de Matcha
+Cream Soda Recipe=Receita de Refrigerante com Creme
+Milk Tea Recipe=Receita de Chá com Leite
+First-Aid Medicine=Remédio de Primeiros Socorros
+Athlete's Protein=Proteína de Atleta
+Adhesive Bandage=Curativo Adesivo
+Healing IV=Cura IV
+Kajaclear-R=Kajaclear-R
+Kundaclear-R=Kundaclear-R
+Recov-R S=Recov-R P
+Recov-R M=Recov-R M
+Recov-R L=Recov-R G
+Nohar-M=Nohar-M
+Relax Gel=Gel Relaxante
+Alert Capsule=Cápsula de Alerta
+Revivadrin=Revivadrina
+Life Ointment=Pomada da Vida
+Stamina Kit S=Kit de Vigor P
+Stamina Kit M=Kit de Vigor M
+Stamina Kit L=Kit de Vigor G
+Stamina Kit X=Kit de Vigor X
+Takemedic=Tomadic
+Reviv-All=Revital-Geral
+Renew-All=Renov-Geral
+Takemedic-All=Tomadic-Geral
+Takemedic-All V=Tomadic-Geral V
+Takemedic-All Z=Tomadic-Geral Z
+Take-Minakata X=Take-Minakata X
+Lockpick=Gazuza
+Crowbar=Pé de Cabra
+Smoke Bomb=Bomba de Fumaça
+Stealthanol=Furtivanol
+Covertizer=Ocultador
+Incogniscent=Incogniscente
+Treasure Demon Bait=Isca de Demônio do Tesouro
+Crackling Firecracker=Estalinho Crepitante
+Booming Firecracker=Estalinho Estrondoso
+Deafening Firecracker=Estalinho Ensurdecedor
+Hypno Mist=Névoa Hipnótica
+Calming Aroma=Aroma Calmante
+Lust Treasure Detector=Detector de Tesouro da Luxúria
+Vanity Treasure Detector=Detector de Tesouro da Vaidade
+Wrath Treasure Detector=Detector de Tesouro da Ira
+Gluttony Treasure Detector=Detector de Tesouro da Gula
+Destructive Firecracker=Estalinho Destrutivo
+Elemental Firecracker=Estalinho Elemental
+Mystery Firecracker=Estalinho Misterioso
+Fire Attack Item S=Item de Ataque de Fogo P
+Ice Attack Item S=Item de Ataque de Gelo P
+Electric Attack Item S=Item de Ataque Elétrico P
+Psy Attack Item S=Item de Ataque Psíquico P
+Nuclear Attack Item S=Item de Ataque Nuclear P
+Bless Attack Item S=Item de Ataque de Bênção P
+Curse Attack Item S=Item de Ataque de Maldição P
+Vengeance Charm=Amuleto da Vingança
+Triple-Sealed Charm=Amuleto Triplamente Selado
+Gale Charm=Amuleto do Vendaval
+Blaze Charm=Amuleto das Chamas
+Frost Charm=Amuleto da Geada
+Storm Charm=Amuleto da Tempestade
+Nightmare Charm=Amuleto do Pesadelo
+Atomic Charm=Amuleto Atômico
+Golden Fortune Charm=Amuleto da Fortuna Dourada
+Devilish Charm=Amuleto Demoníaco
+Bludgeoning Bell=Sino Esmagador
+Bullet Bell=Sino de Bala
+Windswept Bell=Sino Varrido pelo Vento
+Burning Bell=Sino Ardente
+Icy Bell=Sino Gelado
+Shocking Bell=Sino Chocante
+Illusion Bell=Sino da Ilusão
+Thermodynamic Bell=Sino Termodinâmico
+Prayer Bell=Sino de Oração
+Disenchant Bell=Sino de Desencanto
+Spotlight=Holofote
+Limelight=Luz da Ribalta
+Giga Spotlight=Giga-Holofote
+Mercury=Mercúrio
+White Phosphorus=Fósforo Branco
+Ethanol=Etanol
+Metal Powder=Pó de Metal
+Copper Sheet=Folha de Cobre
+Iron Sheet=Folha de Ferro
+Blank Talisman=Talismã em Branco
+Activated Charcoal=Carvão Ativado
+Stabilizer=Estabilizador
+Pearl Powder=Pó de Pérola
+Red Phosphorus=Fósforo Vermelho
+Red Paint=Tinta Vermelha
+Blue Paint=Tinta Azul
+Yellow Paint=Tinta Amarela
+Green Paint=Tinta Verde
+Pink Paint=Tinta Rosa
+Orange Paint=Tinta Laranja
+Gold Paint=Tinta Dourada
+Cinnabar=Cinábrio
+Red Ore=Minério Vermelho
+Ink=Tinta
+Faux Pearl=Pérola Falsa
+Carbon Steel=Aço Carbono
+Amber Glass=Vidro de Âmbar
+Tempered Glass=Vidro Temperado
+Shakudo=Shakudo
+Rubber=Borracha
+Aromatics=Aromáticos
+Aluminum Sheet=Folha de Alumínio
+Moissanite=Moissanita
+Letter Paper=Papel de Carta
+Drawing Paper=Papel de Desenho
+Small Spotlight=Holofote Pequeno
+Retro Game Console=Console de Videogame Retrô
+Large Spotlight=Holofote Grande
+Simple Packaging=Embalagem Simples
+Gorgeous Packaging=Embalagem Deslumbrante
+Plastic=Plástico
+Chinese Paper=Papel Chinês
+Daisy Potpourri=Pot-pourri de Margarida
+Sunflower Seeds=Sementes de Girassol
+Jasmine Tea=Chá de Jasmim
+Camellia Tea=Chá de Camélia
+Osmanthus Tea=Chá de Osmanthus
+Preserved Flower=Flor Preservada
+Violet Bouquet=Buquê de Violetas
+Osmanthus Bouquet=Buquê de Osmanthus
+Medium Spotlight=Holofote Médio
+Lust Chip=Chip da Luxúria
+Vanity Chip=Chip da Vaidade
+Wrath Chip=Chip da Ira
+Gluttony Chip=Chip da Gula
+Extra Pay: Store=Pagamento Extra: Loja
+Extra Pay: Florist=Pagamento Extra: Floricultura
+Extra Pay: Beef Bowl=Pagamento Extra: Tigela de Carne
+Extra Pay: Crêpe=Pagamento Extra: Crêpe
+Extra Pay: Drugstore=Pagamento Extra: Farmácia
+Extra Pay: Heritage=Pagamento Extra: Herança
+Bath Effect Up=Efeito do Banho Aumentado
+Movie Effect Up=Efeito do Filme Aumentado
+Gym Effect Up=Efeito da Academia Aumentado
+Synergy Up 1=Sinergia Aumentada 1
+Synergy Up 2=Sinergia Aumentada 2
+Rare Capsule Rate Up=Taxa de Cápsula Rara Aumentada
+Extra Pay: Hinokuniya=Pagamento Extra: Hinokuniya
+Extra Pay: Yakiniku=Pagamento Extra: Yakiniku
+Daisy Seeds=Sementes de Margarida
+Lily Seeds=Sementes de Lírio
+Jasmine Seeds=Sementes de Jasmim
+Camellia Seeds=Sementes de Camélia
+Osmanthus Seeds=Sementes de Osmanthus
+Unknown Seeds=Sementes Desconhecidas
+Mysterious Seeds=Sementes Misteriosas
+Cabbage Seeds=Sementes de Repolho
+Winter Melon Seeds=Sementes de Melão de Inverno
+Potato Seeds=Sementes de Batata
+Napa Seeds=Sementes de Acelga
+Onion Seeds=Sementes de Cebola
+Tomato Seeds=Sementes de Tomate
+Mystical Seeds=Sementes Místicas
+Daisies=Margaridas
+Sunflowers=Girassóis
+Jasmine=Jasmim
+Camellias=Camélias
+Osmanthuses=Osmanthus
+Lilies=Lírios
+Violets=Violetas
+Cosmos=Cosmos
+Cabbage=Repolho
+Winter Melon=Melão de Inverno
+Onion=Cebola
+Carrots=Cenouras
+Potato=Batata
+Napa Cabbage=Acelga
+Tomato=Tomate
+Chili Pepper=Pimenta
+Extra-Strength Nutrients=Nutrientes Extrafortes
+Garden Energy=Energia do Jardim
+Bio Nutrients=Bionutrientes
+Natural Nutrients=Nutrientes Naturais
+The Chivalrous Jánošík=O Cavalheiresco Jánošík
+Scarlet Pride=Orgulho Escarlate
+Queen of the Seas=Rainha dos Mares
+Smuggler on Horseback=Contrabandista a Cavalo
+The Kunoichi's Path=O Caminho da Kunoichi
+Brigante Buono=Brigante Buono
+The Witch's Kiss=O Beijo da Bruxa
+Rosina's Engagement=O Noivado de Rosina
+Forest on the Board=Floresta no Tabuleiro
+Dance of Vengeance=Dança da Vingança
+Grasping Victory=Agarrando a Vitória
+Charisma 101=Carisma 101
+Suspect Y's Sacrifice=O Sacrifício do Suspeito Y
+Comprehensive Yoga=Ioga Abrangente
+Apathy in the Modern Age=Apatia na Era Moderna
+Mirika the Witch=Mirika, a Bruxa
+Weaving Fate=Tecendo o Destino
+What It Means to Fail=O Que Significa Falhar
+The Castle of Frost=O Castelo de Geada
+By the Window=À Janela
+I Am a Dog=Eu Sou um Cachorro
+Top-Secret Sakura Spots=Locais Ultrassecretos de Sakura
+All about Skytree=Tudo Sobre a Skytree
+The World of Art=O Mundo da Arte
+Science Savvy: Stars=Afinidade com a Ciência: Estrelas
+Secret Librarian Skills=Habilidades Secretas de Bibliotecário
+Delectable Desserts!=Sobremesas Deliciosas!
+The Language of Flowers=A Linguagem das Flores
+Choosing the Right Gift=Escolhendo o Presente Certo
+The Ingredients Spoketh=Os Ingredientes Falaram
+Analysis of Film=Análise de Filmes
+Quick Relaxation Methods=Métodos de Relaxamento Rápido
+MUSCLES!=MÚSCULOS!
+Encapsulated Mysteries=Mistérios Encapsulados
+All about First Aid=Tudo Sobre Primeiros Socorros
+Fast Food Finesse=Fineza do Fast Food
+Convenience Store Clout=Influência da Loja de Conveniência
+The Art of Kabuki=A Arte do Kabuki
+Keiun Chronicles=Crônicas de Keiun
+Cyber Ninjutsu Scrolls=Pergaminhos de Ninjutsu Cibernético
+Starvation of the Mind=Inanição da Mente
+Legend of the Ronin=Lenda do Ronin
+Menswear Monthly=Roupa Masculina Mensal
+Featherman: A Corpus=Featherman: Um Corpus
+Devil School Summoners=Invocadores da Escola Demoníaca
+Exchange Code 1=Código de Troca 1
+Exchange Code 2=Código de Troca 2
+Exchange Code 3=Código de Troca 3
+Panther Avatar=Avatar da Panther
+Skull Avatar=Avatar do Skull
+Fox Avatar=Avatar da Fox
+Queen Avatar=Avatar da Queen
+Yuki Avatar=Avatar da Yuki
+Crow Avatar=Avatar do Crow
+Cattle Avatar=Avatar do Cattle
+Mona Avatar=Avatar do Mona
+Noir Avatar=Avatar da Noir
+Personal Avatar=Avatar Pessoal
+Wonder Avatar=Avatar do Wonder
+Fleuret Avatar=Avatar da Fleuret
+Key Avatar=Avatar da Key
+Soy Avatar=Avatar da Soy
+Mont Avatar=Avatar do Mont
+Leon Avatar=Avatar do Leon
+Closer Avatar=Avatar da Closer
+Moko Avatar=Avatar da Moko
+Oracle Avatar=Avatar do Oracle
+Okyann Avatar=Avatar da Okyann
+Rin Avatar=Avatar da Rin
+Joker Avatar=Avatar do Joker
+Ann Avatar=Avatar da Ann
+Ryuji Avatar=Avatar do Ryuji
+Yusuke Avatar=Avatar do Yusuke
+Makoto Avatar=Avatar da Makoto
+Yukimi Avatar=Avatar da Yukimi
+Akechi Avatar=Avatar do Akechi
+Lufel Avatar=Avatar do Lufel
+Haru Avatar=Avatar da Haru
+Shiratori Avatar=Avatar da Shiratori
+Kurotani Avatar=Avatar da Kurotani
+Shun Avatar=Avatar do Shun
+Kotone Avatar=Avatar da Kotone
+Kamiyama Avatar=Avatar do Kamiyama
+Motoha Avatar=Avatar da Motoha
+Tomoko Avatar=Avatar da Tomoko
+Futaba Avatar=Avatar da Futaba
+Tomiyama Avatar=Avatar do Tomiyama
+Yaoling Avatar=Avatar da Yaoling
+Ren Avatar=Avatar do Ren
+Riko Avatar=Avatar da Riko
+Merope Avatar=Avatar da Merope
+Bui Avatar=Avatar do Bui
+Sepia Avatar=Avatar da Sepia
+Puppet Avatar=Avatar da Puppet
+Riddle Avatar=Avatar do Riddle
+Sumi Avatar=Avatar da Sumi
+Miyu Avatar=Avatar da Miyu
+Haruna Avatar=Avatar da Haruna
+Wind Avatar=Avatar do Wind
+Yui Avatar=Avatar da Yui
+Friend Yui Avatar=Avatar de Amiga Yui
+Friend Lufel Avatar=Avatar de Amigo Lufel
+Friend Motoha Avatar=Avatar de Amiga Motoha
+Soulmate Motoha Avatar=Avatar de Alma Gêmea Motoha
+Friend Kurotani Avatar=Avatar de Amiga Kurotani
+Partner Kurotani Avatar=Avatar de Parceira Kurotani
+Friend Tomoko Avatar=Avatar de Amiga Tomoko
+Soulmate Tomoko Avatar=Avatar de Alma Gêmea Tomoko
+Concierge Merope Avatar=Avatar de Concierge Merope
+Friend Tomiyama Avatar=Avatar de Amigo Tomiyama
+Friend Yaoling Avatar=Avatar de Amiga Yaoling
+Soulmate Yaoling Avatar=Avatar de Alma Gêmea Yaoling
+Friend Shun Avatar=Avatar de Amigo Shun
+Friend Kotone Avatar=Avatar de Amiga Kotone
+Soulmate Kotone Avatar=Avatar de Alma Gêmea Kotone
+Partner Shun Avatar=Avatar de Parceiro Shun
+Friend Riko Avatar=Avatar de Amiga Riko
+Soulmate Riko Avatar=Avatar de Alma Gêmea Riko
+Dream Boy Avatar=Avatar de Garoto dos Sonhos
+Morgana Avatar=Avatar do Morgana
+Minami Avatar=Avatar da Minami
+Marian Avatar=Avatar da Marian
+Chizuko Avatar=Avatar da Chizuko
+Vino Avatar=Avatar do Vino
+Yumi Avatar=Avatar da Yumi
+Phoebe Avatar=Avatar da Phoebe
+Friend Yumi Avatar=Avatar de Amiga Yumi
+Soulmate Yumi Avatar=Avatar de Alma Gêmea Yumi
+Friend Ayaka Avatar=Avatar de Amiga Ayaka
+Soulmate Ayaka Avatar=Avatar de Alma Gêmea Ayaka
+Ayaka Avatar=Avatar da Ayaka
+Chord Avatar=Avatar do Chord
+Summer Motoha Icon=Ícone da Motoha de Verão
+Summer Closer Icon=Ícone da Closer de Verão
+Friend Miyu Avatar=Avatar de Amiga Miyu
+Soulmate Miyu Avatar=Avatar de Alma Gêmea Miyu
+Friend Kitazato Avatar=Avatar de Amigo Kitazato
+Friend Ashiya Avatar=Avatar de Amigo Ashiya
+Summer Tomoko Icon=Ícone da Tomoko de Verão
+Summer Moko Icon=Ícone da Moko de Verão
+Kitazato Avatar=Avatar do Kitazato
+Messa Avatar=Avatar da Messa
+Ashiya Avatar=Avatar do Ashiya
+Cherish Avatar=Avatar da Cherish
+Potential for Hope=Potencial para a Esperança
+The Velvet Room=O Quarto de Veludo
+Fiery Home Run=Home Run Ardente
+Wings of Faith=Asas da Fé
+Fisherman's Pride=Orgulho do Pescador
+Baseball Spirit=Espírito do Beisebol
+Flames of Awakening=Chamas do Despertar
+Mystery Files X=Arquivos X do Mistério
+May Flowers=Flores de Maio
+Exhilarating!=Empolgante!
+Ace Striker=Atacante Ás
+Youth Amplifier=Amplificador da Juventude
+Windward Kite=Pipa a Barlavento
+Stitched Dreams=Sonhos Costurados
+Ramen Western=Faroeste de Ramen
+Free to Stroll=Livre para Passear
+Crystal Clear=Claro como Cristal
+They're the Best=Eles São os Melhores
+Strawberry Cream=Creme de Morango
+To You, With Love=Para Você, Com Amor
+Duck Hot Pot=Ensopado de Pato
+Photo Booth Frame=Moldura de Cabine de Fotos
+Dreams within Reach=Sonhos ao Alcance
+Virtual World Resident=Residente do Mundo Virtual
+That First Sip=Aquele Primeiro Gole
+Rose Gift=Presente de Rosa
+The Golden Rule=A Regra de Ouro
+PC Player=Jogador de PC
+Baidu Map=Baidu Map
+JD=JD
+Oishi=Oishi
+Meitu=Meitu
+Golden Land=Terra Dourada
+Warm Welcome=Boas-vindas Calorosas
+Spring Holiday=Feriado de Primavera
+Winged Rebel=Rebelde Alado
+Tea O'Clock=Hora do Chá
+Marthym's Rewards=Recompensas de Marthym
+Notes and Rhythm=Notas e Ritmo
+Boy Meets Girl=Garoto Conhece Garota
+Moonlit Dance=Dança ao Luar
+Nightcap=Saideira
+Tango no Sekku=Tango no Sekku
+Chabaidao=Chabaidao
+Summer Memory=Memória de Verão
+Dreams of the Deep=Sonhos das Profundezas
+From the Seafoam=Da Espuma do Mar
+Blooming Osmanthus=Osmanthus em Flor
+Through the Seasons=Através das Estações
+Melting Pot=Caldeirão de Culturas
+Operation Time=Tempo da Operação
+8★ C1=8★ C1
+Long Fall Nights=Longas Noites de Outono
+Half Anniversary=Meio Aniversário
+Consideration=Consideração
+Beautiful Icy Wind=Belo Vento Gelado
+Lovely Icy Wind=Adorável Vento Gelado
+Classic Icon Frame 31=Moldura de Ícone Clássica 31
+Classic Icon Frame 32=Moldura de Ícone Clássica 32
+Classic Icon Frame 33=Moldura de Ícone Clássica 33
+Classic Icon Frame 34=Moldura de Ícone Clássica 34
+Classic Icon Frame 35=Moldura de Ícone Clássica 35
+Classic Icon Frame 36=Moldura de Ícone Clássica 36
+Classic Icon Frame 37=Moldura de Ícone Clássica 37
+Classic Icon Frame 38=Moldura de Ícone Clássica 38
+Classic Icon Frame 39=Moldura de Ícone Clássica 39
+Classic Icon Frame 40=Moldura de Ícone Clássica 40
+Classic Icon Frame 41=Moldura de Ícone Clássica 41
+Classic Icon Frame 42=Moldura de Ícone Clássica 42
+Classic Icon Frame 43=Moldura de Ícone Clássica 43
+Classic Icon Frame 44=Moldura de Ícone Clássica 44
+Classic Icon Frame 45=Moldura de Ícone Clássica 45
+Classic Icon Frame 46=Moldura de Ícone Clássica 46
+Classic Icon Frame 47=Moldura de Ícone Clássica 47
+Kokatsu Academy=Academia Kokatsu
+Concierge=Concierge
+Flash of Lightning=Clarão de Relâmpago
+Swift Owl=Coruja Veloz
+Infiltrator=Infiltrador
+Chosen One=O Escolhido
+Watcher of the City=Vigia da Cidade
+Online World=Mundo Online
+The Final Pitch=O Lançamento Final
+A Lovely Moment=Um Momento Adorável
+Floral Plum Blossoms=Ameixeiras Floridas
+Choose Your Favorite=Escolha o seu Favorito
+Mealtime Cowboy=Cowboy na Refeição
+Awakening Lion=Leão Despertando
+Busting Out Pages=Virando as Páginas
+Anonymous Mission=Missão Anônima
+Baidu Map Collab=Colab com Baidu Map
+JD Collab=Colab com JD
+Oishi Collab=Colab com Oishi
+Meitu Collab=Colab com Meitu
+In the Name of Desire=Em Nome do Desejo
+Thank-You Card=Cartão de Agradecimento
+Golden Week=Semana Dourada
+Interlaced Desires=Desejos Entrelaçados
+White Rabbit Encounter=Encontro com o Coelho Branco
+Welcome=Boas-vindas
+Mystery and Adventure=Mistério e Aventura
+Hopping Heart=Coração Saltitante
+A Night Together=Uma Noite Juntos
+Dragon Boat Race=Corrida de Barco-dragão
+Chabaidao Collab=Colab com Chabaidao
+Sea Time!=Hora do Mar!
+Mermaid's Treasure=Tesouro da Sereia
+Harvest moon=Lua da Colheita
+Forerunner=Precursor
+Graffiti Days=Dias de Grafite
+Super Gamers=Super Gamers
+Life with Flowers=Vida com Flores
+Phantom Collector=Colecionador Fantasma
+Garden Picnic=Piquenique no Jardim
+Fairy Tale=Conto de Fadas
+Classic Profile Card Design 24=Design de Cartão de Perfil Clássico 24
+Classic Profile Card Design 25=Design de Cartão de Perfil Clássico 25
+Gliding on the Ice=Deslizando no Gelo
+Classic Profile Card Design 27=Design de Cartão de Perfil Clássico 27
+Classic Profile Card Design 28=Design de Cartão de Perfil Clássico 28
+Classic Profile Card Design 29=Design de Cartão de Perfil Clássico 29
+Classic Profile Card Design 30=Design de Cartão de Perfil Clássico 30
+Classic Profile Card Design 31=Design de Cartão de Perfil Clássico 31
+Classic Profile Card Design 32=Design de Cartão de Perfil Clássico 32
+Classic Profile Card Design 33=Design de Cartão de Perfil Clássico 33
+Classic Profile Card Design 34=Design de Cartão de Perfil Clássico 34
+Classic Profile Card Design 35=Design de Cartão de Perfil Clássico 35
+Classic Profile Card Design 36=Design de Cartão de Perfil Clássico 36
+Classic Profile Card Design 37=Design de Cartão de Perfil Clássico 37
+Classic Profile Card Design 38=Design de Cartão de Perfil Clássico 38
+Classic Profile Card Design 39=Design de Cartão de Perfil Clássico 39
+Classic Profile Card Design 40=Design de Cartão de Perfil Clássico 40
+Classic Profile Card Design 41=Design de Cartão de Perfil Clássico 41
+Classic Profile Card Design 42=Design de Cartão de Perfil Clássico 42
+Classic Profile Card Design 43=Design de Cartão de Perfil Clássico 43
+Classic Profile Card Design 44=Design de Cartão de Perfil Clássico 44
+Classic Profile Card Design 45=Design de Cartão de Perfil Clássico 45
+Classic Profile Card Design 46=Design de Cartão de Perfil Clássico 46
+Classic Profile Card Design 47=Design de Cartão de Perfil Clássico 47
+Classic Profile Card Design 48=Design de Cartão de Perfil Clássico 48
+Classic Profile Card Design 49=Design de Cartão de Perfil Clássico 49
+Classic Profile Card Design 50=Design de Cartão de Perfil Clássico 50
+Kokatsu Academy Emblem=Emblema da Academia Kokatsu
+Fishing Master=Mestre da Pesca
+Baseball Pro=Profissional do Beisebol
+I Am Thou...=Eu sou Tu...
+1★ C1=1★ C1
+1★ C2=1★ C2
+1★ C3=1★ C3
+1★ C4=1★ C4
+1★ C5=1★ C5
+2★ C1=2★ C1
+2★ C2=2★ C2
+2★ C3=2★ C3
+2★ C4=2★ C4
+2★ C5=2★ C5
+Sightseer=Turista
+Explorer=Explorador
+Wayfarer=Viajante
+Trailblazer=Desbravador
+Globetrotter=Trotamundos
+Intersecting Fates=Destinos que se Cruzam
+Soccer Team Badge=Insígnia do Time de Futebol
+Ordinary Line Course 3=Curso da Linha Comum 3
+Desire Line Course 5=Curso da Linha do Desejo 5
+Desire Line Course 6=Curso da Linha do Desejo 6
+Hope Line Course 6=Curso da Linha da Esperança 6
+Hope Line Course 7=Curso da Linha da Esperança 7
+Hope Line Course 8=Curso da Linha da Esperança 8
+Ambition Line Course 6=Curso da Linha da Ambição 6
+Ambition Line Course 7=Curso da Linha da Ambição 7
+Ambition Line Course 8=Curso da Linha da Ambição 8
+Wish Line Course 6=Curso da Linha do Anseio 6
+Wish Line Course 7=Curso da Linha do Anseio 7
+Wish Line Course 8=Curso da Linha do Anseio 8
+Hall of Fame: Perfect=Hall da Fama: Perfeito
+Hall of Fame: Legend=Hall da Fama: Lenda
+Hall of Fame: Elite=Hall da Fama: Elite
+Journey to Desire: Silver=Jornada para o Desejo: Prata
+Journey to Desire: Gold=Jornada para o Desejo: Ouro
+Journey to Desire: Rainbow=Jornada para o Desejo: Arco-íris
+Martial Arts: Silver=Artes Marciais: Prata
+Martial Arts: Gold=Artes Marciais: Ouro
+Martial Arts: Rainbow=Artes Marciais: Arco-íris
+Social Media Bonds: Silver=Laços da Mídia Social: Prata
+Social Media Bonds: Gold=Laços da Mídia Social: Ouro
+Social Media Bonds: Rainbow=Laços da Mídia Social: Arco-íris
+Persona Master: Silver=Mestre de Personas: Prata
+Persona Master: Gold=Mestre de Personas: Ouro
+Persona Master: Rainbow=Mestre de Personas: Arco-íris
+City Life: Silver=Vida na Cidade: Prata
+City Life: Gold=Vida na Cidade: Ouro
+City Life: Rainbow=Vida na Cidade: Arco-íris
+Metaverse Wayfarer: Silver=Viajante do Metaverso: Prata
+Metaverse Wayfarer: Gold=Viajante do Metaverso: Ouro
+Metaverse Wayfarer: Rainbow=Viajante do Metaverso: Arco-íris
+Superstar: Silver=Superstar: Prata
+Superstar: Gold=Superstar: Ouro
+Superstar: Rainbow=Superstar: Arco-íris
+The Sweet Life: Silver=A Doce Vida: Prata
+The Sweet Life: Gold=A Doce Vida: Ouro
+The Sweet Life: Rainbow=A Doce Vida: Arco-íris
+Baseball Stadium Clear=Conclusão do Estádio de Beisebol
+Castle Clear=Conclusão do Castelo
+Hall of Fame: Veteran=Hall da Fama: Veterano
+Hall of Fame: Rookie=Hall da Fama: Novato
+Joker Badge=Insígnia do Joker
+Mona Badge=Insígnia do Mona
+Skull Badge=Insígnia do Skull
+Panther Badge=Insígnia da Panther
+Riddle Badge=Insígnia do Riddle
+Rin Badge=Insígnia da Rin
+Bui Badge=Insígnia do Bui
+Brawl Bots Master=Mestre dos Robôs de Briga
+Seeker: Castle=Buscador: Castelo
+Marian Badge=Insígnia da Marian
+Fox Badge=Insígnia da Fox
+Queen Badge=Insígnia da Queen
+Phoebe Badge=Insígnia da Phoebe
+Chord Badge=Insígnia do Chord
+Closer Badge=Insígnia da Closer
+Moko Badge=Insígnia da Moko
+Dam Clear=Conclusão da Represa
+Oracle Badge=Insígnia do Oracle
+Noir Badge=Insígnia da Noir
+Cherish Badge=Insígnia da Cherish
+Mont Badge=Insígnia do Mont
+Under Development=Em Desenvolvimento
+3★ C1=3★ C1
+3★ C2=3★ C2
+3★ C3=3★ C3
+3★ C4=3★ C4
+3★ C5=3★ C5
+4★ C1=4★ C1
+4★ C2=4★ C2
+4★ C3=4★ C3
+4★ C4=4★ C4
+4★ C5=4★ C5
+5★ C1=5★ C1
+5★ C2=5★ C2
+5★ C3=5★ C3
+5★ C4=5★ C4
+5★ C5=5★ C5
+6★ C1=6★ C1
+6★ C2=6★ C2
+6★ C3=6★ C3
+6★ C4=6★ C4
+6★ C5=6★ C5
+7★ C1=7★ C1
+7★ C2=7★ C2
+7★ C3=7★ C3
+An Icy Wind Encountered=Um Vento Gelado Encontrado
+An Icy Wind Understood=Um Vento Gelado Compreendido
+Edge of Encounter=Limiar do Encontro
+Blades of Unity=Lâminas da Unidade
+An Icy Wind Bonded=Um Vento Gelado Conectado
+7★ C4=7★ C4
+7★ C5=7★ C5
+Seeker: Bank=Buscador: Banco
+Seeker: Museum=Buscador: Museu
+8★ C2=8★ C2
+8★ C3=8★ C3
+8★ C4=8★ C4
+8★ C5=8★ C5
+Blooming Plum Blossoms=Ameixeiras em Flor
+Silver Shooter=Atirador de Prata
+Gold Shooter=Atirador de Ouro
+Platinum Shooter=Atirador de Platina
+Shield of Thorns: Rookie=Escudo de Espinhos: Novato
+Shield of Thorns: Veteran=Escudo de Espinhos: Veterano
+Shield of Thorns: Elite=Escudo de Espinhos: Elite
+Shield of Thorns: Legend=Escudo de Espinhos: Lenda
+Sword of Thorns: Rookie=Espada de Espinhos: Novato
+Sword of Thorns: Veteran=Espada de Espinhos: Veterano
+Sword of Thorns: Elite=Espada de Espinhos: Elite
+Sword of Thorns: Legend=Espada de Espinhos: Lenda
+Soothing Winged Embrace=Abraço Alado Suavizante
+Daybreak: Silver=Alvorada: Prata
+Daybreak: Gold=Alvorada: Ouro
+Daybreak: Rainbow=Alvorada: Arco-íris
+Daybreak: Holo=Alvorada: Holográfico
+Starry Night: Silver=Noite Estrelada: Prata
+Starry Night: Gold=Noite Estrelada: Ouro
+Starry Night: Rainbow=Noite Estrelada: Arco-íris
+Starry Night: Holo=Noite Estrelada: Holográfico
+An Asklepian Encountered=Um Asclépio Encontrado
+An Asklepian Understood=Um Asclépio Compreendido
+An Asklepian Bonded=Um Asclépio Conectado
+Seeker: Royal Tomb=Buscador: Tumba Real
+Apt Commander of Wrath=Comandante Apto da Ira
+Firm Commander of Wrath=Comandante Firme da Ira
+Prolific Commander of Wrath=Comandante Prolífico da Ira
+Total Commander of Wrath=Comandante Total da Ira
+Lead for the Day=Líder do Dia
+A Rose Encountered=Uma Rosa Encontrada
+A Rose Understood=Uma Rosa Compreendida
+A Rose Bonded=Uma Rosa Conectada
+Seeker: Space=Buscador: Espaço
+Apt Commander of Lust=Comandante Apta da Luxúria
+Wish upon a Star=Faça um Pedido a uma Estrela
+Firm Commander of Lust=Comandante Firme da Luxúria
+Prolific Commander of Lust=Comandante Prolífica da Luxúria
+Total Commander of Lust=Comandante Total da Luxúria
+You're a Tycoon=Você é um Magnata
+Swindler's Dream=Sonho do Vigarista
+Beggar=Mendigo
+Staunchly Poor=Inabalavelmente Pobre
+Quite Poor=Bastante Pobre
+Ordinarily Poor=Normalmente Pobre
+Somewhat Poor=Um Tanto Pobre
+Barely Poor=Quase Pobre
+Ordinarily Common=Normalmente Comum
+Somewhat Common=Um Tanto Comum
+Richly Common=Ricamente Comum
+Gorgeously Common=Lindamente Comum
+Ordinarily Rich=Normalmente Rico
+Millionaire=Milionário
+Multimillionaire=Multimilionário
+Billionaire=Bilionário
+Legendary Tycoon=Magnata Lendário
+Enlightening Planetarium: Silver=Planetário Iluminador: Prata
+Enlightening Planetarium: Gold=Planetário Iluminador: Ouro
+Enlightening Planetarium: Rainbow=Planetário Iluminador: Arco-íris
+Enlightening Planetarium: Holo=Planetário Iluminador: Holográfico
+Error: tnxotb-[Item_name_314999]=Erro: tnxotb-[Item_name_314999]
+Nightmare's Gatekeepers=Guardiões do Pesadelo
+Starlike Scintillators=Cintiladores Estelares
+Dragonlike Fiends=Demônios Draconianos
+Mighty Warriors=Guerreiros Poderosos
+Unshakable Stoics=Estóicos Inabaláveis
+Batting Coupon=Cupom de Rebatida
+Name Change Ticket=Bilhete de Mudança de Nome
+OT Premium Probiotic=Probiótico OT Premium
+Peach Water=Água de Pêssego
+Orange Soda=Refrigerante de Laranja
+Fruit Juice=Suco de Frutas
+Sparkling Lemon Water=Água com Gás Sabor Limão
+Tiger Tea=Chá do Tigre
+Plum Juice=Suco de Ameixa
+Melon Smoothie=Smoothie de Melão
+Apple Juice=Suco de Maçã
+Vegetable Juice=Suco de Vegetais
+Luxury Barley Tea=Chá de Cevada de Luxo
+Dark Green Medley=Misto Verde Escuro
+Pickle Ramune=Ramune de Picles
+Salted Lemonade=Limonada Salgada
+Premium Shake=Shake Premium
+Premium Probiotic=Probiótico Premium
+Cardio Crunch Sundae=Sundae Crocante Cardíaco
+Japanese Black Beef Bowl=Tigela de Carne Black Japonês
+Blue Planet=Planeta Azul
+Lobster Burger=Hambúrguer de Lagosta
+Lobster Sandwich=Sanduíche de Lagosta
+Soba=Sobá
+Boiled Egg=Ovo Cozido
+Vanilla Ice Cream=Sorvete de Baunilha
+Marbled Beef Bowl=Tigela de Carne Marmorizada
+Spray-On Dye=Tinta em Spray
+Casual Clothes=Roupas Casuais
+Loungewear=Roupa de Casa
+Default Headwear Outfit=Traje com Acessório de Cabeça Padrão
+Gray Leather Shoulder Bag=Bolsa de Ombro de Couro Cinza
+Red Leather Shoulder Bag=Bolsa de Ombro de Couro Vermelha
+Kokatsu Academy Bag=Bolsa da Academia Kokatsu
+Black Shoulder Bag=Bolsa de Ombro Preta
+Default Casualwear=Roupa Casual Padrão
+Kokatsu Academy Blazer=Blazer da Academia Kokatsu
+Kokatsu Academy Slacks=Calça Social da Academia Kokatsu
+Everyday Sneakers=Tênis do Dia a Dia
+Black & Red Shoulder Bag=Bolsa de Ombro Preta e Vermelha
+White & Orange Shoulder Bag=Bolsa de Ombro Branca e Laranja
+Navy Shoulder Bag=Bolsa de Ombro Azul-marinho
+Brown Leather Shoulder Bag=Bolsa de Ombro de Couro Marrom
+Pink Shoulder Bag=Bolsa de Ombro Rosa
+Red Shoulder Bag=Bolsa de Ombro Vermelha
+Aqua Shoulder Bag=Bolsa de Ombro Água
+Green Character Bag=Bolsa de Personagem Verde
+Navy and Orange Shoulder Bag=Bolsa de Ombro Azul-marinho e Laranja
+Yellow Character Bag=Bolsa de Personagem Amarela
+Navy & Red Shoulder Bag=Bolsa de Ombro Azul-marinho e Vermelha
+White Shoulder Bag=Bolsa de Ombro Branca
+Blue Character Bag=Bolsa de Personagem Azul
+Red Sunglasses=Óculos de Sol Vermelhos
+Artsy Shoulder Bag=Bolsa de Ombro Artística
+Indigo Jacket=Jaqueta Índigo
+Brown Capris=Calça Capri Marrom
+Canvas Sneakers=Tênis de Lona
+Gray Jacket=Jaqueta Cinza
+Gray Capris=Calça Capri Cinza
+Blue Jacket=Jaqueta Azul
+Black Capris=Calça Capri Preta
+Navy Jacket=Jaqueta Azul-marinho
+Blue Capris=Calça Capri Azul
+White & Blue Layers=Camadas Brancas e Azuis
+Blue Denim Pants=Calça Jeans Azul
+Blue Sneakers=Tênis Azul
+Purple & Green Layers=Camadas Roxas e Verdes
+Purple Denim Pants=Calça Jeans Roxa
+Purple Sneakers=Tênis Roxo
+Blue & Gray Layers=Camadas Azuis e Cinzas
+Gray Denim Pants=Calça Jeans Cinza
+Gray Sneakers=Tênis Cinza
+Black & White Layers=Camadas Pretas e Brancas
+Black Denim Pants=Calça Jeans Preta
+Black Sneakers=Tênis Preto
+Blue Casual Shirt=Camisa Casual Azul
+Blue Casual Pants=Calça Casual Azul
+Sneakers=Tênis
+Black Casual Shirt=Camisa Casual Preta
+Gray Casual Pants=Calça Casual Cinza
+White & Brown Sneakers=Tênis Branco e Marrom
+Gray Casual Shirt=Camisa Casual Cinza
+Black Casual Pants=Calça Casual Preta
+Black & White Sneakers=Tênis Preto e Branco
+Pink Casual Shirt=Camisa Casual Rosa
+Beige Casual Pants=Calça Casual Bege
+Pink & White Sneakers=Tênis Rosa e Branco
+Gray Blazer=Blazer Cinza
+White Cuffed Pants=Calça com Punho Branca
+Black Buckle Boots=Botas com Fivela Pretas
+Checkered Blazer=Blazer Xadrez
+Purple Cuffed Pants=Calça com Punho Roxa
+Brown Strapped Boots=Botas com Tiras Marrons
+Brown Blazer=Blazer Marrom
+Navy Cuffed Pants=Calça com Punho Azul-marinho
+Gray Strapped Boots=Botas com Tiras Cinzas
+Ivory Blazer=Blazer Marfim
+Gray Cuffed Pants=Calça com Punho Cinza
+Beige Strapped Boots=Botas com Tiras Bege
+Blazer=Blazer
+Gray Slacks=Calça Social Cinza
+Designer Shoes=Sapatos de Grife
+Beige Blazer=Blazer Bege
+White Slacks=Calça Social Branca
+Brown Designer Shoes=Sapatos de Grife Marrons
+Blue Blazer=Blazer Azul
+Purple Slacks=Calça Social Roxa
+Orange Designer Shoes=Sapatos de Grife Laranjas
+Green Blazer=Blazer Verde
+Brown Slacks=Calça Social Marrom
+Black Designer Shoes=Sapatos de Grife Pretos
+Platinum Blouson=Blusão de Platina
+Ombre Denim=Jeans Ombré
+White Sneakers=Tênis Branco
+Reflective Blouson=Blusão Refletivo
+Designer Pants=Calça de Grife
+High-Top Shoes=Tênis de Cano Alto
+Studded Jacket=Jaqueta com Tachas
+Leather Pants=Calça de Couro
+Short Boots=Botas Curtas
+Leather Gloves=Luvas de Couro
+White Linen Shirt=Camisa de Linho Branca
+Checkered Pants=Calça Xadrez
+White Leather Shoes=Sapatos de Couro Brancos
+Newsboy Cap=Boina
+Checkered Jacket=Jaqueta Xadrez
+Black Slacks=Calça Social Preta
+Brown Loafers=Mocassins Marrons
+Sportswear=Roupa Esportiva
+Stretchy Pants=Calça Elástica
+High-tops=Tênis de Cano Alto
+Studded Gloves=Luvas com Tachas
+White Beanie=Gorro Branco
+Pink Shell Jacket=Jaqueta Corta-Vento Rosa
+Cargo Pants=Calça Cargo
+Black Thigh-Highs=Meias 7/8 Pretas
+Nylon Gloves=Luvas de Nylon
+Green Beanie=Gorro Verde
+Green Shell Jacket=Jaqueta Corta-Vento Verde
+Orange Line Cargo Pants=Calça Cargo com Listra Laranja
+Gray Thigh-Highs=Meias 7/8 Cinzas
+Orange Nylon Gloves=Luvas de Nylon Laranjas
+Light Gray Beanie=Gorro Cinza-claro
+Blue Shell Jacket=Jaqueta Corta-Vento Azul
+White Line Cargo Pants=Calça Cargo com Listra Branca
+Light Gray Thigh-Highs=Meias 7/8 Cinza-claras
+White Nylon Gloves=Luvas de Nylon Brancas
+Gray Beanie=Gorro Cinza
+Brown Shell Jacket=Jaqueta Corta-Vento Marrom
+Pink Line Cargo Pants=Calça Cargo com Listra Rosa
+Brown Thigh-Highs=Meias 7/8 Marrons
+Gray Nylon Gloves=Luvas de Nylon Cinzas
+Purple Silk Hat=Cartola de Seda Roxa
+Purple Silk Jacket=Jaqueta de Seda Roxa
+Purple Silk Slacks=Calça Social de Seda Roxa
+Purple Designer Shoes=Sapatos de Grife Roxos
+Purple Leather Gloves=Luvas de Couro Roxas
+Light Blue Beanie=Gorro Azul-claro
+Aqua Short Blouson=Blusão Curto Água
+Light Blue Designer Denim=Jeans de Grife Azul-claro
+Blue Tech Sneakers=Tênis Tech Azuis
+Blue Beanie=Gorro Azul
+Navy Short Blouson=Blusão Curto Azul-marinho
+Blue Designer Denim=Jeans de Grife Azuis
+Aqua Tech Sneakers=Tênis Tech Água
+Red Beanie=Gorro Vermelho
+Black Short Blouson=Blusão Curto Preto
+Black Designer Denim=Jeans de Grife Pretos
+Red Tech Sneakers=Tênis Tech Vermelhos
+Purple Beanie=Gorro Roxo
+Purple Short Blouson=Blusão Curto Roxo
+Purple Designer Denim=Jeans de Grife Roxos
+Purple Tech Sneakers=Tênis Tech Roxos
+Blue Town Outfit=Traje da Cidade Azul
+School Uniform=Uniforme Escolar
+Gray Town Outfit=Traje da Cidade Cinza
+Indigo Town Outfit=Traje da Cidade Índigo
+Navy Town Outfit=Traje da Cidade Azul-marinho
+White Holiday Outfit=Traje de Feriado Branco
+Purple Holiday Outfit=Traje de Feriado Roxo
+Blue Holiday Outfit=Traje de Feriado Azul
+Black Holiday Outfit=Traje de Feriado Preto
+Gray Mokokuma Pj's=Pijama Mokokuma Cinza
+Pink Mokokuma Pj's=Pijama Mokokuma Rosa
+Blue Mokokuma Pj's=Pijama Mokokuma Azul
+Brown Mokokuma Pj's=Pijama Mokokuma Marrom
+Comfy Loungewear=Roupa de Casa Confortável
+Vibrant Loungewear=Roupa de Casa Vibrante
+Striped Loungewear=Roupa de Casa Listrada
+Fun Loungewear=Roupa de Casa Divertida
+Cyan Summer Outfit=Traje de Verão Ciano
+Black Summer Outfit=Traje de Verão Preto
+Gray Summer Outfit=Traje de Verão Cinza
+Pink Summer Outfit=Traje de Verão Rosa
+School Outfit=Traje Escolar
+Purple School Outfit=Traje Escolar Roxo
+Brown School Outfit=Traje Escolar Marrom
+Green School Outfit=Traje Escolar Verde
+Casual Outfit=Traje Casual
+Brown Casual Outfit=Traje Casual Marrom
+Blue Casual Outfit=Traje Casual Azul
+Green Casual Outfit=Traje Casual Verde
+White Street Outfit=Traje Urbano Branco
+Black Street Outfit=Traje Urbano Preto
+Rocker Outfit=Traje de Roqueiro
+Blue Flowy Pj's=Pijama Leve Azul
+Green Flowy Pj's=Pijama Leve Verde
+Kitty Pajamas=Pijama de Gatinho
+Orange Bucket Hat=Chapéu Bucket Laranja
+Orange Designer Cap=Boné de Grife Laranja
+White Cotton Pants=Calça de Algodão Branca
+Brown Fringe Boots=Botas com Franja Marrons
+Lime Bucket Hat=Chapéu Bucket Limão
+Cyan Designer Cap=Boné de Grife Ciano
+Blue Cotton Pants=Calça de Algodão Azul
+Beige Fringe Boots=Botas com Franja Beges
+Brown Bucket Hat=Chapéu Bucket Marrom
+Green Designer Cap=Boné de Grife Verde
+Ivory Cotton Pants=Calça de Algodão Marfim
+Green Fringe Boots=Botas com Franja Verdes
+Blue Bucket Hat=Chapéu Bucket Azul
+Aqua Designer Cap=Boné de Grife Água
+Cyan Cotton Pants=Calça de Algodão Ciano
+Cyan Fringe Boots=Botas com Franja Ciano
+Holiday Pj's=Pijama de Feriado
+Countryside Classic=Clássico do Campo
+Classic Outfit=Traje Clássico
+Athleisure Outfit=Traje Esportivo
+Pink Athleisure Outfit=Traje Esportivo Rosa
+White Athleisure Outfit=Traje Esportivo Branco
+Purple Athleisure Outfit=Traje Esportivo Roxo
+Green Athleisure Outfit=Traje Esportivo Verde
+Orange Athleisure Outfit=Traje Esportivo Laranja
+Yellow Athleisure Outfit=Traje Esportivo Amarelo
+Coral Athleisure Outfit=Traje Esportivo Coral
+Brown Athleisure Outfit=Traje Esportivo Marrom
+Aqua Athleisure Outfit=Traje Esportivo Água
+Pink Shell Outfit=Traje Corta-Vento Rosa
+Green Shell Outfit=Traje Corta-Vento Verde
+Blue Shell Outfit=Traje Corta-Vento Azul
+Brown Shell Outfit=Traje Corta-Vento Marrom
+Purple Shell Outfit=Traje Corta-Vento Roxo
+Aizome Jinbei=Jinbei Aizome
+Checkered Jinbei=Jinbei Xadrez
+Mint Jinbei=Jinbei Menta
+Maple Leaf Jinbei=Jinbei Folha de Bordo
+Navy and White Jinbei=Jinbei Azul-marinho e Branco
+Light Blue Artsy Outfit=Traje Artístico Azul-claro
+Blue Artsy Outfit=Traje Artístico Azul
+Red Artsy Outfit=Traje Artístico Vermelho
+Purple Artsy Outfit=Traje Artístico Roxo
+Wonder's Thief Attire=Traje de Ladrão do Wonder
+Beachwear=Roupa de Praia
+Barn Owl=Coruja-de-igreja
+Blakiston's Fish Owl=Coruja-pescadora-de-blakiston
+Little Owl=Coruja-pequena
+Scops Owl=Mocho-de-orelhas
+Long-Eared Owl=Coruja-de-orelhas-longas
+Snowy Owl=Coruja-das-neves
+Lively Shichi-kun=Shichi-kun Animado
+Cool Shichi-kun=Shichi-kun Descolado
+Clumsy Shichi-kun=Shichi-kun Desastrado
+Hungry Shichi-kun=Shichi-kun Faminto
+Chill Shichi-kun=Shichi-kun Relaxado
+Balloon Shichi-kun=Shichi-kun de Balão
+Capy B. with Oranges=Capy B. com Laranjas
+Capy B. with Yuzu=Capy B. com Yuzu
+Caby B. with Durian=Capy B. com Durian
+Capy B. with Duckies=Capy B. com Patinhos
+Capy B. with Kitty=Capy B. com Gatinho
+Capy B. Family=Família Capy B.
+Bake-danuki=Bake-danuki
+Karakasa Kozo=Karakasa Kozo
+Hitotsume Kozo=Hitotsume Kozo
+Umibozu=Umibozu
+Inari Fox=Raposa de Inari
+Nekomata=Nekomata
+Kitsune no Yomeiri=Kitsune no Yomeiri
+Zashiki-warashi=Zashiki-warashi
+Red Panther=Pantera Vermelha
+Sonic Dash=Corrida Sônica
+Armored Hero=Herói Blindado
+Valkyrie=Valquíria
+Primal Beast=Fera Primitiva
+Sky Commander=Comandante do Céu
+Drummer Shichi-kun=Shichi-kun Baterista
+Cannonball Shichi-kun=Shichi-kun Bala de Canhão
+Magician Shichi-kun=Shichi-kun Mágico
+Clown Shichi-kun=Shichi-kun Palhaço
+Beige Knit Outfit=Traje de Malha Bege
+Light Blue Knit Outfit=Traje de Malha Azul-claro
+Green Knit Outfit=Traje de Malha Verde
+Aqua Knit Outfit=Traje de Malha Água
+Beast Tamer Shichi-kun=Shichi-kun Domador de Feras
+Mime Shichi-kun=Shichi-kun Mímico
+Acrobat Shichi-kun=Shichi-kun Acrobata
+Big Top Shichi-kun=Shichi-kun de Picadeiro
+Salmonique Rollock=Salmonique Rollock
+Tune A. Rollins=Tune A. Rollins
+Shrimpy Rolla=Shrimpy Rolla
+Urchie Rolestone=Urchie Rolestone
+Clamara Rolan=Clamara Rolan
+Avocadus Rollson=Avocadus Rollson
+Crobbie Rollinshaw=Crobbie Rollinshaw
+Alevin Abode=Morada Alevina
+Red Office Hero=Herói de Escritório Vermelho
+Blue Office Hero=Herói de Escritório Azul
+Green Office Hero=Herói de Escritório Verde
+Yellow Office Hero=Herói de Escritório Amarelo
+Pink Office Hero=Herói de Escritório Rosa
+Gray Office Exec=Executivo de Escritório Cinza
+Capy B. with Crab=Capy B. com Caranguejo
+Capy B. with Jellyfish=Capy B. com Água-viva
+Capy B. with Pineapple=Capy B. com Abacaxi
+Capy B. with Fried Shrimp=Capy B. com Camarão Frito
+Capy B. with Octopus=Capy B. com Polvo
+Capy B. with Ice Cream=Capy B. com Sorvete
+Capy B. with Crown=Capy B. com Coroa
+WOLF WARRIOR 03=GUERREIRO LOBO 03
+MONKEY BUSTER=CAÇA-MACAXOS
+BIRD STRIKER=ATACANTE ALADO
+CAT ROVER 10=GATO EXPLORADOR 10
+TANKODILE=TANCODILO
+TRONASAURUS 01=TRONASSAURO 01
+Node Breaker=Destruidor de Nós
+Hacking Device=Dispositivo de Hacking
+Synchro-attack=Sincro-ataque
+Flooding Device=Dispositivo de Inundação
+Trojan Horse=Cavalo de Troia
+Overloader=Sobrecarregador
+Detection I0=Detecção I0
+Guard Break N1=Quebra de Guarda N1
+Element Type T0=Tipo de Elemento T0
+Element Type E2=Tipo de Elemento E2
+Diselectro R0=Deseletro R0
+Flame Buster N3=Destruidor de Chamas N3
+Replicator E9=Replicador E9
+Fortified Moxy T1=Moxie Fortificado T1
+Fortified Moxy E2=Moxie Fortificado E2
+Flame Buster X3=Destruidor de Chamas X3
+Data Healer P1=Curandeiro de Dados P1
+Expansion L9=Expansão L9
+Charger O1=Carregador O1
+Trojan S8=Cavalo de Troia S8
+Data Hasher I4=Fragmentador de Dados I4
+Overclock O1=Overclock O1
+Enhancement N9=Melhoria N9
+Route Booster F1=Impulsionador de Rota F1
+Magnificent F2=Magnífico F2
+Electro Pulse F3=Pulso Elétrico F3
+Ordinary Background=Plano de Fundo Comum
+Shibuya Background=Plano de Fundo de Shibuya
+4WD Tanks Background=Plano de Fundo de Tanques 4x4
+Winter Owls Background=Plano de Fundo de Corujas de Inverno
+Onsen Background=Plano de Fundo de Onsen
+Queue of 100 Demons Background=Plano de Fundo da Fila dos 100 Demônios
+Circus Background=Plano de Fundo de Circo
+Party Background=Plano de Fundo de Festa
+Sushi Background=Plano de Fundo de Sushi
+Office Background=Plano de Fundo de Escritório
+Brawl Background=Plano de Fundo de Luta
+Thief's Cognitite Shard=Fragmento de Cognitita do Ladrão
+Ryuji's Cognitite Shard=Fragmento de Cognitita do Ryuji
+Morgana's Cognitite Shard=Fragmento de Cognitita do Morgana
+Summer Motoha's Cognitite Shard=Fragmento de Cognitita da Motoha de Verão
+Yaoling's Cognitite Shard=Fragmento de Cognitita da Yaoling
+Summer Riko's Cognitite Shard=Fragmento de Cognitita da Riko de Verão
+Yui's Cognitite Shard=Fragmento de Cognitita da Yui
+Akechi's Cognitite Shard=Fragmento de Cognitita do Akechi
+Yusuke's Cognitite Shard=Fragmento de Cognitita do Yusuke
+Futaba's Cognitite Shard=Fragmento de Cognitita da Futaba
+Ann's Cognitite Shard=Fragmento de Cognitita da Ann
+Makoto's Cognitite Shard=Fragmento de Cognitita da Makoto
+Minami's Cognitite Shard=Fragmento de Cognitita da Minami
+Haru's Cognitite Shard=Fragmento de Cognitita da Haru
+Ren's Cognitite Shard=Fragmento de Cognitita do Ren
+Haruna's Cognitite Shard=Fragmento de Cognitita da Haruna
+Kitazato's Cognitite Shard=Fragmento de Cognitita do Kitazato
+Yumi's Cognitite Shard=Fragmento de Cognitita da Yumi
+Ayaka's Cognitite Shard=Fragmento de Cognitita da Ayaka
+Ashiya's Cognitite Shard=Fragmento de Cognitita do Ashiya
+Point=Ponto
+Ren's Invite=Convite do Ren
+Morgana's Invite=Convite do Morgana
+Ryuji's Invite=Convite do Ryuji
+Ann's Invite=Convite da Ann
+Yusuke's Invite=Convite do Yusuke
+Makoto's Invite=Convite da Makoto
+Futaba's Invite=Convite da Futaba
+Haru's Invite=Convite da Haru
+Ashiya's Invite=Convite do Ashiya
+Kotone's Invite=Convite da Kotone
+Yui's Invite=Convite da Yui
+Kasumi's Invite=Convite da Kasumi
+Minami's Invite=Convite da Minami
+Haruna's Invite=Convite da Haruna
+Yaoling's Invite=Convite da Yaoling
+Kurotani's Invite=Convite da Kurotani
+Tomoko's Invite=Convite da Tomoko
+Ashiya ♦6=Ashiya ♦6
+Ryuji ♣K=Ryuji ♣K
+Ann ♥Q=Ann ♥Q
+Morgana ♣K=Morgana ♣K
+Yusuke ♥K=Yusuke ♥K
+Makoto ♠Q=Makoto ♠Q
+Futaba ♣Q=Futaba ♣Q
+Haru ♦Q=Haru ♦Q
+Kasumi ♥J=Kasumi ♥J
+Lufel ♣A=Lufel ♣A
+Motoha ♥A=Motoha ♥A
+Shun ♠A=Shun ♠A
+Riko ♦A=Riko ♦A
+Under Contract=Sob Contrato
+System Handbook=Manual do Sistema
+Makeup 101=Maquiagem 101
+Rakugo and You=Rakugo e Você
+Palace of Laughter=Palácio da Gargalhada
+Dark Chocolate=Chocolate Amargo
+Super Rich Green Tea=Chá Verde Super-rico
+Tasty Treats Cat Food=Ração de Gato Deliciosa
+Bouquet=Buquê
+Premium Ticket=Bilhete Premium
+Brocade Fireworks=Fogos de Artifício Brocado
+Spinner Fireworks=Fogos de Artifício Girador
+Willow Fireworks=Fogos de Artifício Salgueiro
+Peony Fireworks=Fogos de Artifício Peônia
+Crackle Fireworks=Fogos de Artifício Crepitantes
+Wing Fireworks=Fogos de Artifício Asa
+Heart Fireworks=Fogos de Artifício Coração
+Star Fireworks=Fogos de Artifício Estrela
+Gold Metal Powder=Pó de Metal Dourado
+Rainbow Metal Powder=Pó de Metal Arco-íris
+Purple Metal Powder=Pó de Metal Roxo
+Fireworks Shell=Projétil de Fogos de Artifício
+Kotone's Cognitite Shard=Fragmento de Cognitita da Kotone
+Celebratory Popper=Lança-confetes
+Tycoon Medal=Medalha de Magnata
+Treasure Chest Key=Chave de Baú do Tesouro
+Secret Key 1=Chave Secreta 1
+Secret Key 2=Chave Secreta 2
+Secret Key 3=Chave Secreta 3
+The Slave Book=O Livro do Escravo
+The Queen Book=O Livro da Rainha
+The King Book=O Livro do Rei
+Kamoshida's Gold Medal=Medalha de Ouro do Kamoshida
+Left Eye=Olho Esquerdo
+Right Eye=Olho Direito
+Mysterious Key=Chave Misteriosa
+D-Tier Fan Card=Cartão de Fã Nível D
+C-Tier Fan Card=Cartão de Fã Nível C
+B-Tier Fan Card=Cartão de Fã Nível B
+A-Tier Fan Card=Cartão de Fã Nível A
+S-Tier Fan Card=Cartão de Fã Nível S
+Golden Baseball=Bola de Beisebol Dourada
+Pink Baseball=Bola de Beisebol Rosa
+Blue Baseball=Bola de Beisebol Azul
+Grappling Hook=Gancho
+Rubber Ball=Bola de Borracha
+Movie Ticket Stub=Toco de Ingresso de Cinema
+Manga Magazine=Revista de Mangá
+Zoom Module=Módulo de Zoom
+Chroma Key Module=Módulo de Chroma Key
+Timeline Module=Módulo de Linha do Tempo
+Pause Module=Módulo de Pausa
+Castle Gate Lock (Left)=Fechadura do Portão do Castelo (Esquerda)
+Castle Gate Lock (Right)=Fechadura do Portão do Castelo (Direita)
+Front Gate Key=Chave do Portão Frontal
+Flint=Pederneira
+Empty Item for Logic=Item Vazio para Lógica
+Lightning Talisman=Talismã do Relâmpago
+Wind Talisman=Talismã do Vento
+Fire Talisman=Talismã do Fogo
+Castle Treasure Chest Key=Chave do Baú do Tesouro do Castelo
+Training Hall of Love Key=Chave do Salão de Treino do Amor
+Ring Key=Chave do Anel
+Jail Key=Chave da Prisão
+Hidden Room Key=Chave da Sala Oculta
+Weapon - Spear=Arma - Lança
+Weapon - Shield=Arma - Escudo
+Book of Baseball=Livro de Beisebol
+Book of Domination=Livro de Dominação
+Book of Punishment=Livro de Punição
+Book of Modern Calisthenics=Livro de Ginástica Moderna
+Prison Key=Chave da Prisão
+Castle Room Key=Chave do Quarto do Castelo
+Orb of Greed=Orbe da Ganância
+Commemorative Brochure=Folheto Comemorativo
+Security Guard's Memo=Memorando do Guarda de Segurança
+A certificate for 1 Michelin star.=Um certificado para 1 estrela Michelin.
+A certificate for 3 Michelin stars.=Um certificado para 3 estrelas Michelin.
+Rare Chest Key=Chave de Baú Raro
+Luxury Chest Key=Chave de Baú de Luxo
+Golden Ramen Bowl=Tigela de Ramen Dourada
+Safe Keycard=Cartão-chave do Cofre
+Bank Keycard=Cartão-chave do Banco
+Bank Card=Cartão do Banco
+Spare Part Chain=Corrente de Peça Sobressalente
+Transformed Chain=Corrente Transformada
+Modded Controller=Controle Modificado
+Coordinate Recorder=Gravador de Coordenadas
+Bizarre Crown=Coroa Bizarra
+Error: tnxotb-[Item_name_500001]=Erro: tnxotb-[Item_name_500001]
+Crab Omelette on Rice=Omelete de Caranguejo sobre Arroz
+Error: tnxotb-[Item_name_500004]=Erro: tnxotb-[Item_name_500004]
+Error: tnxotb-[Item_name_500005]=Erro: tnxotb-[Item_name_500005]
+Error: tnxotb-[Item_name_500006]=Erro: tnxotb-[Item_name_500006]
+Premium + Special 5=Premium + Especial 5
+Premium + Special 4=Premium + Especial 4
+Premium + Special 3=Premium + Especial 3
+Premium + Special 2=Premium + Especial 2
+Premium + Special 1=Premium + Especial 1
+Phantom Thief Gift=Presente do Ladrão Fantasma
+Knowledge=Conhecimento
+Guts=Coragem
+Proficiency=Proficiência
+Kindness=Bondade
+Charm=Charme
+Social Stats=Atributos Sociais
+Chihaya Mifune's Fortune-Telling=Leitura da Sorte de Chihaya Mifune
+Merope's Synergy=Sinergia da Merope
+Motoha's Synergy=Sinergia da Motoha
+Kurotani's Synergy=Sinergia da Kurotani
+Tomoko's Synergy=Sinergia da Tomoko
+Tomiyama's Synergy=Sinergia do Tomiyama
+Shun's Synergy=Sinergia do Shun
+Yaoling's Synergy=Sinergia da Yaoling
+Yui's Synergy=Sinergia da Yui
+Sumi's Synergy=Sinergia da Sumi
+Riko's Synergy=Sinergia da Riko
+Ayaka's Synergy=Sinergia da Ayaka
+Yumi's Synergy=Sinergia da Yumi
+Miyu's Synergy=Sinergia da Miyu
+Kitazato's Synergy=Sinergia do Kitazato
+Ashiya's Synergy=Sinergia do Ashiya
+Kotone's Synergy=Sinergia da Kotone
+Runa's Synergy=Sinergia da Runa
+Ryuji Sakamoto=Ryuji Sakamoto
+Morgana=Morgana
+Motoha Arai=Motoha Arai
+Summer Motoha Arai=Motoha Arai de Verão
+Lufel=Lufel
+Riko Tanemura=Riko Tanemura
+Shun Kano=Shun Kano
+Leo Kamiyama=Leo Kamiyama
+Kayo Tomiyama=Kayo Tomiyama
+Yaoling Li=Yaoling Li
+Tomoko Noge=Tomoko Noge
+Summer Tomoko Noge=Tomoko Noge de Verão
+Kiyoshi Kurotani=Kiyoshi Kurotani
+Yukimi Fujikawa=Yukimi Fujikawa
+Seiji Shiratori=Seiji Shiratori
+Goro Akechi=Goro Akechi
+Yusuke Kitagawa=Yusuke Kitagawa
+Futaba Sakura=Futaba Sakura
+Toshiya Sumi=Toshiya Sumi
+Ann Takamaki=Ann Takamaki
+Makoto Niijima=Makoto Niijima
+Kotone Montagne=Kotone Montagne
+Slow Dance Kotone Montagne=Kotone Montagne Dança Lenta
+Minami Miyashita=Minami Miyashita
+Haru Okumura=Haru Okumura
+Ren Amamiya=Ren Amamiya
+Miyu Sahara=Miyu Sahara
+Haruna Nishimori=Haruna Nishimori
+Kira Kitazato=Kira Kitazato
+Chizuko Nagao=Chizuko Nagao
+Yumi Shiina=Yumi Shiina
+Ayaka Sakai=Ayaka Sakai
+Masaki Ashiya=Masaki Ashiya
+Runa Dogenzaka=Runa Dogenzaka
+Kasumi Yoshizawa=Kasumi Yoshizawa
+Mayumi Hashimoto=Mayumi Hashimoto
+Jánošík=Jánošík
+Jack-o'-Lantern=Jack-o'-Lantern
+Eligor=Eligor
+Moloch=Moloch
+Jack Frost=Jack Frost
+Thor=Thor
+Agathion=Agathion
+Bicorn=Bicorn
+Titania=Titania
+Isis=Ísis
+Lamia=Lamia
+Oberon=Oberon
+Succubus=Succubus
+Cu Chulainn=Cu Chulainn
+Dominion=Dominion
+Gabriel=Gabriel
+Black Frost=Black Frost
+King Frost=King Frost
+Michael=Michael
+Mokoi=Mokoi
+Oni=Oni
+Orthrus=Orthrus
+Parvati=Parvati
+Rangda=Rangda
+Lilim=Lilim
+Sandalphon=Sandalphon
+Sarasvati=Sarasvati
+Alice=Alice
+Unicorn=Unicórnio
+Yoshitsune=Yoshitsune
+Kurama Tengu=Kurama Tengu
+Jatayu=Jatayu
+Archangel=Arcanjo
+Suzaku=Suzaku
+Clotho=Cloto
+Neko Shogun=Neko Shogun
+Anubis=Anúbis
+Pazuzu=Pazuzu
+Okuninushi=Okuninushi
+Byakko=Byakko
+Horus=Hórus
+Lakshmi=Lakshmi
+Kohryu=Kohryu
+Seth=Seth
+Sudama=Sudama
+Obariyon=Obariyon
+Pixie=Pixie
+Inugami=Inugami
+Shiki-Ouji=Shiki-Ouji
+Bugs=Bugs
+Yamata-no-Orochi=Yamata-no-Orochi
+Vishnu=Vishnu
+Mada=Mada
+Mandrake=Mandrágora
+Incubus=Incubus
+Makami=Makami
+High Pixie=High Pixie
+Leanan Sidhe=Leanan Sidhe
+Phoenix=Fênix
+Jikokuten=Jikokuten
+Ame-no-Uzume=Ame-no-Uzume
+Lachesis=Láquesis
+Zouchouten=Zouchouten
+Arahabaki=Arahabaki
+Hell Biker=Hell Biker
+Norn=Norn
+Ganesha=Ganesha
+Silky=Silky
+Hua Po=Hua Po
+Koropokguru=Koropokguru
+Koppa Tengu=Koppa Tengu
+Angel=Anjo
+Onmoraki=Onmoraki
+Ippon-Datara=Ippon-Datara
+Orobas=Orobas
+Nue=Nue
+Kin-Ki=Kin-Ki
+Decarabia=Decarabia
+Mothman=Mothman
+Belphegor=Belphegor
+Cerberus=Cérbero
+Apsaras=Apsaras
+Kodama=Kodama
+Shiisaa=Shiisaa
+Yaksini=Yaksini
+Sui-Ki=Sui-Ki
+Rakshasa=Rakshasa
+Sandman=Sandman
+Naga=Naga
+Anzu=Anzu
+Thoth=Thoth
+Kaiwan=Kaiwan
+Atropos=Átropos
+Hariti=Hariti
+Power=Potência
+Hecatoncheires=Hecatoncheires
+Yurlungur=Yurlungur
+Girimehkala=Girimehkala
+Mara=Mara
+Kumbhanda=Kumbhanda
+Matador=Matador
+Quetzalcoatl=Quetzalcoatl
+Surt=Surt
+Baphomet=Baphomet
+Raja Naga=Raja Naga
+Barong=Barong
+Garuda=Garuda
+Daisoujou=Daisoujou
+Ose=Ose
+Kelpie=Kelpie
+Saki Mitama=Saki Mitama
+Genbu=Genbu
+Berith=Berith
+Andras=Andras
+Slime=Slime
+Nigi Mitama=Nigi Mitama
+Fuu-Ki=Fuu-Ki
+Flauros=Flauros
+Setanta=Setanta
+Black Ooze=Lodo Negro
+Ara Mitama=Ara Mitama
+Mitra=Mitra
+Principality=Principado
+White Rider=Cavaleiro Branco
+Kikuri-Hime=Kikuri-Hime
+Red Rider=Cavaleiro Vermelho
+Kushinada=Kushinada
+Queen Mab=Rainha Mab
+Scathach=Scathach
+Koumokuten=Koumokuten
+Narcissus=Narciso
+Dakini=Dakini
+Pale Rider=Cavaleiro Pálido
+Yatagarasu=Yatagarasu
+Black Rider=Cavaleiro Negro
+Seiryu=Seiryu
+Mithras=Mithras
+Kushi Mitama=Kushi Mitama
+Belial=Belial
+Bishamonten=Bishamonten
+Nebiros=Nebiros
+Dionysus=Dionísio
+Melchizedek=Melquisedeque
+Trumpeter=Trompetista
+Skadi=Skadi
+Chernobog=Chernobog
+Lilith=Lilith
+Shiva=Shiva
+Jánošík's Seal=Selo de Jánošík
+Jack-o'-Lantern's Seal=Selo de Jack-o'-Lantern
+Eligor's Seal=Selo de Eligor
+Moloch's Seal=Selo de Moloch
+Jack Frost's Seal=Selo de Jack Frost
+Thor's Seal=Selo de Thor
+Agathion's Seal=Selo de Agathion
+Bicorn's Seal=Selo de Bicorn
+Titania's Seal=Selo da Titania
+Isis's Seal=Selo de Ísis
+Lamia's Seal=Selo de Lamia
+Oberon's Seal=Selo de Oberon
+Succubus's Seal=Selo de Succubus
+Cu Chulainn's Seal=Selo de Cu Chulainn
+Dominion's Seal=Selo de Dominion
+Gabriel's Seal=Selo de Gabriel
+Black Frost's Seal=Selo de Black Frost
+King Frost's Seal=Selo de King Frost
+Michael's Seal=Selo de Michael
+Mokoi's Seal=Selo de Mokoi
+Oni's Seal=Selo de Oni
+Orthrus's Seal=Selo de Orthrus
+Parvati's Seal=Selo de Parvati
+Rangda's Seal=Selo de Rangda
+Lilim's Seal=Selo de Lilim
+Sandalphon's Seal=Selo de Sandalphon
+Sarasvati's Seal=Selo de Sarasvati
+Alice's Seal=Selo de Alice
+Unicorn's Seal=Selo de Unicórnio
+Yoshitsune's Seal=Selo de Yoshitsune
+Kurama Tengu's Seal=Selo de Kurama Tengu
+Jatayu's Seal=Selo de Jatayu
+Archangel's Seal=Selo de Arcanjo
+Suzaku's Seal=Selo de Suzaku
+Clotho's Seal=Selo de Cloto
+Neko Shogun's Seal=Selo de Neko Shogun
+Anubis's Seal=Selo de Anúbis
+Pazuzu's Seal=Selo de Pazuzu
+Okuninushi's Seal=Selo de Okuninushi
+Byakko's Seal=Selo de Byakko
+Horus's Seal=Selo de Hórus
+Lakshmi's Seal=Selo de Lakshmi
+Kohryu's Seal=Selo de Kohryu
+Seth's Seal=Selo de Seth
+Sudama's Seal=Selo de Sudama
+Obariyon's Seal=Selo de Obariyon
+Pixie's Seal=Selo de Pixie
+Inugami's Seal=Selo de Inugami
+Shiki-Ouji's Seal=Selo de Shiki-Ouji
+Bugs's Seal=Selo de Bugs
+Yamata-no-Orochi's Seal=Selo de Yamata-no-Orochi
+Vishnu's Seal=Selo de Vishnu
+Mada's Seal=Selo de Mada
+Mandrake's Seal=Selo de Mandrágora
+Incubus's Seal=Selo de Incubus
+Makami's Seal=Selo de Makami
+High Pixie's Seal=Selo de High Pixie
+Leanan Sidhe's Seal=Selo de Leanan Sidhe
+Phoenix's Seal=Selo de Fênix
+Jikokuten's Seal=Selo de Jikokuten
+Ame-no-Uzume's Seal=Selo de Ame-no-Uzume
+Lachesis's Seal=Selo de Láquesis
+Zouchouten's Seal=Selo de Zouchouten
+Arahabaki's Seal=Selo de Arahabaki
+Hell Biker's Seal=Selo de Hell Biker
+Norn's Seal=Selo das Norns
+Ganesha's Seal=Selo de Ganesha
+Silky's Seal=Selo de Silky
+Hua Po's Seal=Selo de Hua Po
+Koropokguru's Seal=Selo de Koropokguru
+Koppa Tengu's Seal=Selo de Koppa Tengu
+Angel's Seal=Selo de Anjo
+Onmoraki's Seal=Selo de Onmoraki
+Ippon-Datara's Seal=Selo de Ippon-Datara
+Orobas's Seal=Selo de Orobas
+Nekomata's Seal=Selo de Nekomata
+Nue's Seal=Selo de Nue
+Kin-Ki's Seal=Selo de Kin-Ki
+Decarabia's Seal=Selo de Decarabia
+Mothman's Seal=Selo de Mothman
+Belphegor's Seal=Selo de Belphegor
+Cerberus's Seal=Selo de Cérbero
+Apsaras's Seal=Selo de Apsaras
+Kodama's Seal=Selo de Kodama
+Shiisaa's Seal=Selo de Shiisaa
+Yaksini's Seal=Selo de Yaksini
+Sui-Ki's Seal=Selo de Sui-Ki
+Rakshasa's Seal=Selo de Rakshasa
+Sandman's Seal=Selo de Sandman
+Naga's Seal=Selo de Naga
+Anzu's Seal=Selo de Anzu
+Thoth's Seal=Selo de Thoth
+Kaiwan's Seal=Selo de Kaiwan
+Atropos's Seal=Selo de Átropos
+Hariti's Seal=Selo de Hariti
+Power's Seal=Selo de Potência
+Hecatoncheires's Seal=Selo de Hecatoncheires
+Yurlungur's Seal=Selo de Yurlungur
+Girimekhala's Seal=Selo de Girimekhala
+Mara's Seal=Selo de Mara
+Kumbhanda's Seal=Selo de Kumbhanda
+Matador's Seal=Selo de Matador
+Quetzalcoatl's Seal=Selo de Quetzalcoatl
+Surt's Seal=Selo de Surt
+Baphomet's Seal=Selo de Baphomet
+Raja Naga's Seal=Selo de Raja Naga
+Barong's Seal=Selo de Barong
+Garuda's Seal=Selo de Garuda
+Daisoujou's Seal=Selo de Daisoujou
+Ose's Seal=Selo de Ose
+Kelpie's Seal=Selo de Kelpie
+Saki Mitama's Seal=Selo de Saki Mitama
+Genbu's Seal=Selo de Genbu
+Berith's Seal=Selo de Berith
+Andras's Seal=Selo de Andras
+Slime's Seal=Selo de Slime
+Nigi Mitama's Seal=Selo de Nigi Mitama
+Fuu-Ki's Seal=Selo de Fuu-Ki
+Flauros's Seal=Selo de Flauros
+Setanta's Seal=Selo de Setanta
+Black Ooze's Seal=Selo de Lodo Negro
+Ara Mitama's Seal=Selo de Ara Mitama
+Mithra's Seal=Selo de Mitra
+Principality's Seal=Selo de Principado
+White Rider's Seal=Selo do Cavaleiro Branco
+Kikuri-Hime's Seal=Selo de Kikuri-Hime
+Red Rider's Seal=Selo do Cavaleiro Vermelho
+Kushinada's Seal=Selo de Kushinada
+Queen Mab's Seal=Selo da Rainha Mab
+Valkyrie's Seal=Selo de Valquíria
+Scathach's Seal=Selo de Scathach
+Koumokuten's Seal=Selo de Koumokuten
+Narcissus's Seal=Selo de Narciso
+Dakini's Seal=Selo de Dakini
+Pale Rider's Seal=Selo do Cavaleiro Pálido
+Yatagarasu's Seal=Selo de Yatagarasu
+Black Rider's Seal=Selo do Cavaleiro Negro
+Seiryu's Seal=Selo de Seiryu
+Mithras's Seal=Selo de Mithras
+Kushi Mitama's Seal=Selo de Kushi Mitama
+Belial's Seal=Selo de Belial
+Bishamonten's Seal=Selo de Bishamonten
+Nebiros's Seal=Selo de Nebiros
+Dionysus's Seal=Selo de Dionísio
+Melchizedek's Seal=Selo de Melquisedeque
+Trumpeter's Seal=Selo de Trompetista
+Skadi's Seal=Selo de Skadi
+Chernobog's Seal=Selo de Chernobog
+Lilith's Seal=Selo de Lilith
+Shiva's Seal=Selo de Shiva
+Stare Emote=Emote de Encarar
+"Treasure!"="Tesouro!"
+Let's Go Emote=Emote Vamos Lá
+Welcome Emote=Emote de Boas-vindas
+Texting Emote=Emote de Mensagem
+Angry Emote=Emote de Raiva
+Tease Emote=Emote de Provocação
+Puzzled Emote=Emote de Confusão
+"Suspicious..."="Suspeito..."
+Looking Sharp Emote=Emote Estiloso
+Eat Up Emote=Emote Coma Tudo
+Last Words? Emote=Emote Últimas Palavras?
+Happy Emote=Emote Feliz
+Home Run Emote=Emote de Home Run
+Tea Time Emote=Emote Hora do Chá
+No Words Emote=Emote Sem Palavras
+"Incognito!"="Incógnito!"
+"BANG!"="BANG!"
+"Hi!"="Oi!"
+OK Emote=Emote OK
+Love You Emote=Emote Te Amo
+Transform Emote=Emote de Transformação
+Elegant Entrance Emote=Emote de Entrada Elegante
+Hungry Emote=Emote Faminto
+Yummy Emote=Emote Delicioso
+Shocked Emote=Emote Chocado
+Selfie Emote=Emote de Selfie
+For You Emote=Emote Para Você
+Cooking Emote=Emote Cozinhando
+Acceptable Emote=Emote Aceitável
+Bath Time Emote=Emote Hora do Banho
+I Got This Emote=Emote Deixa Comigo
+Big Fan Emote=Emote Sou Seu Fã
+"Happy New Year!"="Feliz Ano Novo!"
+"HNY!"="FAN!"
+"Spread Your Wings!"="Abra suas asas!"
+"Wanna Eat?"="Quer comer?"
+"Luck Is on Our Side!"="A sorte está do nosso lado!"
+This Way Emote=Emote Por Aqui
+Get In Emote=Emote Entre
+Whoa Emote=Emote Uau
+What to Do Emote=Emote O que fazer
+Pet Emote=Emote de Carinho
+Great Job Emote=Emote Ótimo Trabalho
+Blow a Kiss Emote=Emote Beijo no Ar
+Pose Emote=Emote de Pose
+Fist of Justice Emote=Emote Punho da Justiça
+Game On Emote=Emote Que Comece o Jogo
+My Name Is Emote=Emote Meu Nome é
+"Wah!"="Wah!"
+Take Your Meds Emote=Emote Tome seu Remédio
+Which One? Emote=Emote Qual Deles?
+Lucky Emote=Emote da Sorte
+Showtime Emote=Emote de Showtime
+High Five Emote=Emote Toca Aqui
+Cheers Emote=Emote de Brinde
+Squabble Emote=Emote de Disputa
+Chit Chat Emote=Emote de Bate-papo
+Isn't It!?=Não é!?
+Under Control Emote=Emote Sob Controle
+Teach Me Emote=Emote Me Ensine
+Thank You Emote=Emote Obrigado
+Thumbs Up Emote=Emote de Joinha
+"Locking On..."="Mirando..."
+Strange Alert Emote=Emote de Alerta Estranho
+Calling Card Emote=Emote de Cartão de Visita
+Take Your Heart Emote=Emote Roube seu Coração
+Surprise Emote=Emote de Surpresa
+Take a Look Emote=Emote Dê uma Olhada
+Thou Art I Emote=Emote Tu és Eu
+Keep Going Emote=Emote Continue
+Special Treat Emote=Emote Guloseima Especial
+NB[it][ID103]=NB[it][ID103]
+Handshake Emote=Emote de Aperto de Mão
+Good Song Emote=Emote de Música Boa
+Cheer On Emote=Emote de Torcida
+Caught Emote=Emote Pego
+Victory Emote=Emote de Vitória
+Work Out Emote=Emote Malhando
+Sparkle Emote=Emote de Brilho
+Tired Emote=Emote Cansado
+Flustered Emote=Emote Envergonhado
+Teary-Eyed Emote=Emote com Lágrimas nos Olhos
+Whisper Emote=Emote de Sussurro
+Excited Emote=Emote Empolgado
+Chow Down Emote=Emote de Rango
+Overwhelmed Emote=Emote Sobrecarrregado
+Confused Emote=Emote Confuso
+Panic Emote=Emote de Pânico
+Bleh! Emote=Emote Eca!
+Giggle Emote=Emote de Risadinha
+Shopping Emote=Emote de Compras
+I'll Teach You Emote=Emote Eu te Ensino
+Ohoho Emote=Emote Ohoho
+What? Emote=Emote O Quê?
+Nice One Emote=Emote Boa!
+Oh No Emote=Emote Ah Não
+Spicy Emote=Emote Apimentado
+I've Got This!=Deixa Comigo!
+"What!?"="O quê!?"
+Time to Bloom!=Hora de Florescer!
+I've Got Money!=Estou com Grana!
+Peek Emote=Emote de Espiar
+Eep! Emote=Emote Ui!
+Huh!? Emote=Emote Hã!?
+Heheh Emote=Emote Heheh
+NB[it][ID141]=NB[it][ID141]
+NB[it][ID142]=NB[it][ID142]
+NB[it][ID143]=NB[it][ID143]
+NB[it][ID145]=NB[it][ID145]
+"Cheers!"="Saúde!"
+"Thanks!"="Obrigado!"
+I'm Listening...=Estou Ouvindo...
+It's a Little Hot...=Está um Pouco Quente...
+Shall We Dance?=Vamos Dançar?
+I'm a Bit Scared...=Estou com um Pouco de Medo...
+This Is So Fun!=Isso é Tão Divertido!
+Let's Sing!=Vamos Cantar!
+I'm So Happy!=Estou Tão Feliz!
+Shadow 1=Sombra 1
+Shadow 2=Sombra 2
+Shadow 3=Sombra 3
+Shadow 4=Sombra 4
+Shadow 5=Sombra 5
+Shadow 6=Sombra 6
+Shadow 7=Sombra 7
+Shadow 8=Sombra 8
+Shadow 9=Sombra 9
+Shadow 10=Sombra 10
+Shadow 11=Sombra 11
+Shadow 12=Sombra 12
+Cattlemobile=Gadomóvel
+Kiuchi's Palace Ruler=Governante do Palácio de Kiuchi
+Miyazawa's Palace Ruler=Governante do Palácio de Miyazawa
+Katayama's Palace Ruler=Governante do Palácio de Katayama
+Velvet Reception Room=Sala de Recepção do Veludo
+Bar=Bar
+Victory Kitchen=Cozinha da Vitória
+Heritage Kitchen=Cozinha Herança
+Café Leblanc=Café Leblanc
+Takemi Medical Clinic=Clínica Médica Takemi
+Ore No Beko=Ore No Beko
+Triple Seven=Sete Triplo
+Aohige=Aohige
+Fortune-Teller=Vidente
+Fishing Pond=Lago de Pesca
+Maid Café=Maid Café
+Airsoft Shop=Loja de Airsoft
+Default Theme=Tema Padrão
+"Get Hype!"="Anime-se!"
+Shadow 13=Sombra 13
+Shadow 14=Sombra 14
+Shadow 15=Sombra 15
+Shadow 16=Sombra 16
+"That's Enough!"="Já Chega!"
+"No Way!"="De jeito nenhum!"
+Expectant Gaze...=Olhar Expectante...
+"Look at Me!"="Olhe para mim!"
+I'm a Mermaid!=Sou uma Sereia!
+"Bwahahaha!"="Bwahahaha!"
+Hrmph!=Hrmph!
+Targeted!=Na mira!
+I'm Just Kidding=Estou só brincando
+"Don't Laugh..."="Não ria..."
+"You Don't Know?"="Você não sabe?"
+"Mon Ami!"="Mon Ami!"
+"Je T'aime!"="Je T'aime!"
+"My Turn!"="Minha vez!"
+Love=Amor
+Valor=Valor
+After You=Você Primeiro
+"Smells Nice!"="Cheira bem!"
+"My Treat!"="Eu pago!"
+"You'll Catch a Cold"="Você vai pegar um resfriado"
+Strife=Conflito
+Completion=Conclusão
+Peace=Paz
+Luxury=Luxo
+Abundance=Abundância
+Victory=Vitória
+Science=Ciência
+Interference=Interferência
+Oppression=Opressão
+Works=Obras
+Virtue=Virtude
+Pleasure=Prazer
+Defeat=Derrota
+Success=Sucesso
+Worry=Preocupação
+Reconciliation=Reconciliação
+Error: tnxotb-[Item_name_3010000]=Erro: tnxotb-[Item_name_3010000]
+Change Set=Conjunto de Troca
+Material Set=Conjunto de Materiais
+Weapon Set=Conjunto de Armas
+Phantom Thief Set=Conjunto do Ladrão Fantasma
+Persona Set=Conjunto de Persona
+Revelation Set=Conjunto de Revelação
+Medicine Set=Conjunto de Remédios
+Emote Set=Conjunto de Emotes
+Persona Super Set=Superconjunto de Persona
+Persona Super Set 1=Superconjunto de Persona 1
+Persona Super Set 2=Superconjunto de Persona 2
+Revelation Super Set=Superconjunto de Revelação
+Attire Set CBT 2=Conjunto de Trajes CBT 2
+Food Set OB=Conjunto de Comida OB
+Seed Set OB=Conjunto de Sementes OB
+Ingredient Set=Conjunto de Ingredientes
+Brawl Bots Buff=Bônus de Robôs de Briga
+Shibuya Capsule Machine=Máquina de Cápsulas de Shibuya
+Zoshigaya Capsule Machines=Máquinas de Cápsulas de Zoshigaya
+Shinjuku Capsule Machines=Máquinas de Cápsulas de Shinjuku
+Kei Akashi=Kei Akashi
+R<color\=#000000>e</color>bound=R<color\=#000000>e</color>percussão	
+F<color\=#000000>e</color>ar=P<color\=#000000>a</color>vor	
+S<color\=#000000>h</color>ock=C<color\=#000000>h</color>oque	
+C<color\=#000000>h</color>anging Gears=M<color\=#000000>u</color>dança de Ritmo	
+D<color\=#000000>a</color>mage Up=D<color\=#000000>a</color>no Aumentado	
+C<color\=#000000>h</color>ivalry=C<color\=#000000>a</color>valheirismo	
+W<color\=#000000>i</color>ndswept=V<color\=#000000>e</color>ndaval	
+L<color\=#000000>o</color>ok, Treasure!=O<color\=#000000>l</color>ha o Tesouro!	
+B<color\=#000000>u</color>rn=Q<color\=#000000>u</color>eimadura	
+R<color\=#000000>e</color>covery Down=R<color\=#000000>e</color>cuperação Reduzida	
+S<color\=#000000>t</color>arfire I=F<color\=#000000>o</color>go Estelar I	
+S<color\=#000000>t</color>arfire II=F<color\=#000000>o</color>go Estelar II	
+S<color\=#000000>t</color>arfire III=F<color\=#000000>o</color>go Estelar III	
+A<color\=#000000>t</color>tack Up=A<color\=#000000>t</color>aque Aumentado	
+F<color\=#000000>i</color>re Damage Up=D<color\=#000000>a</color>no de Fogo Aumentado	
+D<color\=#000000>e</color>sperado=F<color\=#000000>o</color>ra da Lei	
+F<color\=#000000>r</color>eeze=C<color\=#000000>o</color>ngelamento	
+S<color\=#000000>m</color>ash Hit=G<color\=#000000>o</color>lpe Esmagador	
+I<color\=#000000>c</color>y Defense=D<color\=#000000>e</color>fesa Gélida	
+D<color\=#000000>a</color>unting Firepower=P<color\=#000000>o</color>der de Fogo Avassalador	
+M<color\=#000000>a</color>x HP Up=V<color\=#000000>i</color>da Máxima Aumentada	
+D<color\=#000000>a</color>mage Taken Down=D<color\=#000000>a</color>no Recebido Reduzido	
+B<color\=#000000>e</color>at=B<color\=#000000>a</color>tida	
+F<color\=#000000>i</color>nish with a Smile=F<color\=#000000>i</color>nalize com um Sorriso	
+P<color\=#000000>u</color>lsating Rhythm=R<color\=#000000>i</color>tmo Pulsante	
+C<color\=#000000>l</color>ub Okyann=C<color\=#000000>l</color>ube Okyann	
+R<color\=#000000>e</color>tro Dance Number=N<color\=#000000>ú</color>mero de Dança Retrô	
+C<color\=#000000>h</color>osen=A<color\=#000000> </color>Escolhida	
+C<color\=#000000>o</color>ntagious Passion=P<color\=#000000>a</color>ixão Contagiante	
+S<color\=#000000>a</color>cred Flame=C<color\=#000000>h</color>ama Sagrada	
+H<color\=#000000>o</color>t to the Touch=Q<color\=#000000>u</color>ente ao Toque	
+F<color\=#000000>i</color>re Damage Taken Up=D<color\=#000000>a</color>no de Fogo Recebido Aumentado	
+S<color\=#000000>a</color>cral Glow=B<color\=#000000>r</color>ilho Sacro	
+G<color\=#000000>a</color>vel=M<color\=#000000>a</color>lho	
+C<color\=#000000>h</color>ain of Salvation=C<color\=#000000>o</color>rrente da Salvação	
+A<color\=#000000>b</color>solute Judgment=J<color\=#000000>u</color>lgamento Absoluto	
+O<color\=#000000>a</color>th=J<color\=#000000>u</color>ramento	
+U<color\=#000000>r</color>gent Matter=A<color\=#000000>s</color>sunto Urgente	
+D<color\=#000000>e</color>fense Up=D<color\=#000000>e</color>fesa Aumentada	
+B<color\=#000000>l</color>essing=B<color\=#000000>ê</color>nção	
+C<color\=#000000>r</color>imson Rose=R<color\=#000000>o</color>sa Carmesim	
+L<color\=#000000>a</color> Vie en Rose=L<color\=#000000>a</color> Vie en Rose	
+H<color\=#000000>i</color>ghlight Fire Damage Up=D<color\=#000000>a</color>no de Fogo em Destaque Aumentado	
+F<color\=#000000>r</color>ozen Presence=P<color\=#000000>r</color>esença Gélida	
+T<color\=#000000>a</color>unt=P<color\=#000000>r</color>ovocação	
+K<color\=#000000>e</color>en Eye=O<color\=#000000>l</color>ho Aguçado	
+E<color\=#000000>n</color>lightened Strike=G<color\=#000000>o</color>lpe Iluminado	
+A<color\=#000000>r</color>tist's Intuition=I<color\=#000000>n</color>tuição de Artista	
+P<color\=#000000>a</color>inter's Focus=F<color\=#000000>o</color>co de Pintor	
+C<color\=#000000>o</color>unter Chance Up=C<color\=#000000>h</color>ance de Contra-ataque Aumentada	
+C<color\=#000000>o</color>unter Damage Up=D<color\=#000000>a</color>no de Contra-ataque Aumentado	
+T<color\=#000000>e</color>nacity=T<color\=#000000>e</color>nacidade	
+E<color\=#000000>n</color>raged Usurper=U<color\=#000000>s</color>urpador Enfurecido	
+F<color\=#000000>u</color>ll Throttle=A<color\=#000000>c</color>eleração Máxima	
+R<color\=#000000>a</color>diation=R<color\=#000000>a</color>diação	
+P<color\=#000000>r</color>esident's Prowess=M<color\=#000000>a</color>estria do Presidente	
+U<color\=#000000>n</color>shakeable Will=V<color\=#000000>o</color>ntade Inabalável	
+D<color\=#000000>i</color>vine Judgment=J<color\=#000000>u</color>lgamento Divino	
+R<color\=#000000>i</color>ghteous=J<color\=#000000>u</color>sto	
+V<color\=#000000>e</color>rse=V<color\=#000000>e</color>rso	
+V<color\=#000000>e</color>rse of Zenith=V<color\=#000000>e</color>rso do Zênite	
+V<color\=#000000>e</color>rse of Hate=V<color\=#000000>e</color>rso do Ódio	
+C<color\=#000000>u</color>rse=M<color\=#000000>a</color>ldição	
+V<color\=#000000>e</color>rse of Healing=V<color\=#000000>e</color>rso da Cura	
+V<color\=#000000>e</color>rse of Passion=V<color\=#000000>e</color>rso da Paixão	
+F<color\=#000000>i</color>shing Pond Master=M<color\=#000000>e</color>stre do Pesqueiro	
+W<color\=#000000>i</color>ll of Rebellion=V<color\=#000000>o</color>ntade da Rebelião	
+S<color\=#000000>e</color>ashell=C<color\=#000000>o</color>ncha Marinha	
+S<color\=#000000>h</color>ield=E<color\=#000000>s</color>cudo	
+L<color\=#000000>i</color>ttle Mermaid's Song=C<color\=#000000>a</color>nção da Pequena Sereia	
+P<color\=#000000>o</color>seidon's Blessing=B<color\=#000000>ê</color>nção de Poseidon	
+T<color\=#000000>i</color>de of Dreams=M<color\=#000000>a</color>ré dos Sonhos	
+P<color\=#000000>o</color>wer of Friendship=P<color\=#000000>o</color>der da Amizade	
+C<color\=#000000>r</color>itical Damage Up=D<color\=#000000>a</color>no Crítico Aumentado	
+J<color\=#000000>u</color>stice Barrier=B<color\=#000000>a</color>rreira da Justiça	
+P<color\=#000000>a</color>rhelion=P<color\=#000000>a</color>rélio	
+I<color\=#000000>c</color>e Crystal=C<color\=#000000>r</color>istal de Gelo	
+C<color\=#000000>a</color>mel Spin=P<color\=#000000>i</color>rueta Gélida	
+E<color\=#000000>l</color>ec Damage Up=D<color\=#000000>a</color>no Elétrico Aumentado	
+E<color\=#000000>l</color>ec Damage Taken Up=D<color\=#000000>a</color>no Elétrico Recebido Aumentado	
+E<color\=#000000>l</color>ectric Damage Taken Up=D<color\=#000000>a</color>no de Eletricidade Recebido Aumentado	
+R<color\=#000000>i</color>ght to Attack=D<color\=#000000>i</color>reito de Atacar	
+M<color\=#000000>e</color>ng Po Soup=S<color\=#000000>o</color>pa de Meng Po	
+F<color\=#000000>o</color>rget=E<color\=#000000>s</color>quecimento	
+C<color\=#000000>u</color>rse Damage Up=D<color\=#000000>a</color>no de Maldição Aumentado	
+U<color\=#000000>n</color>derworld Ferry=B<color\=#000000>a</color>rca do Submundo	
+D<color\=#000000>a</color>mage Taken Up=D<color\=#000000>a</color>no Recebido Aumentado	
+R<color\=#000000>e</color>d Spider Lily=L<color\=#000000>í</color>rio-aranha-vermelho	
+G<color\=#000000>r</color>eenleaf=F<color\=#000000>o</color>lha Verdejante	
+C<color\=#000000>h</color>eer Song=C<color\=#000000>a</color>nção de Torcida	
+S<color\=#000000>l</color>eep=S<color\=#000000>o</color>no	
+S<color\=#000000>p</color>irit's Lullaby=C<color\=#000000>a</color>nção de Ninar do Espírito	
+C<color\=#000000>e</color>lebratory Tone=T<color\=#000000>o</color>m de Celebração	
+E<color\=#000000>s</color>prit de Corps=E<color\=#000000>s</color>pírito de Corpo	
+J<color\=#000000>o</color>lly Cooperation=C<color\=#000000>o</color>operação Amistosa	
+S<color\=#000000>p</color>arky Surprise=S<color\=#000000>u</color>rpresa Elétrica	
+P<color\=#000000>l</color>ayer 2=J<color\=#000000>o</color>gador 2	
+F<color\=#000000>o</color>llow-Up Attack=A<color\=#000000>t</color>aque em Sequência	
+C<color\=#000000>h</color>ildish Heart=C<color\=#000000>o</color>ração de Criança	
+M<color\=#000000>y</color>stery=M<color\=#000000>i</color>stério	
+F<color\=#000000>u</color>ll of Curiosity=C<color\=#000000>h</color>eia de Curiosidade	
+A<color\=#000000>f</color>fection=A<color\=#000000>f</color>eição	
+R<color\=#000000>e</color>ady for Adventure=P<color\=#000000>r</color>onta para a Aventura	
+C<color\=#000000>o</color>urageous Campaign=C<color\=#000000>a</color>mpanha Corajosa	
+D<color\=#000000>i</color>agnosis=D<color\=#000000>i</color>agnóstico	
+A<color\=#000000>n</color>gel in White=A<color\=#000000>n</color>jo de Branco	
+H<color\=#000000>e</color>aling Grace=G<color\=#000000>r</color>aça Curativa	
+C<color\=#000000>o</color>mpassionate Cure=C<color\=#000000>u</color>ra Compassiva	
+H<color\=#000000>e</color>alth Comes First=A<color\=#000000> </color>Saúde em Primeiro Lugar	
+P<color\=#000000>e</color>ace of Mind=P<color\=#000000>a</color>z de Espírito	
+H<color\=#000000>P</color> Recovery=R<color\=#000000>e</color>cuperação de HP	
+E<color\=#000000>a</color>gle Eye=O<color\=#000000>l</color>hos de Águia	
+P<color\=#000000>e</color>rfect Timing=S<color\=#000000>i</color>ncronia Perfeita	
+J<color\=#000000>a</color>zz Session=S<color\=#000000>e</color>ssão de Jazz	
+D<color\=#000000>i</color>ving Ray=R<color\=#000000>a</color>io Mergulhante	
+D<color\=#000000>e</color>fense Down=D<color\=#000000>e</color>fesa Reduzida	
+B<color\=#000000>u</color>llseye Bomber=B<color\=#000000>o</color>mbardeiro na Mosca	
+N<color\=#000000>u</color>ke Damage Taken Up=D<color\=#000000>a</color>no Nuclear Recebido Aumentado	
+B<color\=#000000>l</color>oody Mary=B<color\=#000000>l</color>oody Mary	
+S<color\=#000000>c</color>rewdriver=S<color\=#000000>c</color>rewdriver	
+C<color\=#000000>h</color>arming Stare=O<color\=#000000>l</color>har Encantador	
+O<color\=#000000>p</color>ening Act=A<color\=#000000>t</color>o de Abertura	
+S<color\=#000000>p</color>irit of Rock=E<color\=#000000>s</color>pírito do Rock	
+C<color\=#000000>o</color>star=C<color\=#000000>o</color>estrela	
+H<color\=#000000>a</color>rd Rock=H<color\=#000000>a</color>rd Rock	
+L<color\=#000000>o</color>yal Listener=O<color\=#000000>u</color>vinte Fiel	
+S<color\=#000000>h</color>redding=S<color\=#000000>o</color>lo Destruidor	
+B<color\=#000000>a</color>cking Track=F<color\=#000000>a</color>ixa de Apoio	
+H<color\=#000000>i</color>ghlight Recovery Up=R<color\=#000000>e</color>cuperação em Destaque Aumentada	
+I<color\=#000000>n</color>tel=I<color\=#000000>n</color>formação	
+I<color\=#000000>n</color>sight=I<color\=#000000>n</color>trospecção	
+S<color\=#000000>c</color>attered Plum Blossoms=F<color\=#000000>l</color>ores de Ameixa Dispersas	
+D<color\=#000000>r</color>eams in the Mist=S<color\=#000000>o</color>nhos na Névoa	
+F<color\=#000000>a</color>ir Winds=V<color\=#000000>e</color>ntos Favoráveis	
+S<color\=#000000>p</color>ringtime Tempest=T<color\=#000000>e</color>mpestade Primaveril	
+M<color\=#000000>i</color>dsummer=M<color\=#000000>e</color>io do Verão	
+W<color\=#000000>a</color>ve-Kissed Feet=P<color\=#000000>é</color>s Beijados pelas Ondas	
+M<color\=#000000>i</color>dsummer Sun=S<color\=#000000>o</color>l de Verão	
+H<color\=#000000>e</color>at Wave=O<color\=#000000>n</color>da de Calor	
+S<color\=#000000>u</color>n Smiling in the Sky=S<color\=#000000>o</color>l Sorrindo no Céu	
+S<color\=#000000>p</color>ark=F<color\=#000000>a</color>ísca	
+D<color\=#000000>a</color>zzling Fireworks=F<color\=#000000>o</color>gos de Artifício Deslumbrantes	
+A<color\=#000000>r</color>rival of Promised Light=C<color\=#000000>h</color>egada da Luz Prometida	
+G<color\=#000000>u</color>nsmoke Embers=B<color\=#000000>r</color>asas de Fumaça	
+B<color\=#000000>r</color>inging the Love=T<color\=#000000>r</color>azendo o Amor	
+S<color\=#000000>p</color>arklers=F<color\=#000000>a</color>gulhas	
+M<color\=#000000>a</color>ke Yourself at Home=S<color\=#000000>i</color>nta-se em Casa	
+M<color\=#000000>i</color>dnight Memory=M<color\=#000000>e</color>mória da Meia-noite	
+E<color\=#000000>y</color>e-Catching=C<color\=#000000>h</color>amativo	
+C<color\=#000000>o</color>urage=C<color\=#000000>o</color>ragem	
+S<color\=#000000>i</color>gnet of Sincerity=S<color\=#000000>e</color>lo de Sinceridade	
+D<color\=#000000>e</color>claration of Justice=D<color\=#000000>e</color>claração de Justiça	
+T<color\=#000000>r</color>ial of Justice=P<color\=#000000>r</color>ova de Justiça	
+F<color\=#000000>r</color>om Weathered Hardships, Fear No Foe=D<color\=#000000>a</color>s Adversidades, Não Tema o Inimigo	
+F<color\=#000000>i</color>ght for the Women and Children=L<color\=#000000>u</color>te pelas Mulheres e Crianças	
+M<color\=#000000>e</color>rciful Blessing=B<color\=#000000>ê</color>nção Misericordiosa	
+H<color\=#000000>o</color>norary Protection=P<color\=#000000>r</color>oteção Honorária	
+D<color\=#000000>i</color>vine Protection=P<color\=#000000>r</color>oteção Divina	
+S<color\=#000000>o</color>ul Prayer=P<color\=#000000>r</color>ece da Alma	
+P<color\=#000000>h</color>ys Damage Up=D<color\=#000000>a</color>no Físico Aumentado	
+G<color\=#000000>u</color>n Damage Up=D<color\=#000000>a</color>no de Arma Aumentado	
+I<color\=#000000>c</color>e Damage Up=D<color\=#000000>a</color>no de Gelo Aumentado	
+W<color\=#000000>i</color>nd Damage Up=D<color\=#000000>a</color>no de Vento Aumentado	
+P<color\=#000000>s</color>y Damage Up=D<color\=#000000>a</color>no Psíquico Aumentado	
+N<color\=#000000>u</color>ke Damage Up=D<color\=#000000>a</color>no Nuclear Aumentado	
+B<color\=#000000>l</color>ess Damage Up=D<color\=#000000>a</color>no de Bênção Aumentado	
+A<color\=#000000>l</color>mighty Damage Up=D<color\=#000000>a</color>no Onipotente Aumentado	
+D<color\=#000000>i</color>zzy=T<color\=#000000>o</color>ntura	
+B<color\=#000000>r</color>ainwash=L<color\=#000000>a</color>vagem Cerebral	
+R<color\=#000000>a</color>ge=F<color\=#000000>ú</color>ria	
+C<color\=#000000>o</color>nfused=C<color\=#000000>o</color>nfusão	
+D<color\=#000000>e</color>spair=D<color\=#000000>e</color>sespero	
+R<color\=#000000>e</color>cover=R<color\=#000000>e</color>cuperar	
+R<color\=#000000>e</color>sist Fire=R<color\=#000000>e</color>sistência a Fogo	
+R<color\=#000000>e</color>sist Ice=R<color\=#000000>e</color>sistência a Gelo	
+R<color\=#000000>e</color>sist Elec=R<color\=#000000>e</color>sistência a Eletricidade	
+R<color\=#000000>e</color>sist Wind=R<color\=#000000>e</color>sistência a Vento	
+R<color\=#000000>e</color>sist Psy=R<color\=#000000>e</color>sistência a Psíquico	
+R<color\=#000000>e</color>sist Nuke=R<color\=#000000>e</color>sistência a Nuclear	
+F<color\=#000000>i</color>re Break=A<color\=#000000>n</color>ula Fogo	
+I<color\=#000000>c</color>e Break=A<color\=#000000>n</color>ula Gelo	
+E<color\=#000000>l</color>ec Break=A<color\=#000000>n</color>ula Eletricidade	
+W<color\=#000000>i</color>nd Break=A<color\=#000000>n</color>ula Vento	
+T<color\=#000000>a</color>rukaja=T<color\=#000000>a</color>rukaja	
+M<color\=#000000>a</color>tarukaja=M<color\=#000000>a</color>tarukaja	
+S<color\=#000000>u</color>kukaja=S<color\=#000000>u</color>kukaja	
+M<color\=#000000>a</color>sukukaja=M<color\=#000000>a</color>sukukaja	
+R<color\=#000000>a</color>kukaja=R<color\=#000000>a</color>kukaja	
+M<color\=#000000>a</color>rakukaja=M<color\=#000000>a</color>rakukaja	
+H<color\=#000000>e</color>at Riser=A<color\=#000000>s</color>censão de Calor	
+D<color\=#000000>e</color>bilitate=D<color\=#000000>e</color>bilitar	
+R<color\=#000000>e</color>bellion=R<color\=#000000>e</color>belião	
+R<color\=#000000>e</color>volution=R<color\=#000000>e</color>volução	
+R<color\=#000000>a</color>kunda=R<color\=#000000>a</color>kunda	
+T<color\=#000000>a</color>runda=T<color\=#000000>a</color>runda	
+C<color\=#000000>o</color>ncentrate=C<color\=#000000>o</color>ncentrar	
+M<color\=#000000>a</color>rakunda=M<color\=#000000>a</color>rakunda	
+M<color\=#000000>a</color>tarunda=M<color\=#000000>a</color>tarunda	
+C<color\=#000000>h</color>arge=C<color\=#000000>a</color>rga	
+A<color\=#000000>t</color>tack Master I=M<color\=#000000>e</color>stre de Ataque I	
+A<color\=#000000>t</color>tack Master II=M<color\=#000000>e</color>stre de Ataque II	
+A<color\=#000000>t</color>tack Master III=M<color\=#000000>e</color>stre de Ataque III	
+A<color\=#000000>t</color>tack Master IV=M<color\=#000000>e</color>stre de Ataque IV	
+M<color\=#000000>a</color>tarukaja I=M<color\=#000000>a</color>tarukaja I	
+M<color\=#000000>a</color>tarukaja II=M<color\=#000000>a</color>tarukaja II	
+M<color\=#000000>a</color>tarukaja III=M<color\=#000000>a</color>tarukaja III	
+M<color\=#000000>a</color>tarukaja IV=M<color\=#000000>a</color>tarukaja IV	
+D<color\=#000000>e</color>fense Master I=M<color\=#000000>e</color>stre de Defesa I	
+D<color\=#000000>e</color>fense Master II=M<color\=#000000>e</color>stre de Defesa II	
+D<color\=#000000>e</color>fense Master III=M<color\=#000000>e</color>stre de Defesa III	
+D<color\=#000000>e</color>fense Master IV=M<color\=#000000>e</color>stre de Defesa IV	
+M<color\=#000000>a</color>rakukaja I=M<color\=#000000>a</color>rakukaja I	
+M<color\=#000000>a</color>rakukaja II=M<color\=#000000>a</color>rakukaja II	
+M<color\=#000000>a</color>rakukaja III=M<color\=#000000>a</color>rakukaja III	
+M<color\=#000000>a</color>rakukaja IV=M<color\=#000000>a</color>rakukaja IV	
+S<color\=#000000>p</color>eed Technique I=T<color\=#000000>é</color>cnica de Velocidade I	
+S<color\=#000000>p</color>eed Technique II=T<color\=#000000>é</color>cnica de Velocidade II	
+S<color\=#000000>p</color>eed Technique III=T<color\=#000000>é</color>cnica de Velocidade III	
+S<color\=#000000>p</color>eed Technique IV=T<color\=#000000>é</color>cnica de Velocidade IV	
+C<color\=#000000>r</color>itical Rate Up=T<color\=#000000>a</color>xa de Crítico Aumentada	
+F<color\=#000000>u</color>ry=F<color\=#000000>ú</color>ria	
+C<color\=#000000>r</color>eepy Dice=D<color\=#000000>a</color>dos Assustadores	
+T<color\=#000000>a</color>ctical Goggles=Ó<color\=#000000>c</color>ulos Táticos	
+W<color\=#000000>i</color>reless Gamepad=C<color\=#000000>o</color>ntrole sem Fio	
+A<color\=#000000>g</color>ony=A<color\=#000000>g</color>onia	
+R<color\=#000000>a</color>gnarok=R<color\=#000000>a</color>gnarok	
+P<color\=#000000>o</color>wer of Passion=P<color\=#000000>o</color>der da Paixão	
+P<color\=#000000>u</color>rity: No. 1=P<color\=#000000>u</color>reza: Nº 1	
+P<color\=#000000>u</color>rity: No. 2=P<color\=#000000>u</color>reza: Nº 2	
+P<color\=#000000>u</color>rity: No. 6=P<color\=#000000>u</color>reza: Nº 6	
+I<color\=#000000>m</color>pure Body: No. 1=C<color\=#000000>o</color>rpo Impuro: Nº 1	
+I<color\=#000000>m</color>pure Body: No. 4=C<color\=#000000>o</color>rpo Impuro: Nº 4	
+S<color\=#000000>p</color>arkling Stage=P<color\=#000000>a</color>lco Cintilante	
+S<color\=#000000>i</color>ngle-Frequency Radio=R<color\=#000000>á</color>dio de Frequência Única	
+M<color\=#000000>u</color>lti-Frequency Radio=R<color\=#000000>á</color>dio de Multifrequência	
+P<color\=#000000>r</color>otection Envelope=E<color\=#000000>n</color>velope de Proteção	
+M<color\=#000000>a</color>rthym's Point Card=C<color\=#000000>a</color>rtão de Pontos Marthym	
+F<color\=#000000>l</color>owers in Bloom=F<color\=#000000>l</color>ores em Flor	
+D<color\=#000000>i</color>spatch Protocol=P<color\=#000000>r</color>otocolo de Despacho	
+P<color\=#000000>h</color>ysical Seal=S<color\=#000000>e</color>lo Físico	
+G<color\=#000000>u</color>n Seal=S<color\=#000000>e</color>lo de Arma	
+F<color\=#000000>i</color>re Seal=S<color\=#000000>e</color>lo de Fogo	
+I<color\=#000000>c</color>e Seal=S<color\=#000000>e</color>lo de Gelo	
+E<color\=#000000>l</color>ec Seal=S<color\=#000000>e</color>lo Elétrico	
+W<color\=#000000>i</color>nd Seal=S<color\=#000000>e</color>lo de Vento	
+P<color\=#000000>s</color>y Seal=S<color\=#000000>e</color>lo Psíquico	
+N<color\=#000000>u</color>clear Seal=S<color\=#000000>e</color>lo Nuclear	
+B<color\=#000000>l</color>ess Seal=S<color\=#000000>e</color>lo de Bênção	
+C<color\=#000000>u</color>rse Seal=S<color\=#000000>e</color>lo de Maldição	
+A<color\=#000000>l</color>mighty Seal=S<color\=#000000>e</color>lo Onipotente	
+R<color\=#000000>i</color>tual: 2-piece Set=C<color\=#000000>o</color>njunto Ritual: 2 peças	
+R<color\=#000000>i</color>tual: 4-piece Set=C<color\=#000000>o</color>njunto Ritual: 4 peças	
+R<color\=#000000>e</color>sound: 2-piece Set=C<color\=#000000>o</color>njunto Ressonância: 2 peças	
+R<color\=#000000>e</color>sound: 4-piece Set=C<color\=#000000>o</color>njunto Ressonância: 4 peças	
+M<color\=#000000>a</color>rk=M<color\=#000000>a</color>rca	
+B<color\=#000000>l</color>izzard=N<color\=#000000>e</color>vasca	
+W<color\=#000000>i</color>nd of Nirvana=V<color\=#000000>e</color>nto do Nirvana	
+G<color\=#000000>o</color>odwill to All=B<color\=#000000>e</color>nevolência para Todos	
+R<color\=#000000>e</color>covery Block=B<color\=#000000>l</color>oqueio de Recuperação	
+E<color\=#000000>l</color>emental Ailment Resist Down=R<color\=#000000>e</color>sistência a Aflições Elementais Reduzida	
+R<color\=#000000>e</color>sistance Barrier=B<color\=#000000>a</color>rreira de Resistência	
+C<color\=#000000>o</color>ntinuous Curse=M<color\=#000000>a</color>ldição Contínua	
+I<color\=#000000>n</color>sta-kill Barrier=B<color\=#000000>a</color>rreira de Morte Súbita	
+S<color\=#000000>t</color>atus Ailment Resistance Down=R<color\=#000000>e</color>sistência a Aflições de Status Reduzida	
+A<color\=#000000>t</color>tack Down=A<color\=#000000>t</color>aque Reduzido	
+A<color\=#000000>i</color>lment Accuracy Up=P<color\=#000000>r</color>ecisão de Aflição Aumentada	
+I<color\=#000000>c</color>e Damage Taken Up=D<color\=#000000>a</color>no de Gelo Recebido Aumentado	
+H<color\=#000000>P</color> Up=H<color\=#000000>P</color> Aumentado	
+F<color\=#000000>i</color>ghting Spirit=E<color\=#000000>s</color>pírito de Luta	
+W<color\=#000000>e</color>akness Damage Taken Up=D<color\=#000000>a</color>no de Fraqueza Recebido Aumentado	
+W<color\=#000000>e</color>akness Damage Taken Down=D<color\=#000000>a</color>no de Fraqueza Recebido Reduzido	
+C<color\=#000000>u</color>rse Damage Taken Up=D<color\=#000000>a</color>no de Maldição Recebido Aumentado	
+P<color\=#000000>h</color>ys Damage Taken Up=D<color\=#000000>a</color>no Físico Recebido Aumentado	
+P<color\=#000000>s</color>y Damage Taken Up=D<color\=#000000>a</color>no Psíquico Recebido Aumentado	
+C<color\=#000000>r</color>itical Damage Taken Up=D<color\=#000000>a</color>no Crítico Recebido Aumentado	
+D<color\=#000000>a</color>mage Reduction Up=R<color\=#000000>e</color>dução de Dano Aumentada	
+C<color\=#000000>r</color>itical Up=C<color\=#000000>r</color>ítico Aumentado	
+R<color\=#000000>e</color>covery Received Up=R<color\=#000000>e</color>cuperação Recebida Aumentada	
+W<color\=#000000>i</color>nd Damage Taken Up=D<color\=#000000>a</color>no de Vento Recebido Aumentado	
+A<color\=#000000>i</color>lment Resist Up=R<color\=#000000>e</color>sistência a Aflição Aumentada	
+T<color\=#000000>h</color>under Lord's Majesty=M<color\=#000000>a</color>jestade do Lorde do Trovão	
+H<color\=#000000>e</color>ll's Inferno=I<color\=#000000>n</color>ferno Ardente	
+S<color\=#000000>a</color>crificial Screams=G<color\=#000000>r</color>itos de Sacrifício	
+C<color\=#000000>o</color>mmandment=M<color\=#000000>a</color>ndamento	
+L<color\=#000000>o</color>tus=L<color\=#000000>ó</color>tus	
+F<color\=#000000>o</color>ur Gods=Q<color\=#000000>u</color>atro Deuses	
+F<color\=#000000>o</color>ur Gods Power=P<color\=#000000>o</color>der dos Quatro Deuses	
+S<color\=#000000>n</color>ow King's Protection=P<color\=#000000>r</color>oteção do Rei da Neve	
+F<color\=#000000>r</color>osty Domination=D<color\=#000000>o</color>minação Glacial	
+V<color\=#000000>e</color>rdict of Justice=V<color\=#000000>e</color>redito da Justiça	
+T<color\=#000000>o</color>wer of Purification=T<color\=#000000>o</color>rre da Purificação	
+N<color\=#000000>i</color>ghtmare=P<color\=#000000>e</color>sadelo	
+D<color\=#000000>e</color>athly Silence=S<color\=#000000>i</color>lêncio Mortal	
+A<color\=#000000>l</color>lure of the Night: Tempest=F<color\=#000000>a</color>scínio da Noite: Tempestade	
+A<color\=#000000>l</color>lure of the Night: Dead of Winter=F<color\=#000000>a</color>scínio da Noite: Inverno Profundo	
+A<color\=#000000>l</color>lure of the Night: Malice=F<color\=#000000>a</color>scínio da Noite: Malícia	
+F<color\=#000000>a</color>tal Thorn=E<color\=#000000>s</color>pinho Fatal	
+K<color\=#000000>a</color>rmic Alteration=A<color\=#000000>l</color>teração Cármica	
+P<color\=#000000>h</color>ys Damage Dealt Up=D<color\=#000000>a</color>no Físico Causado Aumentado	
+G<color\=#000000>u</color>n Damage Dealt Up=D<color\=#000000>a</color>no de Arma Causado Aumentado	
+F<color\=#000000>i</color>re Damage Dealt Up=D<color\=#000000>a</color>no de Fogo Causado Aumentado	
+I<color\=#000000>c</color>e Damage Dealt Up=D<color\=#000000>a</color>no de Gelo Causado Aumentado	
+E<color\=#000000>l</color>ec Damage Dealt Up=D<color\=#000000>a</color>no Elétrico Causado Aumentado	
+W<color\=#000000>i</color>nd Damage Dealt Up=D<color\=#000000>a</color>no de Vento Causado Aumentado	
+P<color\=#000000>s</color>y Damage Dealt Up=D<color\=#000000>a</color>no Psíquico Causado Aumentado	
+N<color\=#000000>u</color>clear Damage Up=D<color\=#000000>a</color>no Nuclear Aumentado	
+B<color\=#000000>l</color>ess Damage Dealt Up=D<color\=#000000>a</color>no de Bênção Causado Aumentado	
+C<color\=#000000>u</color>rse Damage Dealt Up=D<color\=#000000>a</color>no de Maldição Causado Aumentado	
+A<color\=#000000>l</color>mighty Damage Dealt Up=D<color\=#000000>a</color>no Onipotente Causado Aumentado	
+D<color\=#000000>a</color>mage Dealt Up=D<color\=#000000>a</color>no Causado Aumentado	
+A<color\=#000000>d</color>d Weakness=A<color\=#000000>d</color>icionar Fraqueza	
+H<color\=#000000>e</color>llscorched=C<color\=#000000>a</color>lcinado pelo Inferno	
+C<color\=#000000>l</color>eansing Flame=C<color\=#000000>h</color>ama Purificadora	
+O<color\=#000000>v</color>ertime Order=O<color\=#000000>r</color>dem: Hora Extra	
+P<color\=#000000>e</color>rformance Evaluation=A<color\=#000000>v</color>aliação de Desempenho	
+T<color\=#000000>e</color>am-Building Exercise=D<color\=#000000>i</color>nâmica de Equipe	
+S<color\=#000000>a</color>crifice Order=O<color\=#000000>r</color>dem: Sacrifício	
+C<color\=#000000>o</color>rporate Culture=C<color\=#000000>u</color>ltura Corporativa	
+P<color\=#000000>s</color>ychokinesis Weakness=F<color\=#000000>r</color>aqueza a Psicocinese	
+N<color\=#000000>u</color>clear Weakness=F<color\=#000000>r</color>aqueza a Nuclear	
+A<color\=#000000>z</color>ure Storm=T<color\=#000000>e</color>mpestade Azure	
+W<color\=#000000>i</color>nd Weakness=F<color\=#000000>r</color>aqueza a Vento	
+I<color\=#000000>c</color>e Weakness=F<color\=#000000>r</color>aqueza a Gelo	
+W<color\=#000000>i</color>nd Wall=M<color\=#000000>u</color>ralha de Vento	
+I<color\=#000000>c</color>e Wall=M<color\=#000000>u</color>ralha de Gelo	
+P<color\=#000000>h</color>ysical Weakness=F<color\=#000000>r</color>aqueza a Físico	
+G<color\=#000000>u</color>n Weakness=F<color\=#000000>r</color>aqueza a Arma	
+F<color\=#000000>i</color>re Weakness=F<color\=#000000>r</color>aqueza a Fogo	
+E<color\=#000000>l</color>ectric Weakness=F<color\=#000000>r</color>aqueza a Elétrico	
+B<color\=#000000>l</color>ess Weakness=F<color\=#000000>r</color>aqueza a Bênção	
+C<color\=#000000>u</color>rse Weakness=F<color\=#000000>r</color>aqueza a Maldição	
+R<color\=#000000>o</color>yal Blessing=B<color\=#000000>ê</color>nção Real	
+L<color\=#000000>o</color>ck On=N<color\=#000000>a</color> Mira	
+D<color\=#000000>e</color>ep Wounds=F<color\=#000000>e</color>ridas Profundas	
+B<color\=#000000>i</color>te Marks=M<color\=#000000>a</color>rcas de Mordida	
+P<color\=#000000>r</color>ey=P<color\=#000000>r</color>esa	
+D<color\=#000000>e</color>fensive Stance=P<color\=#000000>o</color>stura Defensiva	
+D<color\=#000000>e</color>fense Position=P<color\=#000000>o</color>sição de Defesa	
+A<color\=#000000>t</color>tack Position=P<color\=#000000>o</color>sição de Ataque	
+P<color\=#000000>e</color>stilence=P<color\=#000000>e</color>stilência	
+H<color\=#000000>o</color>rn of War=C<color\=#000000>h</color>ifre de Guerra	
+F<color\=#000000>a</color>mine=F<color\=#000000>o</color>me	
+W<color\=#000000>i</color>thering=M<color\=#000000>u</color>rcha	
+P<color\=#000000>o</color>wer of Death=P<color\=#000000>o</color>der da Morte	
+H<color\=#000000>o</color>rn of the End=C<color\=#000000>h</color>ifre do Fim	
+P<color\=#000000>o</color>wer of Ruin=P<color\=#000000>o</color>der da Ruína	
+C<color\=#000000>o</color>mmand=C<color\=#000000>o</color>mando	
+P<color\=#000000>r</color>eparing Command=P<color\=#000000>r</color>eparando Comando	
+S<color\=#000000>o</color>ul Link=V<color\=#000000>í</color>nculo de Alma	
+B<color\=#000000>e</color>rserk=F<color\=#000000>r</color>enesi	
+I<color\=#000000>c</color>eburn=G<color\=#000000>e</color>ladura	
+U<color\=#000000>l</color>trawindswept=V<color\=#000000>e</color>ndaval Extremo	
+W<color\=#000000>e</color>aken=E<color\=#000000>n</color>fraquecer	
+M<color\=#000000>a</color>rine Protection=P<color\=#000000>r</color>oteção Marinha	
+B<color\=#000000>e</color>ast King's Majesty=M<color\=#000000>a</color>jestade do Rei Fera	
+T<color\=#000000>o</color>ugh=R<color\=#000000>o</color>busto	
+F<color\=#000000>r</color>ail=F<color\=#000000>r</color>ágil	
+E<color\=#000000>x</color>pose Weakness=E<color\=#000000>x</color>por Fraqueza	
+P<color\=#000000>r</color>eparing=P<color\=#000000>r</color>eparando	
+A<color\=#000000>t</color>tention=A<color\=#000000>t</color>enção	
+R<color\=#000000>o</color>bust=R<color\=#000000>o</color>busto	
+D<color\=#000000>a</color>mage Down=D<color\=#000000>a</color>no Reduzido	
+F<color\=#000000>i</color>reburn=P<color\=#000000>i</color>roclasma	
+L<color\=#000000>i</color>nked Attack=A<color\=#000000>t</color>aque Vinculado	
+F<color\=#000000>l</color>ammable=I<color\=#000000>n</color>flamável	
+I<color\=#000000>n</color>nate Ability=H<color\=#000000>a</color>bilidade Inata	
+C<color\=#000000>o</color>unter Evade=E<color\=#000000>v</color>asão de Contra-ataque	
+S<color\=#000000>u</color>bstitute=S<color\=#000000>u</color>bstituto	
+C<color\=#000000>a</color>ution=C<color\=#000000>a</color>utela	
+P<color\=#000000>o</color>wer of Awakening=P<color\=#000000>o</color>der do Despertar	
+M<color\=#000000>i</color>ghty Offering=O<color\=#000000>f</color>erenda Poderosa	
+S<color\=#000000>e</color>lf-destruct=A<color\=#000000>u</color>todestruição	
+L<color\=#000000>i</color>ve and Die as One=V<color\=#000000>i</color>ver e Morrer como Um	
+R<color\=#000000>e</color>vive=R<color\=#000000>e</color>ssuscitar	
+S<color\=#000000>e</color>rvant=S<color\=#000000>e</color>rvo	
+A<color\=#000000>c</color>e Pitcher=L<color\=#000000>a</color>nçador Ás	
+C<color\=#000000>h</color>eering=T<color\=#000000>o</color>rcida	
+U<color\=#000000>n</color>defeated=I<color\=#000000>n</color>victo	
+E<color\=#000000>n</color>hance Wind=F<color\=#000000>o</color>rtalecer Vento	
+L<color\=#000000>e</color>thal=L<color\=#000000>e</color>tal	
+R<color\=#000000>o</color>yal Rigor=R<color\=#000000>i</color>gor Real	
+I<color\=#000000>n</color>timidation=I<color\=#000000>n</color>timidação	
+R<color\=#000000>o</color>yal Fealty=L<color\=#000000>e</color>aldade Real	
+R<color\=#000000>o</color>yal Sorrow=T<color\=#000000>r</color>isteza Real	
+R<color\=#000000>o</color>yal Authority=A<color\=#000000>u</color>toridade Real	
+R<color\=#000000>o</color>yal Domain=D<color\=#000000>o</color>mínio Real	
+M<color\=#000000>o</color>nkey Mask=M<color\=#000000>á</color>scara de Macaco	
+T<color\=#000000>a</color>nuki Form=F<color\=#000000>o</color>rma de Tanuki	
+T<color\=#000000>i</color>ger Claws=G<color\=#000000>a</color>rras de Tigre	
+S<color\=#000000>n</color>ake Tail=C<color\=#000000>a</color>uda de Serpente	
+T<color\=#000000>o</color>xin=T<color\=#000000>o</color>xina	
+N<color\=#000000>u</color>e's Power=P<color\=#000000>o</color>der de Nue	
+D<color\=#000000>o</color>wn=A<color\=#000000>b</color>atido	
+C<color\=#000000>o</color>unterattack Stance=P<color\=#000000>o</color>stura de Contra-ataque	
+E<color\=#000000>n</color>ergy Accumulation=A<color\=#000000>c</color>úmulo de Energia	
+N<color\=#000000>u</color>ll Damage=A<color\=#000000>n</color>ular Dano	
+S<color\=#000000>i</color>n=P<color\=#000000>e</color>cado	
+P<color\=#000000>h</color>ysical Counter=C<color\=#000000>o</color>ntra-ataque Físico	
+H<color\=#000000>y</color>akki Yagyo +1=H<color\=#000000>y</color>akki Yagyo +1	
+S<color\=#000000>i</color>de Effect=E<color\=#000000>f</color>eito Colateral	
+W<color\=#000000>o</color>e=A<color\=#000000>f</color>lição	
+D<color\=#000000>i</color>saster=D<color\=#000000>e</color>sastre	
+W<color\=#000000>i</color>nd Domain=D<color\=#000000>o</color>mínio do Vento	
+I<color\=#000000>c</color>e Domain=D<color\=#000000>o</color>mínio do Gelo	
+I<color\=#000000>n</color>destructible Vajra=V<color\=#000000>a</color>jra Indestrutível	
+G<color\=#000000>o</color>lden Domain=D<color\=#000000>o</color>mínio Dourado	
+W<color\=#000000>e</color>akness=F<color\=#000000>r</color>aqueza	
+C<color\=#000000>o</color>nvert Non-Weakness Damage=C<color\=#000000>o</color>nverter Dano sem Fraqueza	
+B<color\=#000000>e</color>am Count=C<color\=#000000>o</color>ntagem de Feixes	
+P<color\=#000000>o</color>wer of Courage=P<color\=#000000>o</color>der da Coragem	
+F<color\=#000000>a</color>iry's Blessing=B<color\=#000000>ê</color>nção da Fada	
+F<color\=#000000>a</color>iry's Dance Count=C<color\=#000000>o</color>ntagem da Dança da Fada	
+G<color\=#000000>i</color>ft of the Grove=D<color\=#000000>á</color>diva do Bosque	
+F<color\=#000000>a</color>iry's Protection=P<color\=#000000>r</color>oteção da Fada	
+M<color\=#000000>i</color>rage Step=P<color\=#000000>a</color>sso Miragem	
+R<color\=#000000>e</color>verse Step=P<color\=#000000>a</color>sso Invertido	
+C<color\=#000000>a</color>pe-Sweep Step=P<color\=#000000>a</color>sso de Capote	
+C<color\=#000000>a</color>pote=C<color\=#000000>a</color>pote	
+M<color\=#000000>a</color>ster Step=P<color\=#000000>a</color>sso de Mestre	
+U<color\=#000000>n</color>able to Act=I<color\=#000000>m</color>possibilitado de Agir	
+M<color\=#000000>i</color>rage-Reverse Step=P<color\=#000000>a</color>sso Miragem-Invertido	
+R<color\=#000000>e</color>verse-Cape Sweep Step=P<color\=#000000>a</color>sso Invertido-Capote	
+C<color\=#000000>a</color>pe Sweep-Mirage Step=P<color\=#000000>a</color>sso Capote-Miragem	
+P<color\=#000000>o</color>wer III=P<color\=#000000>o</color>der III	
+S<color\=#000000>p</color>ecial Effect=E<color\=#000000>f</color>eito Especial	
+C<color\=#000000>r</color>itical Rate Down=T<color\=#000000>a</color>xa de Crítico Reduzida	
+P<color\=#000000>l</color>ague Curse=M<color\=#000000>a</color>ldição da Peste	
+S<color\=#000000>a</color>lt in the Wound=S<color\=#000000>a</color>l na Ferida	
+I<color\=#000000>n</color>vincible=I<color\=#000000>n</color>vencível	
+E<color\=#000000>n</color>raged=E<color\=#000000>n</color>furecido	
+A<color\=#000000>p</color>proach=A<color\=#000000>p</color>roximação	
+M<color\=#000000>a</color>x HP Cap Up=L<color\=#000000>i</color>mite de HP Máximo Aumentado	
+A<color\=#000000>b</color>undance=A<color\=#000000>b</color>undância	
+I<color\=#000000>n</color>terference=I<color\=#000000>n</color>terferência	
+P<color\=#000000>a</color>rasol of Chaos=P<color\=#000000>a</color>rasol do Caos	
+W<color\=#000000>a</color>r God's Power=P<color\=#000000>o</color>der do Deus da Guerra	
+E<color\=#000000>n</color>dure=R<color\=#000000>e</color>sistir	
+D<color\=#000000>a</color>rk Night=N<color\=#000000>o</color>ite Sombria	
+L<color\=#000000>u</color>nar Power=P<color\=#000000>o</color>der Lunar	
+F<color\=#000000>u</color>ll Moon=L<color\=#000000>u</color>a Cheia	
+N<color\=#000000>a</color>tural Life Drain=D<color\=#000000>r</color>eno de Vida Natural	
+M<color\=#000000>e</color>ntal Life Drain=D<color\=#000000>r</color>eno de Vida Mental	
+W<color\=#000000>a</color>xing Crescent=L<color\=#000000>u</color>a Crescente	
+D<color\=#000000>e</color>ep Sleep=S<color\=#000000>o</color>no Profundo	
+D<color\=#000000>a</color>zzling Daylight=L<color\=#000000>u</color>z do Dia Ofuscante	
+P<color\=#000000>r</color>ogress=P<color\=#000000>r</color>ogresso	
+W<color\=#000000>e</color>akness Dogu=D<color\=#000000>o</color>gu da Fraqueza	
+S<color\=#000000>P</color> Dogu=D<color\=#000000>o</color>gu de SP	
+H<color\=#000000>P</color> Dogu=D<color\=#000000>o</color>gu de HP	
+A<color\=#000000>r</color>bitration - Survival=A<color\=#000000>r</color>bitragem - Sobrevivência	
+A<color\=#000000>r</color>bitration - Support=A<color\=#000000>r</color>bitragem - Suporte	
+S<color\=#000000>e</color>al of Mortality=S<color\=#000000>e</color>lo da Mortalidade	
+G<color\=#000000>r</color>owth=C<color\=#000000>r</color>escimento	
+E<color\=#000000>s</color>cape=F<color\=#000000>u</color>ga	
+F<color\=#000000>a</color>iry Queen=R<color\=#000000>a</color>inha das Fadas	
+F<color\=#000000>e</color>rocity=F<color\=#000000>e</color>rocidade	
+E<color\=#000000>x</color>tra Action=A<color\=#000000>ç</color>ão Extra	
+M<color\=#000000>a</color>rk: Gun=M<color\=#000000>a</color>rca: Arma	
+M<color\=#000000>a</color>rk: Fire=M<color\=#000000>a</color>rca: Fogo	
+M<color\=#000000>a</color>rk: Wind=M<color\=#000000>a</color>rca: Vento	
+M<color\=#000000>a</color>rk: Psychokinesis=M<color\=#000000>a</color>rca: Psicocinese	
+M<color\=#000000>a</color>rk: Nuclear=M<color\=#000000>a</color>rca: Nuclear	
+M<color\=#000000>a</color>rk: Curse=M<color\=#000000>a</color>rca: Maldição	
+M<color\=#000000>a</color>rk: Almighty=M<color\=#000000>a</color>rca: Onipotente	
+P<color\=#000000>h</color>ysical Damage Up=D<color\=#000000>a</color>no Físico Aumentado	
+A<color\=#000000>l</color>mighty Damage Taken Up=D<color\=#000000>a</color>no Onipotente Recebido Aumentado	
+V<color\=#000000>e</color>lvet Room's Blessing=B<color\=#000000>ê</color>nção do Quarto de Veludo	
+E<color\=#000000>l</color>emental Ailment Frail=F<color\=#000000>r</color>ágil a Aflição Elemental	
+S<color\=#000000>h</color>ock Frail=F<color\=#000000>r</color>ágil a Choque	
+C<color\=#000000>u</color>rse Frail=F<color\=#000000>r</color>ágil a Maldição	
+C<color\=#000000>r</color>own's Strength=F<color\=#000000>o</color>rça da Coroa	
+C<color\=#000000>r</color>own's Majesty=M<color\=#000000>a</color>jestade da Coroa	
+B<color\=#000000>o</color>ost=I<color\=#000000>m</color>pulso	
+S<color\=#000000>h</color>ut Tight=F<color\=#000000>i</color>rme e Fechado	
+C<color\=#000000>r</color>itical Domain=D<color\=#000000>o</color>mínio Crítico	
+F<color\=#000000>u</color>nds=F<color\=#000000>u</color>ndos	
+P<color\=#000000>r</color>otective Guard=G<color\=#000000>u</color>arda Protetora	
+I<color\=#000000>n</color>centivization=I<color\=#000000>n</color>centivo	
+C<color\=#000000>o</color>unterfeit Bills=N<color\=#000000>o</color>tas Falsificadas	
+S<color\=#000000>u</color>bmerged=S<color\=#000000>u</color>bmerso	
+R<color\=#000000>o</color>yal Shield=E<color\=#000000>s</color>cudo Real	
+S<color\=#000000>a</color>nctuary=S<color\=#000000>a</color>ntuário	
+R<color\=#000000>e</color>d War=G<color\=#000000>u</color>erra Vermelha	
+H<color\=#000000>o</color>rn of Ruin=C<color\=#000000>h</color>ifre da Ruína	
+M<color\=#000000>a</color>rk of Calamity=M<color\=#000000>a</color>rca da Calamidade	
+G<color\=#000000>r</color>udge=R<color\=#000000>a</color>ncor	
+P<color\=#000000>l</color>ague Origin=O<color\=#000000>r</color>igem da Praga	
+P<color\=#000000>o</color>wer of the Sun=P<color\=#000000>o</color>der do Sol	
+W<color\=#000000>i</color>ll of Lunging=V<color\=#000000>o</color>ntade de Atacar	
+Z<color\=#000000>e</color>al=Z<color\=#000000>e</color>lo	
+M<color\=#000000>a</color>intenance=M<color\=#000000>a</color>nutenção	
+F<color\=#000000>r</color>ail Damage=D<color\=#000000>a</color>no de Fragilidade	
+S<color\=#000000>t</color>at Buff=B<color\=#000000>ô</color>nus de Atributo	
+S<color\=#000000>o</color>ul Vessel=R<color\=#000000>e</color>cipiente de Alma	
+D<color\=#000000>m</color>g Taken Down=D<color\=#000000>a</color>no Recebido Reduzido	
+P<color\=#000000>o</color>wer of Sorrow=P<color\=#000000>o</color>der da Tristeza	
+D<color\=#000000>e</color>f Down=D<color\=#000000>e</color>fesa Reduzida	
+M<color\=#000000>a</color>rk: Physical=M<color\=#000000>a</color>rca: Físico	
+M<color\=#000000>a</color>rk: Ice=M<color\=#000000>a</color>rca: Gelo	
+M<color\=#000000>a</color>rk: Bless=M<color\=#000000>a</color>rca: Bênção	
+G<color\=#000000>l</color>aciating Viper=V<color\=#000000>í</color>bora Glacial	
+T<color\=#000000>h</color>undering Viper=V<color\=#000000>í</color>bora Trovejante	
+W<color\=#000000>h</color>irling Viper=V<color\=#000000>í</color>bora Rodopiante	
+O<color\=#000000>r</color>ochi's Tail=C<color\=#000000>a</color>uda de Orochi	
+A<color\=#000000>m</color>e-no-Murakumo=A<color\=#000000>m</color>e-no-Murakumo	
+O<color\=#000000>r</color>ochi's Protection=P<color\=#000000>r</color>oteção de Orochi	
+S<color\=#000000>n</color>ake Venom=V<color\=#000000>e</color>neno de Serpente	
+S<color\=#000000>n</color>akebite=P<color\=#000000>i</color>cada de Cobra	
+G<color\=#000000>r</color>eat Tengu Power=G<color\=#000000>r</color>ande Poder Tengu	
+G<color\=#000000>r</color>eat Tengu Super Power=S<color\=#000000>u</color>per Poder Grande Tengu	
+G<color\=#000000>r</color>eat Tengu Ultimate Power=P<color\=#000000>o</color>der Supremo Grande Tengu	
+S<color\=#000000>e</color>al of Power=S<color\=#000000>e</color>lo de Poder	
+C<color\=#000000>o</color>llapse Warning=A<color\=#000000>v</color>iso de Colapso	
+E<color\=#000000>l</color>emental Invasion=I<color\=#000000>n</color>vasão Elemental	
+B<color\=#000000>l</color>ood's Grace=G<color\=#000000>r</color>aça de Sangue	
+C<color\=#000000>h</color>arge Field=C<color\=#000000>a</color>mpo de Carga	
+I<color\=#000000>m</color>pact=I<color\=#000000>m</color>pacto	
+M<color\=#000000>a</color>rk: Electric=M<color\=#000000>a</color>rca: Elétrico	
+F<color\=#000000>a</color>lse Death=M<color\=#000000>o</color>rte Falsa	
+T<color\=#000000>a</color>ntrum=A<color\=#000000>c</color>esso de Raiva	
+P<color\=#000000>h</color>ysical Barrier=B<color\=#000000>a</color>rreira Física	
+P<color\=#000000>h</color>ys Barrier=B<color\=#000000>a</color>rreira Física	
+G<color\=#000000>u</color>n Barrier=B<color\=#000000>a</color>rreira de Arma	
+F<color\=#000000>i</color>re Barrier=B<color\=#000000>a</color>rreira de Fogo	
+I<color\=#000000>c</color>e Barrier=B<color\=#000000>a</color>rreira de Gelo	
+E<color\=#000000>l</color>ec Barrier=B<color\=#000000>a</color>rreira Elétrica	
+W<color\=#000000>i</color>nd Barrier=B<color\=#000000>a</color>rreira de Vento	
+P<color\=#000000>s</color>y Barrier=B<color\=#000000>a</color>rreira Psíquica	
+N<color\=#000000>u</color>ke Barrier=B<color\=#000000>a</color>rreira Nuclear	
+B<color\=#000000>l</color>ess Barrier=B<color\=#000000>a</color>rreira de Bênção	
+C<color\=#000000>u</color>rse Barrier=B<color\=#000000>a</color>rreira de Maldição	
+S<color\=#000000>w</color>ord that Defends the Nation=E<color\=#000000>s</color>pada que Defende a Nação	
+G<color\=#000000>r</color>owth of all Things=C<color\=#000000>r</color>escimento de Todas as Coisas	
+E<color\=#000000>y</color>e of Heaven=O<color\=#000000>l</color>ho do Céu	
+V<color\=#000000>a</color>lor=V<color\=#000000>a</color>lor	
+S<color\=#000000>t</color>rife=C<color\=#000000>o</color>nflito	
+G<color\=#000000>r</color>owth & Luxury=C<color\=#000000>r</color>escimento & Luxo	
+F<color\=#000000>a</color>ith & Peace=F<color\=#000000>é</color> & Paz	
+H<color\=#000000>a</color>rmony & Victory=H<color\=#000000>a</color>rmonia & Vitória	
+T<color\=#000000>r</color>ust & Power=C<color\=#000000>o</color>nfiança & Poder	
+R<color\=#000000>e</color>covery Effect Up=E<color\=#000000>f</color>eito de Recuperação Aumentado	
+C<color\=#000000>r</color>itical 1=C<color\=#000000>r</color>ítico 1	
+C<color\=#000000>r</color>itical 2=C<color\=#000000>r</color>ítico 2	
+C<color\=#000000>r</color>itical 3=C<color\=#000000>r</color>ítico 3	
+C<color\=#000000>r</color>itical A=C<color\=#000000>r</color>ítico A	
+G<color\=#000000>i</color>ant Killer 3=M<color\=#000000>a</color>tador de Gigantes 3	
+G<color\=#000000>i</color>ant Killer Set 4=C<color\=#000000>o</color>njunto Matador de Gigantes 4	
+R<color\=#000000>e</color>cover_1=R<color\=#000000>e</color>cuperar_1	
+R<color\=#000000>e</color>cover_2=R<color\=#000000>e</color>cuperar_2	
+H<color\=#000000>e</color>aling 3=C<color\=#000000>u</color>ra 3	
+H<color\=#000000>e</color>aling 4=C<color\=#000000>u</color>ra 4	
+H<color\=#000000>e</color>aling Set 2=C<color\=#000000>o</color>njunto de Cura 2	
+H<color\=#000000>e</color>aling Set 4=C<color\=#000000>o</color>njunto de Cura 4	
+S<color\=#000000>t</color>atus Ailment 13=A<color\=#000000>f</color>lição de Status 13	
+S<color\=#000000>t</color>atus Ailment 2=A<color\=#000000>f</color>lição de Status 2	
+S<color\=#000000>t</color>atus Ailment 3=A<color\=#000000>f</color>lição de Status 3	
+S<color\=#000000>t</color>atus Ailment 4=A<color\=#000000>f</color>lição de Status 4	
+S<color\=#000000>t</color>atus Ailment Set 2=C<color\=#000000>o</color>njunto de Aflição de Status 2	
+S<color\=#000000>t</color>atus Ailment Set 4=C<color\=#000000>o</color>njunto de Aflição de Status 4	
+A<color\=#000000>r</color>mor Break 1=Q<color\=#000000>u</color>ebra-armadura 1	
+A<color\=#000000>r</color>mor Break 2=Q<color\=#000000>u</color>ebra-armadura 2	
+A<color\=#000000>r</color>mor Break 3=Q<color\=#000000>u</color>ebra-armadura 3	
+A<color\=#000000>r</color>mor Break 4=Q<color\=#000000>u</color>ebra-armadura 4	
+A<color\=#000000>r</color>mor Break Set 2=C<color\=#000000>o</color>njunto Quebra-armadura 2	
+A<color\=#000000>r</color>mor Break Set 4=C<color\=#000000>o</color>njunto Quebra-armadura 4	
+L<color\=#000000>u</color>nge 1=I<color\=#000000>n</color>vestida 1	
+L<color\=#000000>u</color>nge 2=I<color\=#000000>n</color>vestida 2	
+L<color\=#000000>u</color>nge 3=I<color\=#000000>n</color>vestida 3	
+L<color\=#000000>u</color>nge 4=I<color\=#000000>n</color>vestida 4	
+L<color\=#000000>u</color>nge Set 2=C<color\=#000000>o</color>njunto de Investida 2	
+G<color\=#000000>r</color>owth 1=C<color\=#000000>r</color>escimento 1	
+G<color\=#000000>r</color>owth 2=C<color\=#000000>r</color>escimento 2	
+G<color\=#000000>r</color>owth 3=C<color\=#000000>r</color>escimento 3	
+G<color\=#000000>r</color>owth Set 2=C<color\=#000000>o</color>njunto de Crescimento 2	
+F<color\=#000000>o</color>od Effect=E<color\=#000000>f</color>eito da Comida	
+O<color\=#000000>l</color>d Buff=B<color\=#000000>ô</color>nus Antigo	
+N<color\=#000000>e</color>w Buff=B<color\=#000000>ô</color>nus Novo	
+M<color\=#000000>o</color>onlight=L<color\=#000000>u</color>ar	
+T<color\=#000000>u</color>ndra's Eminence=E<color\=#000000>m</color>inência da Tundra	
+E<color\=#000000>v</color>eryone's Admiration=A<color\=#000000>d</color>miração de Todos	
+H<color\=#000000>a</color>llowed Fragment=F<color\=#000000>r</color>agmento Santificado	
+C<color\=#000000>o</color>mprehensive Scan=V<color\=#000000>a</color>rredura Completa	
+E<color\=#000000>c</color>ho Barrier=B<color\=#000000>a</color>rreira de Eco	
+C<color\=#000000>a</color>ll of the Deep=C<color\=#000000>h</color>amado das Profundezas	
+Q<color\=#000000>u</color>ro=Q<color\=#000000>u</color>ro	
+Q<color\=#000000>u</color>rorama=Q<color\=#000000>u</color>rorama	
+A<color\=#000000>c</color>tion Up=A<color\=#000000>ç</color>ão Aumentada	
+A<color\=#000000>c</color>tion Down=A<color\=#000000>ç</color>ão Reduzida	
+H<color\=#000000>i</color>gh Performance=A<color\=#000000>l</color>ta Performance	
+F<color\=#000000>l</color>ash Punch=S<color\=#000000>o</color>co Relâmpago	
+F<color\=#000000>i</color>red Up=E<color\=#000000>m</color> Chamas	
+B<color\=#000000>l</color>ade Spirit=E<color\=#000000>s</color>pírito da Lâmina	
+C<color\=#000000>h</color>illing Display=E<color\=#000000>x</color>ibição Arrepiante	
+S<color\=#000000>h</color>ield Up=E<color\=#000000>s</color>cudo ao Alto	
+G<color\=#000000>l</color>acial Gift=D<color\=#000000>á</color>diva Glacial	
+T<color\=#000000>h</color>undercloud=N<color\=#000000>u</color>vem de Trovão	
+C<color\=#000000>o</color>rroding Lava=L<color\=#000000>a</color>va Corrosiva	
+P<color\=#000000>o</color>wer of Creation=P<color\=#000000>o</color>der da Criação	
+O<color\=#000000>v</color>erboost=S<color\=#000000>o</color>brecarga	
+H<color\=#000000>o</color>ly Resonance=R<color\=#000000>e</color>ssonância Sagrada	
+S<color\=#000000>p</color>eed Up=V<color\=#000000>e</color>locidade Aumentada	
+W<color\=#000000>a</color>ters of Oblivion=Á<color\=#000000>g</color>uas do Esquecimento	
+T<color\=#000000>r</color>ansformative Growth=C<color\=#000000>r</color>escimento Transformativo	
+D<color\=#000000>i</color>vine Blessing=B<color\=#000000>ê</color>nção Divina	
+F<color\=#000000>a</color>iry Power=P<color\=#000000>o</color>der Feérico	
+A<color\=#000000>n</color>gel's Bindings=A<color\=#000000>m</color>arras de Anjo	
+D<color\=#000000>e</color>ath Stare=O<color\=#000000>l</color>har da Morte	
+V<color\=#000000>a</color>jra Curse=M<color\=#000000>a</color>ldição do Vajra	
+V<color\=#000000>a</color>jra Shield=E<color\=#000000>s</color>cudo do Vajra	
+D<color\=#000000>e</color>mon Power=P<color\=#000000>o</color>der Demoníaco	
+F<color\=#000000>a</color>iry Curse=M<color\=#000000>a</color>ldição da Fada	
+D<color\=#000000>e</color>monic Curse=M<color\=#000000>a</color>ldição Demoníaca	
+W<color\=#000000>h</color>imsy=C<color\=#000000>a</color>pricho	
+I<color\=#000000>V</color>=I<color\=#000000>V</color>	
+O<color\=#000000>a</color>th of Rescue=J<color\=#000000>u</color>ramento de Resgate	
+S<color\=#000000>c</color>attered Flowers=F<color\=#000000>l</color>ores Dispersas	
+L<color\=#000000>u</color>nar Reflection=R<color\=#000000>e</color>flexo Lunar	
+S<color\=#000000>h</color>adowdance=D<color\=#000000>a</color>nça das Sombras	
+F<color\=#000000>l</color>ower Bud=B<color\=#000000>o</color>tão de Flor	
+A<color\=#000000>t</color>omic Decay=D<color\=#000000>e</color>caimento Atômico	
+S<color\=#000000>e</color>ductive Kiss=B<color\=#000000>e</color>ijo Sedutor	
+M<color\=#000000>o</color>onlit Banquet=B<color\=#000000>a</color>nquete ao Luar	
+T<color\=#000000>o</color>ne=T<color\=#000000>o</color>m	
+E<color\=#000000>u</color>phoria=E<color\=#000000>u</color>foria	
+R<color\=#000000>e</color>d-Hot Summer=V<color\=#000000>e</color>rão Escalndante	
+S<color\=#000000>u</color>nlight=L<color\=#000000>u</color>z do Sol	
+A<color\=#000000>f</color>terglow=A<color\=#000000>r</color>rebol	
+F<color\=#000000>e</color>ast of Light and Shadow=B<color\=#000000>a</color>nquete de Luz e Sombra	
+E<color\=#000000>y</color>e of the Abyss=O<color\=#000000>l</color>ho do Abismo	
+S<color\=#000000>h</color>ield Effect Up=E<color\=#000000>f</color>eito de Escudo Aumentado	
+H<color\=#000000>a</color>sten=A<color\=#000000>p</color>ressar	
+N<color\=#000000>i</color>rvana=N<color\=#000000>i</color>rvana	
