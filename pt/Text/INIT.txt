@@ -2710,3 +2710,4 @@ Zionga=Zionga
 Zouchouten's Trait 0=Característica de Zouchouten 0
 Zouchouten's Trait 3=Característica de Zouchouten 3
 Zouchouten's Trait 6=Característica de Zouchouten 6
+Hua Po=Hua Po
