@@ -6251,3 +6251,943 @@ E<color\=#000000>y</color>e of the Abyss=O<color\=#000000>l</color>ho do Abismo
 S<color\=#000000>h</color>ield Effect Up=E<color\=#000000>f</color>eito de Escudo Aumentado	
 H<color\=#000000>a</color>sten=A<color\=#000000>p</color>ressar	
 N<color\=#000000>i</color>rvana=N<color\=#000000>i</color>rvana	
+Join Trial Challenge=Entrar nas Provas
+Exchange Star Crystals=Trocar Cristais Estelares
+Nuclear Winter=Inverno Nuclear
+Lair of Arcane Flame=Covil da Chama Arcana
+An Ill Wind=Uma Brisa Ruim
+C<color\=#ff0000ff>a</color>fé=C<color\=#ff0000ff>a</color>fé
+H<color\=#ff0000ff>i</color>yori Koide=H<color\=#ff0000ff>i</color>yori Koide
+C<color\=#ff0000ff>l</color>inic=C<color\=#ff0000ff>l</color>ínica
+B<color\=#ff0000ff>a</color>tting Cages (Locked)=G<color\=#ff0000ff>a</color>iolas de Beisebol (Trancadas)
+B<color\=#ff0000ff>a</color>tting Cages=G<color\=#ff0000ff>a</color>iolas de Beisebol
+M<color\=#ff0000ff>o</color>vie Theater=C<color\=#ff0000ff>i</color>nema
+P<color\=#ff0000ff>l</color>aceholder Cat Figure=F<color\=#ff0000ff>i</color>gura de Gato Provisória
+K<color\=#ff0000ff>a</color>zuhiko Tsuda=K<color\=#ff0000ff>a</color>zuhiko Tsuda
+B<color\=#ff0000ff>a</color>thhouse=B<color\=#ff0000ff>a</color>lneário
+S<color\=#ff0000ff>e</color>condhand Shop=B<color\=#ff0000ff>r</color>echó
+I<color\=#ff0000ff>n</color>triguing Building=P<color\=#ff0000ff>r</color>édio Intrigante
+S<color\=#ff0000ff>u</color>permarket=S<color\=#ff0000ff>u</color>permercado
+V<color\=#ff0000ff>e</color>nding Machine=M<color\=#ff0000ff>á</color>quina de Vendas
+O<color\=#ff0000ff>l</color>d Apartment=A<color\=#ff0000ff>p</color>artamento Antigo
+R<color\=#ff0000ff>e</color>sidential District=D<color\=#ff0000ff>i</color>strito Residencial
+B<color\=#ff0000ff>a</color>ckstreets=B<color\=#ff0000ff>e</color>cos
+T<color\=#ff0000ff>o</color>bacco Store=T<color\=#ff0000ff>a</color>bacaria
+I<color\=#ff0000ff>z</color>akaya=I<color\=#ff0000ff>z</color>akaya
+D<color\=#ff0000ff>i</color>ning Bar=B<color\=#ff0000ff>a</color>r e Restaurante
+I<color\=#ff0000ff>n</color>ternational Restaurant=R<color\=#ff0000ff>e</color>staurante Internacional
+S<color\=#ff0000ff>t</color>acked Ingredients=I<color\=#ff0000ff>n</color>gredientes Empilhados
+P<color\=#ff0000ff>o</color>stbox=C<color\=#ff0000ff>a</color>ixa de Correio
+L<color\=#ff0000ff>i</color>sten to conversation=O<color\=#ff0000ff>u</color>vir conversa
+G<color\=#ff0000ff>i</color>rl Collecting Donations=G<color\=#ff0000ff>a</color>rota Coletando Doações
+Y<color\=#ff0000ff>e</color>llow Cat=G<color\=#ff0000ff>a</color>to Amarelo
+G<color\=#ff0000ff>r</color>ay Cat=G<color\=#ff0000ff>a</color>to Cinza
+B<color\=#ff0000ff>l</color>ack and White Cat=G<color\=#ff0000ff>a</color>to Preto e Branco
+Y<color\=#ff0000ff>a</color>oling Li=Y<color\=#ff0000ff>a</color>oling Li
+A<color\=#ff0000ff>p</color>artment Exterior Wall=P<color\=#ff0000ff>a</color>rede Externa do Apartamento
+O<color\=#ff0000ff>r</color>ange Tabby=G<color\=#ff0000ff>a</color>to Laranja Listrado
+S<color\=#ff0000ff>u</color>permarket Employee=F<color\=#ff0000ff>u</color>ncionário(a) do Supermercado
+S<color\=#ff0000ff>o</color>litary Old Man=V<color\=#ff0000ff>e</color>lho Solitário
+M<color\=#ff0000ff>a</color>n in a Suit=H<color\=#ff0000ff>o</color>mem de Terno
+B<color\=#ff0000ff>o</color>red Man=H<color\=#ff0000ff>o</color>mem Entediado
+M<color\=#ff0000ff>o</color>toha Arai=M<color\=#ff0000ff>o</color>toha Arai
+I<color\=#ff0000ff>n</color>terrogation Room Guard=G<color\=#ff0000ff>u</color>arda da Sala de Interrogatório
+R<color\=#ff0000ff>e</color>sident=R<color\=#ff0000ff>e</color>sidente
+S<color\=#ff0000ff>t</color>ation=E<color\=#ff0000ff>s</color>tação
+M<color\=#ff0000ff>y</color>sterious Traces=R<color\=#ff0000ff>a</color>stros Misteriosos
+O<color\=#ff0000ff>r</color>thopedic Clinic=C<color\=#ff0000ff>l</color>ínica Ortopédica
+L<color\=#ff0000ff>a</color>undromat=L<color\=#ff0000ff>a</color>vanderia
+T<color\=#ff0000ff>a</color>bby's Treasure Hunt=C<color\=#ff0000ff>a</color>ça ao Tesouro do Gato
+S<color\=#ff0000ff>t</color>ray Cat=G<color\=#ff0000ff>a</color>to de Rua
+G<color\=#ff0000ff>o</color> to Yongen-Jaya=I<color\=#ff0000ff>r</color> para Yongen-Jaya
+N<color\=#ff0000ff>o</color> Entry=P<color\=#ff0000ff>r</color>oibida a Entrada
+R<color\=#ff0000ff>e</color>n Amamiya=R<color\=#ff0000ff>e</color>n Amamiya
+M<color\=#ff0000ff>o</color>rgana=M<color\=#ff0000ff>o</color>rgana
+R<color\=#ff0000ff>y</color>uji Sakamoto=R<color\=#ff0000ff>y</color>uji Sakamoto
+A<color\=#ff0000ff>n</color>n Takamaki=A<color\=#ff0000ff>n</color>n Takamaki
+Y<color\=#ff0000ff>u</color>suke Kitagawa=Y<color\=#ff0000ff>u</color>suke Kitagawa
+M<color\=#ff0000ff>a</color>koto Niijima=M<color\=#ff0000ff>a</color>koto Niijima
+F<color\=#ff0000ff>u</color>taba Sakura=F<color\=#ff0000ff>u</color>taba Sakura
+H<color\=#ff0000ff>a</color>ru Okumura=H<color\=#ff0000ff>a</color>ru Okumura
+C<color\=#ff0000ff>h</color>eerful Punk=P<color\=#ff0000ff>u</color>nk Alegre
+C<color\=#ff0000ff>h</color>eerful Girl=G<color\=#ff0000ff>a</color>rota Alegre
+A<color\=#ff0000ff>r</color>tistic Boy=G<color\=#ff0000ff>a</color>roto Artístico
+H<color\=#ff0000ff>o</color>nor Student-like Girl=G<color\=#ff0000ff>a</color>rota Tipo Aluna Exemplar
+G<color\=#ff0000ff>i</color>rl Wearing Glasses=G<color\=#ff0000ff>a</color>rota de Óculos
+C<color\=#ff0000ff>o</color>urteous Girl=G<color\=#ff0000ff>a</color>rota Cortês
+C<color\=#ff0000ff>o</color>ffee=C<color\=#ff0000ff>a</color>fé
+E<color\=#ff0000ff>m</color>pty Curry Plate=P<color\=#ff0000ff>r</color>ato de Curry Vazio
+T<color\=#ff0000ff>e</color>xtbook=L<color\=#ff0000ff>i</color>vro Didático
+C<color\=#ff0000ff>o</color>mputer=C<color\=#ff0000ff>o</color>mputador
+L<color\=#ff0000ff>a</color>nguid Doctor=M<color\=#ff0000ff>é</color>dico Lânguido
+T<color\=#ff0000ff>a</color>e Takemi=T<color\=#ff0000ff>a</color>e Takemi
+E<color\=#ff0000ff>m</color>ployee=F<color\=#ff0000ff>u</color>ncionário
+Y<color\=#ff0000ff>o</color>ngen-Jaya (Night)=Y<color\=#ff0000ff>o</color>ngen-Jaya (Noite)
+T<color\=#ff0000ff>h</color>ieving Cat's Footprints 1=P<color\=#ff0000ff>e</color>gadas de Gato Ladrão 1
+T<color\=#ff0000ff>h</color>ieving Cat's Footprints 2=P<color\=#ff0000ff>e</color>gadas de Gato Ladrão 2
+T<color\=#ff0000ff>h</color>ieving Cat's Footprints 3=P<color\=#ff0000ff>e</color>gadas de Gato Ladrão 3
+C<color\=#ff0000ff>a</color>fé Signboard=P<color\=#ff0000ff>l</color>aca do Café
+S<color\=#ff0000ff>h</color>adow Soldier=S<color\=#ff0000ff>o</color>mbra Soldado
+S<color\=#ff0000ff>h</color>adow Security Guard=S<color\=#ff0000ff>o</color>mbra Guarda de Segurança
+S<color\=#ff0000ff>h</color>adow Lord=L<color\=#ff0000ff>o</color>rde Sombra
+B<color\=#ff0000ff>u</color>chiko Statue=E<color\=#ff0000ff>s</color>tátua Buchiko
+S<color\=#ff0000ff>h</color>ichi-kun=S<color\=#ff0000ff>h</color>ichi-kun
+C<color\=#ff0000ff>o</color>nvenience Store=L<color\=#ff0000ff>o</color>ja de Conveniência
+G<color\=#ff0000ff>o</color> to the underground mall=I<color\=#ff0000ff>r</color> para o shopping subterrâneo
+B<color\=#ff0000ff>o</color>okstore=L<color\=#ff0000ff>i</color>vraria
+C<color\=#ff0000ff>r</color>êpe Shop=C<color\=#ff0000ff>r</color>eperia
+B<color\=#ff0000ff>e</color>ef Bowl Shop=L<color\=#ff0000ff>o</color>ja de Tigela de Carne
+A<color\=#ff0000ff>i</color>rsoft Shop=L<color\=#ff0000ff>o</color>ja de Airsoft
+A<color\=#ff0000ff>r</color>cade=F<color\=#ff0000ff>l</color>iperama
+B<color\=#ff0000ff>u</color>rger Shop=L<color\=#ff0000ff>a</color>nchonete
+D<color\=#ff0000ff>r</color>ugstore=F<color\=#ff0000ff>a</color>rmácia
+U<color\=#ff0000ff>n</color>derground Mall=S<color\=#ff0000ff>h</color>opping Subterrâneo
+B<color\=#ff0000ff>a</color>r=B<color\=#ff0000ff>a</color>r
+A<color\=#ff0000ff>y</color>aka Sakai=A<color\=#ff0000ff>y</color>aka Sakai
+G<color\=#ff0000ff>i</color>rl with a Guitar=G<color\=#ff0000ff>a</color>rota com Violão
+Y<color\=#ff0000ff>u</color>ta Sato=Y<color\=#ff0000ff>u</color>ta Sato
+G<color\=#ff0000ff>o</color> to the platform=I<color\=#ff0000ff>r</color> para a plataforma
+D<color\=#ff0000ff>i</color>ner=L<color\=#ff0000ff>a</color>nchonete
+G<color\=#ff0000ff>i</color>rl with a Donation Box=G<color\=#ff0000ff>a</color>rota com uma Caixa de Doações
+G<color\=#ff0000ff>y</color>m=A<color\=#ff0000ff>c</color>ademia
+G<color\=#ff0000ff>u</color>itar Case=C<color\=#ff0000ff>a</color>pa de Violão
+S<color\=#ff0000ff>m</color>oking Area=Á<color\=#ff0000ff>r</color>ea de Fumantes
+L<color\=#ff0000ff>o</color>ttery Stand=B<color\=#ff0000ff>a</color>nca da Loteria
+K<color\=#ff0000ff>a</color>raoke=K<color\=#ff0000ff>a</color>raokê
+D<color\=#ff0000ff>i</color>scount Store=L<color\=#ff0000ff>o</color>ja de Descontos
+S<color\=#ff0000ff>t</color>ation Square=P<color\=#ff0000ff>r</color>aça da Estação
+C<color\=#ff0000ff>e</color>ntral Street=R<color\=#ff0000ff>u</color>a Central
+F<color\=#ff0000ff>r</color>equent Lottery Customer=C<color\=#ff0000ff>l</color>iente Frequente da Loteria
+L<color\=#ff0000ff>i</color>sten to audience=O<color\=#ff0000ff>u</color>vir a plateia
+F<color\=#ff0000ff>r</color>equent Customer=C<color\=#ff0000ff>l</color>iente Frequente
+T<color\=#ff0000ff>h</color>e Velvet Room=A<color\=#ff0000ff> </color>Sala de Veludo
+M<color\=#ff0000ff>e</color>rope=M<color\=#ff0000ff>e</color>rope
+L<color\=#ff0000ff>e</color>thargic Female Clerk=F<color\=#ff0000ff>u</color>ncionária Letárgica
+G<color\=#ff0000ff>l</color>oomy Hall Manager=G<color\=#ff0000ff>e</color>rente de Salão Sombrio
+K<color\=#ff0000ff>i</color>nd Old Man=V<color\=#ff0000ff>e</color>lho Gentil
+R<color\=#ff0000ff>o</color>ugh Man=H<color\=#ff0000ff>o</color>mem Ríspido
+A<color\=#ff0000ff>n</color>derson=A<color\=#ff0000ff>n</color>derson
+M<color\=#ff0000ff>a</color>n with Large Muscles=H<color\=#ff0000ff>o</color>mem de Músculos Grandes
+M<color\=#ff0000ff>a</color>p of Shibuya=M<color\=#ff0000ff>a</color>pa de Shibuya
+N<color\=#ff0000ff>e</color>wspaper Stand Regular=F<color\=#ff0000ff>r</color>equentador da Banca de Jornais
+M<color\=#ff0000ff>o</color>njayaki=M<color\=#ff0000ff>o</color>njayaki
+C<color\=#ff0000ff>o</color>ffee Chain=C<color\=#ff0000ff>a</color>feteria
+C<color\=#ff0000ff>r</color>ossing Drugstore=F<color\=#ff0000ff>a</color>rmácia do Cruzamento
+P<color\=#ff0000ff>a</color>y Phone=O<color\=#ff0000ff>r</color>elhão
+L<color\=#ff0000ff>o</color>cker=A<color\=#ff0000ff>r</color>mário
+E<color\=#ff0000ff>v</color>ent Tent=T<color\=#ff0000ff>e</color>nda de Evento
+M<color\=#ff0000ff>i</color>ddle-Aged Employee=F<color\=#ff0000ff>u</color>ncionário de Meia-idade
+S<color\=#ff0000ff>t</color>aff=F<color\=#ff0000ff>u</color>ncionários
+H<color\=#ff0000ff>a</color>runa Nishimori=H<color\=#ff0000ff>a</color>runa Nishimori
+Y<color\=#ff0000ff>u</color>na=Y<color\=#ff0000ff>u</color>na
+K<color\=#ff0000ff>y</color>o=K<color\=#ff0000ff>y</color>o
+H<color\=#ff0000ff>a</color>runa's Mother=M<color\=#ff0000ff>ã</color>e da Haruna
+S<color\=#ff0000ff>h</color>ota Ito=S<color\=#ff0000ff>h</color>ota Ito
+W<color\=#ff0000ff>o</color>man in Kimono=M<color\=#ff0000ff>u</color>lher de Quimono
+M<color\=#ff0000ff>a</color>n with a Camera=H<color\=#ff0000ff>o</color>mem com Câmera
+N<color\=#ff0000ff>a</color>mie Komatsu=N<color\=#ff0000ff>a</color>mie Komatsu
+Y<color\=#ff0000ff>u</color>mi Shiina=Y<color\=#ff0000ff>u</color>mi Shiina
+K<color\=#ff0000ff>i</color>ra Kitazato=K<color\=#ff0000ff>i</color>ra Kitazato
+K<color\=#ff0000ff>o</color>tone Montagne=K<color\=#ff0000ff>o</color>tone Montagne
+L<color\=#ff0000ff>u</color>fel=L<color\=#ff0000ff>u</color>fel
+S<color\=#ff0000ff>c</color>ary-Looking Man=H<color\=#ff0000ff>o</color>mem de Aparência Assustadora
+E<color\=#ff0000ff>x</color>pressionless Man=H<color\=#ff0000ff>o</color>mem sem Expressão
+F<color\=#ff0000ff>l</color>yer in front of the bookstore=P<color\=#ff0000ff>a</color>nfleto em frente à livraria
+T<color\=#ff0000ff>a</color>keyuki Kiuchi=T<color\=#ff0000ff>a</color>keyuki Kiuchi
+C<color\=#ff0000ff>a</color>psule Machine=M<color\=#ff0000ff>á</color>quina de Cápsulas
+S<color\=#ff0000ff>h</color>un Kano=S<color\=#ff0000ff>h</color>un Kano
+R<color\=#ff0000ff>i</color>ko Tanemura=R<color\=#ff0000ff>i</color>ko Tanemura
+G<color\=#ff0000ff>o</color> to the hallway=I<color\=#ff0000ff>r</color> para o corredor
+M<color\=#ff0000ff>e</color>llow Student=E<color\=#ff0000ff>s</color>tudante Suave
+U<color\=#ff0000ff>n</color>decided Student=E<color\=#ff0000ff>s</color>tudante Indeciso
+U<color\=#ff0000ff>n</color>motivated Student=E<color\=#ff0000ff>s</color>tudante Desmotivado
+B<color\=#ff0000ff>o</color>red Student=E<color\=#ff0000ff>s</color>tudante Entediado
+L<color\=#ff0000ff>a</color>nguid Student=E<color\=#ff0000ff>s</color>tudante Lânguido
+G<color\=#ff0000ff>i</color>ant Impact Club (Bored Student)=C<color\=#ff0000ff>l</color>ube de Grande Impacto (Estudante Entediado)
+S<color\=#ff0000ff>e</color>at=A<color\=#ff0000ff>s</color>sento
+B<color\=#ff0000ff>l</color>ackboard=L<color\=#ff0000ff>o</color>usa
+G<color\=#ff0000ff>o</color>ssip-Loving Student=E<color\=#ff0000ff>s</color>tudante Fofoqueiro
+D<color\=#ff0000ff>i</color>spassionate Student=E<color\=#ff0000ff>s</color>tudante Apático
+C<color\=#ff0000ff>u</color>rious Student=E<color\=#ff0000ff>s</color>tudante Curioso
+C<color\=#ff0000ff>o</color>mposed Student=E<color\=#ff0000ff>s</color>tudante Composto
+D<color\=#ff0000ff>a</color>ydreaming Student=E<color\=#ff0000ff>s</color>tudante Sonhador
+T<color\=#ff0000ff>i</color>red Student=E<color\=#ff0000ff>s</color>tudante Cansado
+W<color\=#ff0000ff>h</color>ispering Students=E<color\=#ff0000ff>s</color>tudantes Cochichando
+Q<color\=#ff0000ff>u</color>ietly Arguing Student=E<color\=#ff0000ff>s</color>tudante Discutindo Baixinho
+L<color\=#ff0000ff>o</color>udly Arguing Student=E<color\=#ff0000ff>s</color>tudante Discutindo Alto
+C<color\=#ff0000ff>a</color>utious Student=E<color\=#ff0000ff>s</color>tudante Cauteloso
+S<color\=#ff0000ff>l</color>ightly Tired Student=E<color\=#ff0000ff>s</color>tudante Levemente Cansado
+G<color\=#ff0000ff>i</color>ant Impact Club (Loudly Arguing Student)=C<color\=#ff0000ff>l</color>ube de Grande Impacto (Estudante Discutindo Alto)
+G<color\=#ff0000ff>i</color>ant Impact Club (Murmuring Student)=C<color\=#ff0000ff>l</color>ube de Grande Impacto (Estudante Sussurrante)
+R<color\=#ff0000ff>u</color>mor-Obsessed Student=E<color\=#ff0000ff>s</color>tudante Obcecado por Rumores
+U<color\=#ff0000ff>n</color>interested Student=E<color\=#ff0000ff>s</color>tudante Desinteressado
+G<color\=#ff0000ff>o</color>urmand Student=E<color\=#ff0000ff>s</color>tudante Guloso
+M<color\=#ff0000ff>o</color>tivated Student=E<color\=#ff0000ff>s</color>tudante Motivado
+B<color\=#ff0000ff>a</color>seball-Loving Student=E<color\=#ff0000ff>s</color>tudante Amante de Beisebol
+R<color\=#ff0000ff>e</color>served Student=E<color\=#ff0000ff>s</color>tudante Reservado
+G<color\=#ff0000ff>i</color>ant Impact Club (Gourmand Student)=C<color\=#ff0000ff>l</color>ube de Grande Impacto (Estudante Gastrônomo)
+N<color\=#ff0000ff>o</color>dding Student=E<color\=#ff0000ff>s</color>tudante Concordando
+F<color\=#ff0000ff>r</color>ee-Thinking Student=E<color\=#ff0000ff>s</color>tudante de Pensamento Livre
+I<color\=#ff0000ff>n</color>dependent Student=E<color\=#ff0000ff>s</color>tudante Independente
+F<color\=#ff0000ff>u</color>n-Loving Student=E<color\=#ff0000ff>s</color>tudante Amante da Diversão
+C<color\=#ff0000ff>o</color>ol-Headed Student=E<color\=#ff0000ff>s</color>tudante de Cabeça Fria
+M<color\=#ff0000ff>o</color>rning Chime=S<color\=#ff0000ff>i</color>no da Manhã
+L<color\=#ff0000ff>u</color>nch Chime=S<color\=#ff0000ff>i</color>no do Almoço
+A<color\=#ff0000ff>f</color>ter School Chime=S<color\=#ff0000ff>i</color>no Pós-Aula
+T<color\=#ff0000ff>r</color>end-Following Student=E<color\=#ff0000ff>s</color>tudante Seguidor de Tendências
+F<color\=#ff0000ff>e</color>stival-Loving Student=E<color\=#ff0000ff>s</color>tudante Amante de Festivais
+A<color\=#ff0000ff>p</color>athetic Student=E<color\=#ff0000ff>s</color>tudante Apático
+P<color\=#ff0000ff>h</color>ilosophical Student=E<color\=#ff0000ff>s</color>tudante Filosófico
+L<color\=#ff0000ff>o</color>ne Wolf Student=E<color\=#ff0000ff>s</color>tudante Lobo Solitário
+S<color\=#ff0000ff>o</color>ciable Student=E<color\=#ff0000ff>s</color>tudante Sociável
+S<color\=#ff0000ff>e</color>rious Student=E<color\=#ff0000ff>s</color>tudante Sério
+R<color\=#ff0000ff>o</color>wdy Student=E<color\=#ff0000ff>s</color>tudante Agitado
+Q<color\=#ff0000ff>u</color>iet Student=E<color\=#ff0000ff>s</color>tudante Quieto
+V<color\=#ff0000ff>i</color>gilant Student=E<color\=#ff0000ff>s</color>tudante Vigilante
+C<color\=#ff0000ff>l</color>assroom: Morning=S<color\=#ff0000ff>a</color>la de Aula: Manhã
+C<color\=#ff0000ff>l</color>assroom: Afternoon=S<color\=#ff0000ff>a</color>la de Aula: Tarde
+C<color\=#ff0000ff>l</color>assroom: Evening=S<color\=#ff0000ff>a</color>la de Aula: Noite
+C<color\=#ff0000ff>l</color>assroom: Night=S<color\=#ff0000ff>a</color>la de Aula: Noite
+B<color\=#ff0000ff>a</color>ckground Student - Male=E<color\=#ff0000ff>s</color>tudante de Fundo - Masculino
+B<color\=#ff0000ff>a</color>ckground Student - Female=E<color\=#ff0000ff>s</color>tudante de Fundo - Feminino
+C<color\=#ff0000ff>h</color>ange your shoes=T<color\=#ff0000ff>r</color>ocar os sapatos
+D<color\=#ff0000ff>é</color>cor=D<color\=#ff0000ff>e</color>coração
+B<color\=#ff0000ff>o</color>x on top of the shoe locker=C<color\=#ff0000ff>a</color>ixa em cima do armário de sapatos
+B<color\=#ff0000ff>o</color>ys Near the Stairs=G<color\=#ff0000ff>a</color>rotos Perto das Escadas
+G<color\=#ff0000ff>i</color>rls Near the Stairs=G<color\=#ff0000ff>a</color>rotas Perto das Escadas
+S<color\=#ff0000ff>h</color>outing Students=E<color\=#ff0000ff>s</color>tudantes Gritando
+S<color\=#ff0000ff>t</color>udent near Window=E<color\=#ff0000ff>s</color>tudante perto da Janela
+F<color\=#ff0000ff>o</color>rgetful Boy=G<color\=#ff0000ff>a</color>roto Esquecido
+B<color\=#ff0000ff>u</color>lletin Board=M<color\=#ff0000ff>u</color>ral
+O<color\=#ff0000ff>u</color>tdoor Shoe Students=E<color\=#ff0000ff>s</color>tudantes com Sapatos de Rua
+C<color\=#ff0000ff>a</color>binet=A<color\=#ff0000ff>r</color>mário
+S<color\=#ff0000ff>t</color>udents in Corner=E<color\=#ff0000ff>s</color>tudantes no Canto
+G<color\=#ff0000ff>i</color>rl Looking at Bulletin Board=G<color\=#ff0000ff>a</color>rota Olhando o Mural
+G<color\=#ff0000ff>o</color> to the practice building=I<color\=#ff0000ff>r</color> para o prédio de treino
+G<color\=#ff0000ff>o</color> to the classroom building=I<color\=#ff0000ff>r</color> para o prédio de salas de aula
+L<color\=#ff0000ff>e</color>ave the school=S<color\=#ff0000ff>a</color>ir da escola
+G<color\=#ff0000ff>o</color> to 2F=I<color\=#ff0000ff>r</color> para o 2º Andar
+B<color\=#ff0000ff>o</color>ys' Bathroom=B<color\=#ff0000ff>a</color>nheiro Masculino
+G<color\=#ff0000ff>i</color>rls' Bathroom=B<color\=#ff0000ff>a</color>nheiro Feminino
+S<color\=#ff0000ff>c</color>hool Store=L<color\=#ff0000ff>o</color>ja da Escola
+C<color\=#ff0000ff>l</color>assroom Bldg 1F=P<color\=#ff0000ff>r</color>édio das Salas de Aula - 1º Andar
+G<color\=#ff0000ff>o</color> to the gymnasium=I<color\=#ff0000ff>r</color> para o ginásio
+C<color\=#ff0000ff>l</color>assroom Bldg 2F=P<color\=#ff0000ff>r</color>édio das Salas de Aula - 2º Andar
+D<color\=#ff0000ff>e</color>pressed Boy=G<color\=#ff0000ff>a</color>roto Deprimido
+M<color\=#ff0000ff>e</color>llow Boy=G<color\=#ff0000ff>a</color>roto Suave
+G<color\=#ff0000ff>i</color>rl Looking Afar=G<color\=#ff0000ff>a</color>rota Olhando ao Longe
+C<color\=#ff0000ff>o</color>ncerned Girl=G<color\=#ff0000ff>a</color>rota Preocupada
+N<color\=#ff0000ff>o</color>nchalant Girl=G<color\=#ff0000ff>a</color>rota Indiferente
+N<color\=#ff0000ff>o</color>dding Girl=G<color\=#ff0000ff>a</color>rota Concordando
+E<color\=#ff0000ff>c</color>static Girl=G<color\=#ff0000ff>a</color>rota Eufórica
+J<color\=#ff0000ff>e</color>alous Girl=G<color\=#ff0000ff>a</color>rota com Inveja
+T<color\=#ff0000ff>o</color>moko Noge=T<color\=#ff0000ff>o</color>moko Noge
+G<color\=#ff0000ff>o</color> to 1F=I<color\=#ff0000ff>r</color> para o 1º Andar
+G<color\=#ff0000ff>o</color> to 3F=I<color\=#ff0000ff>r</color> para o 3º Andar
+C<color\=#ff0000ff>h</color>at=C<color\=#ff0000ff>o</color>nversar
+E<color\=#ff0000ff>n</color>ter the classroom=E<color\=#ff0000ff>n</color>trar na sala de aula
+B<color\=#ff0000ff>o</color>ys in the Hallway=G<color\=#ff0000ff>a</color>rotos no Corredor
+C<color\=#ff0000ff>h</color>atting Boys=G<color\=#ff0000ff>a</color>rotos Conversando
+C<color\=#ff0000ff>h</color>atting Students=E<color\=#ff0000ff>s</color>tudantes Conversando
+S<color\=#ff0000ff>t</color>udents near Window=E<color\=#ff0000ff>s</color>tudantes Perto da Janela
+P<color\=#ff0000ff>o</color>sing Boy=G<color\=#ff0000ff>a</color>roto Posando
+T<color\=#ff0000ff>r</color>oubled Girl=G<color\=#ff0000ff>a</color>rota com Problemas
+L<color\=#ff0000ff>a</color>rge Window=J<color\=#ff0000ff>a</color>nela Grande
+S<color\=#ff0000ff>c</color>hool Rooftop=T<color\=#ff0000ff>e</color>lhado da Escola
+N<color\=#ff0000ff>e</color>wspaper Club Girl=G<color\=#ff0000ff>a</color>rota do Clube do Jornal
+L<color\=#ff0000ff>i</color>sten in=O<color\=#ff0000ff>u</color>vir
+N<color\=#ff0000ff>e</color>wspaper Club Boy=G<color\=#ff0000ff>a</color>roto do Clube do Jornal
+P<color\=#ff0000ff>e</color>rceptive Student=E<color\=#ff0000ff>s</color>tudante Perspicaz
+A<color\=#ff0000ff>i</color>rsoft-Loving Student=E<color\=#ff0000ff>s</color>tudante Amante de Airsoft
+B<color\=#ff0000ff>u</color>bbly Student=E<color\=#ff0000ff>s</color>tudante Animada
+A<color\=#ff0000ff>c</color>ademy Interior=I<color\=#ff0000ff>n</color>terior da Academia
+A<color\=#ff0000ff>c</color>ademy Gate=P<color\=#ff0000ff>o</color>rtão da Academia
+C<color\=#ff0000ff>l</color>assroom Bldg=P<color\=#ff0000ff>r</color>édio das Salas de Aula
+S<color\=#ff0000ff>c</color>hool Main Gate=P<color\=#ff0000ff>o</color>rtão Principal da Escola
+S<color\=#ff0000ff>h</color>imo-Kitazawa Station=E<color\=#ff0000ff>s</color>tação Shimo-Kitazawa
+S<color\=#ff0000ff>c</color>hool Gate=P<color\=#ff0000ff>o</color>rtão da Escola
+G<color\=#ff0000ff>a</color>rbage Area=Á<color\=#ff0000ff>r</color>ea do Lixo
+S<color\=#ff0000ff>t</color>udents by the Flowerbed=E<color\=#ff0000ff>s</color>tudantes Perto do Canteiro
+F<color\=#ff0000ff>i</color>re Hydrant=H<color\=#ff0000ff>i</color>drante
+C<color\=#ff0000ff>h</color>atting Girl=G<color\=#ff0000ff>a</color>rota Conversando
+S<color\=#ff0000ff>t</color>udent by the Blackboard=E<color\=#ff0000ff>s</color>tudante na Lousa
+S<color\=#ff0000ff>t</color>udents by the Bench=E<color\=#ff0000ff>s</color>tudantes no Banco
+S<color\=#ff0000ff>t</color>udents by the Wall=E<color\=#ff0000ff>s</color>tudantes na Parede
+R<color\=#ff0000ff>o</color>ad=E<color\=#ff0000ff>s</color>trada
+C<color\=#ff0000ff>l</color>ub Bulletin Board=M<color\=#ff0000ff>u</color>ral do Clube
+M<color\=#ff0000ff>o</color>moko Sakurai=M<color\=#ff0000ff>o</color>moko Sakurai
+Y<color\=#ff0000ff>o</color>ta Kurosawa=Y<color\=#ff0000ff>o</color>ta Kurosawa
+E<color\=#ff0000ff>v</color>ent Announcements=A<color\=#ff0000ff>n</color>úncios de Eventos
+B<color\=#ff0000ff>a</color>nd Club - Recruiting New Members=C<color\=#ff0000ff>l</color>ube da Banda - Recrutando Novos Membros
+R<color\=#ff0000ff>e</color>ad a book=L<color\=#ff0000ff>e</color>r um livro
+S<color\=#ff0000ff>t</color>udy=E<color\=#ff0000ff>s</color>tudar
+K<color\=#ff0000ff>i</color>yoshi Kurotani=K<color\=#ff0000ff>i</color>yoshi Kurotani
+B<color\=#ff0000ff>o</color>okshelf=E<color\=#ff0000ff>s</color>tante de livros
+P<color\=#ff0000ff>r</color>inter=I<color\=#ff0000ff>m</color>pressora
+D<color\=#ff0000ff>é</color>cor Male Student 1=D<color\=#ff0000ff>e</color>coração Estudante Masculino 1
+D<color\=#ff0000ff>é</color>cor Male Student 2=D<color\=#ff0000ff>e</color>coração Estudante Masculino 2
+D<color\=#ff0000ff>é</color>cor Male Student 3=D<color\=#ff0000ff>e</color>coração Estudante Masculino 3
+D<color\=#ff0000ff>é</color>cor Male Student 4=D<color\=#ff0000ff>e</color>coração Estudante Masculino 4
+D<color\=#ff0000ff>é</color>cor Male Student 5=D<color\=#ff0000ff>e</color>coração Estudante Masculino 5
+D<color\=#ff0000ff>é</color>cor Male Student 6=D<color\=#ff0000ff>e</color>coração Estudante Masculino 6
+D<color\=#ff0000ff>é</color>cor Male Student 7=D<color\=#ff0000ff>e</color>coração Estudante Masculino 7
+D<color\=#ff0000ff>é</color>cor Male Student 8=D<color\=#ff0000ff>e</color>coração Estudante Masculino 8
+D<color\=#ff0000ff>é</color>cor Male Student 9=D<color\=#ff0000ff>e</color>coração Estudante Masculino 9
+D<color\=#ff0000ff>é</color>cor Female Student 1=D<color\=#ff0000ff>e</color>coração Estudante Feminina 1
+D<color\=#ff0000ff>é</color>cor Female Student 2=D<color\=#ff0000ff>e</color>coração Estudante Feminina 2
+D<color\=#ff0000ff>é</color>cor Female Student 3=D<color\=#ff0000ff>e</color>coração Estudante Feminina 3
+D<color\=#ff0000ff>é</color>cor Female Student 4=D<color\=#ff0000ff>e</color>coração Estudante Feminina 4
+D<color\=#ff0000ff>é</color>cor Female Student 5=D<color\=#ff0000ff>e</color>coração Estudante Feminina 5
+D<color\=#ff0000ff>é</color>cor Female Student 6=D<color\=#ff0000ff>e</color>coração Estudante Feminina 6
+D<color\=#ff0000ff>é</color>cor Female Student 7=D<color\=#ff0000ff>e</color>coração Estudante Feminina 7
+D<color\=#ff0000ff>é</color>cor Female Student 8=D<color\=#ff0000ff>e</color>coração Estudante Feminina 8
+D<color\=#ff0000ff>é</color>cor Female Student 9=D<color\=#ff0000ff>e</color>coração Estudante Feminina 9
+D<color\=#ff0000ff>é</color>cor Female Student 10=D<color\=#ff0000ff>e</color>coração Estudante Feminina 10
+D<color\=#ff0000ff>é</color>cor Female Student 11=D<color\=#ff0000ff>e</color>coração Estudante Feminina 11
+D<color\=#ff0000ff>é</color>cor Female Student 12=D<color\=#ff0000ff>e</color>coração Estudante Feminina 12
+D<color\=#ff0000ff>é</color>cor Female Student 13=D<color\=#ff0000ff>e</color>coração Estudante Feminina 13
+D<color\=#ff0000ff>é</color>cor Female Student 14=D<color\=#ff0000ff>e</color>coração Estudante Feminina 14
+D<color\=#ff0000ff>é</color>cor Female Student 15=D<color\=#ff0000ff>e</color>coração Estudante Feminina 15
+G<color\=#ff0000ff>o</color> to the rooftop=I<color\=#ff0000ff>r</color> para o telhado
+L<color\=#ff0000ff>i</color>brary=B<color\=#ff0000ff>i</color>blioteca
+A<color\=#ff0000ff>y</color>asa Takanashi (Discard)=A<color\=#ff0000ff>y</color>asa Takanashi (Descartar)
+B<color\=#ff0000ff>a</color>nd Club (Discard)=C<color\=#ff0000ff>l</color>ube da Banda (Descartar)
+B<color\=#ff0000ff>a</color>nd Club=C<color\=#ff0000ff>l</color>ube da Banda
+R<color\=#ff0000ff>i</color>tsuka Takanashi=R<color\=#ff0000ff>i</color>tsuka Takanashi
+T<color\=#ff0000ff>s</color>urumi Horikita=T<color\=#ff0000ff>s</color>urumi Horikita
+T<color\=#ff0000ff>a</color>iko Saito=T<color\=#ff0000ff>a</color>iko Saito
+T<color\=#ff0000ff>a</color>lking Students=E<color\=#ff0000ff>s</color>tudantes Conversando
+D<color\=#ff0000ff>i</color>splay Case=V<color\=#ff0000ff>i</color>trine
+A<color\=#ff0000ff>r</color>guing Students=E<color\=#ff0000ff>s</color>tudantes Discutindo
+C<color\=#ff0000ff>l</color>assroom Bldg 3F=P<color\=#ff0000ff>r</color>édio de Salas de Aula 3º Andar
+K<color\=#ff0000ff>o</color>katsu Academy Female Student 01=E<color\=#ff0000ff>s</color>tudante da Academia Kokatsu 01
+K<color\=#ff0000ff>o</color>katsu Academy Female Student 02=E<color\=#ff0000ff>s</color>tudante da Academia Kokatsu 02
+K<color\=#ff0000ff>o</color>katsu Academy Female Student 03=E<color\=#ff0000ff>s</color>tudante da Academia Kokatsu 03
+K<color\=#ff0000ff>o</color>katsu Academy Female Student 04=E<color\=#ff0000ff>s</color>tudante da Academia Kokatsu 04
+K<color\=#ff0000ff>o</color>katsu Academy Female Student 05=E<color\=#ff0000ff>s</color>tudante da Academia Kokatsu 05
+E<color\=#ff0000ff>l</color>ectric Piano=P<color\=#ff0000ff>i</color>ano Elétrico
+D<color\=#ff0000ff>r</color>um Set=B<color\=#ff0000ff>a</color>teria
+G<color\=#ff0000ff>o</color> home=I<color\=#ff0000ff>r</color> para casa
+O<color\=#ff0000ff>m</color>otesando=O<color\=#ff0000ff>m</color>otesando
+Y<color\=#ff0000ff>a</color>kitori Stand=B<color\=#ff0000ff>a</color>rraca de Yakitori
+H<color\=#ff0000ff>o</color>me=C<color\=#ff0000ff>a</color>sa
+H<color\=#ff0000ff>e</color>ritage Kitchen=C<color\=#ff0000ff>o</color>zinha Herança
+F<color\=#ff0000ff>i</color>le=A<color\=#ff0000ff>r</color>quivo
+O<color\=#ff0000ff>v</color>er the Wall=S<color\=#ff0000ff>o</color>bre o Muro
+T<color\=#ff0000ff>e</color>tsunojou Shishida=T<color\=#ff0000ff>e</color>tsunojou Shishida
+H<color\=#ff0000ff>e</color>ritage Kitchen Door=P<color\=#ff0000ff>o</color>rta da Cozinha Herança
+H<color\=#ff0000ff>e</color>ritage Kitchen: Closed=C<color\=#ff0000ff>o</color>zinha Herança: Fechado
+H<color\=#ff0000ff>e</color>ritage Kitchen: Open=C<color\=#ff0000ff>o</color>zinha Herança: Aberto
+B<color\=#ff0000ff>a</color>kery=P<color\=#ff0000ff>a</color>daria
+S<color\=#ff0000ff>w</color>eets Shop=D<color\=#ff0000ff>o</color>ceria
+T<color\=#ff0000ff>r</color>ashcan=L<color\=#ff0000ff>i</color>xeira
+F<color\=#ff0000ff>l</color>owers in Bloom=F<color\=#ff0000ff>l</color>ores em Flor
+L<color\=#ff0000ff>a</color>dy Eyeing the Info Desk=S<color\=#ff0000ff>e</color>nhora Olhando para o Balcão de Informações
+S<color\=#ff0000ff>n</color>ack Bar=L<color\=#ff0000ff>a</color>nchonete
+N<color\=#ff0000ff>a</color>rrow Stairs=E<color\=#ff0000ff>s</color>cadas Estreitas
+R<color\=#ff0000ff>e</color>staurant=R<color\=#ff0000ff>e</color>staurante
+V<color\=#ff0000ff>e</color>terinary Hospital=H<color\=#ff0000ff>o</color>spital Veterinário
+C<color\=#ff0000ff>l</color>eaners=L<color\=#ff0000ff>i</color>mpadores
+D<color\=#ff0000ff>i</color>ligent Businessman=E<color\=#ff0000ff>m</color>presário Diligente
+E<color\=#ff0000ff>m</color>pty Corner=C<color\=#ff0000ff>a</color>nto Vazio
+P<color\=#ff0000ff>l</color>atform=P<color\=#ff0000ff>l</color>ataforma
+K<color\=#ff0000ff>a</color>yo Tomiyama=K<color\=#ff0000ff>a</color>yo Tomiyama
+M<color\=#ff0000ff>i</color>nami Miyashita=M<color\=#ff0000ff>i</color>nami Miyashita
+O<color\=#ff0000ff>l</color>d Man=V<color\=#ff0000ff>e</color>lho
+S<color\=#ff0000ff>u</color>spicious Businessman=E<color\=#ff0000ff>m</color>presário Suspeito
+G<color\=#ff0000ff>i</color>rl with Ponytail=G<color\=#ff0000ff>a</color>rota com Rabo de Cavalo
+K<color\=#ff0000ff>i</color>d Playing Alone=C<color\=#ff0000ff>r</color>iança Brincando Sozinha
+K<color\=#ff0000ff>i</color>ds=C<color\=#ff0000ff>r</color>ianças
+H<color\=#ff0000ff>i</color>roto=H<color\=#ff0000ff>i</color>roto
+H<color\=#ff0000ff>i</color>roto's Mother=M<color\=#ff0000ff>ã</color>e do Hiroto
+W<color\=#ff0000ff>a</color>it for Minami=E<color\=#ff0000ff>s</color>perar por Minami
+N<color\=#ff0000ff>o</color>tice of Closure=A<color\=#ff0000ff>v</color>iso de Fechamento
+S<color\=#ff0000ff>p</color>ectator 1=E<color\=#ff0000ff>s</color>pectador 1
+S<color\=#ff0000ff>p</color>ectator 2=E<color\=#ff0000ff>s</color>pectador 2
+S<color\=#ff0000ff>p</color>ectator 3=E<color\=#ff0000ff>s</color>pectador 3
+S<color\=#ff0000ff>p</color>ectator 4=E<color\=#ff0000ff>s</color>pectador 4
+S<color\=#ff0000ff>p</color>ectator 5=E<color\=#ff0000ff>s</color>pectador 5
+S<color\=#ff0000ff>p</color>ectator 6=E<color\=#ff0000ff>s</color>pectador 6
+S<color\=#ff0000ff>p</color>ectator 7=E<color\=#ff0000ff>s</color>pectador 7
+S<color\=#ff0000ff>p</color>ectator 8=E<color\=#ff0000ff>s</color>pectador 8
+S<color\=#ff0000ff>p</color>ectator 9=E<color\=#ff0000ff>s</color>pectador 9
+S<color\=#ff0000ff>p</color>ectator 10=E<color\=#ff0000ff>s</color>pectador 10
+H<color\=#ff0000ff>o</color>st=A<color\=#ff0000ff>p</color>resentador
+C<color\=#ff0000ff>a</color>mera=C<color\=#ff0000ff>â</color>mera
+P<color\=#ff0000ff>e</color>destrian Zone=Z<color\=#ff0000ff>o</color>na de Pedestres
+F<color\=#ff0000ff>r</color>ied Food Shop=L<color\=#ff0000ff>o</color>ja de Frituras
+S<color\=#ff0000ff>t</color>ationery Store=P<color\=#ff0000ff>a</color>pelaria
+V<color\=#ff0000ff>i</color>ntage Clothing Store=L<color\=#ff0000ff>o</color>ja de Roupas Vintage
+S<color\=#ff0000ff>h</color>inmyoji=S<color\=#ff0000ff>h</color>inmyoji
+C<color\=#ff0000ff>h</color>inese Bun Shop=L<color\=#ff0000ff>o</color>ja de Pão Chinês
+I<color\=#ff0000ff>m</color>ported Grocery=M<color\=#ff0000ff>e</color>rcearia Importada
+J<color\=#ff0000ff>a</color>zz Club=C<color\=#ff0000ff>l</color>ube de Jazz
+D<color\=#ff0000ff>a</color>rts & Billiards=D<color\=#ff0000ff>a</color>rdos e Bilhar
+O<color\=#ff0000ff>p</color>en Café=C<color\=#ff0000ff>a</color>fé Aberto
+C<color\=#ff0000ff>r</color>ystal Healing=C<color\=#ff0000ff>u</color>ra com Cristais
+I<color\=#ff0000ff>n</color>formation Desk=B<color\=#ff0000ff>a</color>lcão de Informações
+S<color\=#ff0000ff>n</color>ack Shop=L<color\=#ff0000ff>a</color>nchonete
+B<color\=#ff0000ff>a</color>nk=B<color\=#ff0000ff>a</color>nco
+H<color\=#ff0000ff>a</color>t Store=L<color\=#ff0000ff>o</color>ja de Chapéus
+R<color\=#ff0000ff>e</color>volving Sushi Restaurant=R<color\=#ff0000ff>e</color>staurante de Sushi Giratório
+C<color\=#ff0000ff>e</color>ll Phone Shop=L<color\=#ff0000ff>o</color>ja de Celulares
+T<color\=#ff0000ff>a</color>iyaki Shop=L<color\=#ff0000ff>o</color>ja de Taiyaki
+S<color\=#ff0000ff>o</color>ck Shop=L<color\=#ff0000ff>o</color>ja de Meias
+I<color\=#ff0000ff>c</color>e Cream Shop=S<color\=#ff0000ff>o</color>rveteria
+R<color\=#ff0000ff>e</color>altor=C<color\=#ff0000ff>o</color>rretor de Imóveis
+S<color\=#ff0000ff>h</color>opping District Center=C<color\=#ff0000ff>e</color>ntro do Distrito Comercial
+U<color\=#ff0000ff>d</color>on Shop=L<color\=#ff0000ff>o</color>ja de Udon
+A<color\=#ff0000ff>s</color>ian Grocery=M<color\=#ff0000ff>e</color>rcearia Asiática
+F<color\=#ff0000ff>u</color>rniture Store=L<color\=#ff0000ff>o</color>ja de Móveis
+R<color\=#ff0000ff>a</color>men Shop=L<color\=#ff0000ff>o</color>ja de Ramen
+R<color\=#ff0000ff>e</color>cord Shop=L<color\=#ff0000ff>o</color>ja de Discos
+M<color\=#ff0000ff>u</color>sic Store=L<color\=#ff0000ff>o</color>ja de Música
+P<color\=#ff0000ff>a</color>sta Shop=L<color\=#ff0000ff>o</color>ja de Massas
+B<color\=#ff0000ff>i</color>cycle Store=B<color\=#ff0000ff>i</color>cicletaria
+I<color\=#ff0000ff>m</color>ported Toy Store=L<color\=#ff0000ff>o</color>ja de Brinquedos Importados
+W<color\=#ff0000ff>i</color>ne Bar=B<color\=#ff0000ff>a</color>r de Vinhos
+S<color\=#ff0000ff>t</color>eakhouse=C<color\=#ff0000ff>h</color>urrascaria
+A<color\=#ff0000ff>n</color>tique Shop=A<color\=#ff0000ff>n</color>tiquário
+O<color\=#ff0000ff>u</color>tdoor Goods Shop=L<color\=#ff0000ff>o</color>ja de Artigos para Atividades ao Ar Livre
+D<color\=#ff0000ff>o</color>nut Shop=L<color\=#ff0000ff>o</color>ja de Donuts
+G<color\=#ff0000ff>l</color>asses Shop=Ó<color\=#ff0000ff>t</color>ica
+T<color\=#ff0000ff>o</color> the station=P<color\=#ff0000ff>a</color>ra a estação
+C<color\=#ff0000ff>o</color>lorful Lights=L<color\=#ff0000ff>u</color>zes Coloridas
+S<color\=#ff0000ff>o</color>fa=S<color\=#ff0000ff>o</color>fá
+T<color\=#ff0000ff>r</color>ee=Á<color\=#ff0000ff>r</color>vore
+B<color\=#ff0000ff>u</color>s Stop=P<color\=#ff0000ff>o</color>nto de Ônibus
+G<color\=#ff0000ff>r</color>affiti on Wall=G<color\=#ff0000ff>r</color>afite no Muro
+M<color\=#ff0000ff>i</color>yu Sahara=M<color\=#ff0000ff>i</color>yu Sahara
+M<color\=#ff0000ff>i</color>yu's Box=C<color\=#ff0000ff>a</color>ixa da Miyu
+M<color\=#ff0000ff>i</color>yu's Handbag=B<color\=#ff0000ff>o</color>lsa da Miyu
+U<color\=#ff0000ff>n</color>enthusiastic Man=H<color\=#ff0000ff>o</color>mem Desinteressado
+P<color\=#ff0000ff>i</color>cky Traveler=V<color\=#ff0000ff>i</color>ajante Exigente
+S<color\=#ff0000ff>t</color>udent-like Girl=G<color\=#ff0000ff>a</color>rota Tipo Estudante
+P<color\=#ff0000ff>a</color>ssionate Guide=G<color\=#ff0000ff>u</color>ia Apaixonado
+H<color\=#ff0000ff>a</color>rris=H<color\=#ff0000ff>a</color>rris
+G<color\=#ff0000ff>h</color>ostly Customer=C<color\=#ff0000ff>l</color>iente Fantasmagórico
+H<color\=#ff0000ff>i</color>dden Place=L<color\=#ff0000ff>u</color>gar Escondido
+N<color\=#ff0000ff>e</color>ko Takahashi=N<color\=#ff0000ff>e</color>ko Takahashi
+N<color\=#ff0000ff>o</color>rth Passage Destructible Point 01=P<color\=#ff0000ff>o</color>nto Destrutível Passagem Norte 01
+N<color\=#ff0000ff>o</color>rth Passage Destructible Point 02=P<color\=#ff0000ff>o</color>nto Destrutível Passagem Norte 02
+N<color\=#ff0000ff>o</color>rth Passage Destructible Point 03=P<color\=#ff0000ff>o</color>nto Destrutível Passagem Norte 03
+N<color\=#ff0000ff>o</color>rth Passage Destructible Point 04=P<color\=#ff0000ff>o</color>nto Destrutível Passagem Norte 04
+N<color\=#ff0000ff>o</color>rth Passage Destructible Point 05=P<color\=#ff0000ff>o</color>nto Destrutível Passagem Norte 05
+N<color\=#ff0000ff>o</color>rth Passage Destructible Point 06=P<color\=#ff0000ff>o</color>nto Destrutível Passagem Norte 06
+N<color\=#ff0000ff>o</color>rth Passage Destructible Point 07=P<color\=#ff0000ff>o</color>nto Destrutível Passagem Norte 07
+N<color\=#ff0000ff>o</color>rth Passage Destructible Point 08=P<color\=#ff0000ff>o</color>nto Destrutível Passagem Norte 08
+N<color\=#ff0000ff>o</color>rth Passage Destructible Point 09=P<color\=#ff0000ff>o</color>nto Destrutível Passagem Norte 09
+N<color\=#ff0000ff>o</color>rth Passage Destructible Point 10=P<color\=#ff0000ff>o</color>nto Destrutível Passagem Norte 10
+N<color\=#ff0000ff>o</color>rth Passage Destructible Point 11=P<color\=#ff0000ff>o</color>nto Destrutível Passagem Norte 11
+N<color\=#ff0000ff>o</color>rth Passage Destructible Point 12=P<color\=#ff0000ff>o</color>nto Destrutível Passagem Norte 12
+N<color\=#ff0000ff>o</color>rth Passage Destructible Point 13=P<color\=#ff0000ff>o</color>nto Destrutível Passagem Norte 13
+N<color\=#ff0000ff>o</color>rth Passage Destructible Point 14=P<color\=#ff0000ff>o</color>nto Destrutível Passagem Norte 14
+N<color\=#ff0000ff>o</color>rth Passage Destructible Point 15=P<color\=#ff0000ff>o</color>nto Destrutível Passagem Norte 15
+N<color\=#ff0000ff>o</color>rth Passage Destructible Point 16=P<color\=#ff0000ff>o</color>nto Destrutível Passagem Norte 16
+N<color\=#ff0000ff>o</color>rth Passage Destructible Point 17=P<color\=#ff0000ff>o</color>nto Destrutível Passagem Norte 17
+N<color\=#ff0000ff>o</color>rth Passage Destructible Point 18=P<color\=#ff0000ff>o</color>nto Destrutível Passagem Norte 18
+N<color\=#ff0000ff>o</color>rth Passage Destructible Point 19=P<color\=#ff0000ff>o</color>nto Destrutível Passagem Norte 19
+N<color\=#ff0000ff>o</color>rth Passage Destructible Point 20=P<color\=#ff0000ff>o</color>nto Destrutível Passagem Norte 20
+E<color\=#ff0000ff>a</color>st Passage Destructible Point 01=P<color\=#ff0000ff>o</color>nto Destrutível da Passagem Leste 01
+E<color\=#ff0000ff>a</color>st Passage Destructible Point 02=P<color\=#ff0000ff>o</color>nto Destrutível da Passagem Leste 02
+E<color\=#ff0000ff>a</color>st Passage Destructible Point 03=P<color\=#ff0000ff>o</color>nto Destrutível da Passagem Leste 03
+E<color\=#ff0000ff>a</color>st Passage Destructible Point 04=P<color\=#ff0000ff>o</color>nto Destrutível da Passagem Leste 04
+E<color\=#ff0000ff>a</color>st Passage Destructible Point 05=P<color\=#ff0000ff>o</color>nto Destrutível da Passagem Leste 05
+E<color\=#ff0000ff>a</color>st Passage Destructible Point 06=P<color\=#ff0000ff>o</color>nto Destrutível da Passagem Leste 06
+E<color\=#ff0000ff>a</color>st Passage Destructible Point 07=P<color\=#ff0000ff>o</color>nto Destrutível da Passagem Leste 07
+E<color\=#ff0000ff>a</color>st Passage Destructible Point 08=P<color\=#ff0000ff>o</color>nto Destrutível da Passagem Leste 08
+E<color\=#ff0000ff>a</color>st Passage Destructible Point 09=P<color\=#ff0000ff>o</color>nto Destrutível da Passagem Leste 09
+E<color\=#ff0000ff>a</color>st Passage Destructible Point 10=P<color\=#ff0000ff>o</color>nto Destrutível da Passagem Leste 10
+E<color\=#ff0000ff>a</color>st Passage Destructible Point 11=P<color\=#ff0000ff>o</color>nto Destrutível da Passagem Leste 11
+E<color\=#ff0000ff>a</color>st Passage Destructible Point 12=P<color\=#ff0000ff>o</color>nto Destrutível da Passagem Leste 12
+E<color\=#ff0000ff>a</color>st Passage Destructible Point 13=P<color\=#ff0000ff>o</color>nto Destrutível da Passagem Leste 13
+E<color\=#ff0000ff>a</color>st Passage Destructible Point 14=P<color\=#ff0000ff>o</color>nto Destrutível da Passagem Leste 14
+E<color\=#ff0000ff>a</color>st Passage Destructible Point 15=P<color\=#ff0000ff>o</color>nto Destrutível da Passagem Leste 15
+E<color\=#ff0000ff>a</color>st Passage Destructible Point 16=P<color\=#ff0000ff>o</color>nto Destrutível da Passagem Leste 16
+E<color\=#ff0000ff>a</color>st Passage Destructible Point 17=P<color\=#ff0000ff>o</color>nto Destrutível da Passagem Leste 17
+E<color\=#ff0000ff>a</color>st Passage Destructible Point 18=P<color\=#ff0000ff>o</color>nto Destrutível da Passagem Leste 18
+E<color\=#ff0000ff>a</color>st Passage Destructible Point 19=P<color\=#ff0000ff>o</color>nto Destrutível da Passagem Leste 19
+E<color\=#ff0000ff>a</color>st Passage Destructible Point 20=P<color\=#ff0000ff>o</color>nto Destrutível da Passagem Leste 20
+W<color\=#ff0000ff>e</color>st Passage Destructible Point 01=P<color\=#ff0000ff>o</color>nto Destrutível da Passagem Oeste 01
+W<color\=#ff0000ff>e</color>st Passage Destructible Point 02=P<color\=#ff0000ff>o</color>nto Destrutível da Passagem Oeste 02
+W<color\=#ff0000ff>e</color>st Passage Destructible Point 03=P<color\=#ff0000ff>o</color>nto Destrutível da Passagem Oeste 03
+W<color\=#ff0000ff>e</color>st Passage Destructible Point 04=P<color\=#ff0000ff>o</color>nto Destrutível da Passagem Oeste 04
+W<color\=#ff0000ff>e</color>st Passage Destructible Point 05=P<color\=#ff0000ff>o</color>nto Destrutível da Passagem Oeste 05
+W<color\=#ff0000ff>e</color>st Passage Destructible Point 06=P<color\=#ff0000ff>o</color>nto Destrutível da Passagem Oeste 06
+W<color\=#ff0000ff>e</color>st Passage Destructible Point 07=P<color\=#ff0000ff>o</color>nto Destrutível da Passagem Oeste 07
+W<color\=#ff0000ff>e</color>st Passage Destructible Point 08=P<color\=#ff0000ff>o</color>nto Destrutível da Passagem Oeste 08
+W<color\=#ff0000ff>e</color>st Passage Destructible Point 09=P<color\=#ff0000ff>o</color>nto Destrutível da Passagem Oeste 09
+W<color\=#ff0000ff>e</color>st Passage Destructible Point 10=P<color\=#ff0000ff>o</color>nto Destrutível da Passagem Oeste 10
+W<color\=#ff0000ff>e</color>st Passage Destructible Point 11=P<color\=#ff0000ff>o</color>nto Destrutível da Passagem Oeste 11
+W<color\=#ff0000ff>e</color>st Passage Destructible Point 12=P<color\=#ff0000ff>o</color>nto Destrutível da Passagem Oeste 12
+W<color\=#ff0000ff>e</color>st Passage Destructible Point 13=P<color\=#ff0000ff>o</color>nto Destrutível da Passagem Oeste 13
+W<color\=#ff0000ff>e</color>st Passage Destructible Point 14=P<color\=#ff0000ff>o</color>nto Destrutível da Passagem Oeste 14
+W<color\=#ff0000ff>e</color>st Passage Destructible Point 15=P<color\=#ff0000ff>o</color>nto Destrutível da Passagem Oeste 15
+W<color\=#ff0000ff>e</color>st Passage Destructible Point 16=P<color\=#ff0000ff>o</color>nto Destrutível da Passagem Oeste 16
+W<color\=#ff0000ff>e</color>st Passage Destructible Point 17=P<color\=#ff0000ff>o</color>nto Destrutível da Passagem Oeste 17
+W<color\=#ff0000ff>e</color>st Passage Destructible Point 18=P<color\=#ff0000ff>o</color>nto Destrutível da Passagem Oeste 18
+W<color\=#ff0000ff>e</color>st Passage Destructible Point 19=P<color\=#ff0000ff>o</color>nto Destrutível da Passagem Oeste 19
+W<color\=#ff0000ff>e</color>st Passage Destructible Point 20=P<color\=#ff0000ff>o</color>nto Destrutível da Passagem Oeste 20
+T<color\=#ff0000ff>r</color>ial Part 1=P<color\=#ff0000ff>r</color>ova Parte 1
+T<color\=#ff0000ff>r</color>ial Part 2=P<color\=#ff0000ff>r</color>ova Parte 2
+T<color\=#ff0000ff>r</color>ial Part 3=P<color\=#ff0000ff>r</color>ova Parte 3
+N<color\=#ff0000ff>e</color>xt Station=P<color\=#ff0000ff>r</color>óxima Estação
+M<color\=#ff0000ff>a</color>rthym=M<color\=#ff0000ff>a</color>rthym
+W<color\=#ff0000ff>a</color>ndering Shadow=S<color\=#ff0000ff>o</color>mbra Errante
+A<color\=#ff0000ff>g</color>itated Shadow=S<color\=#ff0000ff>o</color>mbra Agitada
+S<color\=#ff0000ff>a</color>vage Shadow=S<color\=#ff0000ff>o</color>mbra Selvagem
+T<color\=#ff0000ff>r</color>easure Demon=D<color\=#ff0000ff>e</color>mônio do Tesouro
+S<color\=#ff0000ff>t</color>ubborn Shadow=S<color\=#ff0000ff>o</color>mbra Teimosa
+T<color\=#ff0000ff>r</color>ain=T<color\=#ff0000ff>r</color>em
+G<color\=#ff0000ff>a</color>te NPC=N<color\=#ff0000ff>P</color>C do Portão
+O<color\=#ff0000ff>f</color>fice Worker's Shadow=S<color\=#ff0000ff>o</color>mbra do Trabalhador de Escritório
+S<color\=#ff0000ff>t</color>ore Owner's Shadow=S<color\=#ff0000ff>o</color>mbra do Dono da Loja
+G<color\=#ff0000ff>i</color>rl's Shadow=S<color\=#ff0000ff>o</color>mbra da Garota
+B<color\=#ff0000ff>o</color>y's Shadow=S<color\=#ff0000ff>o</color>mbra do Garoto
+H<color\=#ff0000ff>e</color>sitant Man's Shadow=S<color\=#ff0000ff>o</color>mbra do Homem Hesitante
+L<color\=#ff0000ff>o</color>nely Bench=B<color\=#ff0000ff>a</color>nco Solitário
+K<color\=#ff0000ff>e</color>en Saleslady Shadow=S<color\=#ff0000ff>o</color>mbra da Vendedora Entusiasmada
+S<color\=#ff0000ff>i</color>ck Man's Shadow=S<color\=#ff0000ff>o</color>mbra do Homem Doente
+J<color\=#ff0000ff>a</color>ck Frost=J<color\=#ff0000ff>a</color>ck Frost
+I<color\=#ff0000ff>n</color>vestor's Shadow=S<color\=#ff0000ff>o</color>mbra do Investidor
+F<color\=#ff0000ff>i</color>nance Guru's Shadow=S<color\=#ff0000ff>o</color>mbra do Guru Financeiro
+H<color\=#ff0000ff>e</color>ro-Loving Shadow=S<color\=#ff0000ff>o</color>mbra Amante de Heróis
+G<color\=#ff0000ff>h</color>ostly Shadow=S<color\=#ff0000ff>o</color>mbra Fantasmagórica
+C<color\=#ff0000ff>o</color>urier's Shadow=S<color\=#ff0000ff>o</color>mbra do Entregador
+T<color\=#ff0000ff>o</color>ugh Guy's Shadow=S<color\=#ff0000ff>o</color>mbra do Brutamontes
+Y<color\=#ff0000ff>o</color>ung Boy's Shadow=S<color\=#ff0000ff>o</color>mbra do Garoto Jovem
+F<color\=#ff0000ff>r</color>eeloader Shadow=S<color\=#ff0000ff>o</color>mbra do Aproveitador
+C<color\=#ff0000ff>a</color>reer-Seeking Shadow=S<color\=#ff0000ff>o</color>mbra em busca de carreira
+G<color\=#ff0000ff>a</color>mbling Addict Shadow=S<color\=#ff0000ff>o</color>mbra Viciada em Jogos
+G<color\=#ff0000ff>a</color>mer Boy's Shadow=S<color\=#ff0000ff>o</color>mbra do Garoto Gamer
+G<color\=#ff0000ff>a</color>mer Girl's Shadow=S<color\=#ff0000ff>o</color>mbra da Garota Gamer
+G<color\=#ff0000ff>a</color>mer Grandpa's Shadow=S<color\=#ff0000ff>o</color>mbra do Avô Gamer
+H<color\=#ff0000ff>o</color>rse Racing Fan Shadow=S<color\=#ff0000ff>o</color>mbra do Fã de Corridas de Cavalos
+G<color\=#ff0000ff>r</color>umbling Man's Shadow=S<color\=#ff0000ff>o</color>mbra do homem resmungão
+A<color\=#ff0000ff>s</color>trology Fan Shadow=S<color\=#ff0000ff>o</color>mbra Fã de Astrologia
+L<color\=#ff0000ff>i</color>ar's Shadow=S<color\=#ff0000ff>o</color>mbra do Mentiroso
+T<color\=#ff0000ff>r</color>oubled Old Man Shadow=S<color\=#ff0000ff>o</color>mbra do Velho Conturbado
+C<color\=#ff0000ff>a</color>pable Girl Shadow=S<color\=#ff0000ff>o</color>mbra de Garota Habilidosa
+Y<color\=#ff0000ff>o</color>ung Girl's Shadow=S<color\=#ff0000ff>o</color>mbra da Jovem
+M<color\=#ff0000ff>a</color>id's Shadow=S<color\=#ff0000ff>o</color>mbra de Doméstica
+O<color\=#ff0000ff>l</color>d Castle Guard=G<color\=#ff0000ff>u</color>arda do Castelo Antigo
+M<color\=#ff0000ff>o</color>toha=M<color\=#ff0000ff>o</color>toha
+S<color\=#ff0000ff>a</color>fe Room=S<color\=#ff0000ff>a</color>la Segura
+A<color\=#ff0000ff>r</color>mored Guard=G<color\=#ff0000ff>u</color>arda Blindado
+L<color\=#ff0000ff>u</color>xury Chest=B<color\=#ff0000ff>a</color>ú de Luxo
+C<color\=#ff0000ff>o</color>llab 1-5-2 Atmosphere NPC=C<color\=#ff0000ff>o</color>laboração 1-5-2 Atmosfera NPC
+C<color\=#ff0000ff>o</color>llab 1-5-2 Patrol Enemy=C<color\=#ff0000ff>o</color>laboração 1-5-2 Inimigo de Patrulha
+C<color\=#ff0000ff>o</color>llab 1-5-2 B Area Atmosphere NPC=C<color\=#ff0000ff>o</color>laboração 1-5-2 Área B Atmosfera NPC
+S<color\=#ff0000ff>t</color>ory Performance Monster=M<color\=#ff0000ff>o</color>nstro de Desempenho da História
+E<color\=#ff0000ff>n</color>ter Room=E<color\=#ff0000ff>n</color>trar na Sala
+P<color\=#ff0000ff>r</color>ison Guard=G<color\=#ff0000ff>u</color>arda da Prisão
+S<color\=#ff0000ff>u</color>rveillance=V<color\=#ff0000ff>i</color>gilância
+C<color\=#ff0000ff>a</color>stle Soldier=S<color\=#ff0000ff>o</color>ldado do Castelo
+H<color\=#ff0000ff>i</color>dden Name NPC=N<color\=#ff0000ff>P</color>C de Nome Escondido
+S<color\=#ff0000ff>h</color>adow Guard=G<color\=#ff0000ff>u</color>arda Sombra
+S<color\=#ff0000ff>t</color>rong Enemy=I<color\=#ff0000ff>n</color>imigo Forte
+T<color\=#ff0000ff>r</color>easure Chest Guards=G<color\=#ff0000ff>u</color>ardas do Baú do Tesouro
+E<color\=#ff0000ff>l</color>ite Guard=G<color\=#ff0000ff>u</color>arda de Elite
+C<color\=#ff0000ff>h</color>eck the bookshelf=V<color\=#ff0000ff>e</color>rificar a estante
+B<color\=#ff0000ff>a</color>seball Pedestal=P<color\=#ff0000ff>e</color>destal de Beisebol
+B<color\=#ff0000ff>i</color>rd-Headed Shadow=S<color\=#ff0000ff>o</color>mbra de Cabeça de Pássaro
+T<color\=#ff0000ff>h</color>rone Room Door=P<color\=#ff0000ff>o</color>rta da Sala do Trono
+M<color\=#ff0000ff>u</color>seum Guard=G<color\=#ff0000ff>u</color>arda do Museu
+T<color\=#ff0000ff>r</color>easure Hall Window=J<color\=#ff0000ff>a</color>nela do Salão do Tesouro
+M<color\=#ff0000ff>u</color>seum Security Guard=G<color\=#ff0000ff>u</color>arda de Segurança do Museu
+M<color\=#ff0000ff>u</color>seum Elite Security=S<color\=#ff0000ff>e</color>gurança de Elite do Museu
+P<color\=#ff0000ff>a</color>trolling Guard=G<color\=#ff0000ff>u</color>arda Patrulhando
+S<color\=#ff0000ff>e</color>curity Room Door=P<color\=#ff0000ff>o</color>rta da Sala de Segurança
+R<color\=#ff0000ff>e</color>ception Room Guard=G<color\=#ff0000ff>u</color>arda da Sala de Recepção
+G<color\=#ff0000ff>o</color> to the Lower Level=I<color\=#ff0000ff>r</color> para o Nível Inferior
+C<color\=#ff0000ff>o</color>nnecting Room Door=P<color\=#ff0000ff>o</color>rta de Conexão
+B<color\=#ff0000ff>a</color>nk Security Guard=G<color\=#ff0000ff>u</color>arda de Segurança do Banco
+B<color\=#ff0000ff>a</color>nk Guard Dog=C<color\=#ff0000ff>ã</color>o de Guarda do Banco
+O<color\=#ff0000ff>p</color>en=A<color\=#ff0000ff>b</color>rir
+L<color\=#ff0000ff>i</color>zard-Headed Shadow=S<color\=#ff0000ff>o</color>mbra Cabeça de Lagarto
+U<color\=#ff0000ff>s</color>e Elevator=U<color\=#ff0000ff>s</color>ar Elevador
+J<color\=#ff0000ff>u</color>mp Down=P<color\=#ff0000ff>u</color>lar para Baixo
+P<color\=#ff0000ff>y</color>ramid Guard=G<color\=#ff0000ff>u</color>arda da Pirâmide
+T<color\=#ff0000ff>r</color>easure Chest Guard=G<color\=#ff0000ff>u</color>arda do Baú de Tesouro
+O<color\=#ff0000ff>p</color>en Door=A<color\=#ff0000ff>b</color>rir Porta
+C<color\=#ff0000ff>o</color>ntroller=C<color\=#ff0000ff>o</color>ntrolador
+S<color\=#ff0000ff>h</color>adow=S<color\=#ff0000ff>o</color>mbra
+G<color\=#ff0000ff>o</color>=I<color\=#ff0000ff>r</color>
+M<color\=#ff0000ff>a</color>ndatory Main Quest Enemy 1=I<color\=#ff0000ff>n</color>imigo da Missão Principal Obrigatória 1
+M<color\=#ff0000ff>a</color>ndatory Main Quest Enemy 2-1=I<color\=#ff0000ff>n</color>imigo Obrigatório da Missão Principal 2-1
+M<color\=#ff0000ff>a</color>ndatory Main Quest Enemy 2-2=I<color\=#ff0000ff>n</color>imigo Obrigatório da Missão Principal 2-2
+M<color\=#ff0000ff>a</color>ndatory Main Quest Enemy 2-3=I<color\=#ff0000ff>n</color>imigo da Missão Principal Obrigatória 2-3
+M<color\=#ff0000ff>a</color>ndatory Main Quest Enemy 2-4=I<color\=#ff0000ff>n</color>imigo da Missão Principal Obrigatória 2-4
+R<color\=#ff0000ff>e</color>search=P<color\=#ff0000ff>e</color>squisar
+M<color\=#ff0000ff>a</color>ndatory Main Quest Enemy 2=I<color\=#ff0000ff>n</color>imigo da Missão Principal Obrigatória 2
+R<color\=#ff0000ff>o</color>om 1 NPC=N<color\=#ff0000ff>P</color>C da Sala 1
+S<color\=#ff0000ff>p</color>aceport - Mandatory Main Quest Enemy 1=P<color\=#ff0000ff>o</color>rto Espacial - Inimigo da Missão Principal Obrigatória 1
+E<color\=#ff0000ff>n</color>ter=E<color\=#ff0000ff>n</color>trar
+C<color\=#ff0000ff>h</color>ief=C<color\=#ff0000ff>h</color>efe
+S<color\=#ff0000ff>e</color>ction Chief=C<color\=#ff0000ff>h</color>efe de Seção
+G<color\=#ff0000ff>o</color> to the depths=I<color\=#ff0000ff>r</color> para as profundezas
+U<color\=#ff0000ff>s</color>e Den Maker=U<color\=#ff0000ff>s</color>ar o Construtor do Covil
+S<color\=#ff0000ff>t</color>art Music Player=I<color\=#ff0000ff>n</color>iciar Tocador de Música
+V<color\=#ff0000ff>i</color>ew Gallery=V<color\=#ff0000ff>e</color>r Galeria
+M<color\=#ff0000ff>u</color>sic Player=T<color\=#ff0000ff>o</color>cador de Música
+V<color\=#ff0000ff>i</color>ew Sign=V<color\=#ff0000ff>e</color>r Placa
+P<color\=#ff0000ff>l</color>ay Tycoon=J<color\=#ff0000ff>o</color>gar Tycoon
+W<color\=#ff0000ff>a</color>tch Movie=A<color\=#ff0000ff>s</color>sistir Filme
+I<color\=#ff0000ff>l</color>lustration Not Unlocked=I<color\=#ff0000ff>l</color>ustração Não Desbloqueada
+K<color\=#ff0000ff>V</color> - Calling Card=K<color\=#ff0000ff>V</color> - Cartão de Visita
+C<color\=#ff0000ff>B</color>T3KV - Gun=C<color\=#ff0000ff>B</color>T3KV - Arma
+C<color\=#ff0000ff>B</color>T3KV - Clash=C<color\=#ff0000ff>B</color>T3KV - Confronto
+O<color\=#ff0000ff>B</color>KV - Heavy Paint=O<color\=#ff0000ff>B</color>KV - Tinta Pesada
+K<color\=#ff0000ff>V</color> - Velvet Room=K<color\=#ff0000ff>V</color> - Sala de Veludo
+C<color\=#ff0000ff>h</color>eck Rating=V<color\=#ff0000ff>e</color>rificar Classificação
+P<color\=#ff0000ff>l</color>ace Item=C<color\=#ff0000ff>o</color>locar Item
+C<color\=#ff0000ff>h</color>eck Item=V<color\=#ff0000ff>e</color>rificar Item
+S<color\=#ff0000ff>k</color>ull=S<color\=#ff0000ff>k</color>ull
+M<color\=#ff0000ff>o</color>na=M<color\=#ff0000ff>o</color>na
+L<color\=#ff0000ff>e</color>o Kamiyama=L<color\=#ff0000ff>e</color>o Kamiyama
+Y<color\=#ff0000ff>u</color>kimi Fujikawa=Y<color\=#ff0000ff>u</color>kimi Fujikawa
+S<color\=#ff0000ff>e</color>iji Shiratori=S<color\=#ff0000ff>e</color>iji Shiratori
+T<color\=#ff0000ff>o</color>shiya Sumi=T<color\=#ff0000ff>o</color>shiya Sumi
+P<color\=#ff0000ff>a</color>nther=P<color\=#ff0000ff>a</color>nther
+J<color\=#ff0000ff>o</color>ker=J<color\=#ff0000ff>o</color>ker
+R<color\=#ff0000ff>y</color>uji Sakamoto - Group Conversation=R<color\=#ff0000ff>y</color>uji Sakamoto - Conversa em Grupo
+M<color\=#ff0000ff>o</color>rgana - Group Conversation=M<color\=#ff0000ff>o</color>rgana - Conversa em Grupo
+M<color\=#ff0000ff>o</color>toha Arai - Group Conversation=M<color\=#ff0000ff>o</color>toha Arai - Conversa em Grupo
+L<color\=#ff0000ff>u</color>fel - Group Conversation=L<color\=#ff0000ff>u</color>fel - Conversa em Grupo
+S<color\=#ff0000ff>h</color>un Kano - Group Conversation=S<color\=#ff0000ff>h</color>un Kano - Conversa em Grupo
+L<color\=#ff0000ff>e</color>o Kamiyama - Group Conversation=L<color\=#ff0000ff>e</color>o Kamiyama - Conversa em Grupo
+K<color\=#ff0000ff>a</color>yo Tomiyama - Group Conversation=K<color\=#ff0000ff>a</color>yo Tomiyama - Conversa em Grupo
+Y<color\=#ff0000ff>a</color>oling Li - Group Conversation=Y<color\=#ff0000ff>a</color>oling Li - Conversa em Grupo
+T<color\=#ff0000ff>o</color>moko Noge - Group Conversation=T<color\=#ff0000ff>o</color>moko Noge - Conversa em Grupo
+K<color\=#ff0000ff>i</color>yoshi Kurotani - Group Conversation=K<color\=#ff0000ff>i</color>yoshi Kurotani - Conversa em Grupo
+Y<color\=#ff0000ff>u</color>kimi Fujikawa - Group Conversation=Y<color\=#ff0000ff>u</color>kimi Fujikawa - Conversa em Grupo
+S<color\=#ff0000ff>e</color>iji Shiratori - Group Conversation=S<color\=#ff0000ff>e</color>iji Shiratori - Conversa em Grupo
+T<color\=#ff0000ff>o</color>shiya Sumi - Group Conversation=T<color\=#ff0000ff>o</color>shiya Sumi - Conversa em Grupo
+A<color\=#ff0000ff>n</color>n Takamaki - Group Conversation=A<color\=#ff0000ff>n</color>n Takamaki - Conversa em Grupo
+K<color\=#ff0000ff>o</color>tone Montagne - Group Conversation=K<color\=#ff0000ff>o</color>tone Montagne - Conversa em Grupo
+R<color\=#ff0000ff>e</color>n Amamiya - Group Conversation=R<color\=#ff0000ff>e</color>n Amamiya - Conversa em Grupo
+M<color\=#ff0000ff>i</color>yu Sahara - Group Conversation=M<color\=#ff0000ff>i</color>yu Sahara - Conversa em Grupo
+H<color\=#ff0000ff>a</color>runa Nishimori - Group Conversation=H<color\=#ff0000ff>a</color>runa Nishimori - Conversa em Grupo
+L<color\=#ff0000ff>e</color>o Kamiyama & Kiyoshi Kurotani=L<color\=#ff0000ff>e</color>o Kamiyama & Kiyoshi Kurotani
+T<color\=#ff0000ff>o</color>moko Noge & Miyu Sahara=T<color\=#ff0000ff>o</color>moko Noge & Miyu Sahara
+S<color\=#ff0000ff>e</color>iji Shiratori & Toshiya Sumi=S<color\=#ff0000ff>e</color>iji Shiratori & Toshiya Sumi
+J<color\=#ff0000ff>o</color>ker & Shun Kano=J<color\=#ff0000ff>o</color>ker & Shun Kano
+M<color\=#ff0000ff>o</color>na & Lufel=M<color\=#ff0000ff>o</color>na & Lufel
+S<color\=#ff0000ff>k</color>ull & Shun Kano=S<color\=#ff0000ff>k</color>ull & Shun Kano
+P<color\=#ff0000ff>a</color>nther & Motoha Arai=P<color\=#ff0000ff>a</color>nther & Motoha Arai
+S<color\=#ff0000ff>h</color>irosato Beach=P<color\=#ff0000ff>r</color>aia de Shirosato
+B<color\=#ff0000ff>e</color>ach House=Q<color\=#ff0000ff>u</color>iosque da Praia
+L<color\=#ff0000ff>e</color>ave the beach=S<color\=#ff0000ff>a</color>ir da praia
+W<color\=#ff0000ff>a</color>ter Gun Fight=G<color\=#ff0000ff>u</color>erra de Pistola de Água
+S<color\=#ff0000ff>e</color>aside Temp Hideout=E<color\=#ff0000ff>s</color>conderijo Temporário na Praia
+M<color\=#ff0000ff>o</color>toha & Tomoko=M<color\=#ff0000ff>o</color>toha & Tomoko
+M<color\=#ff0000ff>o</color>toha & Shun=M<color\=#ff0000ff>o</color>toha & Shun
+M<color\=#ff0000ff>o</color>toha & Riko=M<color\=#ff0000ff>o</color>toha & Riko
+S<color\=#ff0000ff>h</color>un & Lufel=S<color\=#ff0000ff>h</color>un & Lufel
+R<color\=#ff0000ff>i</color>ko & Shun=R<color\=#ff0000ff>i</color>ko & Shun
+R<color\=#ff0000ff>i</color>ko & Lufel=R<color\=#ff0000ff>i</color>ko & Lufel
+T<color\=#ff0000ff>o</color>moko (Not displayed)=T<color\=#ff0000ff>o</color>moko (Não exibido)
+S<color\=#ff0000ff>h</color>un (Not displayed)=S<color\=#ff0000ff>h</color>un (Não exibido)
+R<color\=#ff0000ff>i</color>ko (Not displayed)=R<color\=#ff0000ff>i</color>ko (Não exibido)
+L<color\=#ff0000ff>u</color>fel (Not displayed)=L<color\=#ff0000ff>u</color>fel (Não exibido)
+S<color\=#ff0000ff>u</color>mmer Ramen Event=E<color\=#ff0000ff>v</color>ento de Verão do Ramen
+Y<color\=#ff0000ff>a</color>kisoba Chopsticks=H<color\=#ff0000ff>a</color>shis para Yakisoba
+S<color\=#ff0000ff>u</color>mmer Yakisoba=Y<color\=#ff0000ff>a</color>kisoba de Verão
+R<color\=#ff0000ff>a</color>men Chopsticks=H<color\=#ff0000ff>a</color>shis para Ramen
+L<color\=#ff0000ff>a</color>unch Site=L<color\=#ff0000ff>o</color>cal de Lançamento
+B<color\=#ff0000ff>e</color>ach Chair=C<color\=#ff0000ff>a</color>deira de Praia
+R<color\=#ff0000ff>i</color>kuto Shimizu=R<color\=#ff0000ff>i</color>kuto Shimizu
+F<color\=#ff0000ff>u</color>miyo Tosabayashi=F<color\=#ff0000ff>u</color>miyo Tosabayashi
+N<color\=#ff0000ff>i</color>ghtlife Center=C<color\=#ff0000ff>e</color>ntro Noturno
+C<color\=#ff0000ff>h</color>ihaya Mifune=C<color\=#ff0000ff>h</color>ihaya Mifune
+S<color\=#ff0000ff>e</color>curity Company=E<color\=#ff0000ff>m</color>presa de Segurança
+C<color\=#ff0000ff>h</color>inese Restaurant=R<color\=#ff0000ff>e</color>staurante Chinês
+A<color\=#ff0000ff>d</color>ults-Only Store=L<color\=#ff0000ff>o</color>ja para Maiores
+P<color\=#ff0000ff>a</color>chinko Parlor=S<color\=#ff0000ff>a</color>lão de Pachinko
+P<color\=#ff0000ff>a</color>wn Shop=L<color\=#ff0000ff>o</color>ja de Penhores
+P<color\=#ff0000ff>e</color>t Shop=P<color\=#ff0000ff>e</color>t Shop
+A<color\=#ff0000ff>c</color>upuncture Clinic=C<color\=#ff0000ff>l</color>ínica de Acupuntura
+F<color\=#ff0000ff>l</color>ower Shop=F<color\=#ff0000ff>l</color>oricultura
+J<color\=#ff0000ff>e</color>welry Store=J<color\=#ff0000ff>o</color>alheria
+R<color\=#ff0000ff>e</color>d-light District=D<color\=#ff0000ff>i</color>strito da Luz Vermelha
+C<color\=#ff0000ff>h</color>ihaya's Seat 1=A<color\=#ff0000ff>s</color>sento 1 da Chihaya
+C<color\=#ff0000ff>h</color>ihaya's Seat 2=A<color\=#ff0000ff>s</color>sento 2 da Chihaya
+C<color\=#ff0000ff>h</color>ihaya's Table - Card=M<color\=#ff0000ff>e</color>sa da Chihaya - Carta
+S<color\=#ff0000ff>t</color>udly Host=A<color\=#ff0000ff>n</color>fitrião Bonito
+T<color\=#ff0000ff>a</color>lkative Clinic Employee=F<color\=#ff0000ff>u</color>ncionário Tagarela de Clínica
+T<color\=#ff0000ff>i</color>mid Store Clerk=F<color\=#ff0000ff>u</color>ncionário Tímido
+T<color\=#ff0000ff>i</color>mid Man=H<color\=#ff0000ff>o</color>mem Tímido
+A<color\=#ff0000ff>r</color>rogant Man=H<color\=#ff0000ff>o</color>mem Arrogante
+V<color\=#ff0000ff>i</color>ctory Kitchen=C<color\=#ff0000ff>o</color>zinha da Vitória
+B<color\=#ff0000ff>o</color>okstore Employee=F<color\=#ff0000ff>u</color>ncionário da Livraria
+P<color\=#ff0000ff>e</color>rforming Girl=G<color\=#ff0000ff>a</color>rota se Apresentando
+B<color\=#ff0000ff>o</color>y=G<color\=#ff0000ff>a</color>roto
+B<color\=#ff0000ff>o</color>y's Mother=M<color\=#ff0000ff>ã</color>e do Garoto
+S<color\=#ff0000ff>u</color>itcase=M<color\=#ff0000ff>a</color>la
+H<color\=#ff0000ff>a</color>ndbag=B<color\=#ff0000ff>o</color>lsa
+M<color\=#ff0000ff>i</color>yu's Sign=P<color\=#ff0000ff>l</color>aca da Miyu
+M<color\=#ff0000ff>i</color>yu's Mermaid Tail=C<color\=#ff0000ff>a</color>uda de Sereia da Miyu
+M<color\=#ff0000ff>i</color>yu's Suitcase=M<color\=#ff0000ff>a</color>la da Miyu
+Y<color\=#ff0000ff>a</color>kiniku Shop=C<color\=#ff0000ff>h</color>urrascaria
+S<color\=#ff0000ff>i</color>gnboard=P<color\=#ff0000ff>l</color>aca
+E<color\=#ff0000ff>m</color>pty Seat=A<color\=#ff0000ff>s</color>sento Vazio
+F<color\=#ff0000ff>o</color>rtune Teller=C<color\=#ff0000ff>a</color>rtomante
+E<color\=#ff0000ff>e</color>l Shop=L<color\=#ff0000ff>o</color>ja de Enguias
+E<color\=#ff0000ff>l</color>evator Door=P<color\=#ff0000ff>o</color>rta do Elevador
+U<color\=#ff0000ff>n</color>occupied Bench=B<color\=#ff0000ff>a</color>nco Desocupado
+C<color\=#ff0000ff>a</color>mera NPC 1=C<color\=#ff0000ff>â</color>mera NPC 1
+C<color\=#ff0000ff>a</color>mera NPC 2=C<color\=#ff0000ff>â</color>mera NPC 2
+C<color\=#ff0000ff>a</color>mera NPC 3=C<color\=#ff0000ff>â</color>mera NPC 3
+H<color\=#ff0000ff>i</color>dden Café=C<color\=#ff0000ff>a</color>fé Escondido
+H<color\=#ff0000ff>e</color>avy Drinker=B<color\=#ff0000ff>ê</color>bado Pesado
+E<color\=#ff0000ff>l</color>evator=E<color\=#ff0000ff>l</color>evador
+S<color\=#ff0000ff>t</color>airs=E<color\=#ff0000ff>s</color>cadas
+E<color\=#ff0000ff>r</color>ror: tnxotb-[Npc_name_540001]=E<color\=#ff0000ff>r</color>ror: tnxotb-[Npc_name_540001]
+E<color\=#ff0000ff>r</color>ror: tnxotb-[Npc_name_540002]=E<color\=#ff0000ff>r</color>ror: tnxotb-[Npc_name_540002]
+E<color\=#ff0000ff>r</color>ror: tnxotb-[Npc_name_540003]=E<color\=#ff0000ff>r</color>ror: tnxotb-[Npc_name_540003]
+E<color\=#ff0000ff>r</color>ror: tnxotb-[Npc_name_540004]=E<color\=#ff0000ff>r</color>ror: tnxotb-[Npc_name_540004]
+E<color\=#ff0000ff>r</color>ror: tnxotb-[Npc_name_540005]=E<color\=#ff0000ff>r</color>ror: tnxotb-[Npc_name_540005]
+E<color\=#ff0000ff>r</color>ror: tnxotb-[Npc_name_540006]=E<color\=#ff0000ff>r</color>ror: tnxotb-[Npc_name_540006]
+E<color\=#ff0000ff>r</color>ror: tnxotb-[Npc_name_540007]=E<color\=#ff0000ff>r</color>ror: tnxotb-[Npc_name_540007]
+R<color\=#ff0000ff>e</color>turn to Shinjuku from Victory Kitchen=R<color\=#ff0000ff>e</color>tornar a Shinjuku da Cozinha da Vitória
+R<color\=#ff0000ff>e</color>alm of Repression=R<color\=#ff0000ff>e</color>ino da Repressão
+P<color\=#ff0000ff>a</color>th of Qimranut Entrance=E<color\=#ff0000ff>n</color>trada do Caminho de Qimranut
+G<color\=#ff0000ff>o</color> to Area 2=I<color\=#ff0000ff>r</color> para a Área 2
+K<color\=#ff0000ff>i</color>uchi's Palace=P<color\=#ff0000ff>a</color>lácio de Kiuchi
+F<color\=#ff0000ff>a</color>re Machine=M<color\=#ff0000ff>á</color>quina de Tarifa
+S<color\=#ff0000ff>i</color>de Mission 1_Curved Rail=M<color\=#ff0000ff>i</color>ssão Secundária 1_Trilho Curvo
+S<color\=#ff0000ff>i</color>de Mission 1_Red Vortex=M<color\=#ff0000ff>i</color>ssão Secundária 1_Vórtice Vermelho
+S<color\=#ff0000ff>i</color>de Mission 1_Straight Rail=M<color\=#ff0000ff>i</color>ssão Secundária 1_Trilho Reto
+S<color\=#ff0000ff>i</color>de Mission 1_Red Blood Vessel=M<color\=#ff0000ff>i</color>ssão Secundária 1_Vaso Sanguíneo Vermelho
+?<color\=#ff0000ff>?</color>?=?<color\=#ff0000ff>?</color>?
+C<color\=#ff0000ff>h</color>amber of Recollections=C<color\=#ff0000ff>â</color>mara das Lembranças
+R<color\=#ff0000ff>e</color>turn to Area 1=R<color\=#ff0000ff>e</color>tornar à Área 1
+G<color\=#ff0000ff>o</color> to Area 3=I<color\=#ff0000ff>r</color> para a Área 3
+P<color\=#ff0000ff>u</color>rsuit of Parts=B<color\=#ff0000ff>u</color>sca por Peças
+T<color\=#ff0000ff>h</color>e Scent of New Leaves=O<color\=#ff0000ff> </color>Cheiro de Folhas Novas
+G<color\=#ff0000ff>e</color>ar Forging=F<color\=#ff0000ff>o</color>rja de Engrenagens
+M<color\=#ff0000ff>e</color>tro of Desire=M<color\=#ff0000ff>e</color>trô do Desejo
+E<color\=#ff0000ff>v</color>ent_Temp_Entrance_Straight_Rail=E<color\=#ff0000ff>v</color>ent_Temp_Entrance_Straight_Rail
+E<color\=#ff0000ff>v</color>ent_Temp_Entrance_Red_Blood_Vessel=E<color\=#ff0000ff>v</color>ent_Temp_Entrance_Red_Blood_Vessel
+R<color\=#ff0000ff>o</color>botic Challenge=D<color\=#ff0000ff>e</color>safio Robótico
+E<color\=#ff0000ff>v</color>ent_Temp_Entrance_Curved_Rail=E<color\=#ff0000ff>v</color>ent_Temp_Entrance_Curved_Rail
+E<color\=#ff0000ff>v</color>ent_Temp_Entrance_Blue_Vortex=E<color\=#ff0000ff>v</color>ent_Temp_Entrance_Blue_Vortex
+A<color\=#ff0000ff>n</color>gry Shadow=S<color\=#ff0000ff>o</color>mbra Furiosa
+R<color\=#ff0000ff>e</color>turn to Area 2=R<color\=#ff0000ff>e</color>tornar à Área 2
+G<color\=#ff0000ff>o</color> to Area 4=I<color\=#ff0000ff>r</color> para a Área 4
+S<color\=#ff0000ff>t</color>range Castle=C<color\=#ff0000ff>a</color>stelo Estranho
+T<color\=#ff0000ff>h</color>e Velvet Trials=A<color\=#ff0000ff>s</color> Provas de Veludo
+M<color\=#ff0000ff>e</color>taverse - Merope=M<color\=#ff0000ff>e</color>taverso - Merope
+D<color\=#ff0000ff>e</color>praved Shadow=S<color\=#ff0000ff>o</color>mbra Depravada
+R<color\=#ff0000ff>e</color>alm of the Ruined=R<color\=#ff0000ff>e</color>ino dos Arruinados
+E<color\=#ff0000ff>n</color>lightenment=I<color\=#ff0000ff>l</color>uminação
+P<color\=#ff0000ff>u</color>rsuit of Treasure=B<color\=#ff0000ff>u</color>sca por Tesouro
+P<color\=#ff0000ff>u</color>rsuit of Persona=B<color\=#ff0000ff>u</color>sca por Persona
+E<color\=#ff0000ff>v</color>ent_Temp_Entrance_2_Straight_Rail=E<color\=#ff0000ff>v</color>ent_Temp_Entrance_2_Straight_Rail
+E<color\=#ff0000ff>v</color>ent_Temp_Entrance_2_Red_Blood_Vessel=E<color\=#ff0000ff>v</color>ent_Temp_Entrance_2_Red_Blood_Vessel
+G<color\=#ff0000ff>o</color> to Path of Aiyatsbus=I<color\=#ff0000ff>r</color> para o Caminho de Aiyatsbus
+R<color\=#ff0000ff>e</color>turn to Area 3=R<color\=#ff0000ff>e</color>tornar à Área 3
+R<color\=#ff0000ff>e</color>turn to Path of Qimranut Area 4=R<color\=#ff0000ff>e</color>tornar à Área 4 do Caminho de Qimranut
+M<color\=#ff0000ff>i</color>yazawa's Palace=P<color\=#ff0000ff>a</color>lácio de Miyazawa
+P<color\=#ff0000ff>a</color>th_Of_Aiyatsbus_Former_Palace_Entrance_Curved_Rail=P<color\=#ff0000ff>a</color>th_Of_Aiyatsbus_Former_Palace_Entrance_Curved_Rail
+P<color\=#ff0000ff>a</color>th_of_Aiyatsbus_Former_Palace_Entrance_Red_Vortex=P<color\=#ff0000ff>a</color>th_of_Aiyatsbus_Former_Palace_Entrance_Red_Vortex
+P<color\=#ff0000ff>a</color>th_of_Aiyatsbus_Former_Palace_Entrance_Straight_Rail=P<color\=#ff0000ff>a</color>th_of_Aiyatsbus_Former_Palace_Entrance_Straight_Rail
+P<color\=#ff0000ff>a</color>th_of_Aiyatsbus_Former_Palace_Entrance_Red_Blood_Vessel=P<color\=#ff0000ff>a</color>th_of_Aiyatsbus_Former_Palace_Entrance_Red_Blood_Vessel
+P<color\=#ff0000ff>a</color>ssionate Aroma=A<color\=#ff0000ff>r</color>oma Apaixonado
+E<color\=#ff0000ff>l</color>egant Fragrance=F<color\=#ff0000ff>r</color>agrância Elegante
+A<color\=#ff0000ff>l</color>luring Aroma=A<color\=#ff0000ff>r</color>oma Sedutor
+F<color\=#ff0000ff>l</color>eeing Shadow=S<color\=#ff0000ff>o</color>mbra em Fuga
+P<color\=#ff0000ff>u</color>rsuing Shadow=S<color\=#ff0000ff>o</color>mbra Perseguindo
+S<color\=#ff0000ff>i</color>de_Mission_6_Curved_Rail=S<color\=#ff0000ff>i</color>de_Mission_6_Curved_Rail
+S<color\=#ff0000ff>i</color>de_Mission_6_Red_Vortex=S<color\=#ff0000ff>i</color>de_Mission_6_Red_Vortex
+S<color\=#ff0000ff>i</color>de_Mission_6_Straight_Rail=S<color\=#ff0000ff>i</color>de_Mission_6_Straight_Rail
+S<color\=#ff0000ff>i</color>de_Mission_6_Red_Blood_Vessel=S<color\=#ff0000ff>i</color>de_Mission_6_Red_Blood_Vessel
+S<color\=#ff0000ff>i</color>de_Mission_5_Straight_Rail=S<color\=#ff0000ff>i</color>de_Mission_5_Straight_Rail
+S<color\=#ff0000ff>i</color>de_Mission_5_Red_Blood_Vessel=S<color\=#ff0000ff>i</color>de_Mission_5_Red_Blood_Vessel
+S<color\=#ff0000ff>i</color>de_Mission_Curved_Rail=S<color\=#ff0000ff>i</color>de_Mission_Curved_Rail
+S<color\=#ff0000ff>i</color>de_Mission_Red_Vortex=S<color\=#ff0000ff>i</color>de_Mission_Red_Vortex
+S<color\=#ff0000ff>i</color>de_Mission_Straight_Rail=S<color\=#ff0000ff>i</color>de_Mission_Straight_Rail
+S<color\=#ff0000ff>i</color>de_Mission_Red_Blood_Vessel=S<color\=#ff0000ff>i</color>de_Mission_Red_Blood_Vessel
+C<color\=#ff0000ff>o</color>mpleted Equipment Plan=P<color\=#ff0000ff>l</color>ano de Equipamento Concluído
+E<color\=#ff0000ff>q</color>uipment Parts=P<color\=#ff0000ff>e</color>ças de Equipamento
+E<color\=#ff0000ff>q</color>uipment Casting=F<color\=#ff0000ff>u</color>ndição de Equipamentos
+W<color\=#ff0000ff>o</color>rds of Harmony=P<color\=#ff0000ff>a</color>lavras de Harmonia
+W<color\=#ff0000ff>o</color>rds of Life=P<color\=#ff0000ff>a</color>lavras de Vida
+W<color\=#ff0000ff>o</color>rds of Bonds=P<color\=#ff0000ff>a</color>lavras de Laços
+W<color\=#ff0000ff>o</color>rds of Feuds=P<color\=#ff0000ff>a</color>lavras de Rixas
+G<color\=#ff0000ff>o</color> to Area 5=I<color\=#ff0000ff>r</color> para a Área 5
+W<color\=#ff0000ff>o</color>rds of Ruling=P<color\=#ff0000ff>a</color>lavras de Domínio
+W<color\=#ff0000ff>o</color>rds of Pleasure=P<color\=#ff0000ff>a</color>lavras de Prazer
+W<color\=#ff0000ff>o</color>rds of Indolence=P<color\=#ff0000ff>a</color>lavras de Indolência
+W<color\=#ff0000ff>o</color>rds of Instincts=P<color\=#ff0000ff>a</color>lavras de Instintos
+D<color\=#ff0000ff>o</color>or to the Path of Aiyatsbus Closed=P<color\=#ff0000ff>o</color>rta para o Caminho de Aiyatsbus Fechada
+P<color\=#ff0000ff>a</color>th of Aiyatsbus Train Crossing=T<color\=#ff0000ff>r</color>avessia do Trem do Caminho de Aiyatsbus
+P<color\=#ff0000ff>a</color>th of Aiyatsbus Train Stopped=T<color\=#ff0000ff>r</color>em do Caminho de Aiyatsbus Parado
+R<color\=#ff0000ff>e</color>turn to Path of Aiyatsbus Area 4=R<color\=#ff0000ff>e</color>tornar à Área 4 do Caminho de Aiyatsbus
+G<color\=#ff0000ff>o</color> to Path of Chemdah=I<color\=#ff0000ff>r</color> para o Caminho de Chemdah
+R<color\=#ff0000ff>e</color>turn to Path of Aiyatsbus Area 5=R<color\=#ff0000ff>e</color>tornar à Área 5 do Caminho de Aiyatsbus
+K<color\=#ff0000ff>u</color>mi Katayama's Palace=P<color\=#ff0000ff>a</color>lácio de Kumi Katayama
+D<color\=#ff0000ff>o</color>or to the Path of Chemdah Closed=P<color\=#ff0000ff>o</color>rta para o Caminho de Chemdah Fechada
+P<color\=#ff0000ff>a</color>th of Chemdah Train Crossing=T<color\=#ff0000ff>r</color>avessia do Trem do Caminho de Chemdah
+P<color\=#ff0000ff>a</color>th of Chemdah Train Stopped=T<color\=#ff0000ff>r</color>em do Caminho de Chemdah Parado
+R<color\=#ff0000ff>e</color>turn to Path of Chemdah Area 4=R<color\=#ff0000ff>e</color>tornar à Área 4 do Caminho de Chemdah
+G<color\=#ff0000ff>o</color> to Path of Kaitul=I<color\=#ff0000ff>r</color> para o Caminho de Kaitul
+R<color\=#ff0000ff>e</color>turn to Path of Chemdah Area 2=R<color\=#ff0000ff>e</color>tornar à Área 2 do Caminho de Chemdah
+R<color\=#ff0000ff>e</color>turn to Area 4=R<color\=#ff0000ff>e</color>tornar à Área 4
+G<color\=#ff0000ff>o</color> to Area 6=I<color\=#ff0000ff>r</color> para a Área 6
+S<color\=#ff0000ff>a</color>fe Room (Model)=S<color\=#ff0000ff>a</color>la Segura (Modelo)
+E<color\=#ff0000ff>x</color>hibition Hall - A15 - Main Unique Shadow (Parameter)=S<color\=#ff0000ff>a</color>lão de Exposições - A15 - Sombra Única Principal (Parâmetro)
+E<color\=#ff0000ff>x</color>hibition Hall - A6 - Rare Shadow=S<color\=#ff0000ff>a</color>lão de Exposições - A6 - Sombra Rara
+E<color\=#ff0000ff>x</color>hibition Hall - B1 - Rare Shadow=S<color\=#ff0000ff>a</color>lão de Exposições - B1 - Sombra Rara
+B<color\=#ff0000ff>a</color>seball Stadium Photo - No Flash=F<color\=#ff0000ff>o</color>to do Estádio de Beisebol - Sem Flash
+B<color\=#ff0000ff>a</color>seball Stadium Photo - Flash=F<color\=#ff0000ff>o</color>to do Estádio de Beisebol - Com Flash
+E<color\=#ff0000ff>x</color>hibition Hall - C1 - Set Shadow=S<color\=#ff0000ff>a</color>lão de Exposições - C1 - Sombra Fixa
+S<color\=#ff0000ff>h</color>utter=O<color\=#ff0000ff>b</color>turador
+H<color\=#ff0000ff>o</color>me Run 2F - D1 - Rare Shadow=H<color\=#ff0000ff>o</color>me Run 2º Andar - D1 - Sombra Rara
+O<color\=#ff0000ff>b</color>ariyon=O<color\=#ff0000ff>b</color>ariyon
+C<color\=#ff0000ff>-</color>Rank Security Guard=G<color\=#ff0000ff>u</color>arda de Segurança Rank C
+E<color\=#ff0000ff>x</color>hibition Hall - Left A12 - Rare Shadow=S<color\=#ff0000ff>a</color>lão de Exposições - Esquerda A12 - Sombra Rara
+F<color\=#ff0000ff>i</color>rst Baseman=P<color\=#ff0000ff>r</color>imeira Base
+B<color\=#ff0000ff>-</color>Rank Security Guard=G<color\=#ff0000ff>u</color>arda de Segurança Rank B
+W<color\=#ff0000ff>a</color>ndering Shadow (Discard)=S<color\=#ff0000ff>o</color>mbra Errante (Descartar)
+S<color\=#ff0000ff>u</color>ccubus=S<color\=#ff0000ff>ú</color>cubo
+C<color\=#ff0000ff>l</color>ub 1F - Y1 - Front of Safe Room Temporary Wall=C<color\=#ff0000ff>l</color>ube 1º Andar - Y1 - Parede Temporária da Sala Segura
+A<color\=#ff0000ff>-</color>Rank Security Guard=G<color\=#ff0000ff>u</color>arda de Segurança Rank A
+C<color\=#ff0000ff>l</color>ub 1F - West Y1 - Shadow=C<color\=#ff0000ff>l</color>ube 1º Andar - Oeste Y1 - Sombra
+C<color\=#ff0000ff>l</color>ub 1F - West L1 - Unique Shadow (Delete)=C<color\=#ff0000ff>l</color>ube 1º Andar - Oeste L1 - Sombra Única (Excluir)
+C<color\=#ff0000ff>l</color>ub 1F - West L1 - Unique Shadow Display (Delete)=C<color\=#ff0000ff>l</color>ube 1º Andar - Oeste L1 - Exibição de Sombra Única (Excluir)
+C<color\=#ff0000ff>l</color>ub 1F - North Z2 - Shadow=C<color\=#ff0000ff>l</color>ube 1º Andar - Norte Z2 - Sombra
+T<color\=#ff0000ff>h</color>ird Baseman=T<color\=#ff0000ff>e</color>rceira Base
+C<color\=#ff0000ff>l</color>ub 1F - North Z3 - Unique Shadow (Delete)=C<color\=#ff0000ff>l</color>ube 1º Andar - Norte Z3 - Sombra Única (Excluir)
+C<color\=#ff0000ff>l</color>ub 1F - West Z5 - Shadow=C<color\=#ff0000ff>l</color>ube 1º Andar - Oeste Z5 - Sombra
+C<color\=#ff0000ff>l</color>ub 1F - West Z1 - Unique Shadow (Delete)=C<color\=#ff0000ff>l</color>ube 1º Andar - Oeste Z1 - Sombra Única (Excluir)
+C<color\=#ff0000ff>l</color>ub 1F - West Y2b - Shadow=C<color\=#ff0000ff>l</color>ube 1º Andar - Oeste Y2b - Sombra
+C<color\=#ff0000ff>l</color>ub 1F - West Y2b - Unique Shadow (Delete)=C<color\=#ff0000ff>l</color>ube 1º Andar - Oeste Y2b - Sombra Única (Excluir)
+C<color\=#ff0000ff>l</color>ub 1F - East Y4 - Shadow=C<color\=#ff0000ff>l</color>ube 1º Andar - Leste Y4 - Sombra
+C<color\=#ff0000ff>l</color>ub 1F - East Z2 - Unique Shadow (Delete)=C<color\=#ff0000ff>l</color>ube 1º Andar - Leste Z2 - Sombra Única (Excluir)
+C<color\=#ff0000ff>l</color>ub 1F - East Y2a - Shadow=C<color\=#ff0000ff>l</color>ube 1º Andar - Leste Y2a - Sombra
+C<color\=#ff0000ff>l</color>ub 1F - East Z5 - Shadow=C<color\=#ff0000ff>l</color>ube 1º Andar - Leste Z5 - Sombra
+C<color\=#ff0000ff>l</color>ub 1F - Y3 - Large Face with Mouth Closed=C<color\=#ff0000ff>l</color>ube 1º Andar - Y3 - Rosto Grande com Boca Fechada
+C<color\=#ff0000ff>l</color>ub 1F - Y3 - Large Face with Mouth Open=C<color\=#ff0000ff>l</color>ube 1º Andar - Y3 - Rosto Grande com Boca Aberta
+A<color\=#ff0000ff>n</color>gel=A<color\=#ff0000ff>n</color>jo
+F<color\=#ff0000ff>r</color>enzied Fiend=D<color\=#ff0000ff>e</color>mônio Frenético
+C<color\=#ff0000ff>l</color>ub 1F - Y3 - Unique Shadow (Delete)=C<color\=#ff0000ff>l</color>ube 1º Andar - Y3 - Sombra Única (Excluir)
+C<color\=#ff0000ff>l</color>ub 3F - Y3 - Shadow=C<color\=#ff0000ff>l</color>ube 3º Andar - Y3 - Sombra
+M<color\=#ff0000ff>a</color>tador=M<color\=#ff0000ff>a</color>tador
+C<color\=#ff0000ff>l</color>ub 2F - East Y4 - Shadow=C<color\=#ff0000ff>l</color>ube 2º Andar - Leste Y4 - Sombra
+C<color\=#ff0000ff>l</color>ub 2F - East L3 - Shadow=C<color\=#ff0000ff>l</color>ube 2º Andar - Leste L3 - Sombra
+C<color\=#ff0000ff>l</color>ub 2F - East Y6b - Shadow=C<color\=#ff0000ff>l</color>ube 2º Andar - Leste Y6b - Sombra
+C<color\=#ff0000ff>l</color>ub 2F - East Y7 - Unique Shadow (Delete)=C<color\=#ff0000ff>l</color>ube 2º Andar - Leste Y7 - Sombra Única (Excluir)
+C<color\=#ff0000ff>l</color>ub 2F - East Y2b - Shadow=C<color\=#ff0000ff>l</color>ube 2º Andar - Leste Y2b - Sombra
+C<color\=#ff0000ff>l</color>ub 2F - East Y2b - Unique Shadow (Delete)=C<color\=#ff0000ff>l</color>ube 2º Andar - Leste Y2b - Sombra Única (Excluir)
+C<color\=#ff0000ff>l</color>ub 2F - West L3 - Main Unique Shadow (Parameter)=C<color\=#ff0000ff>l</color>ube 2º Andar - Oeste L3 - Sombra Única Principal (Parâmetro)
+S<color\=#ff0000ff>e</color>cond Baseman=S<color\=#ff0000ff>e</color>gunda Base
+C<color\=#ff0000ff>l</color>ub 2F - West Y6a - Shadow (Parameter)=C<color\=#ff0000ff>l</color>ube 2º Andar - Oeste Y6a - Sombra (Parâmetro)
+C<color\=#ff0000ff>l</color>ub 2F - West Y2b - Unique Shadow (Delete)=C<color\=#ff0000ff>l</color>ube 2º Andar - Oeste Y2b - Sombra Única (Excluir)
+C<color\=#ff0000ff>l</color>ub 2F - South Y7 - Unique Shadow (Delete)=C<color\=#ff0000ff>l</color>ube 2º Andar - Sul Y7 - Sombra Única (Excluir)
+C<color\=#ff0000ff>l</color>ub 2F - South Y2a - Unique Shadow (Delete)=C<color\=#ff0000ff>l</color>ube 2º Andar - Sul Y2a - Sombra Única (Excluir)
+S<color\=#ff0000ff>-</color>Rank Security Guard=G<color\=#ff0000ff>u</color>arda de Segurança Rank S
+C<color\=#ff0000ff>l</color>ub 3F - North Y7 - Unique Shadow (Delete)=C<color\=#ff0000ff>l</color>ube 3º Andar - Norte Y7 - Sombra Única (Excluir)
+C<color\=#ff0000ff>l</color>ub 3F - Center Z4 - Unique Shadow (Delete)=C<color\=#ff0000ff>l</color>ube 3º Andar - Centro Z4 - Sombra Única (Excluir)
+C<color\=#ff0000ff>l</color>ub 3F - South Y6b - Unique Shadow (Delete)=C<color\=#ff0000ff>l</color>ube 3º Andar - Sul Y6b - Sombra Única (Excluir)
+R<color\=#ff0000ff>o</color>oftop Obstacle Box=C<color\=#ff0000ff>a</color>ixa de Obstáculo do Telhado
+P<color\=#ff0000ff>o</color>ster=P<color\=#ff0000ff>ô</color>ster
+A<color\=#ff0000ff>n</color>zu=A<color\=#ff0000ff>n</color>zu
+F<color\=#ff0000ff>u</color>u-Ki=F<color\=#ff0000ff>u</color>u-Ki
+K<color\=#ff0000ff>i</color>n-Ki=K<color\=#ff0000ff>i</color>n-Ki
+J<color\=#ff0000ff>a</color>tayu=J<color\=#ff0000ff>a</color>tayu
+M<color\=#ff0000ff>o</color>thman=M<color\=#ff0000ff>o</color>thman
+B<color\=#ff0000ff>u</color>gs=B<color\=#ff0000ff>u</color>gs
+C<color\=#ff0000ff>h</color>apter 3 - Water Treatment Plant - Lower Level - Tval - Shadow01 (Discard)=C<color\=#ff0000ff>a</color>pítulo 3 - Estação de Tratamento de Água - Nível Inferior - Tval - Sombra01 (Descartar)
+C<color\=#ff0000ff>o</color>gnitive Mechanic=M<color\=#ff0000ff>e</color>cânico Cognitivo
+C<color\=#ff0000ff>o</color>gnitive Operator=O<color\=#ff0000ff>p</color>erador Cognitivo
+W<color\=#ff0000ff>a</color>ter Treatment Plant - Lower Level - TR1 - Lufel=E<color\=#ff0000ff>s</color>tação de Tratamento de Água - Nível Inferior - TR1 - Lufel
+W<color\=#ff0000ff>a</color>ter Treatment Plant - Lower Level - TR1 - Motoha=E<color\=#ff0000ff>s</color>tação de Tratamento de Água - Nível Inferior - TR1 - Motoha
+W<color\=#ff0000ff>a</color>ter Treatment Plant - Lower Level - TR1 - Shun=E<color\=#ff0000ff>s</color>tação de Tratamento de Água - Nível Inferior - TR1 - Shun
+W<color\=#ff0000ff>a</color>ter Treatment Plant - Lower Level - TR1 - Mob Operator NPC - Talking While Standing=E<color\=#ff0000ff>s</color>tação de Tratamento de Água - Nível Inferior - TR1 - NPC Operador - Conversando em Pé
+W<color\=#ff0000ff>a</color>ter Treatment Plant - Lower Level - TR1 - Mob Operator NPC - Sitting=E<color\=#ff0000ff>s</color>tação de Tratamento de Água - Nível Inferior - TR1 - NPC Operador - Sentado
+W<color\=#ff0000ff>a</color>ter Treatment Plant - Lower Level - TR1 - Mob Operator NPC - On Ground=E<color\=#ff0000ff>s</color>tação de Tratamento de Água - Nível Inferior - TR1 - NPC Operador - No Chão
+W<color\=#ff0000ff>a</color>ter Treatment Plant - Lower Level - TR1 - Mob Worker NPC - Talking While Standing=E<color\=#ff0000ff>s</color>tação de Tratamento de Água - Nível Inferior - TR1 - NPC Trabalhador - Conversando em Pé
+W<color\=#ff0000ff>a</color>ter Treatment Plant - Lower Level - TR1 - Mob Worker NPC - Sitting=E<color\=#ff0000ff>s</color>tação de Tratamento de Água - Nível Inferior - TR1 - NPC Trabalhador - Sentado
+O<color\=#ff0000ff>p</color>erator=O<color\=#ff0000ff>p</color>erador
+C<color\=#ff0000ff>h</color>apter 3 - Water Treatment Plant - Mid-Level - TC2 - Shadow01 (Discard)=C<color\=#ff0000ff>a</color>pítulo 3 - Estação de Tratamento de Água - Nível Médio - TC2 - Sombra01 (Descartar)
+W<color\=#ff0000ff>a</color>ter Treatment Plant - Mid-Level - TT1 - Worker NPC - Standing=E<color\=#ff0000ff>s</color>tação de Tratamento de Água - Nível Médio - TT1 - NPC Trabalhador - Em Pé
+C<color\=#ff0000ff>o</color>gnitive Researcher=P<color\=#ff0000ff>e</color>squisador Cognitivo
+V<color\=#ff0000ff>i</color>ce Principal=V<color\=#ff0000ff>i</color>ce-Diretor
+S<color\=#ff0000ff>u</color>pervisor=S<color\=#ff0000ff>u</color>pervisor
+O<color\=#ff0000ff>p</color>erator's Shadow=S<color\=#ff0000ff>o</color>mbra do Operador
+C<color\=#ff0000ff>o</color>gnitive Supervisor=S<color\=#ff0000ff>u</color>pervisor Cognitivo
+C<color\=#ff0000ff>r</color>ouching Worker=T<color\=#ff0000ff>r</color>abalhador Agachado
+F<color\=#ff0000ff>i</color>shing Pond Attendant=A<color\=#ff0000ff>t</color>endente da lagoa de pesca
+L<color\=#ff0000ff>e</color>ave=S<color\=#ff0000ff>a</color>ir
+M<color\=#ff0000ff>u</color>nehisa Iwai=M<color\=#ff0000ff>u</color>nehisa Iwai
+F<color\=#ff0000ff>e</color>llow Student=C<color\=#ff0000ff>o</color>lega Estudante
+G<color\=#ff0000ff>a</color>meplay=J<color\=#ff0000ff>o</color>gabilidade
+L<color\=#ff0000ff>e</color>ather Goods Store=L<color\=#ff0000ff>o</color>ja de Artigos de Couro
+W<color\=#ff0000ff>a</color>tch Shop=R<color\=#ff0000ff>e</color>lojoaria
+C<color\=#ff0000ff>o</color>smetics Store=L<color\=#ff0000ff>o</color>ja de Cosméticos
+A<color\=#ff0000ff>c</color>cessory Shop=J<color\=#ff0000ff>o</color>alheria
+S<color\=#ff0000ff>h</color>oe Store=L<color\=#ff0000ff>o</color>ja de Sapatos
+B<color\=#ff0000ff>o</color>utique=B<color\=#ff0000ff>o</color>utique
+S<color\=#ff0000ff>h</color>oe Repair Shop=S<color\=#ff0000ff>a</color>pataria
+J<color\=#ff0000ff>a</color>panese Sundries Shop=L<color\=#ff0000ff>o</color>ja de Variedades Japonesas
+A<color\=#ff0000ff>u</color>dio Shop=L<color\=#ff0000ff>o</color>ja de Áudio
+G<color\=#ff0000ff>o</color>urmet Supermarket=S<color\=#ff0000ff>u</color>permercado Gourmet
+U<color\=#ff0000ff>m</color>brella Store=L<color\=#ff0000ff>o</color>ja de Guarda-chuvas
+I<color\=#ff0000ff>D</color> Photo Booth=C<color\=#ff0000ff>a</color>bine de Fotos 3x4
+S<color\=#ff0000ff>o</color>uvenir Shop=L<color\=#ff0000ff>o</color>ja de Souvenirs
+B<color\=#ff0000ff>a</color>g Store=L<color\=#ff0000ff>o</color>ja de Bolsas
+C<color\=#ff0000ff>l</color>othing Store=L<color\=#ff0000ff>o</color>ja de Roupas
+G<color\=#ff0000ff>o</color> to Station Square=I<color\=#ff0000ff>r</color> para a Praça da Estação
+E<color\=#ff0000ff>r</color>ika=E<color\=#ff0000ff>r</color>ika
+J<color\=#ff0000ff>e</color>welry Shop Owner=D<color\=#ff0000ff>o</color>no da Joalheria
+J<color\=#ff0000ff>e</color>welry Shop Proprietress=D<color\=#ff0000ff>o</color>na da Joalheria
+M<color\=#ff0000ff>a</color>saki Ashiya=M<color\=#ff0000ff>a</color>saki Ashiya
+N<color\=#ff0000ff>i</color>ghtmare's Gateway=P<color\=#ff0000ff>o</color>rtão do Pesadelo
+S<color\=#ff0000ff>e</color>lfie Machine=M<color\=#ff0000ff>á</color>quina de Selfie
+N<color\=#ff0000ff>o</color>tice=A<color\=#ff0000ff>v</color>iso
+A<color\=#ff0000ff>k</color>ihabara=A<color\=#ff0000ff>k</color>ihabara
+E<color\=#ff0000ff>r</color>ror: tnxotb-[Npc_name_400101]=E<color\=#ff0000ff>r</color>ror: tnxotb-[Npc_name_400101]
+M<color\=#ff0000ff>a</color>n in Black=H<color\=#ff0000ff>o</color>mem de Preto
+Z<color\=#ff0000ff>o</color>shigaya=Z<color\=#ff0000ff>o</color>shigaya
+G<color\=#ff0000ff>o</color> to your bedroom=I<color\=#ff0000ff>r</color> para o seu quarto
+G<color\=#ff0000ff>o</color> to the living room=I<color\=#ff0000ff>r</color> para a sala de estar
+S<color\=#ff0000ff>l</color>eep=D<color\=#ff0000ff>o</color>rmir
+C<color\=#ff0000ff>o</color>ok=C<color\=#ff0000ff>o</color>zinhar
+W<color\=#ff0000ff>o</color>rkbench=B<color\=#ff0000ff>a</color>ncada de trabalho
+F<color\=#ff0000ff>l</color>ower Stand=S<color\=#ff0000ff>u</color>porte de Flores
+G<color\=#ff0000ff>a</color>rden=J<color\=#ff0000ff>a</color>rdim
+F<color\=#ff0000ff>l</color>owerbed 2=C<color\=#ff0000ff>a</color>nteiro 2
+P<color\=#ff0000ff>l</color>ay a game=J<color\=#ff0000ff>o</color>gar um jogo
+C<color\=#ff0000ff>l</color>ean=L<color\=#ff0000ff>i</color>mpar
+C<color\=#ff0000ff>l</color>oset=A<color\=#ff0000ff>r</color>mário
+K<color\=#ff0000ff>i</color>tchen=C<color\=#ff0000ff>o</color>zinha
+G<color\=#ff0000ff>a</color>rdening=J<color\=#ff0000ff>a</color>rdinagem
+A<color\=#ff0000ff>c</color>cessway=A<color\=#ff0000ff>c</color>esso
+W<color\=#ff0000ff>e</color>apon Overclock Dungeon Enemy Lv. 1=I<color\=#ff0000ff>n</color>imigo de Masmorra Overclock de Arma Nv. 1
+S<color\=#ff0000ff>k</color>ill Dungeon Enemy Lv. 1=I<color\=#ff0000ff>n</color>imigo de Masmorra de Habilidade Nv. 1
+B<color\=#ff0000ff>r</color>eak Room - Down=S<color\=#ff0000ff>a</color>la de Descanso - Para Baixo
+D<color\=#ff0000ff>o</color>wn - Break Room=P<color\=#ff0000ff>a</color>ra Baixo - Sala de Descanso
+U<color\=#ff0000ff>p</color> - Boss=P<color\=#ff0000ff>a</color>ra Cima - Chefe
+B<color\=#ff0000ff>o</color>ss - Exit=C<color\=#ff0000ff>h</color>efe - Saída
+P<color\=#ff0000ff>h</color>antom Thief Level Up Dungeon Enemy Lv. 1=I<color\=#ff0000ff>n</color>imigo de Masmorra de Nível de Ladrão-Fantasma Nv. 1
+P<color\=#ff0000ff>e</color>rsona Level Up Dungeon Enemy Lv. 1=I<color\=#ff0000ff>n</color>imigo de Masmorra de Nível de Persona Nv. 1
+E<color\=#ff0000ff>q</color>uipment Enhancement Dungeon Enemy Lv. 1=I<color\=#ff0000ff>n</color>imigo da Masmorra de Aprimoramento de Equipamento Nv. 1
+M<color\=#ff0000ff>o</color>ney Dungeon Enemy Lv. 1=I<color\=#ff0000ff>n</color>imigo da Masmorra do Dinheiro Nv. 1
+R<color\=#ff0000ff>e</color>velation Dungeon 2 Enemy Lv. 1=I<color\=#ff0000ff>n</color>imigo da Masmorra da Revelação 2 Nv. 1
+P<color\=#ff0000ff>r</color>ologue - Return to Shibuya=P<color\=#ff0000ff>r</color>ólogo - Retornar a Shibuya
+S<color\=#ff0000ff>h</color>adow Furukawa=S<color\=#ff0000ff>o</color>mbra Furukawa
+R<color\=#ff0000ff>e</color>treat=R<color\=#ff0000ff>e</color>cuar
+S<color\=#ff0000ff>h</color>adow Hoshino=S<color\=#ff0000ff>o</color>mbra Hoshino
+S<color\=#ff0000ff>h</color>adow Yamazaki=S<color\=#ff0000ff>o</color>mbra Yamazaki
+S<color\=#ff0000ff>h</color>adow Owada=S<color\=#ff0000ff>o</color>mbra Owada
+S<color\=#ff0000ff>h</color>adow Yamaguchi=S<color\=#ff0000ff>o</color>mbra Yamaguchi
+S<color\=#ff0000ff>h</color>adow Sawada=S<color\=#ff0000ff>o</color>mbra Sawada
+S<color\=#ff0000ff>h</color>adow Akana=S<color\=#ff0000ff>o</color>mbra Akana
+S<color\=#ff0000ff>h</color>adow Takahashi=S<color\=#ff0000ff>o</color>mbra Takahashi
+S<color\=#ff0000ff>h</color>adow Yoshinaga=S<color\=#ff0000ff>o</color>mbra Yoshinaga
+C<color\=#ff0000ff>o</color>rrupt Producer's Shadow=S<color\=#ff0000ff>o</color>mbra do Produtor Corrupto
+S<color\=#ff0000ff>h</color>adow Takayama=S<color\=#ff0000ff>o</color>mbra Takayama
+S<color\=#ff0000ff>a</color>hara's Mother's Shadow=S<color\=#ff0000ff>o</color>mbra da Mãe de Sahara
+S<color\=#ff0000ff>a</color>hara's Father's Shadow=S<color\=#ff0000ff>o</color>mbra do Pai de Sahara
+=

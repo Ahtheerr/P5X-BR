@@ -26,8 +26,6 @@ Item/Talk Actions=Ações de Item/Conversa
 Go to 1F=Vá ao 1º Andar
 1F Hallway=Corredor do 1ºA
 2F Hallway=Corredor do 2ºA
-G<color\=#ff0000ff>o</color> to 1F=I<color\=#ff0000ff>r</color> ao 1ºA
-G<color\=#ff0000ff>o</color> to 2F=I<color\=#ff0000ff>r</color> ao 2ºA
 Hm?=Hm?
 Metaverse=Metaverso
 Huh!?=Hã?!
@@ -91,7 +89,6 @@ Level-Nível
 Converging Destinies=Destinos Convergentes
 The Velvet Trials=As Provas de Veludo
 Trials from the Sea of Souls=Provas do Mar de Almas
-G<color\=#ff0000ff>o</color>=I<color\=#ff0000ff>r</color>
 Synergy Ability=Habilidade de Sinergia
 Party=Grupo
 Leon=Leon
