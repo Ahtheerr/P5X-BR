@@ -7191,3 +7191,4 @@ S<color\=#ff0000ff>h</color>adow Takayama=S<color\=#ff0000ff>o</color>mbra Takay
 S<color\=#ff0000ff>a</color>hara's Mother's Shadow=S<color\=#ff0000ff>o</color>mbra da Mãe de Sahara
 S<color\=#ff0000ff>a</color>hara's Father's Shadow=S<color\=#ff0000ff>o</color>mbra do Pai de Sahara
 Watch Close!=Fica de Olho!
+Infiltration Know-How=Tutorial de Infiltração
