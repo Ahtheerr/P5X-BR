@@ -1732,11 +1732,11 @@ Of course, this won't spell the end of the\nworld immediately, but...=Claro, iss
 Little by little, it will eat away at humanity,\nand inevitably lead to ruin.=Pouco a pouco, isso vai consumir a humanidade,\ne inevitavelmente levar à ruína.
 And the source responsible for this is...=E a fonte responsável por isso é...
 Tsk, so you plan to get in our way, huh?=Tsc, então você planeja ficar no nosso caminho, hein?
-Those are <color\=#FF423F>Shadows</color>. In other words, enemies.\nThey're here to kill us.=Essas são <color\=#FF423F>Sombras</color>. Em outras palavras, inimigos.\nElas estão aqui para nos matar.
+Those are <color\=#FF423F>{{A}}s</color>. In other words, enemies.\nThey're here to kill us.=Essas são <color\=#FF423F>Sombras</color>. Em outras palavras, inimigos.\nElas estão aqui para nos matar.
 They have no concept of morality. They attack\nhumans by nature.=Elas não têm conceito de moralidade. Atacam\nos humanos por natureza.
 But these aren't their true forms. They're\ninfluenced by someone powerful in the real world.=Mas estas não são suas formas verdadeiras. Elas são\ninfluenciadas por alguém poderoso no mundo real.
 I wonder if they're also responsible for \ndraining the hopes from the crowd at the train station...=Será que eles também são responsáveis por \ndrenar as esperanças da multidão na estação de trem...
-Indeed. These Shadows...=De fato. Essas Sombras...
+Indeed. These {{A}}s...=De fato. Essas Sombras...
 ...are one part of how humanity's desires\nare being stolen.=...são uma parte de como os desejos da humanidade\nestão sendo roubados.
 For now, you should run!=Por enquanto, você deve correr!
 No!=Não!
@@ -1747,7 +1747,7 @@ Something was stolen from you—something that was meant to be yours, and yours 
 Don't forget that you can choose to stand up for yourself.=Não se esqueça que você pode escolher se defender.
 Deception, loss...=Engano, perda...
 You continue to reject your own free will.=Você continua a rejeitar seu próprio livre arbítrio.
-Indeed. These Shadows are one part of how humanity's desires are being stolen.=De fato. Essas Sombras são uma parte de como os desejos da humanidade estão sendo roubados.
+Indeed. These {{A}}s are one part of how humanity's desires are being stolen.=De fato. Essas Sombras são uma parte de como os desejos da humanidade estão sendo roubados.
 How do you see yourself?=Como você se vê?
 What will you do? You could end this story right here and now if you wanted to.=O que você vai fazer? Você poderia terminar esta história aqui e agora, se quisesse.
 A lack of desire can lead to losing sight of yourself...=A falta de desejo pode levar a perder de vista a si mesmo...
@@ -1784,7 +1784,7 @@ In this cruel world, many struggle to see themselves clearly, and yet you...=Nes
 Heheheh, it seems as if I've chosen well. You may just become this world's hope.=Heheheh, parece que eu escolhi bem. Você pode se tornar a esperança deste mundo.
 And if it wasn't clear, your stolen desires are right back where they belong.=E se não ficou claro, seus desejos roubados estão de volta onde pertencem.
 Let us hurry onward.=Vamos nos apressar.
-We're still inside <color\=#FF423F>Mementos</color>, so Shadows\nmay attack us at any moment.=Ainda estamos dentro de <color\=#FF423F>Mementos</color>, então as Sombras\npodem nos atacar a qualquer momento.
+We're still inside <color\=#FF423F>Mementos</color>, so {{A}}s\nmay attack us at any moment.=Ainda estamos dentro de <color\=#FF423F>Mementos</color>, então as Sombras\npodem nos atacar a qualquer momento.
 I understand you must have many questions. But first, we need to get out of here.=Eu entendo que você deva ter muitas perguntas. Mas primeiro, precisamos sair daqui.
 If I die, there will be no one left to answer your questions anyway.=Se eu morrer, não sobrará ninguém para responder às suas perguntas de qualquer maneira.
 I'm glad you understand.=Fico feliz que você entenda.
@@ -1832,13 +1832,13 @@ It seems we'll need to gather more information first.=Parece que precisaremos re
 However, witnessing the true scope of your\npower was quite the boon.=No entanto, testemunhar o verdadeiro escopo de seu\npoder foi uma grande vantagem.
 It seems I'll have no problem putting you\nto <color\=#FF423F>work</color> right away.=Parece que não terei problemas em colocá-lo\npara <color\=#FF423F>trabalhar</color> imediatamente.
 There's the exit. We'll talk in more detail\nonce we've safely made it out.=Ali está a saída. Conversaremos com mais detalhes\nassim que sairmos em segurança.
-A Shadow!?=Uma Sombra!?
+A {{A}}!?=Uma Sombra!?
 Hoom... I'm not sensing any hostility from it.=Hum... Não sinto nenhuma hostilidade vinda dela.
-It looks like a person...|Is it really a Shadow?=Parece uma pessoa...|É mesmo uma Sombra?
-Much is still unknown about Shadows.=Muito ainda é desconhecido sobre as Sombras.
+It looks like a person...|Is it really a {{A}}?=Parece uma pessoa...|É mesmo uma Sombra?
+Much is still unknown about {{A}}s.=Muito ainda é desconhecido sobre as Sombras.
 They come in many forms. Some are belligerent toward humans, while others may be agreeable.=Elas vêm em muitas formas. Algumas são beligerantes com os humanos, enquanto outras podem ser amigáveis.
 They pillage the {{A}}, lured by strong desires even if they're from a human...=Elas saqueiam o Metaverso, atraídas por desejos fortes, mesmo que sejam de um humano...
-It's possible to convince them to surrender or negotiate a trade depending on the Shadow's own desires.=É possível convencê-las a se render ou negociar uma troca, dependendo dos próprios desejos da Sombra.
+It's possible to convince them to surrender or negotiate a trade depending on the {{A}}'s own desires.=É possível convencê-las a se render ou negociar uma troca, dependendo dos próprios desejos da Sombra.
 This one appears to just want to sell us\nsomething. Seems there are a few irrepressible\nentrepreneur types in the lot.=Esta parece apenas querer nos vender\nalgo. Parece que há alguns tipos de\nempreendedores irreprimíveis no grupo.
 We can stop by when we have time.=Podemos passar por aqui quando tivermos tempo.
 Let us hurry onward.=Vamos nos apressar.
@@ -1905,9 +1905,9 @@ This is your chance!=Esta é sua chance!
 Let us enter Mementos without being spotted.=Vamos entrar em Mementos sem sermos vistos.
 Wait, there's a strange noise coming from the\nnext room...=Espere, há um barulho estranho vindo da\nsala ao lado...
 We should check it out.=Deveríamos verificar.
-Careful, there's a Shadow ahead.=Cuidado, há uma Sombra à frente.
+Careful, there's a {{A}} ahead.=Cuidado, há uma Sombra à frente.
 You'll find that being the one to initiate a\nbattle is to your advantage.=Você descobrirá que ser o único a iniciar uma\nbatalha é vantajoso para você.
-Try to catch Shadows off guard and get\nthe first strike!=Tente pegar as Sombras de surpresa e dê\no primeiro golpe!
+Try to catch {{A}}s off guard and get\nthe first strike!=Tente pegar as Sombras de surpresa e dê\no primeiro golpe!
 This looks like a good spot.=Este parece um bom lugar.
 Hide and strike while the enemy is unaware!\nThat's how a phantom thief should fight.=Esconda-se e ataque enquanto o inimigo está desatento!\nÉ assim que um ladrão-fantasma deve lutar.
 Now, let's conceal ourselves.=Agora, vamos nos esconder.
@@ -1935,24 +1935,24 @@ If I can be an asset to the team, I'll rest easy.=Se eu puder ser útil para a e
 Start by targeting their weak points!=Comece mirando nos pontos fracos deles!
 Listen carefully!=Ouça com atenção!
 The flying ones are weak to gunfire. Shoot\nthem down.=Os voadores são fracos a tiros. Derrube-os.
-This Shadow looks formidable.=Essa Sombra parece formidável.
-Search the {{A}} while avoiding fights\nwith Shadows.=Vasculhe o Palácio evitando lutas\ncom as Sombras.
+This {{A}} looks formidable.=Essa Sombra parece formidável.
+Search the {{A}} while avoiding fights\nwith {{A}}s.=Vasculhe o Palácio evitando lutas\ncom as Sombras.
 Come forth, <color\=#FF423F>Awilda</color>! Let's take back\nwhat's ours!=Avance, <color\=#FF423F>Awilda</color>! Vamos pegar de volta\no que é nosso!
 This girl... Did she awaken?=Esta garota... Ela despertou?
 Never a dull moment around you, Wonder!=Nunca um momento de tédio perto de você, Wonder!
-I sense the presence of a special Shadow\nnearby... Keep an eye out for it.=Sinto a presença de uma Sombra especial\npor perto... Fique de olho nela.
+I sense the presence of a special {{A}}\nnearby... Keep an eye out for it.=Sinto a presença de uma Sombra especial\npor perto... Fique de olho nela.
 It's a Treasure Demon! Defeat it, and its\ntreasure will be ours!=É um Demônio do Tesouro! Derrote-o, e seu\ntesouro será nosso!
 Let's proceed with hunting down our target.=Vamos prosseguir com a caça ao nosso alvo.
 I can sense danger in the area ahead...\nBut, with danger also comes treasure...=Sinto perigo na área à frente...\nMas, com o perigo também vem o tesouro...
-Hoom... That treasure chest is sealed with\nchains. I wonder what might happen if we\n<color\=#FF423F>defeated the Shadow</color> beside it...=Hum... Aquele baú do tesouro está selado com\ncorrentes. Me pergunto o que poderia acontecer se\n<color\=#FF423F>derrotássemos a Sombra</color> ao lado dele...
+Hoom... That treasure chest is sealed with\nchains. I wonder what might happen if we\n<color\=#FF423F>defeated the {{A}}</color> beside it...=Hum... Aquele baú do tesouro está selado com\ncorrentes. Me pergunto o que poderia acontecer se\n<color\=#FF423F>derrotássemos a Sombra</color> ao lado dele...
 The area beyond this point is completely\nunder Kiuchi's control. It would be wise to\nproceed only when you're fully prepared.=A área além deste ponto está completamente sob o controle de Kiuchi. Seria sábio prosseguir apenas quando estiver totalmente preparado.
 It's your call, Wonder!=É sua decisão, Wonder!
 Sure!=Claro!
-That's a <color\=#FF423F>Depraved Shadow</color>.\nDefeat it, and you'll get <color\=#FF423F>something good</color>.=Isso é uma <color\=#FF423F>Sombra Depravada</color>.\nDerrote-a, e você receberá <color\=#FF423F>algo bom</color>.
+That's a <color\=#FF423F>Depraved {{A}}</color>.\nDefeat it, and you'll get <color\=#FF423F>something good</color>.=Isso é uma <color\=#FF423F>Sombra Depravada</color>.\nDerrote-a, e você receberá <color\=#FF423F>algo bom</color>.
 Bringing it down may help us reach the next\narea, but be prepared for a tough fight!=Derrubá-lo pode nos ajudar a alcançar a próxima\nárea, mas prepare-se para uma luta difícil!
 Something isn't right... Let's go back to\nthat machine.=Algo não está certo... Vamos voltar para\naquela máquina.
 There seems to be something behind us. Maybe\nwe can use it to open the door?=Parece haver algo atrás de nós. Talvez\npodemos usar isso para abrir a porta?
-There seem to be Shadows nearby.=Parece haver Sombras por perto.
+There seem to be {{A}}s nearby.=Parece haver Sombras por perto.
 There's nothing left here. Let's try\nsomewhere else.=Não há mais nada aqui. Vamos tentar\noutro lugar.
 Don't let your guard down just because the\nenemy is alone.=Não baixe a guarda só porque o\ninimigo está sozinho.
 Indeed, in cases like this...=De fato, em casos como este...
@@ -1987,7 +1987,7 @@ This may require investigation.=Isso pode exigir investigação.
 If we want to go further, we'll need to\ndefeat this one.=Se quisermos ir mais longe, precisaremos\nderrotar este.
 Be cautious. It feels powerful.=Seja cauteloso. Parece poderoso.
 Hmm...?=Hmm...?
-Isn't that the peculiar-looking Shadow we\nsaw earlier?=Não é aquela Sombra de aparência peculiar que\nvimos antes?
+Isn't that the peculiar-looking {{A}} we\nsaw earlier?=Não é aquela Sombra de aparência peculiar que\nvimos antes?
 Huh? Do you two know her?=Hã? Vocês duas se conhecem?
 We met her before you joined us...\nBut what's more curious is that machine there.\nWonder, perhaps we should investigate.=Nós a conhecemos antes de você se juntar a nós...\nMas o mais curioso é aquela máquina ali.\nWonder, talvez devêssemos investigar.
 Howdy! So wonderful to see you again!=Olá! Que maravilha revê-los!
@@ -2075,13 +2075,13 @@ Hoom, we should be ready to complete that\ndeal with Marthym now!=Hum, devemos e
 Right! Ah, but there's still lots of tickets\nlying around. Shouldn't we pick 'em up?=Certo! Ah, mas ainda tem muitos ingressos\npor aí. Não deveríamos pegá-los?
 I shall leave that decision up to Wonder.=Deixarei essa decisão a cargo de Wonder.
 There are still tickets lying around.=Ainda há bilhetes por aí.
-I think you'll need to defeat the <color\=#FF423F>Shadows\nin the back</color> before I can continue.=Acho que você precisará derrotar as <color\=#FF423F>Sombras\nlá no fundo</color> antes que eu possa continuar.
+I think you'll need to defeat the <color\=#FF423F>{{A}}s\nin the back</color> before I can continue.=Acho que você precisará derrotar as <color\=#FF423F>Sombras\nlá no fundo</color> antes que eu possa continuar.
 Wonder, could we discuss something?=Wonder, poderíamos discutir algo?
 Of course.|Maybe later?=Claro.|Talvez mais tarde?
 Sorry about that.=Desculpe por isso.
 I just realized I should tell you...=Acabei de perceber que deveria te contar...
 I've noticed something rather disquieting\nduring our recent explorations.=Notei algo bastante inquietante\ndurante nossas explorações recentes.
-I had convinced myself it was just a Shadow,\nbut I've now realized what it truly is.=Eu me convenci de que era apenas uma Sombra,\nmas agora percebi o que realmente é.
+I had convinced myself it was just a {{A}},\nbut I've now realized what it truly is.=Eu me convenci de que era apenas uma Sombra,\nmas agora percebi o que realmente é.
 It's the presence of a {{A}} ruler. It's\ndifferent from before, but there's no doubt.=É a presença de um governante de Palácio. É\ndiferente de antes, mas não há dúvida.
 I don't know why such a presence would\nreappear, but we must investigate at once.=Não sei por que tal presença\nreapareceria, mas devemos investigar imediatamente.
 Hoohoo, I do value your decisiveness!\nLet's go, Wonder!=Huhu, eu valorizo sua decisão!\nVamos, Wonder!
@@ -2104,7 +2104,7 @@ This looks like a specialized lock...\nPerhaps it needs to be disabled remotely?
 Unauthorized access.=Acesso não autorizado.
 No response... Nothing we can do here now.=Sem resposta... Nada que possamos fazer aqui agora.
 We were very nearly spotted just now!=Fomos quase vistos agora mesmo!
-This route is thick with Shadows.\nLet's find another way.=Esta rota está cheia de Sombras.\nVamos encontrar outro caminho.
+This route is thick with {{A}}s.\nLet's find another way.=Esta rota está cheia de Sombras.\nVamos encontrar outro caminho.
 Only <color\=#FF423F>D-Tier Fan Card</color> holders may pass.=Apenas portadores do <color\=#FF423F>Cartão de Fã Categoria-D</color> podem passar.
 Only <color\=#FF423F>C-Tier Fan Card</color> holders may pass.=Apenas portadores do <color\=#FF423F>Cartão de Fã Categoria-C</color> podem passar.
 Only <color\=#FF423F>B-Tier Fan Card</color> holders may pass.=Apenas portadores do <color\=#FF423F>Cartão de Fã Categoria-B</color> podem passar.
@@ -2195,8 +2195,8 @@ Looks like it was correct after all.=Parece que afinal estava correto.
 Great! Looks like a match!=Ótimo! Parece que bate!
 ......=......
 <color\=#FF423F>Guard</color> duty... Maybe the {{A}}s over there\nwould know more about this?=Dever de <color\=#FF423F>guarda</color>... Talvez as {{A}}s por ali\nsaibam mais sobre isso?
-Oh yeah, I think the Shadow we saw earlier\nsaid something about guarding!=Ah, sim, acho que a Sombra que vimos antes\ndisse algo sobre guardar!
-Hoom... Shall we try to observe the Shadow\nin question further?=Hum... Deveríamos tentar observar a Sombra\nem questão mais a fundo?
+Oh yeah, I think the {{A}} we saw earlier\nsaid something about guarding!=Ah, sim, acho que a Sombra que vimos antes\ndisse algo sobre guardar!
+Hoom... Shall we try to observe the {{A}}\nin question further?=Hum... Deveríamos tentar observar a Sombra\nem questão mais a fundo?
 ......=......
 The display is malfunctioning.\n<color\=#FF423F>Kiuchi's symbols</color> are scrolling across...=A exibição está com defeito.\nOs <color\=#FF423F>símbolos de Kiuchi</color> estão rolando na tela...
 That didn't work...=Isso não funcionou...
@@ -2224,9 +2224,9 @@ For access to the guide, please consult\nthe administrative staff.=Para acessar 
 It seems like we got the order wrong.=Parece que erramos a ordem.
 F0r acCeSs to thththe guide, please cons-slt\nthe admini#%^ staff...=PaRa acesSsar ooo guia, por favo-or, consu-lte\na equipe admi#%^...
 Hoom? This looks promising!=Hum? Isso parece promissor!
-We have the order wrong. Hm, wasn't that\nShadow over there an administrator?=Erramos a ordem. Hm, aquela\nSombra ali não era um administrador?
+We have the order wrong. Hm, wasn't that\n{{A}} over there an administrator?=Erramos a ordem. Hm, aquela\nSombra ali não era um administrador?
 Hm, maybe we got the order wrong?=Hm, talvez a gente tenha errado a ordem?
-What did the Shadow say again...?\n<color\=#FF423F>3, 1, 3, 2, 0</color>?=O que a Sombra disse mesmo...?\n<color\=#FF423F>3, 1, 3, 2, 0</color>?
+What did the {{A}} say again...?\n<color\=#FF423F>3, 1, 3, 2, 0</color>?=O que a Sombra disse mesmo...?\n<color\=#FF423F>3, 1, 3, 2, 0</color>?
 Configuration complete. Access to the guide\nis now restricted.=Configuração completa. O acesso ao guia\nestá agora restrito.
 Hey, where are you going?=Ei, onde você está indo?
 You know we can't go through the front\nentrance. We need a different way in.=Você sabe que não podemos entrar pela entrada\nprincipal. Precisamos de um caminho diferente.
@@ -2294,7 +2294,7 @@ Hey, look! There's no fencing around that\nmachine!=Ei, olhe! Não há cerca ao 
 You're right. We may be able to destroy it.=Você está certa. Podemos conseguir destruí-la.
 Yeah! Breaking it would make exploring\neasier, right?=Sim! Quebrá-la tornaria a exploração\nmais fácil, certo?
 We can either continue dodging the balls,\nor destroy the machine... It's up to\nyou, Wonder.=Podemos continuar desviando das bolas,\nou destruir a máquina... A escolha é\nsua, Wonder.
-The <color\=#FF423F>diary</color> that Shadow mentioned earlier\nmay contain some kind of hint.=O <color\=#FF423F>diário</color> que aquela Sombra mencionou antes\npode conter alguma dica.
+The <color\=#FF423F>diary</color> that {{A}} mentioned earlier\nmay contain some kind of hint.=O <color\=#FF423F>diário</color> que aquela Sombra mencionou antes\npode conter alguma dica.
 We can also proceed deeper into the palace.\nYour choice, Wonder.=Também podemos prosseguir mais fundo no palácio.\nA escolha é sua, Wonder.
 Kiuchi-sama's exercise regime from hell\nreally wore me out today...=O regime de exercícios do Kiuchi-sama do inferno\nrealmente me esgotou hoje...
 But, I made it through with <color\=#FF423F>Senpai</color>'s\nsupport!=Mas, eu consegui com o\napoio do <color\=#FF423F>Senpai</color>!
@@ -2303,7 +2303,7 @@ He says he has to keep practicing to be\nready<color\=#FF423F>when he's finally 
 I wonder if he's training alone in the\n<color\=#FF423F>South Gym</color> again today...=Será que ele está treinando sozinho na\n<color\=#FF423F>Academia Sul</color> de novo hoje...
 He says you gotta work to be in the main\nlineup. Kiuchi-sama doesn't need weaklings!=Ele diz que você tem que trabalhar para estar na equipe\nprincipal. Kiuchi-sama não precisa de fracotes!
 I've gotta keep trying too...=Eu tenho que continuar tentando também...
-Huh, the Shadows are competing with\neach other?=Hã, as Sombras estão competindo umas com\nas outras?
+Huh, the {{A}}s are competing with\neach other?=Hã, as Sombras estão competindo umas com\nas outras?
 It sounds like the <color\=#FF423F>senpai</color> mentioned in the\ndiary is a reserve first baseman.=Parece que o <color\=#FF423F>senpai</color> mencionado no\ndiário é um primeiro base reserva.
 There's a closed area in the gym left of the\nelevator. Maybe that's where this senpai is.=Há uma área fechada na academia à esquerda do\nelevador. Talvez seja onde este senpai está.
 If he's a reserve team member, maybe he'd\nappear if the regular first basemen is gone?=Se ele é um membro da equipe reserva, talvez ele\napareceria se o primeiro base regular não estivesse?
@@ -2656,36 +2656,36 @@ Here, you may see what I have prepared.=Aqui, vocês podem ver o que eu preparei
 Ah, it's time.=Ah, está na hora.
 Looks like you've found a real prize!=Parece que você encontrou um verdadeiro prêmio!
 Success!=Sucesso!
-This Shadow can't support the {{A}} ruler\nanymore...=Esta Sombra não pode mais apoiar o governante do {{A}}...
+This {{A}} can't support the {{A}} ruler\nanymore...=Esta Sombra não pode mais apoiar o governante do {{A}}...
 Let's have it assist us now!=Vamos fazer com que ela nos ajude agora!
 It seems we've been sent somewhere\noutside Mementos...=Parece que fomos enviados para algum lugar\nfora de Mementos...
-I sense a large number of Shadows here.\nLet's proceed with caution.=Sinto um grande número de Sombras aqui.\nVamos prosseguir com cautela.
+I sense a large number of {{A}}s here.\nLet's proceed with caution.=Sinto um grande número de Sombras aqui.\nVamos prosseguir com cautela.
 Wonder, wait. I sense intense malice here.\nBe careful.=Wonder, espere. Sinto uma malícia intensa aqui.\nTenha cuidado.
 So you're the little rats who snuck into my\ncastle. Have you come for my head?=Então vocês são os ratinhos que se infiltraram no meu\ncastelo. Vieram pela minha cabeça?
 Your quest is futile! For I am protected\nby the<color\=#FF423F>loyalty</color> of my vassals...=Sua busca é fútil! Pois estou protegido\npela <color\=#FF423F>lealdade</color> de meus vassalos...
 If you have any sense at all, you'll turn\ntail and flee this place!=Se tiverem algum juízo, darão meia-volta\ne fugirão deste lugar!
 Much as I hate to grant credence to enemy\ntaunts, what he said is true.=Por mais que eu deteste dar crédito às provocações do inimigo,\no que ele disse é verdade.
 It would be unwise to challenge him now.=Seria imprudente desafiá-lo agora.
-But we're not without recourse! The Shadow\nhimself gave us the hint we need.=Mas não estamos sem recursos! A própria Sombra\nnos deu a dica que precisamos.
+But we're not without recourse! The {{A}}\nhimself gave us the hint we need.=Mas não estamos sem recursos! A própria Sombra\nnos deu a dica que precisamos.
 He said that the loyalty of his vassals is\nprotecting him.=Ele disse que a lealdade de seus vassalos o está\nprotegendo.
 Perhaps if we defeat those vassals,\n<color\=#FF423F>something will change</color> here.=Talvez se derrotarmos esses vassalos,\n<color\=#FF423F>algo mudará</color> aqui.
 Loyal vassals...=Vassalos leais...
-How about we start by looking for Shadows\nthat fit that description?=Que tal começarmos procurando por Sombras\nque se encaixem nessa descrição?
+How about we start by looking for {{A}}s\nthat fit that description?=Que tal começarmos procurando por Sombras\nque se encaixem nessa descrição?
 I am an honorable warrior! I will not yield\nto the likes of you!=Eu sou um guerreiro honrado! Não cederei\nàs suas vontades!
-Good, we've removed that Shadow's protection\nfrom the lord shadow.=Bom, removemos a proteção daquela Sombra\ndo lorde das sombras.
+Good, we've removed that {{A}}'s protection\nfrom the lord shadow.=Bom, removemos a proteção daquela Sombra\ndo lorde das sombras.
 Let me out! Damn you! I'll win the next\nfight. Just you wait!=Me solta! Maldito! Eu vou vencer a próxima\nluta. Espere e verá!
-Say, Wonder, have you noticed that we can\nsteal these Shadows' powers?=Diga, Wonder, você notou que podemos\nroubar os poderes dessas Sombras?
+Say, Wonder, have you noticed that we can\nsteal these {{A}}s' powers?=Diga, Wonder, você notou que podemos\nroubar os poderes dessas Sombras?
 They seem to have a variety of abilities.\nThey may be quite useful if we're smart\nwith them.=Elas parecem ter uma variedade de habilidades.\nPodem ser bem úteis se formos espertos\ncom elas.
 Another enemy! Let's take it out!=Outro inimigo! Vamos acabar com ele!
 Let's use this power.=Vamos usar este poder.
 Ugh... They must have sealed the doors to\nprevent us from stealing more of their power.=Aff... Devem ter selado as portas para\nnos impedir de roubar mais poder deles.
-We won't be able to fight any more of\nthe vassal Shadows...=Não poderemos lutar contra mais nenhuma\ndas Sombras vassalas...
+We won't be able to fight any more of\nthe vassal {{A}}s...=Não poderemos lutar contra mais nenhuma\ndas Sombras vassalas...
 But...=Mas...
 With the powers we've already taken, maybe\nwe're prepared to face <color\=#FF423F>his lordship</color>.=Com os poderes que já pegamos, talvez\nestejamos preparados para enfrentar <color\=#FF423F>sua senhoria</color>.
 Come and challenge me if you dare, cowards!=Venham me desafiar se tiverem coragem, covardes!
-Are we going to fight this <color\=#FF423F>Shadow</color>?=Vamos lutar contra esta <color\=#FF423F>Sombra</color>?
+Are we going to fight this <color\=#FF423F>{{A}}</color>?=Vamos lutar contra esta <color\=#FF423F>Sombra</color>?
 The underlings are already captured, so we\ncan't fight the them anymore.=Os subordinados já foram capturados, então não\npodemos mais lutar contra eles.
-There are Shadows lurking around here\nsomewhere. Keep your eyes peeled!=Existem Sombras à espreita por aqui\nem algum lugar. Fiquem de olho!
+There are {{A}}s lurking around here\nsomewhere. Keep your eyes peeled!=Existem Sombras à espreita por aqui\nem algum lugar. Fiquem de olho!
 This is a strong one, but if we can fight and\ntake out its underlings, we'll stand a chance!=Este é um forte, mas se conseguirmos lutar e\nacabar com seus subordinados, teremos uma chance!
 Got it.|Let's find them.=Entendido.|Vamos encontrá-los.
 Excuse me.=Com licença.
@@ -2696,301 +2696,301 @@ Use its power well...=Use bem o poder dele...
 May we meet again soon.=Que possamos nos encontrar novamente em breve.
 We can't go in here now it seems.=Parece que não podemos entrar aqui agora.
 Hoom... We can't go in here. Let's try again\nanother time.=Hum... não podemos entrar aqui. Vamos tentar\nde novo outra hora.
-I'm not a Shadow here, ho! I live in\nthe sea of the hee-human heart!=Eu não sou uma Sombra aqui, ho! Eu vivo no\nmar do coração hee-humano!
+I'm not a {{A}} here, ho! I live in\nthe sea of the hee-human heart!=Eu não sou uma Sombra aqui, ho! Eu vivo no\nmar do coração hee-humano!
 I'm <color\=#72C5FF>Jack-o'-Lantern</color>, ho!\nI'm you, and you're me!=Eu sou <color\=#72C5FF>Jack-o'-Lantern</color>, ho!\nEu sou você, e você sou eu!
-I'm no Shadow from this place. I used to be\nlivin' in that there sea of the human soul!=Eu não sou uma Sombra deste lugar. Eu costumava\nviver naquele mar da alma humana!
+I'm no {{A}} from this place. I used to be\nlivin' in that there sea of the human soul!=Eu não sou uma Sombra deste lugar. Eu costumava\nviver naquele mar da alma humana!
 From now on, call me <color\=#72C5FF>Eligor</color>.\nNo need fer honorifics, sonny.=De agora em diante, me chame de <color\=#72C5FF>Eligor</color>.\nNão precisa de formalidades, rapaz.
-I'm no Shadow from this place. I used to be\nlivin' in that there sea of the human soul!=Eu não sou uma Sombra deste lugar. Eu costumava\nviver naquele mar da alma humana!
+I'm no {{A}} from this place. I used to be\nlivin' in that there sea of the human soul!=Eu não sou uma Sombra deste lugar. Eu costumava\nviver naquele mar da alma humana!
 From now on, call me <color\=#72C5FF>Moloch</color>.\nNo need fer honorifics, sonny.=De agora em diante, me chame de <color\=#72C5FF>Moloch</color>.\nNão precisa de formalidades, rapaz.
-I'm not a Shadow here, ho! I live in\nthe sea of the hee-human heart!=Eu não sou uma Sombra aqui, ho! Eu vivo no\nmar do coração hee-humano!
+I'm not a {{A}} here, ho! I live in\nthe sea of the hee-human heart!=Eu não sou uma Sombra aqui, ho! Eu vivo no\nmar do coração hee-humano!
 I'm <color\=#72C5FF>Jack Frost</color>, ho!\nI'm you, and you're me!=Eu sou <color\=#72C5FF>Jack Frost</color>, ho!\nEu sou você, e você sou eu!
 I see... So it was my destiny to find\nmyself within you!=Entendo... Então era meu destino me encontrar\ndentro de você!
 My new name is <color\=#72C5FF>Thor</color>.\nI am a Persona who'll be with you.\nFrom now on, I'm on your side.=Meu novo nome é <color\=#72C5FF>Thor</color>.\nEu sou uma Persona que estará com você.\nDe agora em diante, estou do seu lado.
-You know, I'm not really a Shadow!\nI came from the humans' sea of souls!=Sabe, eu não sou bem uma Sombra!\nEu vim do mar de almas dos humanos!
+You know, I'm not really a {{A}}!\nI came from the humans' sea of souls!=Sabe, eu não sou bem uma Sombra!\nEu vim do mar de almas dos humanos!
 My real name's <color\=#72C5FF>Agathion</color>!\nYou and I are the same, mister!=Meu nome verdadeiro é <color\=#72C5FF>Agathion</color>!\nVocê e eu somos iguais, moço!
-I'm no Shadow from this place. I used to be\nlivin' in that there sea of the human soul!=Eu não sou uma Sombra deste lugar. Eu costumava\nviver naquele mar da alma humana!
+I'm no {{A}} from this place. I used to be\nlivin' in that there sea of the human soul!=Eu não sou uma Sombra deste lugar. Eu costumava\nviver naquele mar da alma humana!
 From now on, call me <color\=#72C5FF>Bicorn</color>.\nNo need fer honorifics, sonny.=De agora em diante, me chame de <color\=#72C5FF>Bicórnio</color>.\nNão precisa de formalidades, rapaz.
-In truth, I am not a Shadow. I originated\nfrom the humans' sea of souls...=Na verdade, não sou uma Sombra. Originei-me\ndo mar de almas dos humanos...
+In truth, I am not a {{A}}. I originated\nfrom the humans' sea of souls...=Na verdade, não sou uma Sombra. Originei-me\ndo mar de almas dos humanos...
 My true name is <color\=#72C5FF>Titania</color>.\nFrom here on forth... I am thou.=Meu nome verdadeiro é <color\=#72C5FF>Titânia</color>.\nDe agora em diante... eu sou tu.
-In truth, I am not a Shadow. I originated\nfrom the humans' sea of souls...=Na verdade, não sou uma Sombra. Originei-me\ndo mar de almas dos humanos...
+In truth, I am not a {{A}}. I originated\nfrom the humans' sea of souls...=Na verdade, não sou uma Sombra. Originei-me\ndo mar de almas dos humanos...
 My true name is <color\=#72C5FF>Isis</color>.\nFrom here on forth... I am thou.=Meu nome verdadeiro é <color\=#72C5FF>Ísis</color>.\nDe agora em diante... eu sou tu.
-I'm not the same as those Shadows\naround here. I came from the sea of\nthe human soul!=Eu não sou como as Sombras\npor aqui. Eu vim do mar\nda alma humana!
+I'm not the same as those {{A}}s\naround here. I came from the sea of\nthe human soul!=Eu não sou como as Sombras\npor aqui. Eu vim do mar\nda alma humana!
 I'm <color\=#72C5FF>Lamia</color>. This is the start of\nour very long relationship.=Eu sou <color\=#72C5FF>Lâmia</color>. Este é o começo de\nnossa longa relação.
 I see... So it was my destiny to find\nmyself within you!=Entendo... Então era meu destino me encontrar\ndentro de você!
 My new name is <color\=#72C5FF>Oberon</color>.\nI am a Persona who'll be with you.\nFrom now on, I'm on your side.=Meu novo nome é <color\=#72C5FF>Oberon</color>.\nEu sou uma Persona que estará com você.\nDe agora em diante, estou do seu lado.
-I'm not the same as those Shadows\naround here. I came from the sea of\nthe human soul!=Eu não sou como as Sombras\npor aqui. Eu vim do mar\nda alma humana!
+I'm not the same as those {{A}}s\naround here. I came from the sea of\nthe human soul!=Eu não sou como as Sombras\npor aqui. Eu vim do mar\nda alma humana!
 I'm <color\=#72C5FF>Succubus</color>. This is the start of\nour very long relationship.=Eu sou <color\=#72C5FF>Súcubo</color>. Este é o começo de\nnossa longa relação.
 I see... So it was my destiny to find\nmyself within you!=Entendo... Então era meu destino me encontrar\ndentro de você!
 My new name is <color\=#72C5FF>Cu Chulainn</color>.\nI am a Persona who'll be with you.\nFrom now on, I'm on your side.=Meu novo nome é <color\=#72C5FF>Cú Chulainn</color>.\nEu sou uma Persona que estará com você.\nDe agora em diante, estou do seu lado.
-I am not a Shadow of this place...\nI've resided within the sea of the\nhuman soul since ancient times...=Eu não sou uma Sombra deste lugar...\nResidi no mar da\nalma humana desde tempos antigos...
+I am not a {{A}} of this place...\nI've resided within the sea of the\nhuman soul since ancient times...=Eu não sou uma Sombra deste lugar...\nResidi no mar da\nalma humana desde tempos antigos...
 My name is <color\=#72C5FF>Dominion</color>.\nThat is your name as well...\nDo not forget this.=Meu nome é <color\=#72C5FF>Dominion</color>.\nEsse é seu nome também...\nNão se esqueça disso.
-I am not a Shadow of this place...\nI've resided within the sea of the\nhuman soul since ancient times...=Eu não sou uma Sombra deste lugar...\nResidi no mar da\nalma humana desde tempos antigos...
+I am not a {{A}} of this place...\nI've resided within the sea of the\nhuman soul since ancient times...=Eu não sou uma Sombra deste lugar...\nResidi no mar da\nalma humana desde tempos antigos...
 My name is <color\=#72C5FF>Gabriel</color>.\nThat is your name as well...\nDo not forget this.=Meu nome é <color\=#72C5FF>Gabriel</color>.\nEsse é seu nome também...\nNão se esqueça disso.
-I'm not a Shadow here, ho! I live in\nthe sea of the hee-human heart!=Eu não sou uma Sombra aqui, ho! Eu vivo no\nmar do coração hee-humano!
+I'm not a {{A}} here, ho! I live in\nthe sea of the hee-human heart!=Eu não sou uma Sombra aqui, ho! Eu vivo no\nmar do coração hee-humano!
 I'm <color\=#72C5FF>Black Frost</color>, ho!\nI'm you, and you're me!=Eu sou <color\=#72C5FF>Geada Negra</color>, ho!\nEu sou você, e você sou eu!
-I'm not a Shadow here, ho! I live in\nthe sea of the hee-human heart!=Eu não sou uma Sombra aqui, ho! Eu vivo no\nmar do coração hee-humano!
+I'm not a {{A}} here, ho! I live in\nthe sea of the hee-human heart!=Eu não sou uma Sombra aqui, ho! Eu vivo no\nmar do coração hee-humano!
 I'm <color\=#72C5FF>King Frost</color>, ho!\nI'm you, and you're me!=Eu sou <color\=#72C5FF>Rei Frost</color>, ho!\nEu sou você, e você sou eu!
-I am not a Shadow of this place...\nI've resided within the sea of the\nhuman soul since ancient times...=Eu não sou uma Sombra deste lugar...\nResidi no mar da\nalma humana desde tempos antigos...
+I am not a {{A}} of this place...\nI've resided within the sea of the\nhuman soul since ancient times...=Eu não sou uma Sombra deste lugar...\nResidi no mar da\nalma humana desde tempos antigos...
 My name is <color\=#72C5FF>Michael</color>.\nThat is your name as well...\nDo not forget this.=Meu nome é <color\=#72C5FF>Miguel</color>.\nEsse é seu nome também...\nNão se esqueça disso.
 I see... So it was my destiny to find\nmyself within you!=Entendo... Então era meu destino me encontrar\ndentro de você!
 My new name is <color\=#72C5FF>Mokoi</color>.\nI am a Persona who'll be with you.\nFrom now on, I'm on your side.=Meu novo nome é <color\=#72C5FF>Mokoi</color>.\nEu sou uma Persona que estará com você.\nDe agora em diante, estou do seu lado.
-I'm no Shadow from this place. I used to be\nlivin' in that there sea of the human soul!=Eu não sou uma Sombra deste lugar. Eu costumava\nviver naquele mar da alma humana!
+I'm no {{A}} from this place. I used to be\nlivin' in that there sea of the human soul!=Eu não sou uma Sombra deste lugar. Eu costumava\nviver naquele mar da alma humana!
 From now on, call me <color\=#72C5FF>Oni</color>.\nNo need fer honorifics, sonny.=De agora em diante, me chame de <color\=#72C5FF>Oni</color>.\nNão precisa de formalidades, rapaz.
-Me am not a Shadow that belongs here.\nMe exist in the sea of souls of humans!=Eu não sou uma Sombra que pertence aqui.\nEu existo no mar de almas dos humanos!
+Me am not a {{A}} that belongs here.\nMe exist in the sea of souls of humans!=Eu não sou uma Sombra que pertence aqui.\nEu existo no mar de almas dos humanos!
 Me am <color\=#72C5FF>Orthrus</color>.\nMy power is your power...\nUse it how you want.=Eu sou <color\=#72C5FF>Ortros</color>.\nMeu poder é seu poder...\nUse como quiser.
-In truth, I am not a Shadow. I originated\nfrom the humans' sea of souls...=Na verdade, não sou uma Sombra. Originei-me\ndo mar de almas dos humanos...
+In truth, I am not a {{A}}. I originated\nfrom the humans' sea of souls...=Na verdade, não sou uma Sombra. Originei-me\ndo mar de almas dos humanos...
 My true name is <color\=#72C5FF>Parvati</color>.\nFrom here on forth... I am thou.=Meu nome verdadeiro é <color\=#72C5FF>Parvati</color>.\nDe agora em diante... eu sou tu.
-I'm not actually a Shadow. I... have existed\nin the sea of souls with humanity for all\ntime...=Eu não sou realmente uma Sombra. Eu... existi\nno mar de almas com a humanidade por todo o\ntempo...
+I'm not actually a {{A}}. I... have existed\nin the sea of souls with humanity for all\ntime...=Eu não sou realmente uma Sombra. Eu... existi\nno mar de almas com a humanidade por todo o\ntempo...
 I'm <color\=#72C5FF>Rangda</color>.\nI'm part of you too... That's how it\nreally is.=Eu sou <color\=#72C5FF>Rangda</color>.\nEu sou parte de você também... É assim\nque realmente é.
-I'm not the same as those Shadows\naround here. I came from the sea of\nthe human soul!=Eu não sou como as Sombras\npor aqui. Eu vim do mar\nda alma humana!
+I'm not the same as those {{A}}s\naround here. I came from the sea of\nthe human soul!=Eu não sou como as Sombras\npor aqui. Eu vim do mar\nda alma humana!
 I'm <color\=#72C5FF>Lilim</color>. This is the start of\nour very long relationship.=Eu sou <color\=#72C5FF>Lilim</color>. Este é o começo de\nnossa longa relação.
-I am not a Shadow of this place...\nI've resided within the sea of the\nhuman soul since ancient times...=Eu não sou uma Sombra deste lugar...\nResidi no mar da\nalma humana desde tempos antigos...
+I am not a {{A}} of this place...\nI've resided within the sea of the\nhuman soul since ancient times...=Eu não sou uma Sombra deste lugar...\nResidi no mar da\nalma humana desde tempos antigos...
 My name is <color\=#72C5FF>Sandalphon</color>.\nThat is your name as well...\nDo not forget this.=Meu nome é <color\=#72C5FF>Sandalphon</color>.\nEsse é seu nome também...\nNão se esqueça disso.
-In truth, I am not a Shadow. I originated\nfrom the humans' sea of souls...=Na verdade, não sou uma Sombra. Originei-me\ndo mar de almas dos humanos...
+In truth, I am not a {{A}}. I originated\nfrom the humans' sea of souls...=Na verdade, não sou uma Sombra. Originei-me\ndo mar de almas dos humanos...
 My true name is <color\=#72C5FF>Sarasvati</color>.\nFrom here on forth... I am thou.=Meu nome verdadeiro é <color\=#72C5FF>Sarasvati</color>.\nDe agora em diante... eu sou tu.
-I'm so not a Shadow that belongs here.\nI used to be in the humans' sea of souls...=Eu não sou uma Sombra que pertence aqui.\nEu costumava estar no mar de almas dos humanos...
+I'm so not a {{A}} that belongs here.\nI used to be in the humans' sea of souls...=Eu não sou uma Sombra que pertence aqui.\nEu costumava estar no mar de almas dos humanos...
 I'm <color\=#72C5FF>Alice</color>.\nI mean, I'm you after all, so\nlet's hope we get along!=Eu sou <color\=#72C5FF>Alice</color>.\nQuer dizer, afinal, eu sou você, então\nespero que a gente se dê bem!
-Me am not a Shadow that belongs here.\nMe exist in the sea of souls of humans!=Eu não sou uma Sombra que pertence aqui.\nEu existo no mar de almas dos humanos!
+Me am not a {{A}} that belongs here.\nMe exist in the sea of souls of humans!=Eu não sou uma Sombra que pertence aqui.\nEu existo no mar de almas dos humanos!
 Me am <color\=#72C5FF>Unicorn</color>.\nMy power is your power...\nUse it how you want.=Eu sou <color\=#72C5FF>Unicórnio</color>.\nMeu poder é seu poder...\nUse como quiser.
 I see... So it was my destiny to find\nmyself within you!=Entendo... Então era meu destino me encontrar\ndentro de você!
 My new name is <color\=#72C5FF>Yoshitsune</color>.\nI am a Persona who'll be with you.\nFrom now on, I'm on your side.=Meu novo nome é <color\=#72C5FF>Yoshitsune</color>.\nEu sou uma Persona que estará com você.\nDe agora em diante, estou do seu lado.
 I see... So it was my destiny to find\nmyself within you!=Entendo... Então era meu destino me encontrar\ndentro de você!
 My new name is <color\=#72C5FF>Kurama Tengu</color>.\nI am a Persona who'll be with you.\nFrom now on, I'm on your side.=Meu novo nome é <color\=#72C5FF>Kurama Tengu</color>.\nEu sou uma Persona que estará com você.\nDe agora em diante, estou do seu lado.
-Me am not a Shadow that belongs here.\nMe exist in the sea of souls of humans!=Eu não sou uma Sombra que pertence aqui.\nEu existo no mar de almas dos humanos!
+Me am not a {{A}} that belongs here.\nMe exist in the sea of souls of humans!=Eu não sou uma Sombra que pertence aqui.\nEu existo no mar de almas dos humanos!
 Me am <color\=#72C5FF>Jatayu</color>.\nMy power is your power...\nUse it how you want.=Eu sou <color\=#72C5FF>Jatayu</color>.\nMeu poder é seu poder...\nUse como quiser.
-I am not a Shadow of this place...\nI've resided within the sea of the\nhuman soul since ancient times...=Eu não sou uma Sombra deste lugar...\nResidi no mar da\nalma humana desde tempos antigos...
+I am not a {{A}} of this place...\nI've resided within the sea of the\nhuman soul since ancient times...=Eu não sou uma Sombra deste lugar...\nResidi no mar da\nalma humana desde tempos antigos...
 My name is <color\=#72C5FF>Archangel</color>.\nThat is your name as well...\nDo not forget this.=Meu nome é <color\=#72C5FF>Arcanjo</color>.\nEsse é seu nome também...\nNão se esqueça disso.
-I'm no Shadow from this place. I used to be\nlivin' in that there sea of the human soul!=Eu não sou uma Sombra deste lugar. Eu costumava\nviver naquele mar da alma humana!
+I'm no {{A}} from this place. I used to be\nlivin' in that there sea of the human soul!=Eu não sou uma Sombra deste lugar. Eu costumava\nviver naquele mar da alma humana!
 From now on, call me <color\=#72C5FF>Suzaku</color>.\nNo need fer honorifics, sonny.=De agora em diante, me chame de <color\=#72C5FF>Suzaku</color>.\nNão precisa de formalidades, rapaz.
-I'm not the same as those Shadows\naround here. I came from the sea of\nthe human soul!=Eu não sou como as Sombras\npor aqui. Eu vim do mar\nda alma humana!
+I'm not the same as those {{A}}s\naround here. I came from the sea of\nthe human soul!=Eu não sou como as Sombras\npor aqui. Eu vim do mar\nda alma humana!
 I'm <color\=#72C5FF>Clotho</color>. This is the start of\nour very long relationship.=Eu sou <color\=#72C5FF>Cloto</color>. Este é o começo de\nnossa longa relação.
 I see... So it was my destiny to find\nmyself within you!=Entendo... Então era meu destino me encontrar\ndentro de você!
 My new name is <color\=#72C5FF>Neko Shogun</color>.\nI am a Persona who'll be with you.\nFrom now on, I'm on your side.=Meu novo nome é <color\=#72C5FF>Neko Shogun</color>.\nEu sou uma Persona que estará com você.\nDe agora em diante, estou do seu lado.
-I'm no Shadow from this place. I used to be\nlivin' in that there sea of the human soul!=Eu não sou uma Sombra deste lugar. Eu costumava\nviver naquele mar da alma humana!
+I'm no {{A}} from this place. I used to be\nlivin' in that there sea of the human soul!=Eu não sou uma Sombra deste lugar. Eu costumava\nviver naquele mar da alma humana!
 From now on, call me <color\=#72C5FF>Anubis</color>.\nNo need fer honorifics, sonny.=De agora em diante, me chame de <color\=#72C5FF>Anúbis</color>.\nNão precisa de formalidades, rapaz.
-I'm no Shadow from this place. I used to be\nlivin' in that there sea of the human soul!=Eu não sou uma Sombra deste lugar. Eu costumava\nviver naquele mar da alma humana!
+I'm no {{A}} from this place. I used to be\nlivin' in that there sea of the human soul!=Eu não sou uma Sombra deste lugar. Eu costumava\nviver naquele mar da alma humana!
 From now on, call me <color\=#72C5FF>Pazuzu</color>.\nNo need fer honorifics, sonny.=De agora em diante, me chame de <color\=#72C5FF>Pazuzu</color>.\nNão precisa de formalidades, rapaz.
 I see... So it was my destiny to find\nmyself within you!=Entendo... Então era meu destino me encontrar\ndentro de você!
 My new name is <color\=#72C5FF>Okuninushi</color>.\nI am a Persona who'll be with you.\nFrom now on, I'm on your side.=Meu novo nome é <color\=#72C5FF>Okuninushi</color>.\nEu sou uma Persona que estará com você.\nDe agora em diante, estou do seu lado.
-Me am not a Shadow that belongs here.\nMe exist in the sea of souls of humans!=Eu não sou uma Sombra que pertence aqui.\nEu existo no mar de almas dos humanos!
+Me am not a {{A}} that belongs here.\nMe exist in the sea of souls of humans!=Eu não sou uma Sombra que pertence aqui.\nEu existo no mar de almas dos humanos!
 Me am <color\=#72C5FF>Byakko</color>.\nMy power is your power...\nUse it how you want.=Eu sou <color\=#72C5FF>Byakko</color>.\nMeu poder é seu poder...\nUse como quiser.
-Me am not a Shadow that belongs here.\nMe exist in the sea of souls of humans!=Eu não sou uma Sombra que pertence aqui.\nEu existo no mar de almas dos humanos!
+Me am not a {{A}} that belongs here.\nMe exist in the sea of souls of humans!=Eu não sou uma Sombra que pertence aqui.\nEu existo no mar de almas dos humanos!
 Me am <color\=#72C5FF>Horus</color>.\nMy power is your power...\nUse it how you want.=Eu sou <color\=#72C5FF>Hórus</color>.\nMeu poder é seu poder...\nUse como quiser.
-In truth, I am not a Shadow. I originated\nfrom the humans' sea of souls...=Na verdade, não sou uma Sombra. Originei-me\ndo mar de almas dos humanos...
+In truth, I am not a {{A}}. I originated\nfrom the humans' sea of souls...=Na verdade, não sou uma Sombra. Originei-me\ndo mar de almas dos humanos...
 My true name is <color\=#72C5FF>Lakshmi</color>.\nFrom here on forth... I am thou.=Meu nome verdadeiro é <color\=#72C5FF>Lakshmi</color>.\nDe agora em diante... eu sou tu.
-I'm no Shadow from this place. I used to be\nlivin' in that there sea of the human soul!=Eu não sou uma Sombra deste lugar. Eu costumava\nviver naquele mar da alma humana!
+I'm no {{A}} from this place. I used to be\nlivin' in that there sea of the human soul!=Eu não sou uma Sombra deste lugar. Eu costumava\nviver naquele mar da alma humana!
 From now on, call me <color\=#72C5FF>Kohryu</color>.\nNo need fer honorifics, sonny.=De agora em diante, me chame de <color\=#72C5FF>Kohryu</color>.\nNão precisa de formalidades, rapaz.
-Me am not a Shadow that belongs here.\nMe exist in the sea of souls of humans!=Eu não sou uma Sombra que pertence aqui.\nEu existo no mar de almas dos humanos!
+Me am not a {{A}} that belongs here.\nMe exist in the sea of souls of humans!=Eu não sou uma Sombra que pertence aqui.\nEu existo no mar de almas dos humanos!
 Me am <color\=#72C5FF>Seth</color>.\nMy power is your power...\nUse it how you want.=Eu sou <color\=#72C5FF>Seth</color>.\nMeu poder é seu poder...\nUse como quiser.
-You know, I'm not really a Shadow!\nI came from the humans' sea of souls!=Sabe, eu não sou bem uma Sombra!\nEu vim do mar de almas dos humanos!
+You know, I'm not really a {{A}}!\nI came from the humans' sea of souls!=Sabe, eu não sou bem uma Sombra!\nEu vim do mar de almas dos humanos!
 My real name's <color\=#72C5FF>Sudama</color>!\nYou and I are the same, mister!=Meu nome verdadeiro é <color\=#72C5FF>Sudama</color>!\nVocê e eu somos iguais, moço!
-You know, I'm not really a Shadow!\nI came from the humans' sea of souls!=Sabe, eu não sou bem uma Sombra!\nEu vim do mar de almas dos humanos!
+You know, I'm not really a {{A}}!\nI came from the humans' sea of souls!=Sabe, eu não sou bem uma Sombra!\nEu vim do mar de almas dos humanos!
 My real name's <color\=#72C5FF>Obariyon</color>!\nYou and I are the same, mister!=Meu nome verdadeiro é <color\=#72C5FF>Obariyon</color>!\nVocê e eu somos iguais, moço!
-I'm so not a Shadow that belongs here.\nI used to be in the humans' sea of souls...=Eu não sou uma Sombra que pertence aqui.\nEu costumava estar no mar de almas dos humanos...
+I'm so not a {{A}} that belongs here.\nI used to be in the humans' sea of souls...=Eu não sou uma Sombra que pertence aqui.\nEu costumava estar no mar de almas dos humanos...
 I'm <color\=#72C5FF>Pixie</color>.\nI mean, I'm you after all, so\nlet's hope we get along!=Eu sou <color\=#72C5FF>Pixie</color>.\nQuer dizer, afinal, eu sou você, então\nespero que a gente se dê bem!
-Me am not a Shadow that belongs here.\nMe exist in the sea of souls of humans!=Eu não sou uma Sombra que pertence aqui.\nEu existo no mar de almas dos humanos!
+Me am not a {{A}} that belongs here.\nMe exist in the sea of souls of humans!=Eu não sou uma Sombra que pertence aqui.\nEu existo no mar de almas dos humanos!
 Me am <color\=#72C5FF>Inugami</color>.\nMy power is your power...\nUse it how you want.=Eu sou <color\=#72C5FF>Inugami</color>.\nMeu poder é seu poder...\nUse como quiser.
-I'm no Shadow from this place. I used to be\nlivin' in that there sea of the human soul!=Eu não sou uma Sombra deste lugar. Eu costumava\nviver naquele mar da alma humana!
+I'm no {{A}} from this place. I used to be\nlivin' in that there sea of the human soul!=Eu não sou uma Sombra deste lugar. Eu costumava\nviver naquele mar da alma humana!
 From now on, call me <color\=#72C5FF>Shiki-Ouji</color>.\nNo need fer honorifics, sonny.=De agora em diante, me chame de <color\=#72C5FF>Shiki-Ouji</color>.\nNão precisa de formalidades, rapaz.
-You know, I'm not really a Shadow!\nI came from the humans' sea of souls!=Sabe, eu não sou bem uma Sombra!\nEu vim do mar de almas dos humanos!
+You know, I'm not really a {{A}}!\nI came from the humans' sea of souls!=Sabe, eu não sou bem uma Sombra!\nEu vim do mar de almas dos humanos!
 My real name's <color\=#72C5FF>Bugs</color>!\nYou and I are the same, mister!=Meu nome verdadeiro é <color\=#72C5FF>Bugs</color>!\nVocê e eu somos iguais, moço!
-Me am not a Shadow that belongs here.\nMe exist in the sea of souls of humans!=Eu não sou uma Sombra que pertence aqui.\nEu existo no mar de almas dos humanos!
+Me am not a {{A}} that belongs here.\nMe exist in the sea of souls of humans!=Eu não sou uma Sombra que pertence aqui.\nEu existo no mar de almas dos humanos!
 Me am <color\=#72C5FF>Yamato-no-Orochi</color>.\nMy power is your power...\nUse it how you want.=Eu sou <color\=#72C5FF>Yamata-no-Orochi</color>.\nMeu poder é seu poder...\nUse como quiser.
-I'm no Shadow from this place. I used to be\nlivin' in that there sea of the human soul!=Eu não sou uma Sombra deste lugar. Eu costumava\nviver naquele mar da alma humana!
+I'm no {{A}} from this place. I used to be\nlivin' in that there sea of the human soul!=Eu não sou uma Sombra deste lugar. Eu costumava\nviver naquele mar da alma humana!
 From now on, call me <color\=#72C5FF>Vishnu</color>.\nNo need fer honorifics, sonny.=De agora em diante, me chame de <color\=#72C5FF>Vishnu</color>.\nNão precisa de formalidades, rapaz.
 I see... So it was my destiny to find\nmyself within you!=Entendo... Então era meu destino me encontrar\ndentro de você!
 My new name is <color\=#72C5FF>Mada</color>.\nI am a Persona who'll be with you.\nFrom now on, I'm on your side.=Meu novo nome é <color\=#72C5FF>Mada</color>.\nEu sou uma Persona que estará com você.\nDe agora em diante, estou do seu lado.
-I'm so not a Shadow that belongs here.\nI used to be in the humans' sea of souls...=Eu não sou uma Sombra que pertence aqui.\nEu costumava estar no mar de almas dos humanos...
+I'm so not a {{A}} that belongs here.\nI used to be in the humans' sea of souls...=Eu não sou uma Sombra que pertence aqui.\nEu costumava estar no mar de almas dos humanos...
 I'm <color\=#72C5FF>Mandrake</color>.\nI mean, I'm you after all, so\nlet's hope we get along!=Eu sou <color\=#72C5FF>Mandrágora</color>.\nQuer dizer, afinal, eu sou você, então\nespero que a gente se dê bem!
-I'm not a Shadow that lives here! I'm\nfrom the sea of souls of you humans!=Eu não sou uma Sombra que vive aqui! Sou\ndo mar de almas de vocês, humanos!
+I'm not a {{A}} that lives here! I'm\nfrom the sea of souls of you humans!=Eu não sou uma Sombra que vive aqui! Sou\ndo mar de almas de vocês, humanos!
 I'm <color\=#72C5FF>Incubus</color>.\nFrom now on, I'm you.=Eu sou <color\=#72C5FF>Íncubo</color>.\nDe agora em diante, eu sou você.
 I see... So it was my destiny to find\nmyself within you!=Entendo... Então era meu destino me encontrar\ndentro de você!
 My new name is <color\=#72C5FF>Makami</color>.\nI am a Persona who'll be with you.\nFrom now on, I'm on your side.=Meu novo nome é <color\=#72C5FF>Makami</color>.\nEu sou uma Persona que estará com você.\nDe agora em diante, estou do seu lado.
-In truth, I am not a Shadow. I originated\nfrom the humans' sea of souls...=Na verdade, não sou uma Sombra. Originei-me\ndo mar de almas dos humanos...
+In truth, I am not a {{A}}. I originated\nfrom the humans' sea of souls...=Na verdade, não sou uma Sombra. Originei-me\ndo mar de almas dos humanos...
 My true name is <color\=#72C5FF>High Pixie</color>.\nFrom here on forth... I am thou.=Meu nome verdadeiro é <color\=#72C5FF>High Pixie</color>.\nDe agora em diante... eu sou tu.
-In truth, I am not a Shadow. I originated\nfrom the humans' sea of souls...=Na verdade, não sou uma Sombra. Originei-me\ndo mar de almas dos humanos...
+In truth, I am not a {{A}}. I originated\nfrom the humans' sea of souls...=Na verdade, não sou uma Sombra. Originei-me\ndo mar de almas dos humanos...
 My true name is <color\=#72C5FF>Leanan Sidhe</color>.\nFrom here on forth... I am thou.=Meu nome verdadeiro é <color\=#72C5FF>Leanan Sidhe</color>.\nDe agora em diante... eu sou tu.
-Me am not a Shadow that belongs here.\nMe exist in the sea of souls of humans!=Eu não sou uma Sombra que pertence aqui.\nEu existo no mar de almas dos humanos!
+Me am not a {{A}} that belongs here.\nMe exist in the sea of souls of humans!=Eu não sou uma Sombra que pertence aqui.\nEu existo no mar de almas dos humanos!
 Me am <color\=#72C5FF>Phoenix</color>.\nMy power is your power...\nUse it how you want.=Eu sou <color\=#72C5FF>Fênix</color>.\nMeu poder é seu poder...\nUse como quiser.
 I see... So it was my destiny to find\nmyself within you!=Entendo... Então era meu destino me encontrar\ndentro de você!
 My new name is <color\=#72C5FF>Jikokuten</color>.\nI am a Persona who'll be with you.\nFrom now on, I'm on your side.=Meu novo nome é <color\=#72C5FF>Jikokuten</color>.\nEu sou uma Persona que estará com você.\nDe agora em diante, estou do seu lado.
-I'm so not a Shadow that belongs here.\nI used to be in the humans' sea of souls...=Eu não sou uma Sombra que pertence aqui.\nEu costumava estar no mar de almas dos humanos...
+I'm so not a {{A}} that belongs here.\nI used to be in the humans' sea of souls...=Eu não sou uma Sombra que pertence aqui.\nEu costumava estar no mar de almas dos humanos...
 I'm <color\=#72C5FF>Ame-no-Uzume</color>.\nI mean, I'm you after all, so\nlet's hope we get along!=Eu sou <color\=#72C5FF>Ame-no-Uzume</color>.\nQuer dizer, afinal, eu sou você, então\nespero que a gente se dê bem!
-I'm not the same as those Shadows\naround here. I came from the sea of\nthe human soul!=Eu não sou como as Sombras\npor aqui. Eu vim do mar\nda alma humana!
+I'm not the same as those {{A}}s\naround here. I came from the sea of\nthe human soul!=Eu não sou como as Sombras\npor aqui. Eu vim do mar\nda alma humana!
 I'm <color\=#72C5FF>Lachesis</color>. This is the start of\nour very long relationship.=Eu sou <color\=#72C5FF>Láquesis</color>. Este é o começo de\nnossa longa relação.
 I see... So it was my destiny to find\nmyself within you!=Entendo... Então era meu destino me encontrar\ndentro de você!
 My new name is <color\=#72C5FF>Zouchouten</color>.\nI am a Persona who'll be with you.\nFrom now on, I'm on your side.=Meu novo nome é <color\=#72C5FF>Zouchouten</color>.\nEu sou uma Persona que estará com você.\nDe agora em diante, estou do seu lado.
-I'm not a Shadow that lives here! I'm\nfrom the sea of souls of you humans!=Eu não sou uma Sombra que vive aqui! Sou\ndo mar de almas de vocês, humanos!
+I'm not a {{A}} that lives here! I'm\nfrom the sea of souls of you humans!=Eu não sou uma Sombra que vive aqui! Sou\ndo mar de almas de vocês, humanos!
 I'm <color\=#72C5FF>Arahabaki</color>.\nFrom now on, I'm you.=Eu sou <color\=#72C5FF>Arahabaki</color>.\nDe agora em diante, eu sou você.
-I'm no Shadow from this place. I used to be\nlivin' in that there sea of the human soul!=Eu não sou uma Sombra deste lugar. Eu costumava\nviver naquele mar da alma humana!
+I'm no {{A}} from this place. I used to be\nlivin' in that there sea of the human soul!=Eu não sou uma Sombra deste lugar. Eu costumava\nviver naquele mar da alma humana!
 From now on, call me <color\=#72C5FF>Hell Biker</color>.\nNo need fer honorifics, sonny.=De agora em diante, me chame de <color\=#72C5FF>Motociclista Infernal</color>.\nNão precisa de formalidades, rapaz.
-In truth, I am not a Shadow. I originated\nfrom the humans' sea of souls...=Na verdade, não sou uma Sombra. Originei-me\ndo mar de almas dos humanos...
+In truth, I am not a {{A}}. I originated\nfrom the humans' sea of souls...=Na verdade, não sou uma Sombra. Originei-me\ndo mar de almas dos humanos...
 My true name is <color\=#72C5FF>Norn</color>.\nFrom here on forth... I am thou.=Meu nome verdadeiro é <color\=#72C5FF>Norn</color>.\nDe agora em diante... eu sou tu.
-I'm not a Shadow that lives here! I'm\nfrom the sea of souls of you humans!=Eu não sou uma Sombra que vive aqui! Sou\ndo mar de almas de vocês, humanos!
+I'm not a {{A}} that lives here! I'm\nfrom the sea of souls of you humans!=Eu não sou uma Sombra que vive aqui! Sou\ndo mar de almas de vocês, humanos!
 I'm <color\=#72C5FF>Ganesha</color>.\nFrom now on, I'm you.=Eu sou <color\=#72C5FF>Ganesha</color>.\nDe agora em diante, eu sou você.
-In truth, I am not a Shadow. I originated\nfrom the humans' sea of souls...=Na verdade, não sou uma Sombra. Originei-me\ndo mar de almas dos humanos...
+In truth, I am not a {{A}}. I originated\nfrom the humans' sea of souls...=Na verdade, não sou uma Sombra. Originei-me\ndo mar de almas dos humanos...
 My true name is <color\=#72C5FF>Silky</color>.\nFrom here on forth... I am thou.=Meu nome verdadeiro é <color\=#72C5FF>Silky</color>.\nDe agora em diante... eu sou tu.
-...I'm so not a Shadow that belongs here.\nI used to be in the humans' sea of souls.=...Não sou uma Sombra que pertence aqui.\nEu costumava estar no mar de almas dos humanos.
+...I'm so not a {{A}} that belongs here.\nI used to be in the humans' sea of souls.=...Não sou uma Sombra que pertence aqui.\nEu costumava estar no mar de almas dos humanos.
 I'm <color\=#72C5FF>Hua Po</color>.\nI mean, I'm you after all, so\nlet's hope we get along!=Eu sou <color\=#72C5FF>Hua Po</color>.\nQuer dizer, afinal, eu sou você, então\nespero que a gente se dê bem!
-I'm no Shadow from this place. I used to be\nlivin' in that there sea of the human soul!=Eu não sou uma Sombra deste lugar. Eu costumava\nviver naquele mar da alma humana!
+I'm no {{A}} from this place. I used to be\nlivin' in that there sea of the human soul!=Eu não sou uma Sombra deste lugar. Eu costumava\nviver naquele mar da alma humana!
 From now on, call me <color\=#72C5FF>Koropokguru</color>.\nNo need fer honorifics, sonny.=De agora em diante, me chame de <color\=#72C5FF>Koropokguru</color>.\nNão precisa de formalidades, rapaz.
 I see... So it was my destiny to find\nmyself within you!=Entendo... Então era meu destino me encontrar\ndentro de você!
 My new name is <color\=#72C5FF>Koppa Tengu</color>.\nI am a Persona who'll be with you.\nFrom now on, I'm on your side.=Meu novo nome é <color\=#72C5FF>Koppa Tengu</color>.\nEu sou uma Persona que estará com você.\nDe agora em diante, estou do seu lado.
-I am not a Shadow of this place...\nI've resided within the sea of the\nhuman soul since ancient times...=Eu não sou uma Sombra deste lugar...\nResidi no mar da\nalma humana desde tempos antigos...
+I am not a {{A}} of this place...\nI've resided within the sea of the\nhuman soul since ancient times...=Eu não sou uma Sombra deste lugar...\nResidi no mar da\nalma humana desde tempos antigos...
 My name is <color\=#72C5FF>Angel</color>.\nThat is your name as well...\nDo not forget this.=Meu nome é <color\=#72C5FF>Anjo</color>.\nEsse é seu nome também...\nNão se esqueça disso.
-You know, I'm not really a Shadow!\nI came from the humans' sea of souls!=Sabe, eu não sou bem uma Sombra!\nEu vim do mar de almas dos humanos!
+You know, I'm not really a {{A}}!\nI came from the humans' sea of souls!=Sabe, eu não sou bem uma Sombra!\nEu vim do mar de almas dos humanos!
 My real name's <color\=#72C5FF>Onmoraki</color>!\nYou and I are the same, mister!=Meu nome verdadeiro é <color\=#72C5FF>Onmoraki</color>!\nVocê e eu somos iguais, moço!
-I'm no Shadow from this place. I used to be\nlivin' in that there sea of the human soul!=Eu não sou uma Sombra deste lugar. Eu costumava\nviver naquele mar da alma humana!
+I'm no {{A}} from this place. I used to be\nlivin' in that there sea of the human soul!=Eu não sou uma Sombra deste lugar. Eu costumava\nviver naquele mar da alma humana!
 From now on, call me <color\=#72C5FF>Ippon-Datara</color>.\nNo need fer honorifics, sonny.=De agora em diante, me chame de <color\=#72C5FF>Ippon-Datara</color>.\nNão precisa de formalidades, rapaz.
-I'm not a Shadow that lives here! I'm\nfrom the sea of souls of you humans!=Eu não sou uma Sombra que vive aqui! Sou\ndo mar de almas de vocês, humanos!
+I'm not a {{A}} that lives here! I'm\nfrom the sea of souls of you humans!=Eu não sou uma Sombra que vive aqui! Sou\ndo mar de almas de vocês, humanos!
 I'm <color\=#72C5FF>Orobas</color>.\nFrom now on, I'm you.=Eu sou <color\=#72C5FF>Orobas</color>.\nDe agora em diante, eu sou você.
-I'm not the same as those Shadows\naround here. I came from the sea of\nthe human soul!=Eu não sou como as Sombras\npor aqui. Eu vim do mar\nda alma humana!
+I'm not the same as those {{A}}s\naround here. I came from the sea of\nthe human soul!=Eu não sou como as Sombras\npor aqui. Eu vim do mar\nda alma humana!
 I'm <color\=#72C5FF>Nekomata</color>. This is the start of\nour very long relationship.=Eu sou <color\=#72C5FF>Nekomata</color>. Este é o começo de\nnossa longa relação.
-Me am not a Shadow that belongs here.\nMe exist in the sea of souls of humans!=Eu não sou uma Sombra que pertence aqui.\nEu existo no mar de almas dos humanos!
+Me am not a {{A}} that belongs here.\nMe exist in the sea of souls of humans!=Eu não sou uma Sombra que pertence aqui.\nEu existo no mar de almas dos humanos!
 Me am <color\=#72C5FF>Nue</color>.\nMy power is your power...\nUse it how you want.=Eu sou <color\=#72C5FF>Nue</color>.\nMeu poder é seu poder...\nUse como quiser.
 I see... So it was my destiny to find\nmyself within you!=Entendo... Então era meu destino me encontrar\ndentro de você!
 My new name is <color\=#72C5FF>Kin-Ki</color>.\nI am a Persona who'll be with you.\nFrom now on, I'm on your side.=Meu novo nome é <color\=#72C5FF>Kin-Ki</color>.\nEu sou uma Persona que estará com você.\nDe agora em diante, estou do seu lado.
-I'm not a Shadow that lives here! I'm\nfrom the sea of souls of you humans!=Eu não sou uma Sombra que vive aqui! Sou\ndo mar de almas de vocês, humanos!
+I'm not a {{A}} that lives here! I'm\nfrom the sea of souls of you humans!=Eu não sou uma Sombra que vive aqui! Sou\ndo mar de almas de vocês, humanos!
 I'm <color\=#72C5FF>Decarabia</color>.\nFrom now on, I'm you.=Eu sou <color\=#72C5FF>Decarabia</color>.\nDe agora em diante, eu sou você.
-Me am not a Shadow that belongs here.\nMe exist in the sea of souls of humans!=Eu não sou uma Sombra que pertence aqui.\nEu existo no mar de almas dos humanos!
+Me am not a {{A}} that belongs here.\nMe exist in the sea of souls of humans!=Eu não sou uma Sombra que pertence aqui.\nEu existo no mar de almas dos humanos!
 Me am <color\=#72C5FF>Mothman</color>.\nMy power is your power...\nUse it how you want.=Eu sou <color\=#72C5FF>Homem-Mariposa</color>.\nMeu poder é seu poder...\nUse como quiser.
-I'm no Shadow from this place. I used to be\nlivin' in that there sea of the human soul!=Eu não sou uma Sombra deste lugar. Eu costumava\nviver naquele mar da alma humana!
+I'm no {{A}} from this place. I used to be\nlivin' in that there sea of the human soul!=Eu não sou uma Sombra deste lugar. Eu costumava\nviver naquele mar da alma humana!
 From now on, call me <color\=#72C5FF>Belphegor</color>.\nNo need fer honorifics, sonny.=De agora em diante, me chame de <color\=#72C5FF>Belphegor</color>.\nNão precisa de formalidades, rapaz.
-Me am not a Shadow that belongs here.\nMe exist in the sea of souls of humans!=Eu não sou uma Sombra que pertence aqui.\nEu existo no mar de almas dos humanos!
+Me am not a {{A}} that belongs here.\nMe exist in the sea of souls of humans!=Eu não sou uma Sombra que pertence aqui.\nEu existo no mar de almas dos humanos!
 Me am <color\=#72C5FF>Cerberus</color>.\nMy power is your power...\nUse it how you want.=Eu sou <color\=#72C5FF>Cérbero</color>.\nMeu poder é seu poder...\nUse como quiser.
-In truth, I am not a Shadow. I originated\nfrom the humans' sea of souls...=Na verdade, não sou uma Sombra. Originei-me\ndo mar de almas dos humanos...
+In truth, I am not a {{A}}. I originated\nfrom the humans' sea of souls...=Na verdade, não sou uma Sombra. Originei-me\ndo mar de almas dos humanos...
 My true name is <color\=#72C5FF>Apsaras</color>.\nFrom here on forth... I am thou.=Meu nome verdadeiro é <color\=#72C5FF>Apsará</color>.\nDe agora em diante... eu sou tu.
-You know, I'm not really a Shadow!\nI came from the humans' sea of souls!=Sabe, eu não sou bem uma Sombra!\nEu vim do mar de almas dos humanos!
+You know, I'm not really a {{A}}!\nI came from the humans' sea of souls!=Sabe, eu não sou bem uma Sombra!\nEu vim do mar de almas dos humanos!
 My real name's <color\=#72C5FF>Kodama</color>!\nYou and I are the same, mister!=Meu nome verdadeiro é <color\=#72C5FF>Kodama</color>!\nVocê e eu somos iguais, moço!
-Me am not a Shadow that belongs here.\nMe exist in the sea of souls of humans!=Eu não sou uma Sombra que pertence aqui.\nEu existo no mar de almas dos humanos!
+Me am not a {{A}} that belongs here.\nMe exist in the sea of souls of humans!=Eu não sou uma Sombra que pertence aqui.\nEu existo no mar de almas dos humanos!
 Me am <color\=#72C5FF>Shiisaa</color>.\nMy power is your power...\nUse it how you want.=Eu sou <color\=#72C5FF>Shiisaa</color>.\nMeu poder é seu poder...\nUse como quiser.
-I'm not the same as those Shadows\naround here. I came from the sea of\nthe human soul!=Eu não sou como as Sombras\npor aqui. Eu vim do mar\nda alma humana!
+I'm not the same as those {{A}}s\naround here. I came from the sea of\nthe human soul!=Eu não sou como as Sombras\npor aqui. Eu vim do mar\nda alma humana!
 I'm <color\=#72C5FF>Yaksini</color>. This is the start of\nour very long relationship.=Eu sou <color\=#72C5FF>Yaksini</color>. Este é o começo de\nnossa longa relação.
-I'm not a Shadow that lives here! I'm\nfrom the sea of souls of you humans!=Eu não sou uma Sombra que vive aqui! Sou\ndo mar de almas de vocês, humanos!
+I'm not a {{A}} that lives here! I'm\nfrom the sea of souls of you humans!=Eu não sou uma Sombra que vive aqui! Sou\ndo mar de almas de vocês, humanos!
 I'm <color\=#72C5FF>Sui-Ki</color>.\nFrom now on, I'm you.=Eu sou <color\=#72C5FF>Sui-Ki</color>.\nDe agora em diante, eu sou você.
-In truth, I am not a Shadow. I originated\nfrom the humans' sea of souls...=Na verdade, não sou uma Sombra. Originei-me\ndo mar de almas dos humanos...
+In truth, I am not a {{A}}. I originated\nfrom the humans' sea of souls...=Na verdade, não sou uma Sombra. Originei-me\ndo mar de almas dos humanos...
 My true name is <color\=#72C5FF>High Pixie</color>.\nFrom here on forth... I am thou.=Meu nome verdadeiro é <color\=#72C5FF>High Pixie</color>.\nDe agora em diante... eu sou tu.
-I'm not a Shadow that lives here! I'm\nfrom the sea of souls of you humans!=Eu não sou uma Sombra que vive aqui! Sou\ndo mar de almas de vocês, humanos!
+I'm not a {{A}} that lives here! I'm\nfrom the sea of souls of you humans!=Eu não sou uma Sombra que vive aqui! Sou\ndo mar de almas de vocês, humanos!
 I'm <color\=#72C5FF>Rakshasa</color>.\nFrom now on, I'm you.=Eu sou <color\=#72C5FF>Rakshasa</color>.\nDe agora em diante, eu sou você.
 I see... So it was my destiny to find\nmyself within you!=Entendo... Então era meu destino me encontrar\ndentro de você!
 My new name is <color\=#72C5FF>Sandman</color>.\nI am a Persona who'll be with you.\nFrom now on, I'm on your side.=Meu novo nome é <color\=#72C5FF>Sandman</color>.\nEu sou uma Persona que estará com você.\nDe agora em diante, estou do seu lado.
-I'm not a Shadow that lives here! I'm\nfrom the sea of souls of you humans!=Eu não sou uma Sombra que vive aqui! Sou\ndo mar de almas de vocês, humanos!
+I'm not a {{A}} that lives here! I'm\nfrom the sea of souls of you humans!=Eu não sou uma Sombra que vive aqui! Sou\ndo mar de almas de vocês, humanos!
 I'm <color\=#72C5FF>Naga</color>.\nFrom now on, I'm you.=Eu sou <color\=#72C5FF>Naga</color>.\nDe agora em diante, eu sou você.
-Me am not a Shadow that belongs here.\nMe exist in the sea of souls of humans!=Eu não sou uma Sombra que pertence aqui.\nEu existo no mar de almas dos humanos!
+Me am not a {{A}} that belongs here.\nMe exist in the sea of souls of humans!=Eu não sou uma Sombra que pertence aqui.\nEu existo no mar de almas dos humanos!
 Me am <color\=#72C5FF>Anzu</color>.\nMy power is your power...\nUse it how you want.=Eu sou <color\=#72C5FF>Anzu</color>.\nMeu poder é seu poder...\nUse como quiser.
-Me am not a Shadow that belongs here.\nMe exist in the sea of souls of humans!=Eu não sou uma Sombra que pertence aqui.\nEu existo no mar de almas dos humanos!
+Me am not a {{A}} that belongs here.\nMe exist in the sea of souls of humans!=Eu não sou uma Sombra que pertence aqui.\nEu existo no mar de almas dos humanos!
 Me am <color\=#72C5FF>Thoth</color>.\nMy power is your power...\nUse it how you want.=Eu sou <color\=#72C5FF>Thoth</color>.\nMeu poder é seu poder...\nUse como quiser.
-I'm no Shadow from this place. I used to be\nlivin' in that there sea of the human soul!=Eu não sou uma Sombra deste lugar. Eu costumava\nviver naquele mar da alma humana!
+I'm no {{A}} from this place. I used to be\nlivin' in that there sea of the human soul!=Eu não sou uma Sombra deste lugar. Eu costumava\nviver naquele mar da alma humana!
 From now on, call me <color\=#72C5FF>Kaiwan</color>.\nNo need fer honorifics, sonny.=De agora em diante, me chame de <color\=#72C5FF>Kaiwan</color>.\nNão precisa de formalidades, rapaz.
-In truth, I am not a Shadow. I originated\nfrom the humans' sea of souls...=Na verdade, não sou uma Sombra. Originei-me\ndo mar de almas dos humanos...
+In truth, I am not a {{A}}. I originated\nfrom the humans' sea of souls...=Na verdade, não sou uma Sombra. Originei-me\ndo mar de almas dos humanos...
 My true name is <color\=#72C5FF>Atropos</color>.\nFrom here on forth... I am thou.=Meu nome verdadeiro é <color\=#72C5FF>Átropos</color>.\nDe agora em diante... eu sou tu.
-I'm not actually a Shadow. I... have existed\nin the sea of souls with humanity for all\ntime...=Eu não sou realmente uma Sombra. Eu... existi\nno mar de almas com a humanidade por todo o\ntempo...
+I'm not actually a {{A}}. I... have existed\nin the sea of souls with humanity for all\ntime...=Eu não sou realmente uma Sombra. Eu... existi\nno mar de almas com a humanidade por todo o\ntempo...
 I'm <color\=#72C5FF>Hariti</color>.\nI'm part of you too... That's how it\nreally is.=Eu sou <color\=#72C5FF>Hariti</color>.\nEu sou parte de você também... É assim\nque realmente é.
-I am not a Shadow of this place...\nI've resided within the sea of the\nhuman soul since ancient times...=Eu não sou uma Sombra deste lugar...\nResidi no mar da\nalma humana desde tempos antigos...
+I am not a {{A}} of this place...\nI've resided within the sea of the\nhuman soul since ancient times...=Eu não sou uma Sombra deste lugar...\nResidi no mar da\nalma humana desde tempos antigos...
 My name is <color\=#72C5FF>Power</color>.\nThat is your name as well...\nDo not forget this.=Meu nome é <color\=#72C5FF>Potestade</color>.\nEsse é seu nome também...\nNão se esqueça disso.
-Me am not a Shadow that belongs here.\nMe exist in the sea of souls of humans!=Eu não sou uma Sombra que pertence aqui.\nEu existo no mar de almas dos humanos!
+Me am not a {{A}} that belongs here.\nMe exist in the sea of souls of humans!=Eu não sou uma Sombra que pertence aqui.\nEu existo no mar de almas dos humanos!
 Me am <color\=#72C5FF>Hecatoncheires</color>.\nMy power is your power...\nUse it how you want.=Eu sou <color\=#72C5FF>Hecatônquiro</color>.\nMeu poder é seu poder...\nUse como quiser.
-Me am not a Shadow that belongs here.\nMe exist in the sea of souls of humans!=Eu não sou uma Sombra que pertence aqui.\nEu existo no mar de almas dos humanos!
+Me am not a {{A}} that belongs here.\nMe exist in the sea of souls of humans!=Eu não sou uma Sombra que pertence aqui.\nEu existo no mar de almas dos humanos!
 Me am <color\=#72C5FF>Yurlungur</color>.\nMy power is your power...\nUse it how you want.=Eu sou <color\=#72C5FF>Yurlungur</color>.\nMeu poder é seu poder...\nUse como quiser.
 I see... So it was my destiny to find\nmyself within you!=Entendo... Então era meu destino me encontrar\ndentro de você!
 My new name is <color\=#72C5FF>Girimehkala</color>.\nI am a Persona who'll be with you.\nFrom now on, I'm on your side.=Meu novo nome é <color\=#72C5FF>Girimehkala</color>.\nEu sou uma Persona que estará com você.\nDe agora em diante, estou do seu lado.
-I'm no Shadow from this place. I used to be\nlivin' in that there sea of the human soul!=Eu não sou uma Sombra deste lugar. Eu costumava\nviver naquele mar da alma humana!
+I'm no {{A}} from this place. I used to be\nlivin' in that there sea of the human soul!=Eu não sou uma Sombra deste lugar. Eu costumava\nviver naquele mar da alma humana!
 From now on, call me <color\=#72C5FF>Mara</color>.\nNo need fer honorifics, sonny.=De agora em diante, me chame de <color\=#72C5FF>Mara</color>.\nNão precisa de formalidades, rapaz.
-I'm not a Shadow that lives here! I'm\nfrom the sea of souls of you humans!=Eu não sou uma Sombra que vive aqui! Sou\ndo mar de almas de vocês, humanos!
+I'm not a {{A}} that lives here! I'm\nfrom the sea of souls of you humans!=Eu não sou uma Sombra que vive aqui! Sou\ndo mar de almas de vocês, humanos!
 I'm <color\=#72C5FF>Kumbhanda</color>.\nFrom now on, I'm you.=Eu sou <color\=#72C5FF>Kumbhanda</color>.\nDe agora em diante, eu sou você.
-I'm not a Shadow that lives here! I'm\nfrom the sea of souls of you humans!=Eu não sou uma Sombra que vive aqui! Sou\ndo mar de almas de vocês, humanos!
+I'm not a {{A}} that lives here! I'm\nfrom the sea of souls of you humans!=Eu não sou uma Sombra que vive aqui! Sou\ndo mar de almas de vocês, humanos!
 I'm <color\=#72C5FF>Matador</color>.\nFrom now on, I'm you.=Eu sou <color\=#72C5FF>Matador</color>.\nDe agora em diante, eu sou você.
-I'm not a Shadow that lives here! I'm\nfrom the sea of souls of you humans!=Eu não sou uma Sombra que vive aqui! Sou\ndo mar de almas de vocês, humanos!
+I'm not a {{A}} that lives here! I'm\nfrom the sea of souls of you humans!=Eu não sou uma Sombra que vive aqui! Sou\ndo mar de almas de vocês, humanos!
 I'm <color\=#72C5FF>Quetzalcoatl</color>.\nFrom now on, I'm you.=Eu sou <color\=#72C5FF>Quetzalcoatl</color>.\nDe agora em diante, eu sou você.
-I'm not a Shadow that lives here! I'm\nfrom the sea of souls of you humans!=Eu não sou uma Sombra que vive aqui! Sou\ndo mar de almas de vocês, humanos!
+I'm not a {{A}} that lives here! I'm\nfrom the sea of souls of you humans!=Eu não sou uma Sombra que vive aqui! Sou\ndo mar de almas de vocês, humanos!
 I'm <color\=#72C5FF>Surt</color>.\nFrom now on, I'm you.=Eu sou <color\=#72C5FF>Surt</color>.\nDe agora em diante, eu sou você.
-I'm no Shadow from this place. I used to be\nlivin' in that there sea of the human soul!=Eu não sou uma Sombra deste lugar. Eu costumava\nviver naquele mar da alma humana!
+I'm no {{A}} from this place. I used to be\nlivin' in that there sea of the human soul!=Eu não sou uma Sombra deste lugar. Eu costumava\nviver naquele mar da alma humana!
 From now on, call me <color\=#72C5FF>Baphomet</color>.\nNo need fer honorifics, sonny.=De agora em diante, me chame de <color\=#72C5FF>Bafomé</color>.\nNão precisa de formalidades, rapaz.
-I'm not a Shadow that lives here! I'm\nfrom the sea of souls of you humans!=Eu não sou uma Sombra que vive aqui! Sou\ndo mar de almas de vocês, humanos!
+I'm not a {{A}} that lives here! I'm\nfrom the sea of souls of you humans!=Eu não sou uma Sombra que vive aqui! Sou\ndo mar de almas de vocês, humanos!
 I'm <color\=#72C5FF>Raja Naga</color>.\nFrom now on, I'm you.=Eu sou <color\=#72C5FF>Raja Naga</color>.\nDe agora em diante, eu sou você.
-Me am not a Shadow that belongs here.\nMe exist in the sea of souls of humans!=Eu não sou uma Sombra que pertence aqui.\nEu existo no mar de almas dos humanos!
+Me am not a {{A}} that belongs here.\nMe exist in the sea of souls of humans!=Eu não sou uma Sombra que pertence aqui.\nEu existo no mar de almas dos humanos!
 Me am <color\=#72C5FF>Barong</color>.\nMy power is your power...\nUse it how you want.=Eu sou <color\=#72C5FF>Barong</color>.\nMeu poder é seu poder...\nUse como quiser.
-I'm not a Shadow that lives here! I'm\nfrom the sea of souls of you humans!=Eu não sou uma Sombra que vive aqui! Sou\ndo mar de almas de vocês, humanos!
+I'm not a {{A}} that lives here! I'm\nfrom the sea of souls of you humans!=Eu não sou uma Sombra que vive aqui! Sou\ndo mar de almas de vocês, humanos!
 I'm <color\=#72C5FF>Garuda</color>.\nFrom now on, I'm you.=Eu sou <color\=#72C5FF>Garuda</color>.\nDe agora em diante, eu sou você.
-I'm no Shadow from this place. I used to be\nlivin' in that there sea of the human soul!=Eu não sou uma Sombra deste lugar. Eu costumava\nviver naquele mar da alma humana!
+I'm no {{A}} from this place. I used to be\nlivin' in that there sea of the human soul!=Eu não sou uma Sombra deste lugar. Eu costumava\nviver naquele mar da alma humana!
 From now on, call me <color\=#72C5FF>Daisoujou</color>.\nNo need fer honorifics, sonny.=De agora em diante, me chame de <color\=#72C5FF>Daisoujou</color>.\nNão precisa de formalidades, rapaz.
-I'm not a Shadow that lives here! I'm\nfrom the sea of souls of you humans!=Eu não sou uma Sombra que vive aqui! Sou\ndo mar de almas de vocês, humanos!
+I'm not a {{A}} that lives here! I'm\nfrom the sea of souls of you humans!=Eu não sou uma Sombra que vive aqui! Sou\ndo mar de almas de vocês, humanos!
 I'm <color\=#72C5FF>Ose</color>.\nFrom now on, I'm you.=Eu sou <color\=#72C5FF>Ose</color>.\nDe agora em diante, eu sou você.
-Me am not a Shadow that belongs here.\nMe exist in the sea of souls of humans!=Eu não sou uma Sombra que pertence aqui.\nEu existo no mar de almas dos humanos!
+Me am not a {{A}} that belongs here.\nMe exist in the sea of souls of humans!=Eu não sou uma Sombra que pertence aqui.\nEu existo no mar de almas dos humanos!
 Me am <color\=#72C5FF>Kelpie</color>.\nMy power is your power...\nUse it how you want.=Eu sou <color\=#72C5FF>Kelpie</color>.\nMeu poder é seu poder...\nUse como quiser.
-I'm not a Shadow that lives here! I'm\nfrom the sea of souls of you humans!=Eu não sou uma Sombra que vive aqui! Sou\ndo mar de almas de vocês, humanos!
+I'm not a {{A}} that lives here! I'm\nfrom the sea of souls of you humans!=Eu não sou uma Sombra que vive aqui! Sou\ndo mar de almas de vocês, humanos!
 I'm <color\=#72C5FF>Saki Mitama</color>.\nFrom now on, I'm you.=Eu sou <color\=#72C5FF>Saki Mitama</color>.\nDe agora em diante, eu sou você.
-I'm no Shadow from this place. I used to be\nlivin' in that there sea of the human soul!=Eu não sou uma Sombra deste lugar. Eu costumava\nviver naquele mar da alma humana!
+I'm no {{A}} from this place. I used to be\nlivin' in that there sea of the human soul!=Eu não sou uma Sombra deste lugar. Eu costumava\nviver naquele mar da alma humana!
 From now on, call me <color\=#72C5FF>Genbu</color>.\nNo need fer honorifics, sonny.=De agora em diante, me chame de <color\=#72C5FF>Genbu</color>.\nNão precisa de formalidades, rapaz.
 I see... So it was my destiny to find\nmyself within you!=Entendo... Então era meu destino me encontrar\ndentro de você!
 My new name is <color\=#72C5FF>Berith</color>.\nI am a Persona who'll be with you.\nFrom now on, I'm on your side.=Meu novo nome é <color\=#72C5FF>Berith</color>.\nEu sou uma Persona que estará com você.\nDe agora em diante, estou do seu lado.
 I see... So it was my destiny to find\nmyself within you!=Entendo... Então era meu destino me encontrar\ndentro de você!
 My new name is <color\=#72C5FF>Andras</color>.\nI am a Persona who'll be with you.\nFrom now on, I'm on your side.=Meu novo nome é <color\=#72C5FF>Andras</color>.\nEu sou uma Persona que estará com você.\nDe agora em diante, estou do seu lado.
-Me am not a Shadow that belongs here.\nMe exist in the sea of souls of humans!=Eu não sou uma Sombra que pertence aqui.\nEu existo no mar de almas dos humanos!
+Me am not a {{A}} that belongs here.\nMe exist in the sea of souls of humans!=Eu não sou uma Sombra que pertence aqui.\nEu existo no mar de almas dos humanos!
 Me am <color\=#72C5FF>Slime</color>.\nMy power is your power...\nUse it how you want.=Eu sou <color\=#72C5FF>Slime</color>.\nMeu poder é seu poder...\nUse como quiser.
-I'm not a Shadow that lives here! I'm\nfrom the sea of souls of you humans!=Eu não sou uma Sombra que vive aqui! Sou\ndo mar de almas de vocês, humanos!
+I'm not a {{A}} that lives here! I'm\nfrom the sea of souls of you humans!=Eu não sou uma Sombra que vive aqui! Sou\ndo mar de almas de vocês, humanos!
 I'm <color\=#72C5FF>Nigi Mitama</color>.\nFrom now on, I'm you.=Eu sou <color\=#72C5FF>Nigi Mitama</color>.\nDe agora em diante, eu sou você.
-I'm no Shadow from this place. I used to be\nlivin' in that there sea of the human soul!=Eu não sou uma Sombra deste lugar. Eu costumava\nviver naquele mar da alma humana!
+I'm no {{A}} from this place. I used to be\nlivin' in that there sea of the human soul!=Eu não sou uma Sombra deste lugar. Eu costumava\nviver naquele mar da alma humana!
 From now on, call me <color\=#72C5FF>Fuu-Ki</color>.\nNo need fer honorifics, sonny.=De agora em diante, me chame de <color\=#72C5FF>Fuu-Ki</color>.\nNão precisa de formalidades, rapaz.
 I see... So it was my destiny to find\nmyself within you!=Entendo... Então era meu destino me encontrar\ndentro de você!
 My new name is <color\=#72C5FF>Flauros</color>.\nI am a Persona who'll be with you.\nFrom now on, I'm on your side.=Meu novo nome é <color\=#72C5FF>Flauros</color>.\nEu sou uma Persona que estará com você.\nDe agora em diante, estou do seu lado.
 I see... So it was my destiny to find\nmyself within you!=Entendo... Então era meu destino me encontrar\ndentro de você!
 My new name is <color\=#72C5FF>Setanta</color>.\nI am a Persona who'll be with you.\nFrom now on, I'm on your side.=Meu novo nome é <color\=#72C5FF>Setanta</color>.\nEu sou uma Persona que estará com você.\nDe agora em diante, estou do seu lado.
-I'm not a Shadow that lives here! I'm\nfrom the sea of souls of you humans!=Eu não sou uma Sombra que vive aqui! Sou\ndo mar de almas de vocês, humanos!
+I'm not a {{A}} that lives here! I'm\nfrom the sea of souls of you humans!=Eu não sou uma Sombra que vive aqui! Sou\ndo mar de almas de vocês, humanos!
 I'm <color\=#72C5FF>Black Ooze</color>.\nFrom now on, I'm you.=Eu sou <color\=#72C5FF>Black Ooze</color>.\nDe agora em diante, eu sou você.
 I see... So it was my destiny to find\nmyself within you!=Entendo... Então era meu destino me encontrar\ndentro de você!
 My new name is <color\=#72C5FF>Ara Mitama</color>.\nI am a Persona who'll be with you.\nFrom now on, I'm on your side.=Meu novo nome é <color\=#72C5FF>Ara Mitama</color>.\nEu sou uma Persona que estará com você.\nDe agora em diante, estou do seu lado.
 I see... So it was my destiny to find\nmyself within you!=Entendo... Então era meu destino me encontrar\ndentro de você!
 My new name is <color\=#72C5FF>Mitra</color>.\nI am a Persona who'll be with you.\nFrom now on, I'm on your side.=Meu novo nome é <color\=#72C5FF>Mitra</color>.\nEu sou uma Persona que estará com você.\nDe agora em diante, estou do seu lado.
-I am not a Shadow of this place...\nI've resided within the sea of the\nhuman soul since ancient times...=Eu não sou uma Sombra deste lugar...\nResidi no mar da\nalma humana desde tempos antigos...
+I am not a {{A}} of this place...\nI've resided within the sea of the\nhuman soul since ancient times...=Eu não sou uma Sombra deste lugar...\nResidi no mar da\nalma humana desde tempos antigos...
 My name is <color\=#72C5FF>Principality</color>.\nThat is your name as well...\nDo not forget this.=Meu nome é <color\=#72C5FF>Principado</color>.\nEsse é seu nome também...\nNão se esqueça disso.
-I'm no Shadow from this place. I used to be\nlivin' in that there sea of the human soul!=Eu não sou uma Sombra deste lugar. Eu costumava\nviver naquele mar da alma humana!
+I'm no {{A}} from this place. I used to be\nlivin' in that there sea of the human soul!=Eu não sou uma Sombra deste lugar. Eu costumava\nviver naquele mar da alma humana!
 From now on, call me <color\=#72C5FF>White Rider</color>.\nNo need fer honorifics, sonny.=De agora em diante, me chame de <color\=#72C5FF>Cavaleiro Branco</color>.\nNão precisa de formalidades, rapaz.
-I'm so not a Shadow that belongs here.\nI used to be in the humans' sea of souls...=Eu não sou uma Sombra que pertence aqui.\nEu costumava estar no mar de almas dos humanos...
+I'm so not a {{A}} that belongs here.\nI used to be in the humans' sea of souls...=Eu não sou uma Sombra que pertence aqui.\nEu costumava estar no mar de almas dos humanos...
 I'm <color\=#72C5FF>Kikuri-Hime</color>.\nI mean, I'm you after all, so\nlet's hope we get along!=Eu sou <color\=#72C5FF>Kikuri-Hime</color>.\nQuer dizer, afinal, eu sou você, então\nespero que a gente se dê bem!
-I'm no Shadow from this place. I used to be\nlivin' in that there sea of the human soul!=Eu não sou uma Sombra deste lugar. Eu costumava\nviver naquele mar da alma humana!
+I'm no {{A}} from this place. I used to be\nlivin' in that there sea of the human soul!=Eu não sou uma Sombra deste lugar. Eu costumava\nviver naquele mar da alma humana!
 From now on, call me <color\=#72C5FF>Red Rider</color>.\nNo need fer honorifics, sonny.=De agora em diante, me chame de <color\=#72C5FF>Cavaleiro Vermelho</color>.\nNão precisa de formalidades, rapaz.
-I'm so not a Shadow that belongs here.\nI used to be in the humans' sea of souls...=Eu não sou uma Sombra que pertence aqui.\nEu costumava estar no mar de almas dos humanos...
+I'm so not a {{A}} that belongs here.\nI used to be in the humans' sea of souls...=Eu não sou uma Sombra que pertence aqui.\nEu costumava estar no mar de almas dos humanos...
 I'm <color\=#72C5FF>Kushinada</color>.\nI mean, I'm you after all, so\nlet's hope we get along!=Eu sou <color\=#72C5FF>Kushinada</color>.\nQuer dizer, afinal, eu sou você, então\nespero que a gente se dê bem!
-I'm not the same as those Shadows\naround here. I came from the sea of\nthe human soul!=Eu não sou como as Sombras\npor aqui. Eu vim do mar\nda alma humana!
+I'm not the same as those {{A}}s\naround here. I came from the sea of\nthe human soul!=Eu não sou como as Sombras\npor aqui. Eu vim do mar\nda alma humana!
 I'm <color\=#72C5FF>Queen Mab</color>. This is the start of\nour very long relationship.=Eu sou <color\=#72C5FF>Rainha Mab</color>. Este é o começo de\nnossa longa relação.
-I'm so not a Shadow that belongs here.\nI used to be in the humans' sea of souls...=Eu não sou uma Sombra que pertence aqui.\nEu costumava estar no mar de almas dos humanos...
+I'm so not a {{A}} that belongs here.\nI used to be in the humans' sea of souls...=Eu não sou uma Sombra que pertence aqui.\nEu costumava estar no mar de almas dos humanos...
 I'm <color\=#72C5FF>Valkyrie</color>.\nI mean, I'm you after all, so\nlet's hope we get along!=Eu sou <color\=#72C5FF>Valquíria</color>.\nQuer dizer, afinal, eu sou você, então\nespero que a gente se dê bem!
-I'm not actually a Shadow. I... have existed\nin the sea of souls with humanity for all\ntime...=Eu não sou realmente uma Sombra. Eu... existi\nno mar de almas com a humanidade por todo o\ntempo...
+I'm not actually a {{A}}. I... have existed\nin the sea of souls with humanity for all\ntime...=Eu não sou realmente uma Sombra. Eu... existi\nno mar de almas com a humanidade por todo o\ntempo...
 I'm <color\=#72C5FF>Scathach</color>.\nI'm part of you too... That's how it\nreally is.=Eu sou <color\=#72C5FF>Scáthach</color>.\nEu sou parte de você também... É assim\nque realmente é.
-I'm not actually a Shadow. I... have existed\nin the sea of souls with humanity for all\ntime...=Eu não sou realmente uma Sombra. Eu... existi\nno mar de almas com a humanidade por todo o\ntempo...
+I'm not actually a {{A}}. I... have existed\nin the sea of souls with humanity for all\ntime...=Eu não sou realmente uma Sombra. Eu... existi\nno mar de almas com a humanidade por todo o\ntempo...
 I'm <color\=#72C5FF>Rangda</color>.\nI'm part of you too... That's how it\nreally is.=Eu sou <color\=#72C5FF>Rangda</color>.\nEu sou parte de você também... É assim\nque realmente é.
 I see... So it was my destiny to find\nmyself within you!=Entendo... Então era meu destino me encontrar\ndentro de você!
 My new name is <color\=#72C5FF>Koumokuten</color>.\nI am a Persona who'll be with you.\nFrom now on, I'm on your side.=Meu novo nome é <color\=#72C5FF>Koumokuten</color>.\nEu sou uma Persona que estará com você.\nDe agora em diante, estou do seu lado.
 I see... So it was my destiny to find\nmyself within you!=Entendo... Então era meu destino me encontrar\ndentro de você!
 My new name is <color\=#72C5FF>Narcissus</color>.\nI am a Persona who'll be with you.\nFrom now on, I'm on your side.=Meu novo nome é <color\=#72C5FF>Narciso</color>.\nEu sou uma Persona que estará com você.\nDe agora em diante, estou do seu lado.
-I'm not actually a Shadow. I... have existed\nin the sea of souls with humanity for all\ntime...=Eu não sou realmente uma Sombra. Eu... existi\nno mar de almas com a humanidade por todo o\ntempo...
+I'm not actually a {{A}}. I... have existed\nin the sea of souls with humanity for all\ntime...=Eu não sou realmente uma Sombra. Eu... existi\nno mar de almas com a humanidade por todo o\ntempo...
 I'm <color\=#72C5FF>Dakini</color>.\nI'm part of you too... That's how it\nreally is.=Eu sou <color\=#72C5FF>Dakini</color>.\nEu sou parte de você também... É assim\nque realmente é.
-I'm no Shadow from this place. I used to be\nlivin' in that there sea of the human soul!=Eu não sou uma Sombra deste lugar. Eu costumava\nviver naquele mar da alma humana!
+I'm no {{A}} from this place. I used to be\nlivin' in that there sea of the human soul!=Eu não sou uma Sombra deste lugar. Eu costumava\nviver naquele mar da alma humana!
 From now on, call me <color\=#72C5FF>Pale Rider</color>.\nNo need fer honorifics, sonny.=De agora em diante, me chame de <color\=#72C5FF>Cavaleiro Pálido</color>.\nNão precisa de formalidades, rapaz.
-Me am not a Shadow that belongs here.\nMe exist in the sea of souls of humans!=Eu não sou uma Sombra que pertence aqui.\nEu existo no mar de almas dos humanos!
+Me am not a {{A}} that belongs here.\nMe exist in the sea of souls of humans!=Eu não sou uma Sombra que pertence aqui.\nEu existo no mar de almas dos humanos!
 Me am <color\=#72C5FF>Yatagarasu</color>.\nMy power is your power...\nUse it how you want.=Eu sou <color\=#72C5FF>Yatagarasu</color>.\nMeu poder é seu poder...\nUse como quiser.
-I'm no Shadow from this place. I used to be\nlivin' in that there sea of the human soul!=Eu não sou uma Sombra deste lugar. Eu costumava\nviver naquele mar da alma humana!
+I'm no {{A}} from this place. I used to be\nlivin' in that there sea of the human soul!=Eu não sou uma Sombra deste lugar. Eu costumava\nviver naquele mar da alma humana!
 From now on, call me <color\=#72C5FF>Black Rider</color>.\nNo need fer honorifics, sonny.=De agora em diante, me chame de <color\=#72C5FF>Cavaleiro Negro</color>.\nNão precisa de formalidades, rapaz.
-I'm no Shadow from this place. I used to be\nlivin' in that there sea of the human soul!=Eu não sou uma Sombra deste lugar. Eu costumava\nviver naquele mar da alma humana!
+I'm no {{A}} from this place. I used to be\nlivin' in that there sea of the human soul!=Eu não sou uma Sombra deste lugar. Eu costumava\nviver naquele mar da alma humana!
 From now on, call me <color\=#72C5FF>Seiryu</color>.\nNo need fer honorifics, sonny.=De agora em diante, me chame de <color\=#72C5FF>Seiryu</color>.\nNão precisa de formalidades, rapaz.
 I see... So it was my destiny to find\nmyself within you!=Entendo... Então era meu destino me encontrar\ndentro de você!
 My new name is <color\=#72C5FF>Mithras</color>.\nI am a Persona who'll be with you.\nFrom now on, I'm on your side.=Meu novo nome é <color\=#72C5FF>Mitra</color>.\nEu sou uma Persona que estará com você.\nDe agora em diante, estou do seu lado.
-I'm not a Shadow that lives here! I'm\nfrom the sea of souls of you humans!=Eu não sou uma Sombra que vive aqui! Sou\ndo mar de almas de vocês, humanos!
+I'm not a {{A}} that lives here! I'm\nfrom the sea of souls of you humans!=Eu não sou uma Sombra que vive aqui! Sou\ndo mar de almas de vocês, humanos!
 I'm <color\=#72C5FF>Kushi Mitama</color>.\nFrom now on, I'm you.=Eu sou <color\=#72C5FF>Kushi Mitama</color>.\nDe agora em diante, eu sou você.
-I'm no Shadow from this place. I used to be\nlivin' in that there sea of the human soul!=Eu não sou uma Sombra deste lugar. Eu costumava\nviver naquele mar da alma humana!
+I'm no {{A}} from this place. I used to be\nlivin' in that there sea of the human soul!=Eu não sou uma Sombra deste lugar. Eu costumava\nviver naquele mar da alma humana!
 From now on, call me <color\=#72C5FF>Belial</color>.\nNo need fer honorifics, sonny.=De agora em diante, me chame de <color\=#72C5FF>Belial</color>.\nNão precisa de formalidades, rapaz.
 I see... So it was my destiny to find\nmyself within you!=Entendo... Então era meu destino me encontrar\ndentro de você!
 My new name is <color\=#72C5FF>Bishamonten</color>.\nI am a Persona who'll be with you.\nFrom now on, I'm on your side.=Meu novo nome é <color\=#72C5FF>Bishamonten</color>.\nEu sou uma Persona que estará com você.\nDe agora em diante, estou do seu lado.
-I'm no Shadow from this place. I used to be\nlivin' in that there sea of the human soul!=Eu não sou uma Sombra deste lugar. Eu costumava\nviver naquele mar da alma humana!
+I'm no {{A}} from this place. I used to be\nlivin' in that there sea of the human soul!=Eu não sou uma Sombra deste lugar. Eu costumava\nviver naquele mar da alma humana!
 From now on, call me <color\=#72C5FF>Nebiros</color>.\nNo need fer honorifics, sonny.=De agora em diante, me chame de <color\=#72C5FF>Nebiros</color>.\nNão precisa de formalidades, rapaz.
 I see... So it was my destiny to find\nmyself within you!=Entendo... Então era meu destino me encontrar\ndentro de você!
 My new name is <color\=#72C5FF>Dionysus</color>.\nI am a Persona who'll be with you.\nFrom now on, I'm on your side.=Meu novo nome é <color\=#72C5FF>Dionísio</color>.\nEu sou uma Persona que estará com você.\nDe agora em diante, estou do seu lado.
-I am not a Shadow of this place...\nI've resided within the sea of the\nhuman soul since ancient times...=Eu não sou uma Sombra deste lugar...\nResidi no mar da\nalma humana desde tempos antigos...
+I am not a {{A}} of this place...\nI've resided within the sea of the\nhuman soul since ancient times...=Eu não sou uma Sombra deste lugar...\nResidi no mar da\nalma humana desde tempos antigos...
 My name is <color\=#72C5FF>Melchizedek</color>.\nThat is your name as well...\nDo not forget this.=Meu nome é <color\=#72C5FF>Melquisedeque</color>.\nEsse é seu nome também...\nNão se esqueça disso.
-I am not a Shadow of this place...\nI've resided within the sea of the\nhuman soul since ancient times...=Eu não sou uma Sombra deste lugar...\nResidi no mar da\nalma humana desde tempos antigos...
+I am not a {{A}} of this place...\nI've resided within the sea of the\nhuman soul since ancient times...=Eu não sou uma Sombra deste lugar...\nResidi no mar da\nalma humana desde tempos antigos...
 My name is <color\=#72C5FF>Trumpeter</color>.\nThat is your name as well...\nDo not forget this.=Meu nome é <color\=#72C5FF>Trompetista</color>.\nEsse é seu nome também...\nNão se esqueça disso.
-I'm not actually a Shadow. I... have existed\nin the sea of souls with humanity for all\ntime...=Eu não sou realmente uma Sombra. Eu... existi\nno mar de almas com a humanidade por todo o\ntempo...
+I'm not actually a {{A}}. I... have existed\nin the sea of souls with humanity for all\ntime...=Eu não sou realmente uma Sombra. Eu... existi\nno mar de almas com a humanidade por todo o\ntempo...
 I'm <color\=#72C5FF>Skadi</color>.\nI'm part of you too... That's how it\nreally is.=Eu sou <color\=#72C5FF>Skadi</color>.\nEu sou parte de você também... É assim\nque realmente é.
 I'm <color\=#72C5FF>Jack-o'-Lantern</color>, hee-ho.=Eu sou <color\=#72C5FF>Jack-o'-Lantern</color>, hee-ho.
 Looking forward to working with you, ho!=Estou ansioso para trabalhar com você, ho!
@@ -3446,7 +3446,7 @@ I guess some of my classmates are like\nthat too.=Acho que alguns dos meus coleg
 Anyway, I should go meet up with Motoha.\nSee you later!=Enfim, preciso me encontrar com a Motoha.\nAté mais!
 Over here.=Por aqui.
 I've come to answer your questions\nas promised.=Vim responder suas perguntas\ncomo prometido.
-What you witnessed yesterday... Mementos\nand Shadows...=O que você testemunhou ontem... Mementos\ne Sombras...
+What you witnessed yesterday... Mementos\nand {{A}}s...=O que você testemunhou ontem... Mementos\ne Sombras...
 This isn't something for the faint of heart.\nAre you ready?=Isso não é para os fracos de coração.\nVocê está pronto?
 Ahoom. Very well then... The other world\nyou visited is called "Mementos."=Ahãm. Muito bem então... O outro mundo\nque você visitou se chama "Mementos".
 Mementos is an embodiment of the collective\nhuman unconscious, manifested as\nphysical space.=Mementos é uma personificação do inconsciente\nhumano coletivo, manifestado como\nespaço físico.
@@ -3457,23 +3457,23 @@ It is a dark world. Bleak, and malignant.\nA place that light itself cannot reac
 That is to say, at present, people cannot\neven imagine the existence of hope in\ntheir world.=Ou seja, no presente, as pessoas não conseguem\nsequer imaginar a existência da esperança em\nseu mundo.
 And I am sure you know why, do you not?=E tenho certeza que você sabe o porquê, não sabe?
 Precisely. You are quite the sharp one. Now,\nto continue...=Exatamente. Você é bem perspicaz. Agora,\ncontinuando...
-The {{A}} contains two distinct species\nof Shadows.=O Metaverso contém duas espécies distintas\nde Sombras.
+The {{A}} contains two distinct species\nof {{A}}s.=O Metaverso contém duas espécies distintas\nde Sombras.
 The first, enemies that attack with no rhyme\nor reason.=A primeira, inimigos que atacam sem eira\nnem beira.
-These Shadows are not human, but monsters\nformed from warped desire.=Essas Sombras não são humanas, mas monstros\nformados de desejo distorcido.
-The second, Shadows that are born from the\ndarkness of a human's heart in the\nreal world.=A segunda, Sombras que nascem da\nescuridão do coração de um humano no\nmundo real.
+These {{A}}s are not human, but monsters\nformed from warped desire.=Essas Sombras não são humanas, mas monstros\nformados de desejo distorcido.
+The second, {{A}}s that are born from the\ndarkness of a human's heart in the\nreal world.=A segunda, Sombras que nascem da\nescuridão do coração de um humano no\nmundo real.
 A person's true nature concealed within their\nheart, the embodiment of their desires... To\nput it differently, another self.=A verdadeira natureza de uma pessoa escondida em seu\ncoração, a personificação de seus desejos... Para\ndizer de outra forma, um outro eu.
 Hoohoo, you should already be aware of this.=Huhu, você já deve estar ciente disso.
-Because you awakened your Shadow as\na Persona.=Porque você despertou sua Sombra como\numa Persona.
+Because you awakened your {{A}} as\na Persona.=Porque você despertou sua Sombra como\numa Persona.
 However, not just anyone can control what\nlies inside their heart.=No entanto, não é qualquer um que pode controlar o que\nreside em seu coração.
-If by some reason one's desires become\ncorrupted, their Shadow will run amok.=Se, por alguma razão, os desejos de alguém se tornarem\ncorrompidos, sua Sombra se descontrolará.
+If by some reason one's desires become\ncorrupted, their {{A}} will run amok.=Se, por alguma razão, os desejos de alguém se tornarem\ncorrompidos, sua Sombra se descontrolará.
 In the real world that person becomes\nwilling to hurt others with reckless abandon.=No mundo real, essa pessoa se torna\ndisposta a ferir os outros com abandono imprudente.
-In my estimation, the Shadow of someone from\nthe real world is the central cause of the\nproblem we are facing now.=Na minha estimativa, a Sombra de alguém do\nmundo real é a causa central do\nproblema que estamos enfrentando agora.
+In my estimation, the {{A}} of someone from\nthe real world is the central cause of the\nproblem we are facing now.=Na minha estimativa, a Sombra de alguém do\nmundo real é a causa central do\nproblema que estamos enfrentando agora.
 That person has been using the {{A}} as\na means to exploit the desires of others.\nAnd I am intent on catching them.=Essa pessoa tem usado o Metaverso como\nmeio de explorar os desejos dos outros.\nE eu estou decidido a pegá-la.
 Of course it is not something one might\naccept so easily, but you have witnessed it\nfor yourself.=Claro que não é algo que se aceite\ncom facilidade, mas você testemunhou\ncom seus próprios olhos.
-Shadows, the {{A}}, and what becomes of\nthose people who've lost all desire.=Sombras, o Metaverso, e o que se torna\ndas pessoas que perderam todo o desejo.
-To make matters worse, when a human's\nShadow goes out of control...=Para piorar as coisas, quando a Sombra de um\nhumano sai de controle...
-...their warped desire can influence the\nShadows around them.=...seu desejo distorcido pode influenciar as\nSombras ao seu redor.
-While it may be inadvertent, the triggering\nof those Shadows...=Embora possa ser inadvertido, o desencadeamento\ndaquelas Sombras...
+{{A}}s, the {{A}}, and what becomes of\nthose people who've lost all desire.=Sombras, o Metaverso, e o que se torna\ndas pessoas que perderam todo o desejo.
+To make matters worse, when a human's\n{{A}} goes out of control...=Para piorar as coisas, quando a Sombra de um\nhumano sai de controle...
+...their warped desire can influence the\n{{A}}s around them.=...seu desejo distorcido pode influenciar as\nSombras ao seu redor.
+While it may be inadvertent, the triggering\nof those {{A}}s...=Embora possa ser inadvertido, o desencadeamento\ndaquelas Sombras...
 ...stands as one cause for the loss of hope\nseen across the real world.=...representa uma causa para a perda de esperança\nvista em todo o mundo real.
 However, much about the {{A}} still\neludes me. Therefore, it is of critical\nimportance we learn more about it.=No entanto, muito sobre o Metaverso ainda\nme escapa. Portanto, é de importância\ncrítica que aprendamos mais sobre ele.
 I hate to throw so much at you at once, but\nI would like to move on to discussing the\njob I have for you.=Odeio jogar tanta coisa em você de uma vez, mas\ngostaria de passar a discutir o\ntrabalho que tenho para você.
@@ -3528,12 +3528,12 @@ I feel the same.=Sinto o mesmo.
 To him, it's just an ordinary habit. But the root cause lies in the {{A}}.=Para ele, é apenas um hábito comum. Mas a causa raiz reside no Metaverso.
 I'm sure you can figure out why.=Tenho certeza que você consegue descobrir o porquê.
 Precisely. Although...=Exatamente. Embora...
-I have yet to confirm the state of his Shadow for myself, so it is just conjecture at this point.=Ainda não confirmei o estado de sua Sombra por mim mesmo, então é apenas uma conjectura neste momento.
+I have yet to confirm the state of his {{A}} for myself, so it is just conjecture at this point.=Ainda não confirmei o estado de sua Sombra por mim mesmo, então é apenas uma conjectura neste momento.
 At a glance, this sort of behavior might not seem all that threatening to some.=À primeira vista, este tipo de comportamento pode não parecer tão ameaçador para alguns.
 For that reason, the police refuse to take\naction. Simply claiming it was an "accident"\nis enough for them to drop the issue.=Por essa razão, a polícia se recusa a tomar\nprovidências. Simplesmente alegar que foi um "acidente"\né suficiente para eles abandonarem o assunto.
 So the victims are left with no recourse but to give up, as their faith in the world erodes away.=Então as vítimas ficam sem recurso senão desistir, enquanto sua fé no mundo se esvai.
 To be precise, Kiuchi's self-serving misdeeds are causing his victims to lose hope.=Para ser preciso, as ações egoístas de Kiuchi estão fazendo suas vítimas perderem a esperança.
-It won't work. If his Shadow is running loose, then...=Não vai funcionar. Se a Sombra dele estiver à solta, então...
+It won't work. If his {{A}} is running loose, then...=Não vai funcionar. Se a Sombra dele estiver à solta, então...
 ...there's no way for us to stop his actions in the real world, and no chance he'll listen to reason.=...não há como pararmos suas ações no mundo real, e nenhuma chance de ele ouvir a razão.
 The irony is, as long as he continues to believe there's nothing wrong with his behavior...=A ironia é que, enquanto ele continuar a acreditar que não há nada de errado com seu comportamento...
 ...he will never change, and there's nothing anyone can do about it.=...ele nunca mudará, e não há nada que alguém possa fazer a respeito.
@@ -3566,9 +3566,9 @@ Their desires are being siphoned just like\neveryone else's.=Seus desejos estão
 Sometimes there are problems of such\nmagnitude it takes the whole world working\ntogether to reach a solution.=Às vezes, há problemas de tal\nmagnitude que é preciso que o mundo inteiro trabalhe\njunto para chegar a uma solução.
 In our current state, even people's basic\nhuman desires are evaporating.\nWe are in crisis.=Em nosso estado atual, até mesmo os desejos humanos\nbásicos das pessoas estão evaporando.\nEstamos em crise.
 There is a way for us to stop it.=Existe uma maneira de pararmos isso.
-We find Kiuchi's Shadow in the {{A}}\nand steal a certain precious item from it,\nthereby becoming {{A}}.=Encontramos a Sombra de Kiuchi no Metaverso\ne roubamos um certo item precioso dela,\ntornando-nos assim Ladrões-Fantasma.
+We find Kiuchi's {{A}} in the {{A}}\nand steal a certain precious item from it,\nthereby becoming {{A}}.=Encontramos a Sombra de Kiuchi no Metaverso\ne roubamos um certo item precioso dela,\ntornando-nos assim Ladrões-Fantasma.
 I refer to such items as <color\=#FF423F>Treasure</color>.\nBut before we get into that...=Eu me refiro a tais itens como <color\=#FF423F>Tesouro</color>.\nMas antes de entrarmos nisso...
-As you are aware, the {{A}} is filled\nwith Shadows and other dangers\nyet unknown to us.=Como você sabe, o Metaverso está repleto\nde Sombras e outros perigos\nainda desconhecidos para nós.
+As you are aware, the {{A}} is filled\nwith {{A}}s and other dangers\nyet unknown to us.=Como você sabe, o Metaverso está repleto\nde Sombras e outros perigos\nainda desconhecidos para nós.
 Here's what I need you to understand\ngoing forward.=Aqui está o que eu preciso que você entenda\nde agora em diante.
 By taking on this job together, you and I\nwill become business partners.=Ao assumir este trabalho juntos, você e eu\nnos tornaremos parceiros de negócios.
 Do you truly understand what it means to be\na {{A}}?=Você realmente entende o que significa ser\num Ladrão-Fantasma?
@@ -3579,7 +3579,7 @@ But I want you to remember this.=Mas quero que se lembre disto.
 All those who've been abused by the\negocentric actions of people like Kiuchi\ncontinue to lose hope every day.=Todos aqueles que foram abusados pelas\nações egocêntricas de pessoas como Kiuchi\ncontinuam perdendo a esperança a cada dia.
 The worst outcome being that abuse drives them to take their own lives.=O pior resultado é que o abuso os leva a tirar a própria vida.
 But you... You awakened your Persona through your unquenchable thirst for life.=Mas você... Você despertou sua Persona através de sua sede insaciável pela vida.
-And seeing as Shadows can only be defeated by Personas...=E, visto que as Sombras só podem ser derrotadas por Personas...
+And seeing as {{A}}s can only be defeated by Personas...=E, visto que as Sombras só podem ser derrotadas por Personas...
 You are the only one who can take action against them.=Você é o único que pode agir contra eles.
 If fiends like Kiuchi are pushing people to the brink of despair...=Se demônios como Kiuchi estão levando as pessoas à beira do desespero...
 ...then you may have the power to lead them back to light.=...então você pode ter o poder de levá-los de volta à luz.
@@ -3617,7 +3617,7 @@ I'm not sure myself, but this is another intuition that I have. I shall hencefor
 I will share the details of the job as we make our way, including the Treasure I mentioned earlier.=Compartilharei os detalhes do trabalho enquanto avançamos, incluindo o Tesouro que mencionei anteriormente.
 Now then, Wonder, let's move.=Pois bem, Wonder, vamos nos mover.
 Argh! To think I didn't take notice of the enemy's approach!=Argh! Pensar que não percebi a aproximação do inimigo!
-These Shadows must be under the influence of Kiuchi's warped desire.=Essas Sombras devem estar sob a influência do desejo distorcido de Kiuchi.
+These {{A}}s must be under the influence of Kiuchi's warped desire.=Essas Sombras devem estar sob a influência do desejo distorcido de Kiuchi.
 Wonder! Strike them down!=Wonder! Derrube-os!
 No need for combat instructions anymore, correct? Cut your way through them one by one!=Não há mais necessidade de instruções de combate, correto? Acabe com eles um por um!
 Well, that's sorted. Let's make quick work of the rest.=Bem, isso está resolvido. Vamos acabar com o resto rapidamente.
@@ -3625,7 +3625,7 @@ Reinforcements!?=Reforços!?
 Tch, now we're surrounded. This is bad!=Tsc, agora estamos cercados. Isso é ruim!
 I'd really like to, but our way out is blocked!=Eu adoraria, mas nossa saída está bloqueada!
 Ngh! We'll have to fight our way out.=Ngh! Teremos que lutar para sair.
-I'll deal with the Shadows behind us. You cut your way through!=Vou lidar com as Sombras atrás de nós. Você abre caminho!
+I'll deal with the {{A}}s behind us. You cut your way through!=Vou lidar com as Sombras atrás de nós. Você abre caminho!
 Wonder!=Wonder!
 Who is that?=Quem é esse?
 Follow my lead!=Siga meu exemplo!
@@ -3664,7 +3664,7 @@ Envision it as two singers performing\ntogether in a duet.=Visualize como dois c
 Like a duo of idols in concert, these\ncognitive forms will act as your backup in battle.=Como uma dupla de ídolos em um concerto, essas\nformas cognitivas atuarão como seu apoio em batalha.
 We shall call them <color\=#FF423F>Phantom Idols</color>!=Nós os chamaremos de <color\=#FF423F>Ídolos-Fantasma</color>!
 The Phantom Idols find inspiration from\nyour own Persona.=Os Ídolos-Fantasma encontram inspiração em\nsua própria Persona.
-I have formed this prototype out of Shadows\nfrom Mementos and the desires of those\npersons stored in your cognition.=Eu formei este protótipo a partir de Sombras\nde Mementos e os desejos daquelas\npessoas armazenados em sua cognição.
+I have formed this prototype out of {{A}}s\nfrom Mementos and the desires of those\npersons stored in your cognition.=Eu formei este protótipo a partir de Sombras\nde Mementos e os desejos daquelas\npessoas armazenados em sua cognição.
 To act as {{A}}, they will require\ncode names of their own.=Para agir como Ladrões-Fantasma, eles precisarão\nde nomes de código próprios.
 Consequently, please forgive my boldness,\nas I designate names for each of them.=Consequentemente, por favor, perdoe minha audácia,\npois designo nomes para cada um deles.
 Hehe. I haven't felt such a sense of\naccomplishment as I do this moment.=Hehe. Não sinto um senso de\nrealização como neste momento.
@@ -3703,7 +3703,7 @@ Start the engine and step on the gas. Then\nuse the wheel to steer.=Ligue o moto
 I'll keep an eye out and take action if\nneed be.=Vou ficar de olho e tomar uma atitude se\nfor preciso.
 Excellent. Now let's get to work.=Excelente. Agora, vamos ao trabalho.
 First, let's head deeper into Mementos.\nI will alert you as we approach\nour destination.=Primeiro, vamos mais fundo em Mementos.\nAvisarei quando estivermos nos aproximando\ndo nosso destino.
-Shadows... But our destination is just ahead.\nWe're going to have to fight them.=Sombras... Mas nosso destino está logo à frente.\nVamos ter que lutar contra elas.
+{{A}}s... But our destination is just ahead.\nWe're going to have to fight them.=Sombras... Mas nosso destino está logo à frente.\nVamos ter que lutar contra elas.
 There aren't as many as before, but don't\ndrop your guard. Here they come!=Não há tantos como antes, mas não\nbaixe a guarda. Aí vêm eles!
 A new enemy!?=Um novo inimigo!?
 You know what that is? Then I trust you.\nLet's wipe out those enemies.=Você sabe o que é isso? Então eu confio em você.\nVamos acabar com esses inimigos.
@@ -3729,8 +3729,8 @@ You probably can't hear it yourself, but I\nuse it to gather information on\nthe
 It's certainly around her— Hm?=Está certamente por aqui— Hm?
 There's no mistake. Kiuchi's <color\=#FF423F>{{A}}</color>\nis just ahead.=Não há erro. O <color\=#FF423F>Palácio</color> de Kiuchi\nestá logo à frente.
 Within the vast bounds of Mementos exist locations manifested from the warped desires of certain individuals.=Dentro dos vastos limites de Mementos existem locais manifestados a partir dos desejos distorcidos de certos indivíduos.
-Like a fortress from which the Shadow of an unscrupulous human can steal other's desires.=Como uma fortaleza da qual a Sombra de um humano inescrupuloso pode roubar os desejos de outros.
-Here Kiuchi rules as the castle's king, and enemy Shadows are his loyal subjects.=Aqui, Kiuchi governa como o rei do castelo, e as Sombras inimigas são seus súditos leais.
+Like a fortress from which the {{A}} of an unscrupulous human can steal other's desires.=Como uma fortaleza da qual a Sombra de um humano inescrupuloso pode roubar os desejos de outros.
+Here Kiuchi rules as the castle's king, and enemy {{A}}s are his loyal subjects.=Aqui, Kiuchi governa como o rei do castelo, e as Sombras inimigas são seus súditos leais.
 This {{A}} is also the site of our first job.=Este Palácio também é o local do nosso primeiro trabalho.
 Come along, Wonder!=Vamos, Wonder!
 So this is Kiuchi's {{A}}, huh? Looks a lot more like a baseball stadium to me.=Então, este é o Palácio de Kiuchi, hein? Parece muito mais com um estádio de beisebol para mim.
@@ -3744,7 +3744,7 @@ It will leave no trace of our intrusion, in addition to being quite stylish.=Iss
 Taking an alternative entrance feels much more suited to us {{A}}.=Entrar por uma entrada alternativa parece muito mais adequado para nós, Ladrões-Fantasma.
 However, we'll have to put a pause on that plan for the moment...=No entanto, teremos que pausar esse plano por enquanto...
 Sorry to disappoint you, but I am unable to fly in the {{A}}.=Desculpe desapontá-lo, mas não consigo voar no Metaverso.
-Besides, I would stand no chance against enemy Shadows as an owl.=Além disso, eu não teria chance contra as Sombras inimigas como uma coruja.
+Besides, I would stand no chance against enemy {{A}}s as an owl.=Além disso, eu não teria chance contra as Sombras inimigas como uma coruja.
 And of course, this form has a much more stylish, {{A}} feel to it, don't you agree?=E, claro, esta forma tem uma sensação muito mais estilosa, de Ladrão-Fantasma, você não concorda?
 I think I know of a way in.=Acho que sei um jeito de entrar.
 Simply locating Kiuchi's {{A}} is good enough for today.=Apenas localizar o Palácio de Kiuchi é bom o suficiente por hoje.
@@ -4132,7 +4132,7 @@ That girl... It appears she is able to sense the {{A}}.=Aquela garota... Parece 
 She must have known you disappeared from the train because she witnessed it happen.=Ela deve ter sabido que você desapareceu do trem porque presenciou o acontecido.
 Did she come here because she anticipated our next move?=Será que ela veio aqui porque antecipou nosso próximo movimento?
 I appreciate the sincerity of her desire, but...=Agradeço a sinceridade do desejo dela, mas...
-If a human without a Persona gets lost in the {{A}}, they're sure to fall victim to wandering Shadows.=Se um humano sem Persona se perder no Metaverso, com certeza será vítima de Sombras errantes.
+If a human without a Persona gets lost in the {{A}}, they're sure to fall victim to wandering {{A}}s.=Se um humano sem Persona se perder no Metaverso, com certeza será vítima de Sombras errantes.
 Therefore we cannot allow her to get mixed up in this. Nor can we take our eyes off her, given the situation.=Portanto, não podemos permitir que ela se envolva nisso. Nem podemos tirar os olhos dela, dada a situação.
 For all we know, she could be searching for Kiuchi. If she finds him, she might be the one in danger.=Até onde sabemos, ela pode estar procurando por Kiuchi. Se o encontrar, ela pode ser quem corre perigo.
 I'm not proud to say it, but we should surveil this Motoha Arai before entering the {{A}}.=Não me orgulho de dizer isso, mas devemos vigiar esta Motoha Arai antes de entrar no Metaverso.
@@ -4207,7 +4207,7 @@ If we manage to steal it, we can induce a change of heart in Kiuchi.=Se consegui
 Therefore, locating the Treasure that's hidden somewhere in the heart of this {{A}} is top priority.=Portanto, localizar o Tesouro que está escondido em algum lugar no coração deste Palácio é a principal prioridade.
 Well, like any treasure, we can expect it to be tightly guarded. Therefore we should focus on learning its location first.=Bem, como qualquer tesouro, podemos esperar que seja bem guardado. Portanto, devemos nos concentrar em descobrir sua localização primeiro.
 The enemies here are likely more aggressive than the ones we've faced thus far.=Os inimigos aqui provavelmente são mais agressivos do que os que enfrentamos até agora.
-That is, the Shadows of this {{A}} are distinct from those inside Mementos.=Ou seja, as Sombras deste Palácio são distintas daquelas dentro de Mementos.
+That is, the {{A}}s of this {{A}} are distinct from those inside Mementos.=Ou seja, as Sombras deste Palácio são distintas daquelas dentro de Mementos.
 Under the control of Kiuchi's intense desires, they have forgotten their true forms.=Sob o controle dos intensos desejos de Kiuchi, eles esqueceram suas verdadeiras formas.
 They will obey his desire and stop at nothing to destroy us for the sake of their king.=Eles obedecerão ao desejo dele e não pararão por nada para nos destruir pelo bem de seu rei.
 If you feel underprepared, we could always return to the real world and stock up on whatever items we need.=Se você se sentir despreparado, sempre podemos voltar ao mundo real e nos abastecer com quaisquer itens que precisarmos.
@@ -4222,7 +4222,7 @@ Just a joke...=Apenas uma piada...
 What was that again, about a change of heart...?=O que foi aquilo de novo, sobre uma mudança de coração...?
 {{A}} Navigator...=Navegador do Metaverso...
 Aha! That room is...=Aha! Aquela sala é...
-Wonder, take out that Shadow. If this goes well, we'll have a safe place to rest inside the {{A}}.=Wonder, elimine aquela Sombra. Se tudo correr bem, teremos um lugar seguro para descansar dentro do Palácio.
+Wonder, take out that {{A}}. If this goes well, we'll have a safe place to rest inside the {{A}}.=Wonder, elimine aquela Sombra. Se tudo correr bem, teremos um lugar seguro para descansar dentro do Palácio.
 Simply superb! You've really gotten the hang of this, Wonder.=Simplesmente soberbo! Você realmente pegou o jeito, Wonder.
 You seem awfully satisfied.=Você parece muito satisfeito.
 Hey, listen! Do you think I'll ever feel\nfulfilled like that?=Ei, escuta! Você acha que eu algum dia me sentirei\nrealizado assim?
@@ -4231,14 +4231,14 @@ You somehow remind me of myself... Wait...=De alguma forma, você me lembra de m
 I'd forgotten. I originated from humanity's Sea of Souls...=Eu tinha esquecido. Eu vim do Mar de Almas da humanidade...
 My true name is... Oh right! It's <color\=#FF423F>Pixie</color>!=Meu nome verdadeiro é... Ah, certo! É <color\=#FF423F>Pixie</color>!
 From now on, I will become a part of you! Your devotion and desire!=De agora em diante, serei parte de você! Sua devoção e seu desejo!
-What was that? The Shadow became your mask?=O que foi isso? A Sombra se tornou sua máscara?
+What was that? The {{A}} became your mask?=O que foi isso? A Sombra se tornou sua máscara?
 This is beyond my comprehension as well, but...=Isso está além da minha compreensão também, mas...
-It seems like the Shadow's desire to join you transformed it into a Persona for you to use.=Parece que o desejo da Sombra de se juntar a você a transformou em uma Persona para você usar.
+It seems like the {{A}}'s desire to join you transformed it into a Persona for you to use.=Parece que o desejo da Sombra de se juntar a você a transformou em uma Persona para você usar.
 Or something like that...?=Ou algo assim...?
 Well, either way we defeated the enemy. We can talk it over more inside the room just ahead.=Bem, de qualquer forma, derrotamos o inimigo. Podemos conversar mais sobre isso dentro da sala logo à frente.
 It's just a hunch, but I think this room...=É apenas um palpite, mas acho que esta sala...
 Yes. Let's go in, Wonder.=Sim. Vamos entrar, Wonder.
-We can catch our breath for a while. The Shadows won't come in here.=Podemos recuperar o fôlego por um tempo. As Sombras não entrarão aqui.
+We can catch our breath for a while. The {{A}}s won't come in here.=Podemos recuperar o fôlego por um tempo. As Sombras não entrarão aqui.
 The distortion of the {{A}} is weaker in this room.=A distorção do Palácio é mais fraca nesta sala.
 That means this is a safe place for us...\nA <color\=#FF423F>Safe Room</color>, if you will.=Isso significa que este é um lugar seguro para nós...\nUma <color\=#FF423F>Sala Segura</color>, se preferir.
 But I'm still not convinced we can rest here safely. I'd like to poke around a bit more just to be sure.=Mas ainda não estou convencido de que podemos descansar aqui com segurança. Gostaria de dar uma olhada um pouco mais para ter certeza.
@@ -4247,7 +4247,7 @@ We are referring to the new Persona you have gained.=Estamos nos referindo à no
 Normally, a single human can possess only\none Persona... but you are capable of\nharnessing many more.=Normalmente, um único humano pode possuir apenas\numa Persona... mas você é capaz de\nusar muitas mais.
 I believe I've told you this before...=Acho que já te disse isso antes...
 You are capable of reawakening not just your own, but others' forgotten desires.=Você é capaz de redespertar não apenas seus próprios desejos, mas também os dos outros.
-This applies to Shadows as well. Your exuberant passion for life holds infinite possibilities.=Isso se aplica às Sombras também. Sua paixão exuberante pela vida possui infinitas possibilidades.
+This applies to {{A}}s as well. Your exuberant passion for life holds infinite possibilities.=Isso se aplica às Sombras também. Sua paixão exuberante pela vida possui infinitas possibilidades.
 Heheh. We shall call this ability of yours\nthe power of the <color\=#FF423F>wild card</color>.=Heheh. Vamos chamar essa sua habilidade\nde poder do <color\=#FF423F>curinga</color>.
 This rare power allows you to yield multiple Personas. Use it wisely.=Este raro poder permite que você utilize múltiplas Personas. Use-o com sabedoria.
 You, who have awakened to this power, hold even more potential...=Você, que despertou para este poder, possui ainda mais potencial...
@@ -4259,7 +4259,7 @@ So long as you steadfastly cultivate desire, a path will surely open itself to y
 Apologies for the abrupt summons. For now, please proceed the way your will directs you.=Desculpe pela convocação abrupta. Por enquanto, prossiga da maneira que sua vontade o guiar.
 Something the matter, Wonder? You've been quite still for some time.=Algo errado, Wonder? Você está quieto há algum tempo.
 Well, no matter. I've searched the room, and it seems to be free of danger.=Bem, não importa. Vasculhei a sala e parece estar livre de perigo.
-Shadows won't be coming to steal our desires in here, so we can prepare and strategize at ease.=As Sombras não virão roubar nossos desejos aqui, então podemos nos preparar e planejar com tranquilidade.
+{{A}}s won't be coming to steal our desires in here, so we can prepare and strategize at ease.=As Sombras não virão roubar nossos desejos aqui, então podemos nos preparar e planejar com tranquilidade.
 Let me know when you are ready to depart. And don't forget to prepare.=Avise-me quando estiver pronto para partir. E não se esqueça de se preparar.
 So Kiuchi was a baseball player? That doesn't match the impression he gave off in Shibuya.=Então, Kiuchi era um jogador de beisebol? Isso não combina com a impressão que ele deu em Shibuya.
 Anyhoo, how are you thinking we should proceed from here? Are there any leads we can—=Enfim, como você acha que devemos prosseguir a partir daqui? Há alguma pista que possamos—
@@ -4280,7 +4280,7 @@ This is Kiuchi's {{A}}. The decor has materialized from his cognitions.=Este é 
 Kiuchi's... {{A}}? Built from his... cognitions?=O Palácio... de Kiuchi? Construído a partir de suas... cognições?
 Mhmmm... Aha! I get it! This is a dream! Yup, for sure.=Mhmmm... Aha! Entendi! Isso é um sonho! Sim, com certeza.
 While I appreciate her tenacity, we need to get her out of here right now.=Embora eu aprecie a tenacidade dela, precisamos tirá-la daqui agora mesmo.
-We may not be able to defend her if Shadows come attacking.=Podemos não conseguir defendê-la se as Sombras atacarem.
+We may not be able to defend her if {{A}}s come attacking.=Podemos não conseguir defendê-la se as Sombras atacarem.
 Hmph. Automatic lock, eh?=Hmph. Fechadura automática, hein?
 There must be a clue around here somewhere that shows how to get out.=Deve haver uma pista por aqui em algum lugar que mostre como sair.
 Wait, what? We're locked in!?=Espere, o quê? Estamos trancados!?
@@ -4347,7 +4347,7 @@ Better yet, he got knocked flat on his back trying to stop it. That must have da
 Yeah... Kiuchi has been in a big slump ever since...=Sim... O Kiuchi entrou numa grande crise desde então...
 All because I hit that pitch...=Tudo porque eu rebati aquele arremesso...
 I see we have a lot to process here, but now is not the time.=Vejo que temos muito o que processar aqui, mas agora não é a hora.
-Shadows could burst in here any minute. We must find some means of escape.=As Sombras podem invadir aqui a qualquer minuto. Precisamos encontrar um meio de escapar.
+{{A}}s could burst in here any minute. We must find some means of escape.=As Sombras podem invadir aqui a qualquer minuto. Precisamos encontrar um meio de escapar.
 Although I do wonder... why were we just shown a video of Kiuchi's past?=Embora eu me pergunte... por que acabamos de assistir a um vídeo do passado de Kiuchi?
 ......=......
 Something feels off about this. It's as if someone planned to make us watch that video.=Algo parece estranho nisso. É como se alguém tivesse planejado para nós assistirmos aquele vídeo.
@@ -4417,8 +4417,8 @@ Let's see you bow your head in shame!=Quero ver você abaixar a cabeça de vergo
 Tch! She's been captured!=Tsc! Ela foi capturada!
 {NAME1}-kun?={NAME1}-kun?
 Oh look, your little friends are here. What's with all these damn intruders?=Oh, olhem só, seus amiguinhos estão aqui. Que diabos tem com todos esses intrusos?
-Is that... Kiuchi's Shadow!?=Aquela é... a Sombra do Kiuchi!?
-Shadows are the embodiment of a human's hidden, inner self. That form is a manifestation of his desires.=Sombras são a personificação do eu interior oculto de um humano. Aquela forma é uma manifestação de seus desejos.
+Is that... Kiuchi's {{A}}!?=Aquela é... a Sombra do Kiuchi!?
+{{A}}s are the embodiment of a human's hidden, inner self. That form is a manifestation of his desires.=Sombras são a personificação do eu interior oculto de um humano. Aquela forma é uma manifestação de seus desejos.
 But more importantly, we need to save Motoha Arai!=Mas, mais importante, precisamos salvar Motoha Arai!
 Yeah right!=Até parece!
 You can just stand and watch. My business is with this one.=Vocês podem apenas ficar e assistir. Meu assunto é com esta aqui.
@@ -4519,7 +4519,7 @@ I can keep going... Let's get Kiuchi and—=Eu posso continuar... Vamos pegar o 
 Get in.=Entre.
 {NAME1}-kun, truth is...={NAME1}-kun, na verdade...
 I'm starving...=Estou morrendo de fome...
-The {{A}}, cognitions, {{A}}s, and Kiuchi's Shadow... Right.=O Metaverso, cognições, Palácios e a Sombra do Kiuchi... Certo.
+The {{A}}, cognitions, {{A}}s, and Kiuchi's {{A}}... Right.=O Metaverso, cognições, Palácios e a Sombra do Kiuchi... Certo.
 You seem to have picked it all up quite quickly. Were you even shaken when you got lost in the {{A}}?=Você parece ter pego tudo muito rapidamente. Você sequer se abalou quando se perdeu no Metaverso?
 Not really... It was more like I thought it was all a dream.=Na verdade não... Foi mais como se eu pensasse que era tudo um sonho.
 But I used the {{A}} Navigator, went to the {{A}}, and saw everything with my own eyes...=Mas eu usei o Navegador do Metaverso, fui ao Palácio e vi tudo com meus próprios olhos...
@@ -4535,7 +4535,7 @@ Until a few years ago he was this incredible,\nfiery rookie that everyone said w
 Back when I used to play... I always thought he was so cool...=Na época em que eu jogava... eu sempre o achava tão legal...
 Oh, we have to talk about that! Total misogynist creep, right!?=Ah, temos que falar sobre isso! Totalmente misógino e nojento, certo!?
 Well, that and... "Bizarre" isn't quite the right word... I suppose you could say he laid his desires bare for all to see.=Bem, isso e... "Bizarro" não é bem a palavra certa... Suponho que se possa dizer que ele expôs seus desejos para todos verem.
-There are other Shadows of people that exist within Mementos besides Kiuchi.=Existem outras Sombras de pessoas em Mementos além de Kiuchi.
+There are other {{A}}s of people that exist within Mementos besides Kiuchi.=Existem outras Sombras de pessoas em Mementos além de Kiuchi.
 But his is the first I've ever seen with its own {{A}}, and so deeply infected by desire I might add.=Mas a dele é a primeira que já vi com seu próprio Palácio, e tão profundamente infectada por desejo, devo acrescentar.
 That's exactly why we have to change his heart. Especially since the real Kiuchi shows no signs of stopping on his own.=É exatamente por isso que temos que mudar o coração dele. Especialmente porque o verdadeiro Kiuchi não mostra sinais de parar por conta própria.
 So, what you were saying at lunch, about how\nwe're supposed to change Kiuchi's heart...\nI think I got the gist of it, but...=Então, o que você estava dizendo no almoço, sobre como\ndeveríamos mudar o coração de Kiuchi...\nAcho que entendi o essencial, mas...
@@ -4550,7 +4550,7 @@ However, that does not mean the desires he stole from others will return to thei
 All those people will have to recover by their own strength. Tomoko included.=Todas essas pessoas terão que se recuperar por suas próprias forças. Tomoko inclusa.
 So we can't take everything back with just the change of heart. Okay, well, this time it's my turn to be there for Tomoko.=Então não podemos pegar tudo de volta apenas com a mudança de coração. Ok, bem, desta vez é minha vez de estar lá pela Tomoko.
 Speaking of, we really need to stop Kiuchi as soon as possible. Before someone else gets hurt as badly as she did.=Falando nisso, precisamos mesmo parar o Kiuchi o mais rápido possível. Antes que mais alguém se machuque tanto quanto ela.
-Steady now. We just had a rather precarious encounter with those Shadows back in the {{A}}.=Calma agora. Acabamos de ter um encontro bastante precário com aquelas Sombras no Metaverso.
+Steady now. We just had a rather precarious encounter with those {{A}}s back in the {{A}}.=Calma agora. Acabamos de ter um encontro bastante precário com aquelas Sombras no Metaverso.
 By now the {{A}}'s security has certainly tightened, and it will take time for us to come up with a plan of action.=A esta altura, a segurança do Palácio certamente se apertou, e levará tempo para elaborarmos um plano de ação.
 Since the incident with Tomoko happened so recently, Kiuchi will likely be more cautious.=Como o incidente com a Tomoko aconteceu tão recentemente, Kiuchi provavelmente será mais cauteloso.
 Therefore, now is not the time to be hasty. If we take a misstep, it's all over.=Portanto, agora não é hora de sermos precipitados. Se dermos um passo em falso, tudo acaba.
@@ -4696,20 +4696,20 @@ By the way, I also saw some sort of fundraising drive in front of Shibuya Statio
 I remember you had some video games in your room.=Lembro-me que você tinha alguns videogames no seu quarto.
 It's quite amusing to watch you play them. Show me again when you have time.=É bastante divertido assistir você jogá-los. Mostre-me novamente quando tiver tempo.
 It seems we can't proceed from here. Let's look for another route.=Parece que não podemos prosseguir por aqui. Vamos procurar outra rota.
-Perfect timing. Let's test the power we just acquired on that Shadow over there.=Momento perfeito. Vamos testar o poder que acabamos de adquirir naquela Sombra ali.
+Perfect timing. Let's test the power we just acquired on that {{A}} over there.=Momento perfeito. Vamos testar o poder que acabamos de adquirir naquela Sombra ali.
 I sense the same energy from this as the\n<color\=#FF423F>Red Fog</color>.=Sinto a mesma energia disso que a da\n<color\=#FF423F>Névoa Vermelha</color>.
 The power of the wave seems quite weak, but \nit might be enough to open the door from \nearlier.=O poder da onda parece bem fraco, mas\npode ser suficiente para abrir a porta de\nantes.
 To proceed further, it seems we need to collect more of these objects.=Para prosseguir, parece que precisamos coletar mais destes objetos.
 For now, try using it on the door from earlier.=Por enquanto, tente usá-lo na porta de antes.
 No problem. I sense a presence nearby.=Sem problemas. Sinto uma presença por perto.
-The Shadow ahead has a peculiar presence...=A Sombra à frente tem uma presença peculiar...
+The {{A}} ahead has a peculiar presence...=A Sombra à frente tem uma presença peculiar...
 I sense something from within its form. It appears to have amassed human desire within itself...=Sinto algo de dentro de sua forma. Parece ter acumulado desejo humano dentro de si...
 This is just my guess, but did it swallow a stack of tickets...?=Isso é apenas meu palpite, mas será que ele engoliu uma pilha de ingressos...?
 There seems to be something on the ground\nover there...=Parece haver algo no chão\nali...
 It's a safe room.=É uma sala segura.
 It's also a good idea to prepare yourself before moving forward.=Também é uma boa ideia se preparar antes de avançar.
 This door doesn't look like it opens.=Esta porta não parece abrir.
-Let's look for the Shadow with the ticket.=Vamos procurar a Sombra com o bilhete.
+Let's look for the {{A}} with the ticket.=Vamos procurar a Sombra com o bilhete.
 With this ticket, it looks like we can open the door from earlier.=Com este bilhete, parece que podemos abrir a porta de antes.
 Let's head back and give it a try.=Vamos voltar e tentar.
 It seems we're getting close to the Treasure...=Parece que estamos chegando perto do Tesouro...
@@ -4731,7 +4731,7 @@ Hehe, I just disrupted their movements a bit. Now's your chance, go for it!=Hehe
 There are enemies ahead... Be careful.=Há inimigos à frente... Tenha cuidado.
 Following Closer's previous suggestion, I believe it should make the perfect target to test out our new weapons.=Seguindo a sugestão anterior de Closer, acredito que será o alvo perfeito para testar nossas novas armas.
 What!? How are they so fast!?=O quê!? Como eles são tão rápidos!?
-A door, and a Shadow guarding it... huh. If we defeat it, the door should open.=Uma porta e uma Sombra a guardando... hein. Se a derrotarmos, a porta deve abrir.
+A door, and a {{A}} guarding it... huh. If we defeat it, the door should open.=Uma porta e uma Sombra a guardando... hein. Se a derrotarmos, a porta deve abrir.
 Perhaps now we are able to advance?=Talvez agora possamos avançar?
 It seems we can't go any further from here.=Parece que não podemos ir mais longe daqui.
 Let us leave for today.=Vamos sair por hoje.
@@ -4770,10 +4770,10 @@ For Tomoko's sake, we can't afford to lose, so I figured I should do what I can 
 Then I thought, maybe I could study and train at the same time... but I'm not sure how that would work, haha. So, library it is.=Então pensei, talvez eu pudesse estudar e treinar ao mesmo tempo... mas não tenho certeza de como isso funcionaria, haha. Então, biblioteca lá vou eu.
 I'm kinda nervous being back here... Oh yeah, we gotta use code names, right? Wonder and Cattle, was it?=Estou um pouco nervosa de voltar aqui... Ah sim, temos que usar nomes de código, certo? Wonder e Cattle, era isso?
 Precisely, Closer.=Exatamente, Closer.
-There's a Shadow just ahead.=Há uma Sombra logo à frente.
+There's a {{A}} just ahead.=Há uma Sombra logo à frente.
 Following Closer's previous suggestion, I believe it should make the perfect target to test out our new weapons.=Seguindo a sugestão anterior de Closer, acredito que será o alvo perfeito para testar nossas novas armas.
 Let's use the weapons Iwai-san gave us!=Vamos usar as armas que o Iwai-san nos deu!
-Remember what I told you about enemy\nweaknesses? These Shadows are weak\nto guns. Use that to knock them down.=Lembra-se do que eu lhe disse sobre as\nfraquezas do inimigo? Estas Sombras são fracas\na armas de fogo. Use isso para derrubá-las.
+Remember what I told you about enemy\nweaknesses? These {{A}}s are weak\nto guns. Use that to knock them down.=Lembra-se do que eu lhe disse sobre as\nfraquezas do inimigo? Estas Sombras são fracas\na armas de fogo. Use isso para derrubá-las.
 That means fighting with guns will give us\nthe advantage!=Isso significa que lutar com armas de fogo nos dará\na vantagem!
 Wonder, we need to hit each enemy in its weakness. Give us your orders.=Wonder, precisamos atingir cada inimigo em sua fraqueza. Dê suas ordens.
 Yes! Okay, every enemy is downed. Now it's\ntime for an <color\=#FF423F>All-Out Attack</color>!=Sim! Ok, todos os inimigos estão no chão. Agora é\nhora de um <color\=#FF423F>Ataque Total</color>!
@@ -5574,7 +5574,7 @@ I know how you men are about going\nto the doctor. My hubby just hates it.=Sei c
 Speaking of doctors, do you know about the clinic in Yongen?=Falando em médicos, você conhece a clínica em Yongen?
 It's called <color\=#FF423F>Takemi Medical Clinic</color>...=Chama-se <color\=#FF423F>Clínica Médica Takemi</color>...
 This is just a rumor, but I hear that if the doctor there likes you, she'll give you prescriptions for strong medicine.=Isto é apenas um boato, mas ouvi dizer que se a médica de lá gostar de você, ela te dará receitas para remédios fortes.
-Battling Shadows is an inevitable part of our\nongoing efforts. Having effective medicine on\nhand would provide peace of mind.=Batalhar contra as Sombras é uma parte inevitável de nossos\nesforços contínuos. Ter um medicamento eficaz à mão\nproporcionaria tranquilidade.
+Battling {{A}}s is an inevitable part of our\nongoing efforts. Having effective medicine on\nhand would provide peace of mind.=Batalhar contra as Sombras é uma parte inevitável de nossos\nesforços contínuos. Ter um medicamento eficaz à mão\nproporcionaria tranquilidade.
 But considering the challenges we're bound\nto face in the {{A}}, I'd rather prepare\na way to access medicine and treatment.=Mas, considerando os desafios que certamente\nenfrentaremos no Metaverso, prefiro preparar\numa maneira de acessar medicamentos e tratamento.
 Word on the street says {{A}}s are lurking\naround every corner. At least with strong\nmedicine you can relax a little, right?=Boatos dizem que Ameaças estão à espreita\nem cada esquina. Pelo menos com remédios fortes\nvocê pode relaxar um pouco, certo?
 Wait... Would medicine actually help with that?=Espere... remédio realmente ajudaria com isso?
@@ -6026,7 +6026,7 @@ Uch... I didn't do... anything. Ach... Let go! What, are you gonna hit me...?=Uc
 Shun... Stop...=Shun... Pare...
 Pops!=Papai!
 Manager, you got that, right!?=Gerente, você entendeu, certo!?
-"Violent Punk Attacks Celebrity Critic"... If I post this video, you are finished. Your future? Gone.=Jovem Violento Ataca Crítico Celebridade... Se eu postar este vídeo, você está acabado. Seu futuro? Foi-se.
+"Violent Punk {{A}}s Celebrity Critic"... If I post this video, you are finished. Your future? Gone.=Jovem Violento Ataca Crítico Celebridade... Se eu postar este vídeo, você está acabado. Seu futuro? Foi-se.
 So I'd recommend keeping quiet, Yamagoshi-san. For your sake and his.=Então eu recomendaria ficar quieto, Yamagoshi-san. Pelo seu bem e pelo dele.
 You monster!=Seu monstro!
 Shun... He's trying to bait you... Don't give him what he wants...=Shun... Ele está tentando te provocar... Não dê a ele o que ele quer...
@@ -6073,10 +6073,10 @@ I've actually seen the show before. Miyazawa\ncompetes with chefs who've dispute
 In the end they lose, get savage reviews,\nand it's made to look like Miyazawa was\nright all along.=No final eles perdem, recebem críticas selvagens,\ne é feito para parecer que o Miyazawa estava\ncerto o tempo todo.
 And it's not like it's live TV. It's his own\nchannel, so he can have the footage edited\nhowever he wants. It's got to be a trap!=E não é como se fosse TV ao vivo. É o canal dele,\nentão ele pode ter as imagens editadas\ncomo quiser. Tem que ser uma armadilha!
 Yeah... You're probably right. But I don't\nhave any other option.=Sim... você provavelmente está certo. Mas eu não\ntenho outra opção.
-Apparently Miyazawa's lost before. So if it\nmeans even the slightest chance of winning\nthe shop back, I have to take the risk.=Aparentemente, o Miyazawa já perdeu antes. Então, se isso\nsignifica mesmo que a menor chance de ganhar\na loja de volta, tenho que arriscar.
+Apparently Miyazawa's lost before. So if it\nmeans even the slightest chance of winning\nthe shop back, I have to take the risk.=Aparentemente, o Miyazawa já perdeu antes. Então, se isso significa mesmo que a menor chance de ganhar a loja de volta, tenho que arriscar.
 Miyazawa losing at his own game? I don't\nknow, there's definitely something fishy\nabout that...=Miyazawa perdendo em seu próprio jogo? Não\nsei, definitivamente há algo de suspeito\nnisso...
 You're right...=Você está certo...
-How about we just go public with this? Let\neveryone know that Miyazawa sabotaged Victory\nKitchen's flavor with cheap ingredients.=Que tal a gente tornar isso público? Deixar\ntodo mundo saber que o Miyazawa sabotou o sabor da\nCozinha Vitória com ingredientes baratos.
+How about we just go public with this? Let\neveryone know that Miyazawa sabotaged Victory\nKitchen's flavor with cheap ingredients.=Que tal a gente tornar isso público? Deixar todo mundo saber que o Miyazawa sabotou o sabor da Cozinha Vitória com ingredientes baratos.
 You know how much influence he has. The second we say somethin', he'll just spin some more lies and fool everyone.=Você sabe o tamanho da influência dele. No segundo em que dissermos algo, ele vai inventar mais mentiras e enganar todo mundo.
 No one will believe the truth unless they hear it straight from the horse's mouth.=Ninguém vai acreditar na verdade, a menos que ouçam diretamente da fonte.
 Okay, let's say you manage to win the Food Fight. How do we know Miyazawa won't just...=Ok, digamos que você consiga vencer a Batalha de Comida. Como saberemos que o Miyazawa não vai simplesmente...
@@ -6094,7 +6094,7 @@ You're right. Everyone's getting dragged\nalong by Miyazawa's opinion, so despit
 Indeed. And you remember what happens to a person once all of their hope's been stolen from them, right, {NAME2}?=De fato. E você se lembra o que acontece com uma pessoa quando toda a sua esperança é roubada, certo, {NAME2}?
 Yeah. We have to take back their desires and make Miyazawa confess to his crimes.=Sim. Temos que pegar de volta os desejos deles e fazer o Miyazawa confessar seus crimes.
 All right then, let's head to Mementos. I'm sure we'll be able to find Miyazawa's {{A}} now.=Certo, então, vamos para Mementos. Tenho certeza de que conseguiremos encontrar o Palácio de Miyazawa agora.
-Remember, we're entering a new area, which\nmeans stronger enemies. Let's ensure we have\neverything we need before proceeding.=Lembre-se, estamos entrando em uma nova área, o que\nsignifica inimigos mais fortes. Vamos garantir que temos\ntudo o que precisamos antes de prosseguir.
+Remember, we're entering a new area, which\nmeans stronger enemies. Let's ensure we have\neverything we need before proceeding.=Lembre-se, estamos entrando em uma nova área, o que significa inimigos mais fortes. Vamos garantir que temos tudo o que precisamos antes de prosseguir.
 We going in? Okay...=Vamos entrar? Ok...
 You wanna hit Zoshigaya tonight? I'm craving some Heritage Kitchen gyoza.=Você quer ir na Cozinha Herança hoje à noite? Estou com vontade de comer gyoza de lá.
 Huh? That place has been getting awful reviews lately. Look, one-stars across the board.=Hã? Aquele lugar tem recebido péssimas críticas ultimamente. Olha, só uma estrela em tudo.
@@ -6114,7 +6114,7 @@ He's a hot-headed youth... Yes, and I've set him up so he'll have no choice but 
 And, um... If everything goes to plan this time... Well, about the entertainment production committee...=E, uhm... Se tudo der certo desta vez... Bem, sobre o comitê de produção de entretenimento...
 Yes, of course. Only if the plan goes well, right... I would be so thankful for your consideration...!=Sim, claro. Somente se o plano der certo, certo... Eu ficaria muito grato pela sua consideração...!
 Yes, of course... Thank you for your time! All right, thank you, bye bye now.=Sim, claro... Obrigado pelo seu tempo! Certo, obrigado, tchau.
-*chuckle* Finally... Finally my dream is becoming a reality...=*risada* Finalmente... finalmente meu sonho está se tornando realidade...
+{{A}} Finally... Finally my dream is becoming a reality...=*risada* Finalmente... finalmente meu sonho está se tornando realidade...
 Sorry, Shun-kun. Can't make a best picture without a few cuts.=Desculpe, Shun-kun. Não se faz um filme premiado sem alguns cortes.
 Hiromu... Miyazawa...=Hiromu... Miyazawa...
 All right.=Certo.
@@ -6125,9 +6125,9 @@ Yes. It shouldn't be far from here. Let's go.=Sim. Não deve ser longe daqui. Va
 We're here. Right beyond this point is... Hiromu Miyazawa's {{A}}.=Estamos aqui. Logo além deste ponto está... o Palácio de Hiromu Miyazawa.
 The entrance looks just like the one to Kiuchi's {{A}}.=A entrada parece com a do Palácio de Kiuchi.
 {{A}} rulers revel in their own twisted desires, so they're considered deviant by the public.=Os governantes de Palácio se deleitam em seus próprios desejos distorcidos, por isso são considerados desviantes pelo público.
-Even within Mementos, {{A}}s take the form of solitary fortresses, separated from the rest of society.=Mesmo dentro de Mementos, os Palácios assumem a forma de fortalezas solitárias, separadas do resto da sociedade.
+Even within {{A}}, {{B}}s take the form of solitary fortresses, separated from the rest of society.=Mesmo dentro de Mementos, os Palácios assumem a forma de fortalezas solitárias, separadas do resto da sociedade.
 So Kiuchi and Miyazawa were shunned by the collective unconscious the same way we were kicked into this new area?=Então, Kiuchi e Miyazawa foram evitados pelo inconsciente coletivo da mesma forma que fomos chutados para esta nova área?
-The wandering Shadows inside are likely under Miyazawa's control, so don't let your guards down.=As Sombras errantes aqui dentro provavelmente estão sob o controle de Miyazawa, então não baixem a guarda.
+The wandering {{A}}s inside are likely under Miyazawa's control, so don't let your guards down.=As Sombras errantes aqui dentro provavelmente estão sob o controle de Miyazawa, então não baixem a guarda.
 Looks like we can't get past here!=Parece que não podemos passar por aqui!
 Let's see if we can find an infiltration\nroute nearby. Perhaps we can get in\nwithout alerting any enemies...=Vamos ver se conseguimos encontrar uma rota de\ninfiltração por perto. Talvez consigamos entrar\nsem alertar nenhum inimigo...
 All right! Let's get moving then!=Tudo bem! Vamos em frente então!
@@ -6409,16 +6409,16 @@ Yes! I found it!=Sim! Achei!
 Huh?=Hã?
 Did they just disappear...?=Eles simplesmente desapareceram...?
 We made it to Mementos! What's next,\nCattle!?=Chegamos em Mementos! Qual o próximo passo, Cattle!?
-Oh god, there's Shadows everywhere!=Oh, meu Deus, tem Sombras por toda parte!
+Oh god, there's {{A}}s everywhere!=Oh, meu Deus, tem Sombras por toda parte!
 I said it was a risky move! I wasn't\nfinished explaining...=Eu disse que era um movimento arriscado! Eu não tinha terminado de explicar...
-We'll have to take these Shadows out first!=Teremos que eliminar essas Sombras primeiro!
+We'll have to take these {{A}}s out first!=Teremos que eliminar essas Sombras primeiro!
 Phew, we did it... Okay, explain. What did\nyou mean by risky?=Ufa, conseguimos... Ok, explique. O que você quis dizer com arriscado?
 It's risky activating the {{A}}\nNavigator somewhere other than the\nstation entrance.=É arriscado ativar o Navegador do Metaverso em outro lugar que não seja a entrada da estação.
 Oh, right. We did activate it from inside\nthe train this time.=Ah, é verdade. Desta vez, ativamos de dentro do trem.
 There's a reason we always enter the\n{{A}} from Shibuya Station.=Há uma razão pela qual sempre entramos no Metaverso pela Estação de Shibuya.
 By doing so, we can ensure we access\nMementos from the entrance.=Ao fazer isso, podemos garantir que acessamos Mementos pela entrada.
 If we activate the {{A}} Navigator from\nanywhere else, there's no way to know where\nin Mementos we might end up.=Se ativarmos o Navegador do Metaverso de qualquer outro lugar, não há como saber onde em Mementos podemos acabar.
-Which means we could end up smack bang in\nthe middle of a swarm of Shadows like we were\njust now... right?=O que significa que poderíamos acabar bem no meio de um enxame de Sombras como estávamos agora... certo?
+Which means we could end up smack bang in\nthe middle of a swarm of {{A}}s like we were\njust now... right?=O que significa que poderíamos acabar bem no meio de um enxame de Sombras como estávamos agora... certo?
 Precisely. Therefore it's the kind of risky\nmove I prefer to avoid where possible.=Exatamente. Portanto, é o tipo de movimento arriscado que prefiro evitar sempre que possível.
 When Wonder entered the {{A}} for the\nfirst time, we were lucky to end up in\na good spot.=Quando Wonder entrou no Metaverso pela primeira vez, tivemos sorte de acabar em um bom lugar.
 I must say, of all the places to make an\nentrance, this isn't half bad.=Devo dizer, de todos os lugares para se fazer uma entrada, este não é nada mal.
@@ -6567,7 +6567,7 @@ Which one of you activated the {{A}}\nNavigator?=Qual de vocês ativou o Navegad
 Wha—!? It wasn't me!=O quê—!? Não fui eu!
 Could this be...?=Será que isso é...?
 What's with this poster? Is that... me?=O que é isso neste pôster? Esse sou... eu?
-Tch, Shadows are starting to close in on us.=Tch, as Sombras estão começando a se aproximar de nós.
+Tch, {{A}}s are starting to close in on us.=Tch, as Sombras estão começando a se aproximar de nós.
 I'm not sure if we'll be able to ensure\nKano's safety. I suggest we get out of the\n{{A}} as soon as possible.=Não tenho certeza se conseguiremos garantir a segurança de Kano. Sugiro que saiamos do Palácio o mais rápido possível.
 You're right. I know we needed somewhere\nto run, but the middle of a {{A}} is really\nnot ideal.=Você está certo. Sei que precisávamos de um lugar para fugir, mas o meio de um Palácio não é o ideal.
 We're going, Shun Kano. Come along.=Vamos, Shun Kano. Venha conosco.
@@ -6587,21 +6587,21 @@ Third, to fulfill his desire...=Terceiro, realizar seu desejo...
 ...which rivals the brilliance of the\nglittering stars in the heavens.=...que rivaliza com o brilho das estrelas cintilantes nos céus.
 Hiromu Miyazawa takes the stage!=Hiromu Miyazawa sobe ao palco!
 It's him!=É ele!
-Miyazawa's Shadow!=A Sombra do Miyazawa!
+Miyazawa's {{A}}!=A Sombra do Miyazawa!
 Miyazawa...?=Miyazawa...?
 Serfs, kill them!=Servos, matem-nos!
 No, it's a trap!=Não, é uma armadilha!
 Ahahahahahahaha! How marvelous.=Ahahahahahahaha! Que maravilha.
 A trap most befitting the vile rats that\ndared defile my sacred studio.=Uma armadilha mais do que apropriada para os ratos vis que ousaram profanar meu estúdio sagrado.
 Agh, what is this!? A net!?=Agh, o que é isso!? Uma rede!?
-Disgraceful... I was too focused on the\nincoming Shadows to notice the trap in time!=Vergonhoso... Estava tão focado nas Sombras que se aproximavam que não notei a armadilha a tempo!
+Disgraceful... I was too focused on the\nincoming {{A}}s to notice the trap in time!=Vergonhoso... Estava tão focado nas Sombras que se aproximavam que não notei a armadilha a tempo!
 Wonder, use your knife to cut us out\nof here!=Wonder, use sua faca para nos tirar daqui!
 Hahah, that rope is made with reinforced\nthread. A trifling hack and slash isn't\ngoing to cut it.=Hahah, essa corda é feita com fio reforçado. Um mero corte e golpe não vai adiantar.
 H-Hey, are you guys all right!?=E-Ei, vocês estão bem!?
 Look what we have here. Seems the trap\nmissed our little Shun-kun.=Vejam só. Parece que a armadilha não pegou nosso pequeno Shun-kun.
 How shall we torture you then? Hahahahah!=Como vamos te torturar então? Hahahahah!
 Are you... really Miyazawa? What's with the\nweird outfit...?=Você é... realmente o Miyazawa? Que roupa estranha é essa...?
-I said it's Miyazawa's Shadow! Essentially a\nmanifestation of Miyazawa's desire!=Eu disse que é a Sombra do Miyazawa! Essencialmente uma manifestação do desejo do Miyazawa!
+I said it's Miyazawa's {{A}}! Essentially a\nmanifestation of Miyazawa's desire!=Eu disse que é a Sombra do Miyazawa! Essencialmente uma manifestação do desejo do Miyazawa!
 Manifestation... of desire?=Manifestação... de desejo?
 My my, do you think I intend to let you\ninsurgents escape? I said kill them.=Ora, ora, você acha que eu pretendo deixar vocês, insurgentes, escaparem? Eu disse para matá-los.
 What!? What are they!?=O quê!? O que são eles!?
@@ -6754,7 +6754,7 @@ Hey, no running in the halls!=Ei, não corram nos corredores!
 These kids...=Essas crianças...
 Hehe, but it does take me back.=Hehe, mas isso me traz boas lembranças.
 Is this for real?=Isso é sério?
-{{A}} Navigators, Mementos, {{A}}s,\nTreasures, and Miyazawa's... Shadow?=Navegadores do Metaverso, Mementos, Palácios, Tesouros e a... Sombra do Miyazawa?
+{{A}} Navigators, Mementos, {{A}}s,\nTreasures, and Miyazawa's... {{A}}?=Navegadores do Metaverso, Mementos, Palácios, Tesouros e a... Sombra do Miyazawa?
 I know it sounds kinda hard to believe when\nyou lay it all out like that...=Sei que parece meio difícil de acreditar quando se explica tudo assim...
 No, I believe it.=Não, eu acredito.
 Mandrin, our battle in the {{A}}, it was\nall real.=Mandrin, nossa batalha no Metaverso, tudo foi real.
@@ -6957,7 +6957,7 @@ But the real fight's still ahead. Are you\nready, {NAME2}?=Mas a verdadeira luta
 There it is! The Treasure!=Lá está! O Tesouro!
 That's the Treasure? Looks like some kind\nof film reel...=Isso é o Tesouro? Parece algum tipo de rolo de filme...
 Based on the {{A}}'s interior, it would\nseem the source of Miyazawa's warped desire\nstems from movies.=Com base no interior do Palácio, parece que a fonte do desejo distorcido de Miyazawa vem de filmes.
-Yeah! There're no Shadows around. This is\nour chance!=Sim! Não há Sombras por perto. Esta é a nossa chance!
+Yeah! There're no {{A}}s around. This is\nour chance!=Sim! Não há Sombras por perto. Esta é a nossa chance!
 First, to adorn himself with the blood of\nhis enemies...=Primeiro, se adornar com o sangue de seus inimigos...
 Second, to speak first and win, villainous\nas that may seem...=Segundo, falar primeiro e vencer, por mais vilanesco que pareça...
 Third, to fulfill his desire...=Terceiro, realizar seu desejo...
@@ -7031,7 +7031,7 @@ Let me do this. I'll go somewhere I can get\na clear shot.=Deixa comigo. Vou par
 You want to go on your own? It could be\na risk... What do you think, Wonder?=Você quer ir sozinho? Pode ser arriscado... O que você acha, Wonder?
 Got it, leave it to me!=Entendido, deixe comigo!
 He changed back...?=Ele voltou ao normal...?
-Yes, this means we stopped the Shadow from\nrampaging! Now we just have to steal\nthe Treasure!=Sim, isso significa que impedimos a Sombra de se enfurecer! Agora só temos que roubar o Tesouro!
+Yes, this means we stopped the {{A}} from\nrampaging! Now we just have to steal\nthe Treasure!=Sim, isso significa que impedimos a Sombra de se enfurecer! Agora só temos que roubar o Tesouro!
 Huh.=Hã.
 Uch... Ngh...=Uch... Ngh...
 Agh... I can't move anymore... You win...\nJust take it and get out of here...=Agh... Não consigo mais me mover... Vocês venceram... Apenas peguem e saiam daqui...
@@ -7087,7 +7087,7 @@ You kids really are optimistic...=Vocês, crianças, são realmente otimistas...
 But I guess <color\=#FF423F>they</color> cut ties with me anyway,\nso now is a good time to start over\nfrom scratch...=Mas acho que <color\=#FF423F>eles</color> cortaram os laços comigo de qualquer maneira, então agora é um bom momento para começar do zero...
 I'm sorry... Truly... I'll confess to\neverything. I'll make it all right again...=Sinto muito... De verdade... Vou confessar tudo. Vou consertar tudo de novo...
 He vanished...?=Ele desapareceu...?
-Yes. The Shadow returned to the real\nMiyazawa's heart.=Sim. A Sombra retornou ao coração do verdadeiro Miyazawa.
+Yes. The {{A}} returned to the real\nMiyazawa's heart.=Sim. A Sombra retornou ao coração do verdadeiro Miyazawa.
 Thanks. Sorry for dragging things out.=Valeu. Desculpe por prolongar as coisas.
 I didn't want to end it by just beating him\nup... I wanted to understand where he was\ncoming from before changing his heart.=Eu não queria terminar apenas batendo nele... Eu queria entender de onde ele vinha antes de mudar seu coração.
 Waaah! Is this the same thing that happened\nwith Kiuchi?=Waaah! É a mesma coisa que aconteceu com o Kiuchi?
@@ -7168,7 +7168,7 @@ You mean like...!=Você quer dizer como...!
 Whoa whoa whoa! You mean someone made\nMiyazawa do all those bad things!?=Opa, opa, opa! Você quer dizer que alguém fez o Miyazawa fazer todas aquelas coisas ruins!?
 Then... Kiuchi too!? Someone intentionally\ncorrupted him!?=Então... o Kiuchi também!? Alguém o corrompeu intencionalmente!?
 I told you, I'm not certain. If only I could\nremember everything...=Eu disse, não tenho certeza. Se ao menos eu pudesse me lembrar de tudo...
-However, I did notice that just before\nMiyazawa's Shadow disappeared it said, "They\ncut ties with me."=No entanto, notei que, pouco antes da Sombra de Miyazawa desaparecer, ela disse: "Eles cortaram os laços comigo."
+However, I did notice that just before\nMiyazawa's {{A}} disappeared it said, "They\ncut ties with me."=No entanto, notei que, pouco antes da Sombra de Miyazawa desaparecer, ela disse: "Eles cortaram os laços comigo."
 Right... Somethin' about how with that\nperson gone he was free to start over...=Certo... Algo sobre como, com aquela pessoa fora, ele estava livre para começar de novo...
 So... There really is someone behind\nall this?=Então... Realmente existe alguém por trás de tudo isso?
 Let's put a pin in this conversation for\nnow. In the meantime I'll try to make sense\nof the memories that came back to me.=Vamos deixar essa conversa de lado por enquanto. Enquanto isso, tentarei entender as memórias que voltaram para mim.
@@ -7178,7 +7178,7 @@ A movie ticket stub...? Why do I have this?=Um canhoto de ingresso de cinema...?
 The same thing happened with Kiuchi's.\nComing back to the real world makes the\nTreasure return to its original form.=A mesma coisa aconteceu com o do Kiuchi. Voltar ao mundo real faz o Tesouro retornar à sua forma original.
 What!? This scrap of paper is Miyazawa's\nTreasure!?=O quê!? Este pedaço de papel é o Tesouro de Miyazawa!?
 Wait... That's right. He said he looked up\nto the movie stars he watched as a kid.=Espere... É verdade. Ele disse que admirava as estrelas de cinema que assistia quando criança.
-Yes. That dream became distorted in his mind,\nand his Shadow went out of control. That led\nhim to act out in the real world.=Sim. Esse sonho se distorceu em sua mente, e sua Sombra saiu de controle. Isso o levou a agir no mundo real.
+Yes. That dream became distorted in his mind,\nand his {{A}} went out of control. That led\nhim to act out in the real world.=Sim. Esse sonho se distorceu em sua mente, e sua Sombra saiu de controle. Isso o levou a agir no mundo real.
 ......=......
 So, if someone really did manipulate\nMiyazawa... Then they're the reason he ended\nup that way, right?=Então, se alguém realmente manipulou o Miyazawa... Então eles são a razão pela qual ele acabou daquele jeito, certo?
 Speculatively! But yes, that is what I think.=Especulativamente! Mas sim, é o que eu penso.
@@ -7391,7 +7391,7 @@ It seems I'll have no problem putting you\nto <color\=#FF423F>work</color> right
 What are you gonna make me do?=O que você vai me colocar pra fazer?
 Work?=Trabalhar?
 There's the exit. We'll talk in more detail\nonce we've safely made it out.=Ali está a saída.\nFalaremos com mais detalhes assim que sairmos em segurança.
-A Shadow!?=Uma Sombra?!
+A {{A}}!?=Uma Sombra?!
 Hoom... I'm not sensing any hostility from it.=Hoom... não estou sentindo nenhuma hostilidade dela.
 It looks like a person...=Parece uma pessoa...
 Is it really a {{A}}?=É realmente uma {{A}}?
@@ -8524,15 +8524,15 @@ Huh!? What is that!?=Hã!? O que é aquilo!?
 This thing looks crazy strong!=Essa coisa parece muito forte!
 Ah, I recognize this one too. But I was\nsure we defeated it back then.=Ah, eu também reconheço este. Mas eu tinha\ncerteza de que o derrotamos daquela vez.
 I don't know what you're talkin' about,\nbut it's attacking!=Não sei do que você está falando,\nmas está atacando!
-What was that? It seemed different from a\nnormal Shadow.=O que foi aquilo? Parecia diferente de uma\nSombra normal.
-Wonder and I have fought that Shadow before.=Wonder e eu já lutamos contra essa Sombra antes.
+What was that? It seemed different from a\nnormal {{A}}.=O que foi aquilo? Parecia diferente de uma\nSombra normal.
+Wonder and I have fought that {{A}} before.=Wonder e eu já lutamos contra essa Sombra antes.
 The day Wonder first entered Mementos,\nwe fought and defeated it.=No dia em que Wonder entrou pela primeira vez nos Mementos,\nnós lutamos e a derrotamos.
-Um... So a Shadow we thought was defeated\nreappeared again?=Hum... Então uma Sombra que pensávamos estar derrotada\nreapareceu de novo?
+Um... So a {{A}} we thought was defeated\nreappeared again?=Hum... Então uma Sombra que pensávamos estar derrotada\nreapareceu de novo?
 Yes, and it was even stronger than before...\nlike the power of its desire had grown.=Sim, e estava ainda mais forte do que antes...\ncomo se o poder de seu desejo tivesse crescido.
-What could this mean... Is this Shadow\nbeing constantly reborn here without end?=O que isso poderia significar... Essa Sombra\nestá constantemente renascendo aqui sem fim?
-A Shadow of that strength, robbing people of\ntheir desires would mean...=Uma Sombra com essa força, roubando os\ndesejos das pessoas significaria...
+What could this mean... Is this {{A}}\nbeing constantly reborn here without end?=O que isso poderia significar... Essa Sombra\nestá constantemente renascendo aqui sem fim?
+A {{A}} of that strength, robbing people of\ntheir desires would mean...=Uma Sombra com essa força, roubando os\ndesejos das pessoas significaria...
 No, it can't be. If that were the case, the\nworld would have already fallen into chaos.=Não, não pode ser. Se fosse o caso, o\nmundo já teria caído no caos.
-I don't really get what all that means, but\nwhat kind of Shadow was it?=Eu não entendo muito bem o que tudo isso significa, mas\nque tipo de Sombra era?
+I don't really get what all that means, but\nwhat kind of {{A}} was it?=Eu não entendo muito bem o que tudo isso significa, mas\nque tipo de Sombra era?
 Sorry, I'm not sure either. But it's\nsomething we need to be wary of\ngoing forward.=Desculpe, também não tenho certeza. Mas é\nalgo com que precisamos ter cuidado\nde agora em diante.
 Well, interruption aside, we should continue\nlooking for signs of the {{A}}.=Bem, interrupção à parte, devemos continuar\nprocurando por sinais do Palácio.
 Hm... No good. I can't hear anything about\nthe next {{A}}'s ruler...=Hm... Não adianta. Não consigo ouvir nada sobre\no governante do próximo Palácio...
@@ -9088,8 +9088,8 @@ Wha—!? An enemy!? Damn! I can't believe\nI didn't notice it approaching!=O q�
 Who might you be? This area is limited to\nauthorized personnel only.=Quem seriam vocês? Esta área é restrita a\npessoal autorizado.
 Who's this chump? Don't tell me he's the\n{{A}} ruler?=Quem é esse otário? Não me diga que ele é o\ngovernante do Palácio?
 No, his aura is too weak. No wonder I\ncouldn't sense him.=Não, sua aura é muito fraca. Não admira que eu\nnão pudesse senti-lo.
-In fact, his presence is even weaker than\nthat of the wandering Shadows in Mementos.=Na verdade, sua presença é ainda mais fraca do que\na das Sombras errantes nos Mementos.
-Then he's weaker than a normal Shadow?\nGeez, I panicked over nothing.=Então ele é mais fraco que uma Sombra normal?\nNossa, entrei em pânico por nada.
+In fact, his presence is even weaker than\nthat of the wandering {{A}}s in Mementos.=Na verdade, sua presença é ainda mais fraca do que\na das Sombras errantes nos Mementos.
+Then he's weaker than a normal {{A}}?\nGeez, I panicked over nothing.=Então ele é mais fraco que uma Sombra normal?\nNossa, entrei em pânico por nada.
 In that case, let's roast this small fry and\nkeep movin'.=Nesse caso, vamos torrar esse peixe pequeno e\ncontinuar em frente.
 Small fry!? Excuse you!=Peixe pequeno!? Com licença!
 Verbal abuse against someone you've just\nmet is a violation of compliance.=Abuso verbal contra alguém que você acabou\nde conhecer é uma violação de conformidade.
@@ -9130,7 +9130,7 @@ Understood!=Entendido!
 They're gone... Fools are quick to turn tail\nand run.=Eles se foram... Tolos são rápidos em fugir\ncom o rabo entre as pernas.
 Seems it left.=Parece que ele foi embora.
 *sigh* Thank god.=*suspiro* Graças a Deus.
-That Shadow healed itself completely.\nIs it invincible?=Aquela Sombra se curou completamente.\nEla é invencível?
+That {{A}} healed itself completely.\nIs it invincible?=Aquela Sombra se curou completamente.\nEla é invencível?
 There was that cable thing it stuck into\nthe ground.=Tinha aquele cabo que ele enfiou no\nchão.
 Maybe that gave it a power boost or helped\nit recover or something?=Talvez aquilo tenha dado a ele um impulso de poder ou o ajudado\na se recuperar ou algo assim?
 It did seem that way. Almost as if it\nabsorbed the energy of the {{A}} through\nthat cable.=Parecia que sim. Quase como se ele\nabsorvesse a energia do Palácio através\ndaquele cabo.
@@ -9140,17 +9140,17 @@ Wait, isn't that cheating!? We could hammer\naway at that thing for years and it
 This is a cognitive stronghold of the\nruler's own design. Unfairness is to\nbe expected.=Esta é uma fortaleza cognitiva do\npróprio design do governante. A injustiça é\nesperada.
 But, this is Katayama's {{A}}, isn't it?\nWhat's a thing like that doing here in\nthe first place?=Mas, este é o Palácio da Katayama, não é?\nO que uma coisa dessas está fazendo aqui em\nprimeiro lugar?
 I have no idea. I've never seen anything\nlike this before. Anyway...=Eu não tenho ideia. Nunca vi nada\nparecido com isso antes. Enfim...
-Even if we manage to get past the Shadow,\nthere's still the number lock to\ncontend with.=Mesmo que consigamos passar pela Sombra,\nainda há a fechadura de número para\nenfrentar.
+Even if we manage to get past the {{A}},\nthere's still the number lock to\ncontend with.=Mesmo que consigamos passar pela Sombra,\nainda há a fechadura de número para\nenfrentar.
 Let's head back to reality and plan our next\ncourse of action.=Vamos voltar à realidade e planejar nosso próximo\ncurso de ação.
 We should retreat for now. Let's return\nto reality, Wonder.=Deveríamos recuar por enquanto. Vamos voltar\npara a realidade, Wonder.
 Phew! Glad we made it back safely.=Ufa! Que bom que voltamos em segurança.
-That weird Shadow from earlier... Was that\nsupposed to be Ms. Katayama's Shadow?=Aquela Sombra estranha de antes... Era para\nser a Sombra da Sra. Katayama?
+That weird {{A}} from earlier... Was that\nsupposed to be Ms. Katayama's {{A}}?=Aquela Sombra estranha de antes... Era para\nser a Sombra da Sra. Katayama?
 No way in hell! That disgusting creep\ncouldn't possibly be her!=De jeito nenhum! Aquele nojento assustador\nnão poderia ser ela!
-Shadows exist in conjunction with their\nreal-life counterparts. They manifest the\ndesires of their other self.=As Sombras existem em conjunto com suas\ncontrapartes da vida real. Elas manifestam os\ndesejos de seu outro eu.
-Depending on how the person perceives\nthemself, their Shadow can appear vastly\ndifferent than how they look in reality.=Dependendo de como a pessoa se percebe,\nsua Sombra pode parecer muito\ndiferente de como ela é na realidade.
+{{A}}s exist in conjunction with their\nreal-life counterparts. They manifest the\ndesires of their other self.=As Sombras existem em conjunto com suas\ncontrapartes da vida real. Elas manifestam os\ndesejos de seu outro eu.
+Depending on how the person perceives\nthemself, their {{A}} can appear vastly\ndifferent than how they look in reality.=Dependendo de como a pessoa se percebe,\nsua Sombra pode parecer muito\ndiferente de como ela é na realidade.
 Okay sure, but there's a limit. Didn't that\nthing have a man's voice?=Ok, claro, mas há um limite. Aquela\ncoisa não tinha voz de homem?
 It did. And it was so far removed from my\nimage of Ms. Katayama, it was almost like...=Tinha. E estava tão distante da minha\nimagem da Sra. Katayama, que era quase como...
-Or I guess, it really was like the Shadow\nreminded me of a different person entirely.=Ou acho que, era realmente como se a Sombra\nme lembrasse de uma pessoa totalmente diferente.
+Or I guess, it really was like the {{A}}\nreminded me of a different person entirely.=Ou acho que, era realmente como se a Sombra\nme lembrasse de uma pessoa totalmente diferente.
 Now that you mention it, it DID sound like\nMr. Akashi! Tone and everything!=Agora que você mencionou, soou COMO o\nSr. Akashi! O tom e tudo!
 Oh yeah. It said something about "consulting"\ntoo, didn't it?=Ah, sim. Disse algo sobre "consultoria"\ntambém, não disse?
 Consulting...?=Consultoria...?
@@ -9160,7 +9160,7 @@ So that {{A}} wasn't Ms. Katayama's...\nIt was Mr. Akashi's?=Então aquele Palá
 Yes, that must be it! I knew Ms. Katayama\ncouldn't be a {{A}} ruler!=Sim, deve ser isso! Eu sabia que a Sra. Katayama\nnão poderia ser uma governante de Palácio!
 But I found the {{A}} from the name of\n"Kumi Katayama."=Mas eu encontrei o Palácio a partir do nome\nde "Kumi Katayama".
 There's no doubt that the palace was created\nby Katayama.=Não há dúvida de que o palácio foi criado\npor Katayama.
-No way! Why the hell would Akashi's Shadow\nbe in there, then!?=Impossível! Por que diabos a Sombra de Akashi\nestaria lá, então!?
+No way! Why the hell would Akashi's {{A}}\nbe in there, then!?=Impossível! Por que diabos a Sombra de Akashi\nestaria lá, então!?
 It's possible that Kumi Katayama's mind\nconstructed him as well. Like a sort of\n"cognitive being."=É possível que a mente de Kumi Katayama\no tenha construído também. Como uma espécie de\n"ser cognitivo".
 A cognitive being... of Mr. Akashi?=Um ser cognitivo... do Sr. Akashi?
 Essentially, the version of Akashi that\nKatayama imagines in her heart.=Essencialmente, a versão de Akashi que\nKatayama imagina em seu coração.
@@ -9380,9 +9380,9 @@ Ms. Katayama attacked him, which the\nacademic coordinator and a number of other
 Why would Ms. Katayama do something like\nthat?=Por que a Sra. Katayama faria algo assim?
 And to Akashi of all people... It's just like\nin the {{A}}.=E com o Akashi, de todas as pessoas... É exatamente como\nno Metaverso.
 Would things have gone differently if we'd\nbeen able to take down the {{A}}?=As coisas teriam sido diferentes se tivéssemos\nconseguido derrubar o Palácio?
-If we'd defeated that Akashi-lookin'\nShadow... Could we have prevented this?=Se tivéssemos derrotado aquela Sombra\nparecida com o Akashi... Poderíamos ter evitado isso?
+If we'd defeated that Akashi-lookin'\n{{A}}... Could we have prevented this?=Se tivéssemos derrotado aquela Sombra\nparecida com o Akashi... Poderíamos ter evitado isso?
 I understand your point, but let's think\nrationally for a moment.=Eu entendo seu ponto, mas vamos pensar\nracionalmente por um momento.
-That being is probably not Akashi's Shadow.\nI hypothesize that it may be a cognitive form\nborn from Katayama's mind.=Aquele ser provavelmente não é a Sombra de Akashi.\nEu hipotetizo que pode ser uma forma cognitiva\nnascida da mente de Katayama.
+That being is probably not Akashi's {{A}}.\nI hypothesize that it may be a cognitive form\nborn from Katayama's mind.=Aquele ser provavelmente não é a Sombra de Akashi.\nEu hipotetizo que pode ser uma forma cognitiva\nnascida da mente de Katayama.
 If we had defeated it, Katayama's feelings\ntoward Akashi in real life may have changed,\nbut...=Se o tivéssemos derrotado, os sentimentos de Katayama\nem relação a Akashi na vida real poderiam ter mudado,\nmas...
 So if we'd defeated it, Ms. Katayama might\nnot have used violence against Mr. Akashi?=Então, se o tivéssemos derrotado, a Sra. Katayama poderia\nnão ter usado violência contra o Sr. Akashi?
 But isn't it weird? Why was he the one\nprotecting Ms. Katayama's {{A}}?=Mas não é estranho? Por que era ele quem\nestava protegendo o Palácio da Sra. Katayama?
@@ -9699,14 +9699,14 @@ The app icon was an eerie looking snake.=O ícone do aplicativo era uma cobra de
 I see. Then there's no mistaking it.=Entendo. Então não há como confundir.
 This might be a stupid question, but aren't\nwe really far from the entrance right now?=Isso pode ser uma pergunta estúpida, mas não\nestamos muito longe da entrada agora?
 How the heck did you get all this way\nby yourself!?=Como diabos você chegou até aqui\nsozinha!?
-Oh yeah! You weren't attacked by Shadows,\nuh... I mean, monsters, were you!?=Ah, é! Você não foi atacada por Sombras,\nuh... quer dizer, monstros, foi!?
-Shadows? I don't know what those are, but I\ndidn't run into any trouble.=Sombras? Não sei o que são, mas não\nencontrei nenhum problema.
+Oh yeah! You weren't attacked by {{A}}s,\nuh... I mean, monsters, were you!?=Ah, é! Você não foi atacada por Sombras,\nuh... quer dizer, monstros, foi!?
+{{A}}s? I don't know what those are, but I\ndidn't run into any trouble.=Sombras? Não sei o que são, mas não\nencontrei nenhum problema.
 I had this one to guide me.=Tive este para me guiar.
 Wha—!? What is that!?=O q—!? O que é aquilo!?
 I'm not sure, but I just followed where\nit led me.=Não tenho certeza, mas apenas segui para onde\nele me levou.
 There was no other clear path to follow\nafter all. Oh, is it an ally of yours?=Não havia outro caminho claro a seguir,\nafinal. Ah, é um aliado de vocês?
 No no! We've never seen that thing before!=Não, não! Nunca vimos essa coisa antes!
-For a Shadow I'm not sensing much hostility\nfrom it. In fact, it's more like...=Para uma Sombra, não estou sentindo muita hostilidade\ndela. Na verdade, é mais como...
+For a {{A}} I'm not sensing much hostility\nfrom it. In fact, it's more like...=Para uma Sombra, não estou sentindo muita hostilidade\ndela. Na verdade, é mais como...
 Wait. Something is coming.=Espere. Algo está vindo.
 Wh-What!?=O-O quê!?
 I think my guide is trying to warn us of\nsome hostile danger approaching.=Acho que meu guia está tentando nos alertar de\nalgum perigo hostil se aproximando.
@@ -9723,7 +9723,7 @@ We just need to input Mr. Akashi's password\ninto this keypad, right?=Só precis
 Yeah, but I dropped my notebook that had\nthe password in it!=Sim, mas eu perdi meu caderno que tinha\na senha!
 It opened!=Abriu!
 Amazing...=Incrível...
-That's the sound of the Akashi-looking\nShadow thing!=Esse é o som daquela\nSombra parecida com o Akashi!
+That's the sound of the Akashi-looking\n{{A}} thing!=Esse é o som daquela\nSombra parecida com o Akashi!
 What do we do, Wonder?=O que fazemos, Wonder?
 We've no choice! Hurry through the door!=Não temos escolha! Rápido, pela porta!
 If we go back, we'll run into Akashi's\ncognitive form. We have to press ahead,\nWonder!=Se voltarmos, encontraremos a\nforma cognitiva de Akashi. Temos que seguir em frente,\nWonder!
@@ -9857,8 +9857,8 @@ True. I bet that Pseudo-Akashi is gone by\nnow, so if we head back the way we ca
 Tanemura-san?=Tanemura-san?
 Huh?=Hã?
 Is that... Ms. Katayama!?=Aquela é... a Sra. Katayama!?
-It's her Shadow!=É a Sombra dela!
-That's... a Shadow?=Isso é... uma Sombra?
+It's her {{A}}!=É a Sombra dela!
+That's... a {{A}}?=Isso é... uma Sombra?
 The ruler appears at last. I would rather\navoid a fight with Tanemura here, but...!=A governante aparece finalmente. Eu preferiria\nevitar uma luta com a Tanemura aqui, mas...!
 Tanemura-san... Why are you here?=Tanemura-san... Por que você está aqui?
 It's too dangerous... Turn back... Hurry...=É muito perigoso... Volte... Rápido...
@@ -9886,7 +9886,7 @@ No... Stop it... I don't want to fight...=Não... Pare com isso... Eu não quero
 Ngh...=Ngh...
 Her power is intensifying! She must be\nplanning something!=O poder dela está se intensificando! Ela deve estar\nplanejando algo!
 Katayama-san! Please, listen to us!=Katayama-san! Por favor, nos escute!
-Huh? Katayama's Shadow is acting strange.=Hã? A Sombra da Katayama está agindo de forma estranha.
+Huh? Katayama's {{A}} is acting strange.=Hã? A Sombra da Katayama está agindo de forma estranha.
 I refuse to...hurt my students!=Eu me recuso a... machucar meus alunos!
 Sensei...?=Sensei...?
 Argh!=Argh!
@@ -9898,7 +9898,7 @@ Did you see that light sparking around her\njust now?=Você viu aquela luz faisc
 Focus! Katayama is only getting stronger!\n<color\=#FF423F>Defend</color> yourselves!=Foco! Katayama está apenas ficando mais forte!\n<color\=#FF423F>Defendam-se</color>!
 It's that light again!=É aquela luz de novo!
 Is that electricity controlling her!?=Aquela eletricidade a está controlando!?
-Katayama's Shadow is charged with even more\npower than before! Brace\nyourselves, everyone!=A Sombra de Katayama está carregada com ainda mais\npoder do que antes! Preparem-se,\ntodos!
+Katayama's {{A}} is charged with even more\npower than before! Brace\nyourselves, everyone!=A Sombra de Katayama está carregada com ainda mais\npoder do que antes! Preparem-se,\ntodos!
 Please, no more! I'm begging you!=Por favor, chega! Estou implorando!
 Aaaaagh!=Aaaaagh!
 What's going on!? Ms. Katayama's in so\nmuch pain!=O que está acontecendo!? A Sra. Katayama está com tanta\ndor!
@@ -9915,7 +9915,7 @@ What!? What does that mean!?=O quê!? O que isso significa!?
 Yes. I was uncertain at first because of\nAkashi's weak aura, but...=Sim. Eu estava incerto no começo por causa da\naura fraca de Akashi, mas...
 There's no mistake. They possess the will of\ntwo distinct human beings.=Não há engano. Eles possuem a vontade de\ndois seres humanos distintos.
 It's not a question of who is the cognition\nof who...=Não é uma questão de quem é a cognição\nde quem...
-They are both individual Shadows!=Ambos são Sombras individuais!
+They are both individual {{A}}s!=Ambos são Sombras individuais!
 Two rulers in one {{A}}? Is that\neven possible!?=Dois governantes em um Palácio? Isso é\nsequer possível!?
 I am shocked as well. I never imagined such\na phenomenon would occur.=Estou chocado também. Nunca imaginei que tal\nfenômeno ocorreria.
 What do you think you're doing, Ms. Katayama?\nIt's your job to eliminate intruders.=O que você pensa que está fazendo, Sra. Katayama?\nÉ seu trabalho eliminar intrusos.
@@ -9928,14 +9928,14 @@ You are completely worthless!=Você é completamente inútil!
 Ngh!=Ngh!
 I'll give you a hand, so at least try to\nserve as a good body shield!=Vou te dar uma mãozinha, então pelo menos tente\nservir como um bom escudo humano!
 Damn it! What do we do now!?=Droga! O que fazemos agora!?
-Katayama's Shadow is already at death's\ndoor. Another attack might put her life\nat risk!=A Sombra de Katayama já está à beira da\nmorte. Outro ataque pode colocar sua vida\nem risco!
-First let's take out the other Shadows!=Primeiro vamos acabar com as outras Sombras!
+Katayama's {{A}} is already at death's\ndoor. Another attack might put her life\nat risk!=A Sombra de Katayama já está à beira da\nmorte. Outro ataque pode colocar sua vida\nem risco!
+First let's take out the other {{A}}s!=Primeiro vamos acabar com as outras Sombras!
 I told you to run... Why won't you go? I'm\nnot even sure...what I'm doing anymore...=Eu disse para vocês fugirem... Por que não vão? Eu nem\nsei mais... o que estou fazendo...
 Please, get away from me... I might... I'm—=Por favor, afastem-se de mim... Eu posso... Eu estou—
 Must punish... bad students!=Preciso punir... alunos maus!
 She's focused her aim on one of us! Keep\nyour guard up and defend yourselves!=Ela focou sua mira em um de nós! Mantenham\na guarda alta e se defendam!
 I won't attack Katayama-san! She's just\nbeing controlled by that bastard!=Eu não vou atacar a Katayama-san! Ela só está\nsendo controlada por aquele desgraçado!
-Like Cattle said, let's deal with the other\nShadows first!=Como o Cattle disse, vamos lidar com as outras\nSombras primeiro!
+Like Cattle said, let's deal with the other\n{{A}}s first!=Como o Cattle disse, vamos lidar com as outras\nSombras primeiro!
 No... Stop it... I can't punish them...\nI won't hurt my students!=Não... Pare com isso... Eu não posso puni-los...\nEu não vou machucar meus alunos!
 *sigh* You really are useless! But exploiting\nthat incompetence...=*suspiro* Você realmente é inútil! Mas explorar\nessa incompetência...
 ...is part of my consulting expertise!=...faz parte da minha especialidade de consultoria!
@@ -13457,7 +13457,7 @@ Please be aware that I am overcome with\nblind rage.=Esteja ciente de que estou 
 How dare that vile man exploit a precious\nidol like Naruru and try to steal her dreams\naway!=Como ousa aquele homem vil explorar uma preciosa\nídolo como Naruru e tentar roubar seus sonhos!
 Yes. Those are the words I was waiting for.=Sim. Eram estas as palavras que eu esperava.
 If I may offer a suggestion...=Se me permite oferecer uma sugestão...
-Considering the magnitude of his heinous\ndeeds, it is likely that this producer has a\nShadow in Mementos.=Considerando a magnitude de seus atos hediondos,\né provável que este produtor tenha uma Sombra\nem Mementos.
+Considering the magnitude of his heinous\ndeeds, it is likely that this producer has a\n{{A}} in Mementos.=Considerando a magnitude de seus atos hediondos,\né provável que este produtor tenha uma Sombra\nem Mementos.
 Therefore, just as you have done up\nuntil now...=Portanto, assim como você fez até\nagora...
 I believe you can make that corrupt producer\nhave a change of heart.=Acredito que você pode fazer aquele produtor\ncorrupto ter uma mudança de coração.
 {PLAYER_NAME}-sama... I implore you.\nPlease accept my request.={PLAYER_NAME}-sama... eu lhe imploro.\nPor favor, aceite meu pedido.

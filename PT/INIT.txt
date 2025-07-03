@@ -29,7 +29,7 @@ Notices=Avisos
 Level of Detail=Nível de Detalhes
 Texture Quality=Qualidade de Textura
 Effects Quality=Qualidade de Efeitos
-Shadow Quality=Qualidade de Sombra
+{{A}} Quality=Qualidade de Sombra
 Render Quality=Qualidade de Renderização
 Frame Rate=Taxa de Quadros
 Dynamic Resolution=Resolução Dinâmica
@@ -2158,11 +2158,11 @@ Seth's Trait 1=Característica de Seth 1
 Seth's Trait 3=Característica de Seth 3
 Seth's Trait 6=Característica de Seth 6
 Shade=Sombra
-Shadow Contract=Contrato das Sombras
-Shadow Contract I=Contrato das Sombras I
-Shadow Contract II=Contrato das Sombras II
-Shadow Contract III=Contrato das Sombras III
-Shadowdance=Dança das Sombras
+{{A}} Contract=Contrato das Sombras
+{{A}} Contract I=Contrato das Sombras I
+{{A}} Contract II=Contrato das Sombras II
+{{A}} Contract III=Contrato das Sombras III
+{{A}}dance=Dança das Sombras
 Sharp Breakthrough=Avanço Afiado
 Sharp Claws=Garras Afiadas
 Sharp Claws: Lock On=Garras Afiadas: Na Mira
@@ -2333,9 +2333,9 @@ Stockfish I=Peixe Seco I
 Stockfish II=Peixe Seco II
 Stolen Painting=Pintura Roubada
 Storm Charm=Amuleto da Tempestade
-Storm of Shadows=Tempestade de Sombras
-Storm of Shadows I=Tempestade de Sombras I
-Storm of Shadows II=Tempestade de Sombras II
+Storm of {{A}}s=Tempestade de Sombras
+Storm of {{A}}s I=Tempestade de Sombras I
+Storm of {{A}}s II=Tempestade de Sombras II
 Stormcaller: No. 1=Invocador da Tempestade: Nº 1
 Stormcaller: No. 2=Invocador da Tempestade: Nº 2
 Stormcaller: No. 3=Invocador da Tempestade: Nº 3
@@ -2929,7 +2929,7 @@ Sunstaff=Cajado do Sol
 Infinite Moment=Momento Infinito
 Twin Daggers=Adagas Gêmeas
 Sharp Twinblades=Lâminas Gêmeas Afiadas
-Shadow Crowns=Coroas da Sombra
+{{A}} Crowns=Coroas da Sombra
 Dream and Nightmare=Sonho e Pesadelo
 Firework Sticks=Varetas de Fogos de Artifício
 Starry Sparklers=Fagulhas Estreladas
@@ -2958,7 +2958,7 @@ Heavenly Heart of Fire=Coração Celestial de Fogo
 Katana=Katana
 Seishiki Sword=Espada Seishiki
 Jagato=Jagato
-Shadowkiller=Matador de Sombras
+{{A}}killer=Matador de Sombras
 Laptop=Laptop
 Intrusion Detection Rig=Equipamento de Detecção de Intrusão
 Ghost Machine C=Máquina Fantasma C
@@ -5526,18 +5526,18 @@ I'm a Bit Scared...=Estou com um Pouco de Medo...
 This Is So Fun!=Isso é Tão Divertido!
 Let's Sing!=Vamos Cantar!
 I'm So Happy!=Estou Tão Feliz!
-Shadow 1=Sombra 1
-Shadow 2=Sombra 2
-Shadow 3=Sombra 3
-Shadow 4=Sombra 4
-Shadow 5=Sombra 5
-Shadow 6=Sombra 6
-Shadow 7=Sombra 7
-Shadow 8=Sombra 8
-Shadow 9=Sombra 9
-Shadow 10=Sombra 10
-Shadow 11=Sombra 11
-Shadow 12=Sombra 12
+{{A}} 1=Sombra 1
+{{A}} 2=Sombra 2
+{{A}} 3=Sombra 3
+{{A}} 4=Sombra 4
+{{A}} 5=Sombra 5
+{{A}} 6=Sombra 6
+{{A}} 7=Sombra 7
+{{A}} 8=Sombra 8
+{{A}} 9=Sombra 9
+{{A}} 10=Sombra 10
+{{A}} 11=Sombra 11
+{{A}} 12=Sombra 12
 Cattlemobile=Gadomóvel
 Kiuchi's Palace Ruler=Governante do Palácio de Kiuchi
 Miyazawa's Palace Ruler=Governante do Palácio de Miyazawa
@@ -5557,10 +5557,10 @@ Maid Café=Maid Café
 Airsoft Shop=Loja de Airsoft
 Default Theme=Tema Padrão
 "Get Hype!"="Anime-se!"
-Shadow 13=Sombra 13
-Shadow 14=Sombra 14
-Shadow 15=Sombra 15
-Shadow 16=Sombra 16
+{{A}} 13=Sombra 13
+{{A}} 14=Sombra 14
+{{A}} 15=Sombra 15
+{{A}} 16=Sombra 16
 "That's Enough!"="Já Chega!"
 "No Way!"="De jeito nenhum!"
 Expectant Gaze...=Olhar Expectante...
@@ -6246,7 +6246,7 @@ E<color\=#000000>u</color>phoria=E<color\=#000000>u</color>foria
 R<color\=#000000>e</color>d-Hot Summer=V<color\=#000000>e</color>rão Escalndante	
 S<color\=#000000>u</color>nlight=L<color\=#000000>u</color>z do Sol	
 A<color\=#000000>f</color>terglow=A<color\=#000000>r</color>rebol	
-F<color\=#000000>e</color>ast of Light and Shadow=B<color\=#000000>a</color>nquete de Luz e Sombra	
+F<color\=#000000>e</color>ast of Light and {{A}}=B<color\=#000000>a</color>nquete de Luz e Sombra	
 E<color\=#000000>y</color>e of the Abyss=O<color\=#000000>l</color>ho do Abismo	
 S<color\=#000000>h</color>ield Effect Up=E<color\=#000000>f</color>eito de Escudo Aumentado	
 H<color\=#000000>a</color>sten=A<color\=#000000>p</color>ressar	
@@ -6319,7 +6319,7 @@ C<color\=#ff0000ff>o</color>ffee=C<color\=#ff0000ff>a</color>fé
 E<color\=#ff0000ff>m</color>pty Curry Plate=P<color\=#ff0000ff>r</color>ato de Curry Vazio
 T<color\=#ff0000ff>e</color>xtbook=L<color\=#ff0000ff>i</color>vro Didático
 C<color\=#ff0000ff>o</color>mputer=C<color\=#ff0000ff>o</color>mputador
-L<color\=#ff0000ff>a</color>nguid Doctor=M<color\=#ff0000ff>é</color>dico Lânguido
+L<color\=#ff0000ff>a</color>nguid Doctor=M<color\=#ff0000ff>é</color>dica Lânguida
 T<color\=#ff0000ff>a</color>e Takemi=T<color\=#ff0000ff>a</color>e Takemi
 E<color\=#ff0000ff>m</color>ployee=F<color\=#ff0000ff>u</color>ncionário
 Y<color\=#ff0000ff>o</color>ngen-Jaya (Night)=Y<color\=#ff0000ff>o</color>ngen-Jaya (Noite)
@@ -6733,43 +6733,43 @@ T<color\=#ff0000ff>r</color>ial Part 2=P<color\=#ff0000ff>r</color>ova Parte 2
 T<color\=#ff0000ff>r</color>ial Part 3=P<color\=#ff0000ff>r</color>ova Parte 3
 N<color\=#ff0000ff>e</color>xt Station=P<color\=#ff0000ff>r</color>óxima Estação
 M<color\=#ff0000ff>a</color>rthym=M<color\=#ff0000ff>a</color>rthym
-W<color\=#ff0000ff>a</color>ndering Shadow=S<color\=#ff0000ff>o</color>mbra Errante
-A<color\=#ff0000ff>g</color>itated Shadow=S<color\=#ff0000ff>o</color>mbra Agitada
-S<color\=#ff0000ff>a</color>vage Shadow=S<color\=#ff0000ff>o</color>mbra Selvagem
+W<color\=#ff0000ff>a</color>ndering {{A}}=S<color\=#ff0000ff>o</color>mbra Errante
+A<color\=#ff0000ff>g</color>itated {{A}}=S<color\=#ff0000ff>o</color>mbra Agitada
+S<color\=#ff0000ff>a</color>vage {{A}}=S<color\=#ff0000ff>o</color>mbra Selvagem
 T<color\=#ff0000ff>r</color>easure Demon=D<color\=#ff0000ff>e</color>mônio do Tesouro
-S<color\=#ff0000ff>t</color>ubborn Shadow=S<color\=#ff0000ff>o</color>mbra Teimosa
+S<color\=#ff0000ff>t</color>ubborn {{A}}=S<color\=#ff0000ff>o</color>mbra Teimosa
 T<color\=#ff0000ff>r</color>ain=T<color\=#ff0000ff>r</color>em
 G<color\=#ff0000ff>a</color>te NPC=N<color\=#ff0000ff>P</color>C do Portão
-O<color\=#ff0000ff>f</color>fice Worker's Shadow=S<color\=#ff0000ff>o</color>mbra do Trabalhador de Escritório
-S<color\=#ff0000ff>t</color>ore Owner's Shadow=S<color\=#ff0000ff>o</color>mbra do Dono da Loja
-G<color\=#ff0000ff>i</color>rl's Shadow=S<color\=#ff0000ff>o</color>mbra da Garota
-B<color\=#ff0000ff>o</color>y's Shadow=S<color\=#ff0000ff>o</color>mbra do Garoto
-H<color\=#ff0000ff>e</color>sitant Man's Shadow=S<color\=#ff0000ff>o</color>mbra do Homem Hesitante
+O<color\=#ff0000ff>f</color>fice Worker's {{A}}=S<color\=#ff0000ff>o</color>mbra do Trabalhador de Escritório
+S<color\=#ff0000ff>t</color>ore Owner's {{A}}=S<color\=#ff0000ff>o</color>mbra do Dono da Loja
+G<color\=#ff0000ff>i</color>rl's {{A}}=S<color\=#ff0000ff>o</color>mbra da Garota
+B<color\=#ff0000ff>o</color>y's {{A}}=S<color\=#ff0000ff>o</color>mbra do Garoto
+H<color\=#ff0000ff>e</color>sitant Man's {{A}}=S<color\=#ff0000ff>o</color>mbra do Homem Hesitante
 L<color\=#ff0000ff>o</color>nely Bench=B<color\=#ff0000ff>a</color>nco Solitário
-K<color\=#ff0000ff>e</color>en Saleslady Shadow=S<color\=#ff0000ff>o</color>mbra da Vendedora Entusiasmada
-S<color\=#ff0000ff>i</color>ck Man's Shadow=S<color\=#ff0000ff>o</color>mbra do Homem Doente
+K<color\=#ff0000ff>e</color>en Saleslady {{A}}=S<color\=#ff0000ff>o</color>mbra da Vendedora Entusiasmada
+S<color\=#ff0000ff>i</color>ck Man's {{A}}=S<color\=#ff0000ff>o</color>mbra do Homem Doente
 J<color\=#ff0000ff>a</color>ck Frost=J<color\=#ff0000ff>a</color>ck Frost
-I<color\=#ff0000ff>n</color>vestor's Shadow=S<color\=#ff0000ff>o</color>mbra do Investidor
-F<color\=#ff0000ff>i</color>nance Guru's Shadow=S<color\=#ff0000ff>o</color>mbra do Guru Financeiro
-H<color\=#ff0000ff>e</color>ro-Loving Shadow=S<color\=#ff0000ff>o</color>mbra Amante de Heróis
-G<color\=#ff0000ff>h</color>ostly Shadow=S<color\=#ff0000ff>o</color>mbra Fantasmagórica
-C<color\=#ff0000ff>o</color>urier's Shadow=S<color\=#ff0000ff>o</color>mbra do Entregador
-T<color\=#ff0000ff>o</color>ugh Guy's Shadow=S<color\=#ff0000ff>o</color>mbra do Brutamontes
-Y<color\=#ff0000ff>o</color>ung Boy's Shadow=S<color\=#ff0000ff>o</color>mbra do Garoto Jovem
-F<color\=#ff0000ff>r</color>eeloader Shadow=S<color\=#ff0000ff>o</color>mbra do Aproveitador
-C<color\=#ff0000ff>a</color>reer-Seeking Shadow=S<color\=#ff0000ff>o</color>mbra em busca de carreira
-G<color\=#ff0000ff>a</color>mbling Addict Shadow=S<color\=#ff0000ff>o</color>mbra Viciada em Jogos
-G<color\=#ff0000ff>a</color>mer Boy's Shadow=S<color\=#ff0000ff>o</color>mbra do Garoto Gamer
-G<color\=#ff0000ff>a</color>mer Girl's Shadow=S<color\=#ff0000ff>o</color>mbra da Garota Gamer
-G<color\=#ff0000ff>a</color>mer Grandpa's Shadow=S<color\=#ff0000ff>o</color>mbra do Avô Gamer
-H<color\=#ff0000ff>o</color>rse Racing Fan Shadow=S<color\=#ff0000ff>o</color>mbra do Fã de Corridas de Cavalos
-G<color\=#ff0000ff>r</color>umbling Man's Shadow=S<color\=#ff0000ff>o</color>mbra do homem resmungão
-A<color\=#ff0000ff>s</color>trology Fan Shadow=S<color\=#ff0000ff>o</color>mbra Fã de Astrologia
-L<color\=#ff0000ff>i</color>ar's Shadow=S<color\=#ff0000ff>o</color>mbra do Mentiroso
-T<color\=#ff0000ff>r</color>oubled Old Man Shadow=S<color\=#ff0000ff>o</color>mbra do Velho Conturbado
-C<color\=#ff0000ff>a</color>pable Girl Shadow=S<color\=#ff0000ff>o</color>mbra de Garota Habilidosa
-Y<color\=#ff0000ff>o</color>ung Girl's Shadow=S<color\=#ff0000ff>o</color>mbra da Jovem
-M<color\=#ff0000ff>a</color>id's Shadow=S<color\=#ff0000ff>o</color>mbra de Doméstica
+I<color\=#ff0000ff>n</color>vestor's {{A}}=S<color\=#ff0000ff>o</color>mbra do Investidor
+F<color\=#ff0000ff>i</color>nance Guru's {{A}}=S<color\=#ff0000ff>o</color>mbra do Guru Financeiro
+H<color\=#ff0000ff>e</color>ro-Loving {{A}}=S<color\=#ff0000ff>o</color>mbra Amante de Heróis
+G<color\=#ff0000ff>h</color>ostly {{A}}=S<color\=#ff0000ff>o</color>mbra Fantasmagórica
+C<color\=#ff0000ff>o</color>urier's {{A}}=S<color\=#ff0000ff>o</color>mbra do Entregador
+T<color\=#ff0000ff>o</color>ugh Guy's {{A}}=S<color\=#ff0000ff>o</color>mbra do Brutamontes
+Y<color\=#ff0000ff>o</color>ung Boy's {{A}}=S<color\=#ff0000ff>o</color>mbra do Garoto Jovem
+F<color\=#ff0000ff>r</color>eeloader {{A}}=S<color\=#ff0000ff>o</color>mbra do Aproveitador
+C<color\=#ff0000ff>a</color>reer-Seeking {{A}}=S<color\=#ff0000ff>o</color>mbra em busca de carreira
+G<color\=#ff0000ff>a</color>mbling Addict {{A}}=S<color\=#ff0000ff>o</color>mbra Viciada em Jogos
+G<color\=#ff0000ff>a</color>mer Boy's {{A}}=S<color\=#ff0000ff>o</color>mbra do Garoto Gamer
+G<color\=#ff0000ff>a</color>mer Girl's {{A}}=S<color\=#ff0000ff>o</color>mbra da Garota Gamer
+G<color\=#ff0000ff>a</color>mer Grandpa's {{A}}=S<color\=#ff0000ff>o</color>mbra do Avô Gamer
+H<color\=#ff0000ff>o</color>rse Racing Fan {{A}}=S<color\=#ff0000ff>o</color>mbra do Fã de Corridas de Cavalos
+G<color\=#ff0000ff>r</color>umbling Man's {{A}}=S<color\=#ff0000ff>o</color>mbra do homem resmungão
+A<color\=#ff0000ff>s</color>trology Fan {{A}}=S<color\=#ff0000ff>o</color>mbra Fã de Astrologia
+L<color\=#ff0000ff>i</color>ar's {{A}}=S<color\=#ff0000ff>o</color>mbra do Mentiroso
+T<color\=#ff0000ff>r</color>oubled Old Man {{A}}=S<color\=#ff0000ff>o</color>mbra do Velho Conturbado
+C<color\=#ff0000ff>a</color>pable Girl {{A}}=S<color\=#ff0000ff>o</color>mbra de Garota Habilidosa
+Y<color\=#ff0000ff>o</color>ung Girl's {{A}}=S<color\=#ff0000ff>o</color>mbra da Jovem
+M<color\=#ff0000ff>a</color>id's {{A}}=S<color\=#ff0000ff>o</color>mbra de Doméstica
 O<color\=#ff0000ff>l</color>d Castle Guard=G<color\=#ff0000ff>u</color>arda do Castelo Antigo
 M<color\=#ff0000ff>o</color>toha=M<color\=#ff0000ff>o</color>toha
 S<color\=#ff0000ff>a</color>fe Room=S<color\=#ff0000ff>a</color>la Segura
@@ -6790,7 +6790,7 @@ T<color\=#ff0000ff>r</color>easure Chest Guards=G<color\=#ff0000ff>u</color>arda
 E<color\=#ff0000ff>l</color>ite Guard=G<color\=#ff0000ff>u</color>arda de Elite
 C<color\=#ff0000ff>h</color>eck the bookshelf=V<color\=#ff0000ff>e</color>rificar a estante
 B<color\=#ff0000ff>a</color>seball Pedestal=P<color\=#ff0000ff>e</color>destal de Beisebol
-B<color\=#ff0000ff>i</color>rd-Headed Shadow=S<color\=#ff0000ff>o</color>mbra de Cabeça de Pássaro
+B<color\=#ff0000ff>i</color>rd-Headed {{A}}=S<color\=#ff0000ff>o</color>mbra de Cabeça de Pássaro
 T<color\=#ff0000ff>h</color>rone Room Door=P<color\=#ff0000ff>o</color>rta da Sala do Trono
 M<color\=#ff0000ff>u</color>seum Guard=G<color\=#ff0000ff>u</color>arda do Museu
 T<color\=#ff0000ff>r</color>easure Hall Window=J<color\=#ff0000ff>a</color>nela do Salão do Tesouro
@@ -6804,7 +6804,7 @@ C<color\=#ff0000ff>o</color>nnecting Room Door=P<color\=#ff0000ff>o</color>rta d
 B<color\=#ff0000ff>a</color>nk Security Guard=G<color\=#ff0000ff>u</color>arda de Segurança do Banco
 B<color\=#ff0000ff>a</color>nk Guard Dog=C<color\=#ff0000ff>ã</color>o de Guarda do Banco
 O<color\=#ff0000ff>p</color>en=A<color\=#ff0000ff>b</color>rir
-L<color\=#ff0000ff>i</color>zard-Headed Shadow=S<color\=#ff0000ff>o</color>mbra Cabeça de Lagarto
+L<color\=#ff0000ff>i</color>zard-Headed {{A}}=S<color\=#ff0000ff>o</color>mbra Cabeça de Lagarto
 U<color\=#ff0000ff>s</color>e Elevator=U<color\=#ff0000ff>s</color>ar Elevador
 J<color\=#ff0000ff>u</color>mp Down=P<color\=#ff0000ff>u</color>lar para Baixo
 P<color\=#ff0000ff>y</color>ramid Guard=G<color\=#ff0000ff>u</color>arda da Pirâmide
@@ -6972,13 +6972,13 @@ E<color\=#ff0000ff>v</color>ent_Temp_Entrance_Red_Blood_Vessel=E<color\=#ff0000f
 R<color\=#ff0000ff>o</color>botic Challenge=D<color\=#ff0000ff>e</color>safio Robótico
 E<color\=#ff0000ff>v</color>ent_Temp_Entrance_Curved_Rail=E<color\=#ff0000ff>v</color>ent_Temp_Entrance_Curved_Rail
 E<color\=#ff0000ff>v</color>ent_Temp_Entrance_Blue_Vortex=E<color\=#ff0000ff>v</color>ent_Temp_Entrance_Blue_Vortex
-A<color\=#ff0000ff>n</color>gry Shadow=S<color\=#ff0000ff>o</color>mbra Furiosa
+A<color\=#ff0000ff>n</color>gry {{A}}=S<color\=#ff0000ff>o</color>mbra Furiosa
 R<color\=#ff0000ff>e</color>turn to Area 2=R<color\=#ff0000ff>e</color>tornar à Área 2
 G<color\=#ff0000ff>o</color> to Area 4=I<color\=#ff0000ff>r</color> para a Área 4
 S<color\=#ff0000ff>t</color>range Castle=C<color\=#ff0000ff>a</color>stelo Estranho
 T<color\=#ff0000ff>h</color>e Velvet Trials=A<color\=#ff0000ff>s</color> Provas de Veludo
 M<color\=#ff0000ff>e</color>taverse - Merope=M<color\=#ff0000ff>e</color>taverso - Merope
-D<color\=#ff0000ff>e</color>praved Shadow=S<color\=#ff0000ff>o</color>mbra Depravada
+D<color\=#ff0000ff>e</color>praved {{A}}=S<color\=#ff0000ff>o</color>mbra Depravada
 R<color\=#ff0000ff>e</color>alm of the Ruined=R<color\=#ff0000ff>e</color>ino dos Arruinados
 E<color\=#ff0000ff>n</color>lightenment=I<color\=#ff0000ff>l</color>uminação
 P<color\=#ff0000ff>u</color>rsuit of Treasure=B<color\=#ff0000ff>u</color>sca por Tesouro
@@ -6996,8 +6996,8 @@ P<color\=#ff0000ff>a</color>th_of_Aiyatsbus_Former_Palace_Entrance_Red_Blood_Ves
 P<color\=#ff0000ff>a</color>ssionate Aroma=A<color\=#ff0000ff>r</color>oma Apaixonado
 E<color\=#ff0000ff>l</color>egant Fragrance=F<color\=#ff0000ff>r</color>agrância Elegante
 A<color\=#ff0000ff>l</color>luring Aroma=A<color\=#ff0000ff>r</color>oma Sedutor
-F<color\=#ff0000ff>l</color>eeing Shadow=S<color\=#ff0000ff>o</color>mbra em Fuga
-P<color\=#ff0000ff>u</color>rsuing Shadow=S<color\=#ff0000ff>o</color>mbra Perseguindo
+F<color\=#ff0000ff>l</color>eeing {{A}}=S<color\=#ff0000ff>o</color>mbra em Fuga
+P<color\=#ff0000ff>u</color>rsuing {{A}}=S<color\=#ff0000ff>o</color>mbra Perseguindo
 S<color\=#ff0000ff>i</color>de_Mission_6_Curved_Rail=S<color\=#ff0000ff>i</color>de_Mission_6_Curved_Rail
 S<color\=#ff0000ff>i</color>de_Mission_6_Red_Vortex=S<color\=#ff0000ff>i</color>de_Mission_6_Red_Vortex
 S<color\=#ff0000ff>i</color>de_Mission_6_Straight_Rail=S<color\=#ff0000ff>i</color>de_Mission_6_Straight_Rail
@@ -7036,60 +7036,60 @@ R<color\=#ff0000ff>e</color>turn to Path of Chemdah Area 2=R<color\=#ff0000ff>e<
 R<color\=#ff0000ff>e</color>turn to Area 4=R<color\=#ff0000ff>e</color>tornar à Área 4
 G<color\=#ff0000ff>o</color> to Area 6=I<color\=#ff0000ff>r</color> para a Área 6
 S<color\=#ff0000ff>a</color>fe Room (Model)=S<color\=#ff0000ff>a</color>la Segura (Modelo)
-E<color\=#ff0000ff>x</color>hibition Hall - A15 - Main Unique Shadow (Parameter)=S<color\=#ff0000ff>a</color>lão de Exposições - A15 - Sombra Única Principal (Parâmetro)
-E<color\=#ff0000ff>x</color>hibition Hall - A6 - Rare Shadow=S<color\=#ff0000ff>a</color>lão de Exposições - A6 - Sombra Rara
-E<color\=#ff0000ff>x</color>hibition Hall - B1 - Rare Shadow=S<color\=#ff0000ff>a</color>lão de Exposições - B1 - Sombra Rara
+E<color\=#ff0000ff>x</color>hibition Hall - A15 - Main Unique {{A}} (Parameter)=S<color\=#ff0000ff>a</color>lão de Exposições - A15 - Sombra Única Principal (Parâmetro)
+E<color\=#ff0000ff>x</color>hibition Hall - A6 - Rare {{A}}=S<color\=#ff0000ff>a</color>lão de Exposições - A6 - Sombra Rara
+E<color\=#ff0000ff>x</color>hibition Hall - B1 - Rare {{A}}=S<color\=#ff0000ff>a</color>lão de Exposições - B1 - Sombra Rara
 B<color\=#ff0000ff>a</color>seball Stadium Photo - No Flash=F<color\=#ff0000ff>o</color>to do Estádio de Beisebol - Sem Flash
 B<color\=#ff0000ff>a</color>seball Stadium Photo - Flash=F<color\=#ff0000ff>o</color>to do Estádio de Beisebol - Com Flash
-E<color\=#ff0000ff>x</color>hibition Hall - C1 - Set Shadow=S<color\=#ff0000ff>a</color>lão de Exposições - C1 - Sombra Fixa
+E<color\=#ff0000ff>x</color>hibition Hall - C1 - Set {{A}}=S<color\=#ff0000ff>a</color>lão de Exposições - C1 - Sombra Fixa
 S<color\=#ff0000ff>h</color>utter=O<color\=#ff0000ff>b</color>turador
-H<color\=#ff0000ff>o</color>me Run 2F - D1 - Rare Shadow=H<color\=#ff0000ff>o</color>me Run 2º Andar - D1 - Sombra Rara
+H<color\=#ff0000ff>o</color>me Run 2F - D1 - Rare {{A}}=H<color\=#ff0000ff>o</color>me Run 2º Andar - D1 - Sombra Rara
 O<color\=#ff0000ff>b</color>ariyon=O<color\=#ff0000ff>b</color>ariyon
 C<color\=#ff0000ff>-</color>Rank Security Guard=G<color\=#ff0000ff>u</color>arda de Segurança Rank C
-E<color\=#ff0000ff>x</color>hibition Hall - Left A12 - Rare Shadow=S<color\=#ff0000ff>a</color>lão de Exposições - Esquerda A12 - Sombra Rara
+E<color\=#ff0000ff>x</color>hibition Hall - Left A12 - Rare {{A}}=S<color\=#ff0000ff>a</color>lão de Exposições - Esquerda A12 - Sombra Rara
 F<color\=#ff0000ff>i</color>rst Baseman=P<color\=#ff0000ff>r</color>imeira Base
 B<color\=#ff0000ff>-</color>Rank Security Guard=G<color\=#ff0000ff>u</color>arda de Segurança Rank B
-W<color\=#ff0000ff>a</color>ndering Shadow (Discard)=S<color\=#ff0000ff>o</color>mbra Errante (Descartar)
+W<color\=#ff0000ff>a</color>ndering {{A}} (Discard)=S<color\=#ff0000ff>o</color>mbra Errante (Descartar)
 S<color\=#ff0000ff>u</color>ccubus=S<color\=#ff0000ff>ú</color>cubo
 C<color\=#ff0000ff>l</color>ub 1F - Y1 - Front of Safe Room Temporary Wall=C<color\=#ff0000ff>l</color>ube 1º Andar - Y1 - Parede Temporária da Sala Segura
 A<color\=#ff0000ff>-</color>Rank Security Guard=G<color\=#ff0000ff>u</color>arda de Segurança Rank A
-C<color\=#ff0000ff>l</color>ub 1F - West Y1 - Shadow=C<color\=#ff0000ff>l</color>ube 1º Andar - Oeste Y1 - Sombra
-C<color\=#ff0000ff>l</color>ub 1F - West L1 - Unique Shadow (Delete)=C<color\=#ff0000ff>l</color>ube 1º Andar - Oeste L1 - Sombra Única (Excluir)
-C<color\=#ff0000ff>l</color>ub 1F - West L1 - Unique Shadow Display (Delete)=C<color\=#ff0000ff>l</color>ube 1º Andar - Oeste L1 - Exibição de Sombra Única (Excluir)
-C<color\=#ff0000ff>l</color>ub 1F - North Z2 - Shadow=C<color\=#ff0000ff>l</color>ube 1º Andar - Norte Z2 - Sombra
+C<color\=#ff0000ff>l</color>ub 1F - West Y1 - {{A}}=C<color\=#ff0000ff>l</color>ube 1º Andar - Oeste Y1 - Sombra
+C<color\=#ff0000ff>l</color>ub 1F - West L1 - Unique {{A}} (Delete)=C<color\=#ff0000ff>l</color>ube 1º Andar - Oeste L1 - Sombra Única (Excluir)
+C<color\=#ff0000ff>l</color>ub 1F - West L1 - Unique {{A}} Display (Delete)=C<color\=#ff0000ff>l</color>ube 1º Andar - Oeste L1 - Exibição de Sombra Única (Excluir)
+C<color\=#ff0000ff>l</color>ub 1F - North Z2 - {{A}}=C<color\=#ff0000ff>l</color>ube 1º Andar - Norte Z2 - Sombra
 T<color\=#ff0000ff>h</color>ird Baseman=T<color\=#ff0000ff>e</color>rceira Base
-C<color\=#ff0000ff>l</color>ub 1F - North Z3 - Unique Shadow (Delete)=C<color\=#ff0000ff>l</color>ube 1º Andar - Norte Z3 - Sombra Única (Excluir)
-C<color\=#ff0000ff>l</color>ub 1F - West Z5 - Shadow=C<color\=#ff0000ff>l</color>ube 1º Andar - Oeste Z5 - Sombra
-C<color\=#ff0000ff>l</color>ub 1F - West Z1 - Unique Shadow (Delete)=C<color\=#ff0000ff>l</color>ube 1º Andar - Oeste Z1 - Sombra Única (Excluir)
-C<color\=#ff0000ff>l</color>ub 1F - West Y2b - Shadow=C<color\=#ff0000ff>l</color>ube 1º Andar - Oeste Y2b - Sombra
-C<color\=#ff0000ff>l</color>ub 1F - West Y2b - Unique Shadow (Delete)=C<color\=#ff0000ff>l</color>ube 1º Andar - Oeste Y2b - Sombra Única (Excluir)
-C<color\=#ff0000ff>l</color>ub 1F - East Y4 - Shadow=C<color\=#ff0000ff>l</color>ube 1º Andar - Leste Y4 - Sombra
-C<color\=#ff0000ff>l</color>ub 1F - East Z2 - Unique Shadow (Delete)=C<color\=#ff0000ff>l</color>ube 1º Andar - Leste Z2 - Sombra Única (Excluir)
-C<color\=#ff0000ff>l</color>ub 1F - East Y2a - Shadow=C<color\=#ff0000ff>l</color>ube 1º Andar - Leste Y2a - Sombra
-C<color\=#ff0000ff>l</color>ub 1F - East Z5 - Shadow=C<color\=#ff0000ff>l</color>ube 1º Andar - Leste Z5 - Sombra
+C<color\=#ff0000ff>l</color>ub 1F - North Z3 - Unique {{A}} (Delete)=C<color\=#ff0000ff>l</color>ube 1º Andar - Norte Z3 - Sombra Única (Excluir)
+C<color\=#ff0000ff>l</color>ub 1F - West Z5 - {{A}}=C<color\=#ff0000ff>l</color>ube 1º Andar - Oeste Z5 - Sombra
+C<color\=#ff0000ff>l</color>ub 1F - West Z1 - Unique {{A}} (Delete)=C<color\=#ff0000ff>l</color>ube 1º Andar - Oeste Z1 - Sombra Única (Excluir)
+C<color\=#ff0000ff>l</color>ub 1F - West Y2b - {{A}}=C<color\=#ff0000ff>l</color>ube 1º Andar - Oeste Y2b - Sombra
+C<color\=#ff0000ff>l</color>ub 1F - West Y2b - Unique {{A}} (Delete)=C<color\=#ff0000ff>l</color>ube 1º Andar - Oeste Y2b - Sombra Única (Excluir)
+C<color\=#ff0000ff>l</color>ub 1F - East Y4 - {{A}}=C<color\=#ff0000ff>l</color>ube 1º Andar - Leste Y4 - Sombra
+C<color\=#ff0000ff>l</color>ub 1F - East Z2 - Unique {{A}} (Delete)=C<color\=#ff0000ff>l</color>ube 1º Andar - Leste Z2 - Sombra Única (Excluir)
+C<color\=#ff0000ff>l</color>ub 1F - East Y2a - {{A}}=C<color\=#ff0000ff>l</color>ube 1º Andar - Leste Y2a - Sombra
+C<color\=#ff0000ff>l</color>ub 1F - East Z5 - {{A}}=C<color\=#ff0000ff>l</color>ube 1º Andar - Leste Z5 - Sombra
 C<color\=#ff0000ff>l</color>ub 1F - Y3 - Large Face with Mouth Closed=C<color\=#ff0000ff>l</color>ube 1º Andar - Y3 - Rosto Grande com Boca Fechada
 C<color\=#ff0000ff>l</color>ub 1F - Y3 - Large Face with Mouth Open=C<color\=#ff0000ff>l</color>ube 1º Andar - Y3 - Rosto Grande com Boca Aberta
 A<color\=#ff0000ff>n</color>gel=A<color\=#ff0000ff>n</color>jo
 F<color\=#ff0000ff>r</color>enzied Fiend=D<color\=#ff0000ff>e</color>mônio Frenético
-C<color\=#ff0000ff>l</color>ub 1F - Y3 - Unique Shadow (Delete)=C<color\=#ff0000ff>l</color>ube 1º Andar - Y3 - Sombra Única (Excluir)
-C<color\=#ff0000ff>l</color>ub 3F - Y3 - Shadow=C<color\=#ff0000ff>l</color>ube 3º Andar - Y3 - Sombra
+C<color\=#ff0000ff>l</color>ub 1F - Y3 - Unique {{A}} (Delete)=C<color\=#ff0000ff>l</color>ube 1º Andar - Y3 - Sombra Única (Excluir)
+C<color\=#ff0000ff>l</color>ub 3F - Y3 - {{A}}=C<color\=#ff0000ff>l</color>ube 3º Andar - Y3 - Sombra
 M<color\=#ff0000ff>a</color>tador=M<color\=#ff0000ff>a</color>tador
-C<color\=#ff0000ff>l</color>ub 2F - East Y4 - Shadow=C<color\=#ff0000ff>l</color>ube 2º Andar - Leste Y4 - Sombra
-C<color\=#ff0000ff>l</color>ub 2F - East L3 - Shadow=C<color\=#ff0000ff>l</color>ube 2º Andar - Leste L3 - Sombra
-C<color\=#ff0000ff>l</color>ub 2F - East Y6b - Shadow=C<color\=#ff0000ff>l</color>ube 2º Andar - Leste Y6b - Sombra
-C<color\=#ff0000ff>l</color>ub 2F - East Y7 - Unique Shadow (Delete)=C<color\=#ff0000ff>l</color>ube 2º Andar - Leste Y7 - Sombra Única (Excluir)
-C<color\=#ff0000ff>l</color>ub 2F - East Y2b - Shadow=C<color\=#ff0000ff>l</color>ube 2º Andar - Leste Y2b - Sombra
-C<color\=#ff0000ff>l</color>ub 2F - East Y2b - Unique Shadow (Delete)=C<color\=#ff0000ff>l</color>ube 2º Andar - Leste Y2b - Sombra Única (Excluir)
-C<color\=#ff0000ff>l</color>ub 2F - West L3 - Main Unique Shadow (Parameter)=C<color\=#ff0000ff>l</color>ube 2º Andar - Oeste L3 - Sombra Única Principal (Parâmetro)
+C<color\=#ff0000ff>l</color>ub 2F - East Y4 - {{A}}=C<color\=#ff0000ff>l</color>ube 2º Andar - Leste Y4 - Sombra
+C<color\=#ff0000ff>l</color>ub 2F - East L3 - {{A}}=C<color\=#ff0000ff>l</color>ube 2º Andar - Leste L3 - Sombra
+C<color\=#ff0000ff>l</color>ub 2F - East Y6b - {{A}}=C<color\=#ff0000ff>l</color>ube 2º Andar - Leste Y6b - Sombra
+C<color\=#ff0000ff>l</color>ub 2F - East Y7 - Unique {{A}} (Delete)=C<color\=#ff0000ff>l</color>ube 2º Andar - Leste Y7 - Sombra Única (Excluir)
+C<color\=#ff0000ff>l</color>ub 2F - East Y2b - {{A}}=C<color\=#ff0000ff>l</color>ube 2º Andar - Leste Y2b - Sombra
+C<color\=#ff0000ff>l</color>ub 2F - East Y2b - Unique {{A}} (Delete)=C<color\=#ff0000ff>l</color>ube 2º Andar - Leste Y2b - Sombra Única (Excluir)
+C<color\=#ff0000ff>l</color>ub 2F - West L3 - Main Unique {{A}} (Parameter)=C<color\=#ff0000ff>l</color>ube 2º Andar - Oeste L3 - Sombra Única Principal (Parâmetro)
 S<color\=#ff0000ff>e</color>cond Baseman=S<color\=#ff0000ff>e</color>gunda Base
-C<color\=#ff0000ff>l</color>ub 2F - West Y6a - Shadow (Parameter)=C<color\=#ff0000ff>l</color>ube 2º Andar - Oeste Y6a - Sombra (Parâmetro)
-C<color\=#ff0000ff>l</color>ub 2F - West Y2b - Unique Shadow (Delete)=C<color\=#ff0000ff>l</color>ube 2º Andar - Oeste Y2b - Sombra Única (Excluir)
-C<color\=#ff0000ff>l</color>ub 2F - South Y7 - Unique Shadow (Delete)=C<color\=#ff0000ff>l</color>ube 2º Andar - Sul Y7 - Sombra Única (Excluir)
-C<color\=#ff0000ff>l</color>ub 2F - South Y2a - Unique Shadow (Delete)=C<color\=#ff0000ff>l</color>ube 2º Andar - Sul Y2a - Sombra Única (Excluir)
+C<color\=#ff0000ff>l</color>ub 2F - West Y6a - {{A}} (Parameter)=C<color\=#ff0000ff>l</color>ube 2º Andar - Oeste Y6a - Sombra (Parâmetro)
+C<color\=#ff0000ff>l</color>ub 2F - West Y2b - Unique {{A}} (Delete)=C<color\=#ff0000ff>l</color>ube 2º Andar - Oeste Y2b - Sombra Única (Excluir)
+C<color\=#ff0000ff>l</color>ub 2F - South Y7 - Unique {{A}} (Delete)=C<color\=#ff0000ff>l</color>ube 2º Andar - Sul Y7 - Sombra Única (Excluir)
+C<color\=#ff0000ff>l</color>ub 2F - South Y2a - Unique {{A}} (Delete)=C<color\=#ff0000ff>l</color>ube 2º Andar - Sul Y2a - Sombra Única (Excluir)
 S<color\=#ff0000ff>-</color>Rank Security Guard=G<color\=#ff0000ff>u</color>arda de Segurança Rank S
-C<color\=#ff0000ff>l</color>ub 3F - North Y7 - Unique Shadow (Delete)=C<color\=#ff0000ff>l</color>ube 3º Andar - Norte Y7 - Sombra Única (Excluir)
-C<color\=#ff0000ff>l</color>ub 3F - Center Z4 - Unique Shadow (Delete)=C<color\=#ff0000ff>l</color>ube 3º Andar - Centro Z4 - Sombra Única (Excluir)
-C<color\=#ff0000ff>l</color>ub 3F - South Y6b - Unique Shadow (Delete)=C<color\=#ff0000ff>l</color>ube 3º Andar - Sul Y6b - Sombra Única (Excluir)
+C<color\=#ff0000ff>l</color>ub 3F - North Y7 - Unique {{A}} (Delete)=C<color\=#ff0000ff>l</color>ube 3º Andar - Norte Y7 - Sombra Única (Excluir)
+C<color\=#ff0000ff>l</color>ub 3F - Center Z4 - Unique {{A}} (Delete)=C<color\=#ff0000ff>l</color>ube 3º Andar - Centro Z4 - Sombra Única (Excluir)
+C<color\=#ff0000ff>l</color>ub 3F - South Y6b - Unique {{A}} (Delete)=C<color\=#ff0000ff>l</color>ube 3º Andar - Sul Y6b - Sombra Única (Excluir)
 R<color\=#ff0000ff>o</color>oftop Obstacle Box=C<color\=#ff0000ff>a</color>ixa de Obstáculo do Telhado
 P<color\=#ff0000ff>o</color>ster=P<color\=#ff0000ff>ô</color>ster
 A<color\=#ff0000ff>n</color>zu=A<color\=#ff0000ff>n</color>zu
@@ -7098,7 +7098,7 @@ K<color\=#ff0000ff>i</color>n-Ki=K<color\=#ff0000ff>i</color>n-Ki
 J<color\=#ff0000ff>a</color>tayu=J<color\=#ff0000ff>a</color>tayu
 M<color\=#ff0000ff>o</color>thman=M<color\=#ff0000ff>o</color>thman
 B<color\=#ff0000ff>u</color>gs=B<color\=#ff0000ff>u</color>gs
-C<color\=#ff0000ff>h</color>apter 3 - Water Treatment Plant - Lower Level - Tval - Shadow01 (Discard)=C<color\=#ff0000ff>a</color>pítulo 3 - Estação de Tratamento de Água - Nível Inferior - Tval - Sombra01 (Descartar)
+C<color\=#ff0000ff>h</color>apter 3 - Water Treatment Plant - Lower Level - Tval - {{A}}01 (Discard)=C<color\=#ff0000ff>a</color>pítulo 3 - Estação de Tratamento de Água - Nível Inferior - Tval - Sombra01 (Descartar)
 C<color\=#ff0000ff>o</color>gnitive Mechanic=M<color\=#ff0000ff>e</color>cânico Cognitivo
 C<color\=#ff0000ff>o</color>gnitive Operator=O<color\=#ff0000ff>p</color>erador Cognitivo
 W<color\=#ff0000ff>a</color>ter Treatment Plant - Lower Level - TR1 - Lufel=E<color\=#ff0000ff>s</color>tação de Tratamento de Água - Nível Inferior - TR1 - Lufel
@@ -7110,12 +7110,12 @@ W<color\=#ff0000ff>a</color>ter Treatment Plant - Lower Level - TR1 - Mob Operat
 W<color\=#ff0000ff>a</color>ter Treatment Plant - Lower Level - TR1 - Mob Worker NPC - Talking While Standing=E<color\=#ff0000ff>s</color>tação de Tratamento de Água - Nível Inferior - TR1 - NPC Trabalhador - Conversando em Pé
 W<color\=#ff0000ff>a</color>ter Treatment Plant - Lower Level - TR1 - Mob Worker NPC - Sitting=E<color\=#ff0000ff>s</color>tação de Tratamento de Água - Nível Inferior - TR1 - NPC Trabalhador - Sentado
 O<color\=#ff0000ff>p</color>erator=O<color\=#ff0000ff>p</color>erador
-C<color\=#ff0000ff>h</color>apter 3 - Water Treatment Plant - Mid-Level - TC2 - Shadow01 (Discard)=C<color\=#ff0000ff>a</color>pítulo 3 - Estação de Tratamento de Água - Nível Médio - TC2 - Sombra01 (Descartar)
+C<color\=#ff0000ff>h</color>apter 3 - Water Treatment Plant - Mid-Level - TC2 - {{A}}01 (Discard)=C<color\=#ff0000ff>a</color>pítulo 3 - Estação de Tratamento de Água - Nível Médio - TC2 - Sombra01 (Descartar)
 W<color\=#ff0000ff>a</color>ter Treatment Plant - Mid-Level - TT1 - Worker NPC - Standing=E<color\=#ff0000ff>s</color>tação de Tratamento de Água - Nível Médio - TT1 - NPC Trabalhador - Em Pé
 C<color\=#ff0000ff>o</color>gnitive Researcher=P<color\=#ff0000ff>e</color>squisador Cognitivo
 V<color\=#ff0000ff>i</color>ce Principal=V<color\=#ff0000ff>i</color>ce-Diretor
 S<color\=#ff0000ff>u</color>pervisor=S<color\=#ff0000ff>u</color>pervisor
-O<color\=#ff0000ff>p</color>erator's Shadow=S<color\=#ff0000ff>o</color>mbra do Operador
+O<color\=#ff0000ff>p</color>erator's {{A}}=S<color\=#ff0000ff>o</color>mbra do Operador
 C<color\=#ff0000ff>o</color>gnitive Supervisor=S<color\=#ff0000ff>u</color>pervisor Cognitivo
 C<color\=#ff0000ff>r</color>ouching Worker=T<color\=#ff0000ff>r</color>abalhador Agachado
 F<color\=#ff0000ff>i</color>shing Pond Attendant=A<color\=#ff0000ff>t</color>endente da lagoa de pesca
@@ -7186,9 +7186,9 @@ S<color\=#ff0000ff>h</color>adow Sawada=S<color\=#ff0000ff>o</color>mbra Sawada
 S<color\=#ff0000ff>h</color>adow Akana=S<color\=#ff0000ff>o</color>mbra Akana
 S<color\=#ff0000ff>h</color>adow Takahashi=S<color\=#ff0000ff>o</color>mbra Takahashi
 S<color\=#ff0000ff>h</color>adow Yoshinaga=S<color\=#ff0000ff>o</color>mbra Yoshinaga
-C<color\=#ff0000ff>o</color>rrupt Producer's Shadow=S<color\=#ff0000ff>o</color>mbra do Produtor Corrupto
+C<color\=#ff0000ff>o</color>rrupt Producer's {{A}}=S<color\=#ff0000ff>o</color>mbra do Produtor Corrupto
 S<color\=#ff0000ff>h</color>adow Takayama=S<color\=#ff0000ff>o</color>mbra Takayama
-S<color\=#ff0000ff>a</color>hara's Mother's Shadow=S<color\=#ff0000ff>o</color>mbra da Mãe de Sahara
-S<color\=#ff0000ff>a</color>hara's Father's Shadow=S<color\=#ff0000ff>o</color>mbra do Pai de Sahara
+S<color\=#ff0000ff>a</color>hara's Mother's {{A}}=S<color\=#ff0000ff>o</color>mbra da Mãe de Sahara
+S<color\=#ff0000ff>a</color>hara's Father's {{A}}=S<color\=#ff0000ff>o</color>mbra do Pai de Sahara
 Watch Close!=Fica de Olho!
 Infiltration Know-How=Tutorial de Infiltração
