@@ -7192,3 +7192,4 @@ S<color\=#ff0000ff>a</color>hara's Mother's {{A}}=S<color\=#ff0000ff>o</color>mb
 S<color\=#ff0000ff>a</color>hara's Father's {{A}}=S<color\=#ff0000ff>o</color>mbra do Pai de Sahara
 Watch Close!=Fica de Olho!
 Infiltration Know-How=Tutorial de Infiltração
+Clear 8 Step 2 missions=Finalizar 8 Missões do 2º Plano
