@@ -7193,3 +7193,4 @@ S<color\=#ff0000ff>a</color>hara's Father's {{A}}=S<color\=#ff0000ff>o</color>mb
 Watch Close!=Fica de Olho!
 Infiltration Know-How=Tutorial de Infiltração
 Clear 8 Step 2 missions=Finalizar 8 Missões do 2º Plano
+Own 3 Rank 6 {{A}}s of 5★ rarity=Tenha 3 {{A}}s Ranque 6 5★
